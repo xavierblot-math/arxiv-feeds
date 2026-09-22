@@ -15,6 +15,7 @@ Examples:
 The query is sent to arXiv as au:"<query>".
 """
 
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -25,7 +26,6 @@ from email.utils import format_datetime
 from html import escape
 from pathlib import Path
 
-API = "https://export.arxiv.org/api/query"
 ATOM = "{http://www.w3.org/2005/Atom}"
 
 # Categories kept by default (an author line can override this).
@@ -65,24 +65,36 @@ def read_authors(path):
     return authors
 
 
+HOSTS = ["https://arxiv.org/api/query", "https://export.arxiv.org/api/query"]
+USER_AGENT = "arxiv-author-feeds/1.1 (personal RSS feed; github actions)"
+
+
 def fetch(query):
+    """Fetch one author query with curl (arXiv currently refuses Python urllib)."""
     params = urllib.parse.urlencode({
         "search_query": f'au:"{query}"',
         "sortBy": "submittedDate",
         "sortOrder": "descending",
         "max_results": RESULTS_PER_AUTHOR,
     })
-    req = urllib.request.Request(
-        f"{API}?{params}",
-        headers={"User-Agent": "personal-arxiv-author-feeds/1.0"},
-    )
-    for attempt in range(3):
-        try:
-            with urllib.request.urlopen(req, timeout=60) as r:
-                return r.read()
-        except Exception as e:  # network error, 429, 503...
-            print(f"  attempt {attempt + 1} failed: {e}", file=sys.stderr)
-            time.sleep(15 * (attempt + 1))
+    for attempt in range(2):
+        for host in HOSTS:
+            try:
+                r = subprocess.run(
+                    ["curl", "-sS", "-L", "--compressed", "--max-time", "60",
+                     "-A", USER_AGENT,
+                     "-H", "Accept: application/atom+xml,application/xml;q=0.9,*/*;q=0.8",
+                     "-w", "\n%{http_code}", f"{host}?{params}"],
+                    capture_output=True, timeout=90)
+                body, _, code = r.stdout.rpartition(b"\n")
+                if r.returncode == 0 and code.strip() == b"200" and b"<feed" in body:
+                    return body
+                print(f"  {host}: HTTP {code.decode().strip() or '?'} {r.stderr.decode().strip()}",
+                      file=sys.stderr)
+            except Exception as e:
+                print(f"  {host}: {e}", file=sys.stderr)
+            time.sleep(5)
+        time.sleep(20)
     return None
 
 
@@ -140,6 +152,7 @@ def main():
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     report = []
     total_failures = total_calls = 0
+    consecutive_failures = 0
 
     for path in sorted((ROOT / "authors").glob("*.txt")):
         feed = path.stem
@@ -153,8 +166,13 @@ def main():
             time.sleep(DELAY)
             if data is None:
                 failures += 1
+                consecutive_failures += 1
+                if consecutive_failures >= 8:
+                    sys.exit("8 authors failed in a row: arXiv is refusing requests. "
+                             "Feeds left unchanged; try again later.")
                 report.append(f"{feed:14} | {name:30} | {query:25} | ERROR")
                 continue
+            consecutive_failures = 0
             papers = parse(data)
             kept = [p for p in papers if set(p["cats"]) & cats]
             report.append(f"{feed:14} | {name:30} | {query:25} | "
