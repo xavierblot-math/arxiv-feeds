@@ -8,16 +8,19 @@ categories, merges and deduplicates them, and writes feeds/<name>.xml.
 It also writes feeds/report.txt with the number of papers found per author.
 
 Line format in authors/*.txt (lines starting with # are ignored):
-    Display name | query | optional categories
+    Full name | query | optional categories
 Examples:
-    Sergey Shadrin | Shadrin S
+    Sergey Shadrin | Shadrin
     Jun Li | Jun Li | math.AG
-The query is sent to arXiv as au:"<query>".
+The query is sent to arXiv as au:"<query>". Results are then kept only if
+one author has the same surname and first-name initial as the full name,
+and the paper is in one of the categories.
 """
 
 import subprocess
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -41,12 +44,40 @@ TITLES = {
     "amplituhedron": "arXiv – Amplituhedron",
 }
 
-RESULTS_PER_AUTHOR = 25    # latest papers fetched per author
+RESULTS_PER_AUTHOR = 50    # latest papers fetched per author
 MAX_AGE_DAYS = 365         # papers older than this are dropped from the feed
 MAX_ITEMS = 300            # maximum number of items per feed
 DELAY = 3.5                # seconds between API calls (arXiv asks for >= 3)
 
 ROOT = Path(__file__).resolve().parent
+
+
+def norm(text):
+    """Lowercase, strip accents and punctuation: 'Lewański' -> 'lewanski'."""
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return "".join(c if c.isalnum() else " " for c in text.lower()).split()
+
+
+def name_matches(display_name, paper_author):
+    """True if paper_author looks like display_name: same surname and
+    one of the given names starts with the same initial.
+    'Ran Tessler' matches 'Ran J. Tessler' and 'R. Tessler';
+    'Melissa Liu' matches 'Chiu-Chu Melissa Liu'; 'Sergey Shadrin'
+    does not match 'O. S. Shadrin'."""
+    want = norm(display_name)
+    got = norm(paper_author)
+    if not want or not got:
+        return False
+    surname, initial = want[-1], want[0][0]
+    if surname not in got:
+        return False
+    given = got[:got.index(surname)]
+    if not given:
+        return False
+    # first given name, or any later given name written in full
+    return given[0][0] == initial or any(
+        len(g) > 1 and g[0] == initial for g in given[1:])
 
 
 def read_authors(path):
@@ -174,6 +205,12 @@ def main():
                 continue
             consecutive_failures = 0
             papers = parse(data)
+            if not papers:  # arXiv sometimes answers with an empty feed
+                time.sleep(10)
+                data = fetch(query)
+                papers = parse(data) if data else []
+            papers = [p for p in papers
+                      if any(name_matches(name, a) for a in p["authors"])]
             kept = [p for p in papers if set(p["cats"]) & cats]
             report.append(f"{feed:14} | {name:30} | {query:25} | "
                           f"{len(papers):3} found | {len(kept):3} kept")

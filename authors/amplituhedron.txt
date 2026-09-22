@@ -1,8 +1,8 @@
 # Feed: Amplituhedron
 # Format: Display name | query sent to arXiv as au:"query" | optional categories
-# Rare surname -> "Surname I" (I = first-name initial). Common name -> "Firstname Surname".
-Nima Arkani-Hamed | Arkani-Hamed N
-Pavel Galashin | Galashin P
+# Rare surname -> just the surname. Common name -> "Firstname Surname" (+ categories).
+Nima Arkani-Hamed | Arkani-Hamed
+Pavel Galashin | Galashin
 Thomas Lam | Thomas Lam | math.CO,math.AG,hep-th
 Matteo Parisi | Matteo Parisi
 Lauren Williams | Lauren Williams | math.CO,math.AG,hep-th

@@ -1,43 +1,43 @@
 # Feed: Algebraic Geometry
 # Format: Display name | query sent to arXiv as au:"query" | optional categories
-# Rare surname -> "Surname I" (I = first-name initial). Common name -> "Firstname Surname".
-Adam Afandi | Afandi A
-Pierrick Bousseau | Bousseau P
-Samir Canning | Canning S
-Renzo Cavalieri | Cavalieri R
-Alessio Cela | Cela A
+# Rare surname -> just the surname. Common name -> "Firstname Surname" (+ categories).
+Adam Afandi | Afandi
+Pierrick Bousseau | Bousseau
+Samir Canning | Samir Canning
+Renzo Cavalieri | Cavalieri
+Alessio Cela | Cela
 Dawei Chen | Dawei Chen | math.AG,math.GT,math.DS
-Alessandro Chiodo | Chiodo A
-Emily Clader | Clader E
-Olivia Dumitrescu | Dumitrescu O
+Alessandro Chiodo | Chiodo
+Emily Clader | Clader
+Olivia Dumitrescu | Dumitrescu
 Honglu Fan | Honglu Fan
 Mark Gross | Mark Gross | math.AG,math.SG,hep-th
 Shuai Guo | Shuai Guo | math.AG,math-ph
 Aitor Iribar López | Iribar
-Felix Janda | Janda F
-Hannah Larson | Larson H
+Felix Janda | Janda
+Hannah Larson | Hannah Larson
 Jun Li | Jun Li | math.AG
 Kefeng Liu | Kefeng Liu | math.AG,math.DG
 Melissa Liu | Melissa Liu | math.AG,math.SG
 Xiaobo Liu | Xiaobo Liu | math.AG,math-ph
-Steffen Marcus | Marcus S
-Hannah Markwig | Markwig H
-Sam Molcho | Molcho S
-Denis Nesterov | Nesterov D
-Georg Oberdieck | Oberdieck G
-Dragos Oprea | Oprea D
-Rahul Pandharipande | Pandharipande R
-Aaron Pixton | Pixton A
-Georgios Politopoulos | Politopoulos G
-Dhruv Ranganathan | Ranganathan D
+Steffen Marcus | Steffen Marcus
+Hannah Markwig | Markwig
+Sam Molcho | Molcho
+Denis Nesterov | Denis Nesterov
+Georg Oberdieck | Oberdieck
+Dragos Oprea | Oprea
+Rahul Pandharipande | Pandharipande
+Aaron Pixton | Pixton
+Georgios Politopoulos | Politopoulos
+Dhruv Ranganathan | Ranganathan
 Yongbin Ruan | Yongbin Ruan
-Maximilian Schimpf | Schimpf M
-Pim Spelier | Spelier P
+Maximilian Schimpf | Schimpf
+Pim Spelier | Spelier
 Hsian-Hua Tseng | Hsian-Hua Tseng
-Ravi Vakil | Vakil R
+Ravi Vakil | Vakil
 Xin Wang | Xin Wang | math.AG
 Zhe Wang | Zhe Wang | math.AG,math-ph,nlin.SI
-Jonathan Wise | Wise J
+Jonathan Wise | Jonathan Wise
 Longting Wu | Longting Wu
 Fenglong You | Fenglong You
-Dimitri Zvonkine | Zvonkine D
+Dimitri Zvonkine | Zvonkine
