@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build feeds
-        run: python3 fetch_feeds.py
+        run: python3 -u fetch_feeds.py
       - name: Commit feeds
         run: |
           git config user.name "github-actions[bot]"
