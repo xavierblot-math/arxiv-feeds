@@ -48,7 +48,7 @@ Don Zagier | Zagier
 Youjin Zhang | Youjin Zhang | math.AG,math-ph,nlin.SI
 Jian Zhou | Jian Zhou | math.AG,math-ph
 Zhe Wang | Zhe Wang | math.AG,math-ph,nlin.SI
-Claude Sabbah | Sabbah
-Giordano Cotti | Cotti
+Claude Sabbah | Claude Sabbah
+Giordano Cotti | Giordano Cotti
 Si-Qi Liu | Si-Qi Liu | math.AG,math-ph,nlin.SI
 Stijn Velstra | Velstra
