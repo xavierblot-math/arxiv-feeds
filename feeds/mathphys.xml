@@ -4,7 +4,7 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>Recent arXiv papers by followed authors</description>
-    <lastBuildDate>Tue, 22 Sep 2026 12:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:55:56 +0000</lastBuildDate>
     <item>
       <title>The Chern-Simons Function and the Quantum Hall Effect</title>
       <link>https://arxiv.org/abs/2609.21182</link>
@@ -20,6 +20,14 @@
       <pubDate>Sat, 12 Sep 2026 07:27:27 +0000</pubDate>
       <author>Alexander Mikhailov</author>
       <description>&lt;p&gt;&lt;b&gt;Alexander Mikhailov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Alexander Mikhailov · nlin.SI, math-ph, math.DS&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Integrable partial differential equations, such as the Korteweg--De Vries (KdV) equation, admit infinite hierarchies of commuting higher symmetries. Their symmetry reductions give rise to integrable finite-dimensional dynamical systems solvable in terms of Abelian functions. This underlies the finite-gap integration method for the KdV equation, introduced by S.P. Novikov and subsequently extended to many other integrable systems. In this paper, I introduce the concept of reduction ideals and a new class of reductions for integrable differential--difference equations, leading to integrable finite-dimensional systems in both commutative and noncommutative settings. This class includes periodic reductions, symmetry reductions, and a broad family of other reductions defined in terms of the associated Lax operator. The reduction constraints define integrable maps that enable solutions of the reduced systems to be extended to solutions of the corresponding differential-difference equations. The construction is illustrated using the Volterra hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.13769"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holomorphic Maps from $\mathbb{C}^p$ into Semi-Abelian Varieties</title>
+      <link>https://arxiv.org/abs/2609.05768</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05768</guid>
+      <pubDate>Fri, 04 Sep 2026 23:09:09 +0000</pubDate>
+      <author>Zhe Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhe Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Zhe Wang · math.CV, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the Second Main Theorem with truncation level one for holomorphic maps with Zariski-dense image intersecting a reduced effective Cartier divisor: Let $A$ be a semi-abelian variety with an equivariant compactification $A\subset\overline A$, and let $f:\mathbb C^p\to A$ be a holomorphic map with Zariski-dense image. Let $D$ be a reduced effective divisor on $A$ extending to a divisor $\overline D$ on $\overline A$. After possibly replacing $\overline A$ by another equivariant compactification depending only on $D$ and independent of $f$, for every $\varepsilon&amp;gt;0$, \[T_f(r,\overline D)\leq_{\mathrm{exc}}N_f^{[1]}(r,D)+\varepsilon T_f(r,\overline D).\]&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.05768"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Membranes and Maps</title>
@@ -62,12 +70,36 @@
       <description>&lt;p&gt;&lt;b&gt;Paul Norbury&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Paul Norbury · math.AG, math-ph, math.GT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This article arose out of notes for a CIME summer school mini-course in Cetraro. In it we develop differential-geometric constructions on the moduli space ${\cal M}_{g,n}^{\rm spin}$ of smooth spin curves, with particular emphasis on their interpretation in hyperbolic geometry. We relate the locally constant sheaf arising from a hyperbolic spin structure to the corresponding holomorphic sheaf, extending this known relationship to spin curves with Ramond marked points. We use the hyperbolic description to construct characteristic forms and spin measures on moduli spaces of hyperbolic surfaces with geodesic boundary, providing a framework for applying Teichmüller-theoretic methods to their volumes and volume recursions. Finally, we study separately the even and odd components of spin moduli space and find symmetries between their volume contributions which are not apparent from the contributions of individual boundary strata.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.25237"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Spin volumes of minimal strata and Chiodo integrals</title>
+      <link>https://arxiv.org/abs/2608.23334</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.23334</guid>
+      <pubDate>Mon, 24 Aug 2026 14:45:38 +0000</pubDate>
+      <author>Andrei Bud, Georgios Politopoulos, Stijn Velstra</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrei Bud, Georgios Politopoulos, Stijn Velstra&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Stijn Velstra · math.AG, math.GT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive a closed formula for the Masur-Veech volumes of spin-parity components of the stratum of abelian differentials with a single zero of maximal order. Our approach is based on the intersection theory of the virtual subcone of spin-parity squares inside the Hodge bundle, recently developed by Holmes-Politopoulos-Sauvaget. This is a spin refinement of a classical result of Sauvaget and agrees with the lattice-point counting technique of Chen-Möller-Sauvaget-Zagier. We further apply this theory to compute spin counterparts of virtual volumes, defined recently by Sauvaget. These virtual volumes are related to area Siegel-Veech constants and we are able to compute these invariants component-wise. In addition, by comparing our method for non-parity squares with the classical result of Sauvaget, we compute specific Chiodo integrals.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.23334"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Enumeration of plane hypermaps with a mixed boundary I</title>
       <link>https://arxiv.org/abs/2608.19947</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.19947</guid>
       <pubDate>Thu, 20 Aug 2026 12:14:58 +0000</pubDate>
       <author>Jérémie Bouttier, Bertrand Eynard, Thomas Lejeune</author>
       <description>&lt;p&gt;&lt;b&gt;Jérémie Bouttier, Bertrand Eynard, Thomas Lejeune&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Bertrand Eynard · math.CO, math-ph, math.PR&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Plane hypermaps are plane maps endowed with a proper coloration of their inner faces in black or white. We consider the problem of enumerating plane hypermaps with prescribed face degrees and a $k$-alternating boundary condition: by this we mean the colors of inner faces incident to the outer face alternates at most $2k$ times when turning around the hypermap. The present paper deals with the cases $k=1,2$, the general case being left to the forthcoming part II. Our approach relies on the so-called slice decomposition and uses crucially the notion of accessibility, which exploits the canonical orientation of hypermaps and the marking variable $t$ associated with vertices, to enumerate pointed hypermaps by decomposing them according to the set of all vertices that can access to the marked vertex. This process enables us to express the generating functions of hypermaps with mixed boundaries in terms of the generating functions of hypermap slices and to recover, in a purely combinatorial way, some formulas previously obtained through algebraic methods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.19947"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deformation of scalar generalized bi-Hamiltonian structure</title>
+      <link>https://arxiv.org/abs/2608.15538</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.15538</guid>
+      <pubDate>Sun, 16 Aug 2026 05:21:08 +0000</pubDate>
+      <author>Zhe Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhe Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Zhe Wang · math.DG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the classification of scalar generalized bi-Hamiltonian structures with semisimple leading terms. As an application, we prove the existence of integrable viscous conservation laws for any given viscous central invariant.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.15538"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moderate and rapid-decay nearby cycles for holonomic D-modules</title>
+      <link>https://arxiv.org/abs/2608.10782</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.10782</guid>
+      <pubDate>Tue, 11 Aug 2026 10:43:00 +0000</pubDate>
+      <author>Claude Sabbah</author>
+      <description>&lt;p&gt;&lt;b&gt;Claude Sabbah&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Claude Sabbah · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce the notion of moderate and rapid decay nearby cycles relative to a holomorphic function $f$ for an arbitrary holonomic $\mathcal{D}$-module. They are proved to be $\mathbb{R}$-constructible complexes on the product of the special fiber of the function and the circle $S^1$ parametrizing the values of $f/|f|$. Duality properties are proved by B.\,Hepler and A.\,Hohl [HH25], and we also prove them in special cases. Relations with the irregularity complexes as defined by Z.\,Mebkhout are given. Most of the arguments rely on the results of T.\,Mochizuki [Moc14].&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.10782"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Structure of Cycles in Projective Geometry over $\mathbb{F}_q$</title>
@@ -100,6 +132,14 @@
       <pubDate>Fri, 31 Jul 2026 10:06:00 +0000</pubDate>
       <author>Gaëtan Borot, Alessandro Giacchetto, Lasse Merkens</author>
       <description>&lt;p&gt;&lt;b&gt;Gaëtan Borot, Alessandro Giacchetto, Lasse Merkens&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Alessandro Giacchetto, Gaëtan Borot · math.CO, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove bijectively a recursive excision formula for maps of arbitrary topology. This yields the topological recursion formulae governing their enumeration, already at the level of formal generating series and without any analyticity assumption. We extend the result to maps carrying self-avoiding loop models and to stuffed maps, i.e. a variant of maps allowing faces of arbitrary topology. Our results give a precise combinatorial meaning to all terms of the (blobbed) topological recursion known for (stuffed) maps, including the recursion kernel, which had so far been missing. The construction relies on the simple idea of iterating Tutte&amp;#x27;s algorithm until the topology changes. Equivalently, it can be interpreted as a pair-of-pants decomposition driven by a path issuing from the root of the first boundary, providing an analogue for maps of the Mirzakhani-McShane identity for hyperbolic surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.00117"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Betti numbers, Poincaré polynomials, and Euler characteristics of $\overline{\mathcal M}_{0,n}$</title>
+      <link>https://arxiv.org/abs/2607.26755</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.26755</guid>
+      <pubDate>Wed, 29 Jul 2026 10:51:34 +0000</pubDate>
+      <author>Giordano Cotti</author>
+      <description>&lt;p&gt;&lt;b&gt;Giordano Cotti&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Giordano Cotti · math.AG, math-ph, math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we revisit the Poincaré polynomials, Betti numbers, and Euler characteristics of the Deligne-Mumford moduli spaces $\overline{\mathcal M}_{0,n}$ of stable $n$-pointed rational curves. We give elementary derivations of two recent closed formulas for their Poincaré polynomials, due respectively to Aluffi-Marcolli-Nascimento (arXiv:2406.13095) and to Eur-Ferroni-Matherne-Pagaria-Vecchi (arXiv:2504.16776). Our approach shows that both formulas are already implicit in the generating-series results of Getzler and Manin, and can be extracted from them by elementary manipulations of generating functions, the binomial series, and standard identities for Stirling numbers. Beyond these new derivations, the same method also yields new linear recurrence relations for refined invariants associated with these Poincaré polynomials, namely distinguished summands and a bivariate refinement. As a further consequence, we obtain two additional formulas for the Betti numbers, not previously recorded in this form. We also study the Euler characteristics $χ(\overline{\mathcal M}_{0,n})$. Using the Taylor expansion of a suitable branch of the Lambert $W$-function, we show that their sequence is obtained by evaluating complete Bell polynomials at an explicit auxiliary integer sequence. This Bell-polynomial representation yields Hessenberg determinantal formulas and a new linear recursion, distinct from the well-known quadratic Keel-Manin recursion. It also provides an explicit extraction of the Euler characteristics from the Lambert $W$-function expression considered by Aluffi-Marcolli-Nascimento. Finally, we refine the Manin-Zagier asymptotic estimate for these Euler characteristics by computing the full asymptotic expansion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.26755"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>$\mathfrak{sl}(2)$-weight system does not extend to a graph 4-invariant</title>
@@ -147,7 +187,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2607.16607</guid>
       <pubDate>Sat, 18 Jul 2026 03:05:34 +0000</pubDate>
       <author>Si-Qi Liu, Youjin Zhang, Tianwen Zhong</author>
-      <description>&lt;p&gt;&lt;b&gt;Si-Qi Liu, Youjin Zhang, Tianwen Zhong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Youjin Zhang · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the finite group reduction of the Dubrovin-Zhang/Double Ramification hierarchy associated with a semisimple CohFT preserves its bihamiltonian structure and its tau structure. By applying this result to the orbifold Gromov-Witten theory with the target $\mathbb{P}^1_{2,2,2,2}$, we obtain two non-equivalent integrable hierarchies which can be associated with the Frobenius manifold structure on the Hurwitz space $M_{1;1}$, and we show that one of them is equivalent to the genus one topological recursion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.16607"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Si-Qi Liu, Youjin Zhang, Tianwen Zhong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Si-Qi Liu, Youjin Zhang · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the finite group reduction of the Dubrovin-Zhang/Double Ramification hierarchy associated with a semisimple CohFT preserves its bihamiltonian structure and its tau structure. By applying this result to the orbifold Gromov-Witten theory with the target $\mathbb{P}^1_{2,2,2,2}$, we obtain two non-equivalent integrable hierarchies which can be associated with the Frobenius manifold structure on the Hurwitz space $M_{1;1}$, and we show that one of them is equivalent to the genus one topological recursion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.16607"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global Results on the Classification of Two-Component Integrable Evolutionary Systems</title>
@@ -283,7 +323,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2604.12819</guid>
       <pubDate>Tue, 14 Apr 2026 14:44:32 +0000</pubDate>
       <author>Paolo Lorenzoni, Zhe Wang</author>
-      <description>&lt;p&gt;&lt;b&gt;Paolo Lorenzoni, Zhe Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Paolo Lorenzoni · math-ph, math.DG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce the notions of generalised (bi-)Hamiltonian structures which generalise naturally the (bi-)Hamiltonian structures of evolutionary partial differential equations. In the hydrodynamic case, these structures are characterised in terms of geometric data. Furthermore, we show that a generalised (bi)-Hamiltonian structure of hydrodynamic type can be associated with any (bi-)flat F-manifold, and it is compatible with the corresponding principal hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.12819"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Paolo Lorenzoni, Zhe Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Paolo Lorenzoni, Zhe Wang · math-ph, math.DG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce the notions of generalised (bi-)Hamiltonian structures which generalise naturally the (bi-)Hamiltonian structures of evolutionary partial differential equations. In the hydrodynamic case, these structures are characterised in terms of geometric data. Furthermore, we show that a generalised (bi)-Hamiltonian structure of hydrodynamic type can be associated with any (bi-)flat F-manifold, and it is compatible with the corresponding principal hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.12819"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reconstruction of F-cohomological field theories on moduli of compact type</title>
@@ -363,7 +403,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2602.21532</guid>
       <pubDate>Wed, 25 Feb 2026 03:38:18 +0000</pubDate>
       <author>Lingrui Jiang, Si-qi Liu, Yingchao Tian, Youjin Zhang</author>
-      <description>&lt;p&gt;&lt;b&gt;Lingrui Jiang, Si-qi Liu, Yingchao Tian, Youjin Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Youjin Zhang · math.DG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This is a sequel to arXiv:2506.13656, in which an approach to construct a class of generalized Frobenius manifold structures on the orbit spaces of affine Weyl groups is presented. In this paper we apply this construction to the affine Weyl groups of type $A_\ell, B_\ell, C_\ell$ and $D_\ell$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.21532"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Lingrui Jiang, Si-qi Liu, Yingchao Tian, Youjin Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Si-Qi Liu, Youjin Zhang · math.DG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This is a sequel to arXiv:2506.13656, in which an approach to construct a class of generalized Frobenius manifold structures on the orbit spaces of affine Weyl groups is presented. In this paper we apply this construction to the affine Weyl groups of type $A_\ell, B_\ell, C_\ell$ and $D_\ell$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.21532"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>$(\mathfrak{gl}_{n},\mathfrak{gl}_{m})$-duality and Olshanski homomorphism</title>
@@ -388,6 +428,14 @@
       <pubDate>Fri, 13 Feb 2026 08:20:41 +0000</pubDate>
       <author>Mark Gross, Tyler L. Kelly, Ran J. Tessler</author>
       <description>&lt;p&gt;&lt;b&gt;Mark Gross, Tyler L. Kelly, Ran J. Tessler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Ran Tessler · math.AG, hep-th, math-ph, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We survey the recent progress in defining open enumerative theories for Landau-Ginzburg models. We illustrate the ideas required to develop these new foundations. In particular, we describe how to define the open enumerative invariants as integrals of multisections of certain vector bundles over a moduli space that is a real orbifold with corners, after prescribing boundary conditions for the multisections. We then explain the known situations where the open invariants satisfy certain forms of topological recursion relations, integrable hierarchies, or mirror symmetry. We end with a list of open questions and problems.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.12707"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generalized nearby cycles via relative and logarithmic $\mathscr{D}$-modules</title>
+      <link>https://arxiv.org/abs/2602.05314</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.05314</guid>
+      <pubDate>Thu, 05 Feb 2026 05:20:43 +0000</pubDate>
+      <author>Lei Wu, with an appendix by Claude Sabbah</author>
+      <description>&lt;p&gt;&lt;b&gt;Lei Wu, with an appendix by Claude Sabbah&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Claude Sabbah · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For a regular map $F$ from a complex smooth affine variety $X$ to $\mathbb A^r_\mathbb C$, we construct generalized nearby-cycle modules of a regular holonomic $\mathscr D$-module $\mathcal M$ along log strata with the log structure induced by the graph of $F$, whose relative supports are infinite unions of translated linear subvarieties of $\mathbb C^r$ determined by the zero loci of Bernstein-Sato ideals along monoid ideals. For a fixed log stratum, the nearby-cycle module corresponds to the Sabbah specialization complex of DR$(\mathcal M)$ under the relative regular Riemann-Hilbert correspondence of Fiorot-Fernandes-Sabbah, which generalizes the classical comparison theorem of Kashiwara-Malgrange for Deligne&amp;#x27;s nearby cycles. As an application, when $\mathcal M=\mathcal O_X$, we give a topological interpretation of the zero loci of Bernstein-Sato ideals of $F$ along monoid ideals under the exponential map, which answers a question of Budur-Shi-Zuo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.05314"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Center of the affine $\mathfrak{gl}_{n|1}$ at the critical level and pseudo-differential operators</title>
@@ -478,6 +526,14 @@
       <description>&lt;p&gt;&lt;b&gt;Marco Bertola&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Marco Bertola · math-ph, math.AG, math.DS, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider the problem of reconstruction of an $n\times n$ matrix with coefficients depending rationally on $x\in \mathbb P^1$ from the data of: (a) its characteristic polynomial and (b) a line bundle of degree $g+n-1$, with $g$ the geometric genus of the spectral curve, represented by a choice of $g+n+1$ points forming a (non-positive) divisor of the given degree. We thus provide a reconstruction formula that does not involve transcendental functions; this includes formulas for the spectral projectors and for the change of line bundle, thus integrating the isospectral flows. The formula is a single residue formula which depends rationally on the coordinates of the points involved, the coefficients of the spectral curve, and the position of the finite poles of $L$. We also discuss the canonical bi-differential associated with the Lax matrix and its relationship with other bi-differentials that appear in Topological Recursion and integrable systems.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.10468"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Meromorphic maps from ${\Bbb C}^{p}$ into semi-abelian varieties and general projective varieties</title>
+      <link>https://arxiv.org/abs/2512.09805</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.09805</guid>
+      <pubDate>Wed, 10 Dec 2025 16:19:58 +0000</pubDate>
+      <author>Zhe Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhe Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Zhe Wang · math.CV, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In 1974, W. Stoll proposed a method of studying holomorphic functions of several complex variables by reducing them to one variable through fiber integration. In this paper, we use this method to extend some important Nevanlinna-type results for holomorphic curves into projective varieties to meromorphic maps from ${\Bbb C}^{p}$ to projective varieties. This includes Bloch&amp;#x27;s theorem and Noguchi-Winkelmann-Yamanoi&amp;#x27;s Second Main Theorem for holomorphic maps into semi-abelian varieties intersecting an effective divisor, as well as Huynh-Vu-Xie&amp;#x27;s Second Main Theorem for meromorphic maps into projective space intersecting with a generic hypersurface with sufficiently high degree.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.09805"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The quantum integrable hierarchy for the Gromov-Witten theory of elliptic curves</title>
       <link>https://arxiv.org/abs/2512.04621</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2512.04621</guid>
@@ -531,7 +587,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2511.06984</guid>
       <pubDate>Mon, 10 Nov 2025 11:35:19 +0000</pubDate>
       <author>Si-Qi Liu, Paolo Rossi, Di Yang, Youjin Zhang</author>
-      <description>&lt;p&gt;&lt;b&gt;Si-Qi Liu, Paolo Rossi, Di Yang, Youjin Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Di Yang, Paolo Rossi, Youjin Zhang · math-ph, math.DG, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a semisimple Frobenius manifold, we construct a class of integrable deformations of its hierarchy of topological type. We show that these integrable deformations have polynomial tau-structures, and conjecture that for the one-dimensional Frobenius manifold they give a universal object for integrable deformations of the Riemann--Hopf hierarchy having a tau-structure.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.06984"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Si-Qi Liu, Paolo Rossi, Di Yang, Youjin Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Di Yang, Paolo Rossi, Si-Qi Liu, Youjin Zhang · math-ph, math.DG, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a semisimple Frobenius manifold, we construct a class of integrable deformations of its hierarchy of topological type. We show that these integrable deformations have polynomial tau-structures, and conjecture that for the one-dimensional Frobenius manifold they give a universal object for integrable deformations of the Riemann--Hopf hierarchy having a tau-structure.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.06984"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tropicalising hypergeometric $τ$-functions</title>
@@ -588,6 +644,14 @@
       <pubDate>Tue, 07 Oct 2025 18:50:05 +0000</pubDate>
       <author>Jonah Kudler-Flam, Edward Witten</author>
       <description>&lt;p&gt;&lt;b&gt;Jonah Kudler-Flam, Edward Witten&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Edward Witten · hep-th, quant-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We examine the behavior of sequences of states in the large $N$ limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large $N$ algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large $N$ limits. Nevertheless, appropriate averaging over $N$ can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.06376"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fiberwise Gromov-Witten theory, quantum spectra of flag bundles, and prime factorization of integers</title>
+      <link>https://arxiv.org/abs/2510.05500</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05500</guid>
+      <pubDate>Tue, 07 Oct 2025 01:36:32 +0000</pubDate>
+      <author>Giordano Cotti</author>
+      <description>&lt;p&gt;&lt;b&gt;Giordano Cotti&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Giordano Cotti · math.AG, math.DG, math.NT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This work investigates the vertical quantum cohomology and quantum spectra of flag bundles, uncovering new links between the Gromov-Witten theory of homogeneous fibrations and analytic number theory. Building on previous constructions by Astashkevich and Sadov (arXiv:hep-th/9401103) and by Biswas, Das, Oh, and Paul (arXiv:2408.06616), we establish functorial and inductive properties of vertical quantum cohomology, and relate the vertical and absolute quantum spectra. We show that the degeneracy of the small vertical quantum spectrum of a Grassmann bundle - namely, the appearance of eigenvalues with unexpectedly high multiplicities - is controlled by the prime factorization of the involved ranks. This extends earlier results for Grassmannians to the relative setting and applies, in particular, to partial flag varieties viewed as total spaces of Grassmann bundles. We then introduce three families of double sequences that classify partial flag varieties according to distinct quantum spectral and combinatorial features. Their recursive and arithmetic behavior is studied through ordinary and Dirichlet generating functions. One of these sequences satisfies a Pascal-type recursion, allowing a precise analysis of its partial Dirichlet series, whose analytic continuation exhibits logarithmic singularities determined by the nontrivial zeros of the Riemann zeta function. Moreover, for any fixed integer shift, the diagonal subsequences display eventual polynomial behavior, which admits a natural interpretation in terms of weighted walks on graphs. Finally, we examine the vanishing pattern of one of these sequences and derive equivalent formulations of Goldbach&amp;#x27;s conjecture. Overall, the paper reveals a rich correspondence between enumerative geometry, quantum spectral degeneracy, and classical problems in prime number theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.05500"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Algebraic quantisation approach to integrable differential-difference equations</title>
