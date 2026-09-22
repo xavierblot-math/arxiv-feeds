@@ -4,12 +4,12 @@
 Adam Afandi | Afandi
 Pierrick Bousseau | Bousseau
 Samir Canning | Samir Canning
-Renzo Cavalieri | Cavalieri
+Renzo Cavalieri | Renzo Cavalieri
 Alessio Cela | Cela
 Dawei Chen | Dawei Chen | math.AG,math.GT,math.DS
 Alessandro Chiodo | Chiodo
 Emily Clader | Clader
-Olivia Dumitrescu | Dumitrescu
+Olivia Dumitrescu | Olivia Dumitrescu
 Honglu Fan | Honglu Fan
 Mark Gross | Mark Gross | math.AG,math.SG,hep-th
 Shuai Guo | Shuai Guo | math.AG,math-ph
@@ -25,19 +25,23 @@ Hannah Markwig | Markwig
 Sam Molcho | Molcho
 Denis Nesterov | Denis Nesterov
 Georg Oberdieck | Oberdieck
-Dragos Oprea | Oprea
+Dragos Oprea | Dragos Oprea
 Rahul Pandharipande | Pandharipande
 Aaron Pixton | Pixton
 Georgios Politopoulos | Politopoulos
-Dhruv Ranganathan | Ranganathan
+Dhruv Ranganathan | Dhruv Ranganathan
 Yongbin Ruan | Yongbin Ruan
 Maximilian Schimpf | Schimpf
 Pim Spelier | Spelier
 Hsian-Hua Tseng | Hsian-Hua Tseng
 Ravi Vakil | Vakil
 Xin Wang | Xin Wang | math.AG
-Zhe Wang | Zhe Wang | math.AG,math-ph,nlin.SI
 Jonathan Wise | Jonathan Wise
 Longting Wu | Longting Wu
 Fenglong You | Fenglong You
 Dimitri Zvonkine | Zvonkine
+Jérémy Guéré | Guere
+Nicolas Perrin | Nicolas Perrin | math.AG
+Johannes Schmitt | Johannes Schmitt | math.AG,math.CO
+Andrei Bud | Andrei Bud
+Yannik Schuler | Yannik Schuler

@@ -89,10 +89,11 @@ def read_authors(path):
         parts = [p.strip() for p in line.split("|")]
         name = parts[0]
         query = parts[1] if len(parts) > 1 and parts[1] else name
-        cats = DEFAULT_CATS
+        cats, explicit = DEFAULT_CATS, False
         if len(parts) > 2 and parts[2]:
             cats = {c.strip() for c in parts[2].split(",") if c.strip()}
-        authors.append((name, query, cats))
+            explicit = True
+        authors.append((name, query, cats, explicit))
     return authors
 
 
@@ -100,10 +101,10 @@ HOSTS = ["https://arxiv.org/api/query", "https://export.arxiv.org/api/query"]
 USER_AGENT = "arxiv-author-feeds/1.1 (personal RSS feed; github actions)"
 
 
-def fetch(query):
-    """Fetch one author query with curl (arXiv currently refuses Python urllib)."""
+def fetch(search):
+    """Fetch one arXiv search with curl (arXiv currently refuses Python urllib)."""
     params = urllib.parse.urlencode({
-        "search_query": f'au:"{query}"',
+        "search_query": search,
         "sortBy": "submittedDate",
         "sortOrder": "descending",
         "max_results": RESULTS_PER_AUTHOR,
@@ -191,11 +192,26 @@ def main():
         failures = 0
         authors = read_authors(path)
         print(f"== {feed}: {len(authors)} authors")
-        for name, query, cats in authors:
+        for name, query, cats, explicit in authors:
             total_calls += 1
-            data = fetch(query)
-            time.sleep(DELAY)
-            if data is None:
+            # Common names: one search per category, so that homonyms
+            # in other fields do not fill the result window.
+            if explicit:
+                searches = [f'au:"{query}" AND cat:{c}' for c in sorted(cats)]
+            else:
+                searches = [f'au:"{query}"']
+            papers, ok = [], False
+            for search in searches:
+                data = fetch(search)
+                time.sleep(DELAY)
+                if data is not None and not parse(data):
+                    time.sleep(10)  # arXiv sometimes answers with an empty feed
+                    data = fetch(search) or data
+                    time.sleep(DELAY)
+                if data is not None:
+                    ok = True
+                    papers += parse(data)
+            if not ok:
                 failures += 1
                 consecutive_failures += 1
                 if consecutive_failures >= 8:
@@ -204,11 +220,7 @@ def main():
                 report.append(f"{feed:14} | {name:30} | {query:25} | ERROR")
                 continue
             consecutive_failures = 0
-            papers = parse(data)
-            if not papers:  # arXiv sometimes answers with an empty feed
-                time.sleep(10)
-                data = fetch(query)
-                papers = parse(data) if data else []
+            papers = list({p["id"]: p for p in papers}.values())
             papers = [p for p in papers
                       if any(name_matches(name, a) for a in p["authors"])]
             kept = [p for p in papers if set(p["cats"]) & cats]

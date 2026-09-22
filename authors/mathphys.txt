@@ -3,9 +3,9 @@
 # Rare surname -> just the surname. Common name -> "Firstname Surname" (+ categories).
 Alexander Alexandrov | Alexander Alexandrov
 Marvin Anas Hahn | Marvin Anas Hahn
-Marco Bertola | Bertola
+Marco Bertola | Marco Bertola
 Gaëtan Borot | Borot
-Vincent Bouchard | Bouchard
+Vincent Bouchard | Vincent Bouchard
 Andrea Brini | Brini
 Alexandr Buryak | Buryak
 Guido Carlet | Carlet
@@ -42,8 +42,13 @@ Giulio Ruzza | Ruzza
 Adrien Sauvaget | Sauvaget
 Sergey Shadrin | Shadrin
 Ran Tessler | Tessler
-Edward Witten | Witten
+Edward Witten | Edward Witten
 Di Yang | Di Yang | math.AG,math-ph,nlin.SI
 Don Zagier | Zagier
 Youjin Zhang | Youjin Zhang | math.AG,math-ph,nlin.SI
 Jian Zhou | Jian Zhou | math.AG,math-ph
+Zhe Wang | Zhe Wang | math.AG,math-ph,nlin.SI
+Claude Sabbah | Sabbah
+Giordano Cotti | Cotti
+Si-Qi Liu | Si-Qi Liu | math.AG,math-ph,nlin.SI
+Stijn Velstra | Velstra
