@@ -1,0 +1,94 @@
+Last run: 2026-09-22 12:23 UTC
+Authors with 0 found: check the query in authors/*.txt
+
+ag             | Adam Afandi                    | Afandi                    |   4 found |   4 kept
+ag             | Pierrick Bousseau              | Bousseau                  |  27 found |  27 kept
+ag             | Samir Canning                  | Samir Canning             |  24 found |  24 kept
+ag             | Renzo Cavalieri                | Cavalieri                 |  41 found |   3 kept
+ag             | Alessio Cela                   | Cela                      |  24 found |  18 kept
+ag             | Dawei Chen                     | Dawei Chen                |  50 found |  28 kept
+ag             | Alessandro Chiodo              | Chiodo                    |  10 found |  10 kept
+ag             | Emily Clader                   | Clader                    |  26 found |  24 kept
+ag             | Olivia Dumitrescu              | Dumitrescu                |   3 found |   2 kept
+ag             | Honglu Fan                     | Honglu Fan                |  19 found |  11 kept
+ag             | Mark Gross                     | Mark Gross                |  50 found |  40 kept
+ag             | Shuai Guo                      | Shuai Guo                 |  49 found |  16 kept
+ag             | Aitor Iribar López             | Iribar                    |   8 found |   7 kept
+ag             | Felix Janda                    | Janda                     |  12 found |  11 kept
+ag             | Hannah Larson                  | Hannah Larson             |  40 found |  31 kept
+ag             | Jun Li                         | Jun Li                    |  50 found |   0 kept
+ag             | Kefeng Liu                     | Kefeng Liu                |  50 found |  43 kept
+ag             | Melissa Liu                    | Melissa Liu               |  50 found |  49 kept
+ag             | Xiaobo Liu                     | Xiaobo Liu                |  50 found |   8 kept
+ag             | Steffen Marcus                 | Steffen Marcus            |  14 found |  14 kept
+ag             | Hannah Markwig                 | Markwig                   |  45 found |  45 kept
+ag             | Sam Molcho                     | Molcho                    |  20 found |  20 kept
+ag             | Denis Nesterov                 | Denis Nesterov            |  12 found |  12 kept
+ag             | Georg Oberdieck                | Oberdieck                 |  39 found |  37 kept
+ag             | Dragos Oprea                   | Oprea                     |   3 found |   1 kept
+ag             | Rahul Pandharipande            | Pandharipande             |  48 found |  48 kept
+ag             | Aaron Pixton                   | Pixton                    |  26 found |  25 kept
+ag             | Georgios Politopoulos          | Politopoulos              |   4 found |   4 kept
+ag             | Dhruv Ranganathan              | Ranganathan               |   4 found |   4 kept
+ag             | Yongbin Ruan                   | Yongbin Ruan              |  50 found |  49 kept
+ag             | Maximilian Schimpf             | Schimpf                   |  11 found |   5 kept
+ag             | Pim Spelier                    | Spelier                   |  13 found |  10 kept
+ag             | Hsian-Hua Tseng                | Hsian-Hua Tseng           |  50 found |  49 kept
+ag             | Ravi Vakil                     | Vakil                     |  20 found |  20 kept
+ag             | Xin Wang                       | Xin Wang                  |  50 found |   0 kept
+ag             | Zhe Wang                       | Zhe Wang                  |  49 found |   2 kept
+ag             | Jonathan Wise                  | Jonathan Wise             |  36 found |  31 kept
+ag             | Longting Wu                    | Longting Wu               |  11 found |  10 kept
+ag             | Fenglong You                   | Fenglong You              |  25 found |  25 kept
+ag             | Dimitri Zvonkine               | Zvonkine                  |  32 found |  31 kept
+amplituhedron  | Nima Arkani-Hamed              | Arkani-Hamed              |  50 found |  49 kept
+amplituhedron  | Pavel Galashin                 | Galashin                  |  42 found |  39 kept
+amplituhedron  | Thomas Lam                     | Thomas Lam                |  50 found |  48 kept
+amplituhedron  | Matteo Parisi                  | Matteo Parisi             |  21 found |  20 kept
+amplituhedron  | Lauren Williams                | Lauren Williams           |  50 found |  49 kept
+mathphys       | Alexander Alexandrov           | Alexander Alexandrov      |  50 found |  46 kept
+mathphys       | Marvin Anas Hahn               | Marvin Anas Hahn          |  26 found |  26 kept
+mathphys       | Marco Bertola                  | Bertola                   |   6 found |   5 kept
+mathphys       | Gaëtan Borot                   | Borot                     |  45 found |  43 kept
+mathphys       | Vincent Bouchard               | Bouchard                  |   0 found |   0 kept
+mathphys       | Andrea Brini                   | Brini                     |  46 found |  34 kept
+mathphys       | Alexandr Buryak                | Buryak                    |  45 found |  44 kept
+mathphys       | Guido Carlet                   | Carlet                    |  10 found |  10 kept
+mathphys       | Guillaume Chapuy               | Chapuy                    |  47 found |  47 kept
+mathphys       | Leonid Chekhov                 | Chekhov                   |  37 found |  37 kept
+mathphys       | Nitin K. Chidambaram           | Chidambaram               |  11 found |   6 kept
+mathphys       | Ann du Crest de Villeneuve     | Crest de Villeneuve       |   3 found |   3 kept
+mathphys       | Norman Do                      | Norman Do                 |  27 found |  26 kept
+mathphys       | Bertrand Eynard                | Eynard                    |  36 found |  36 kept
+mathphys       | Boris Feigin                   | Feigin                    |  15 found |  15 kept
+mathphys       | Edward Frenkel                 | Edward Frenkel            |  50 found |  49 kept
+mathphys       | Ezra Getzler                   | Getzler                   |  45 found |  37 kept
+mathphys       | Alessandro Giacchetto          | Giacchetto                |  21 found |  21 kept
+mathphys       | Ian Goulden                    | Goulden                   |  31 found |  31 kept
+mathphys       | John Harnad                    | Harnad                    |  31 found |  31 kept
+mathphys       | Jan-Willem van Ittersum        | Ittersum                  |  22 found |  16 kept
+mathphys       | Ishan Jaztar Singh             | Jaztar                    |   2 found |   2 kept
+mathphys       | Paul Johnson                   | Paul Johnson              |  50 found |   5 kept
+mathphys       | Maksim Karev                   | Karev                     |  12 found |  12 kept
+mathphys       | Maxim Kazarian                 | Kazarian                  |  20 found |  19 kept
+mathphys       | David Klompenhouwer            | Klompenhouwer             |   1 found |   1 kept
+mathphys       | Maxim Kontsevich               | Kontsevich                |  50 found |  47 kept
+mathphys       | Reinier Kramer                 | Reinier Kramer            |  20 found |  19 kept
+mathphys       | Sergei Lando                   | Lando                     |  14 found |  13 kept
+mathphys       | Danilo Lewański                | Lewanski                  |  37 found |  37 kept
+mathphys       | Paolo Lorenzoni                | Lorenzoni                 |  23 found |  21 kept
+mathphys       | Francesca Lusetti              | Lusetti                   |   2 found |   0 kept
+mathphys       | Alexander Mikhailov            | Mikhailov                 |  11 found |   7 kept
+mathphys       | Motohico Mulase                | Mulase                    |  33 found |  33 kept
+mathphys       | Paul Norbury                   | Norbury                   |  36 found |  34 kept
+mathphys       | Nicolas Orantin                | Orantin                   |  36 found |  36 kept
+mathphys       | Paolo Rossi                    | Paolo Rossi               |  50 found |  30 kept
+mathphys       | Giulio Ruzza                   | Ruzza                     |  18 found |  18 kept
+mathphys       | Adrien Sauvaget                | Sauvaget                  |  18 found |  18 kept
+mathphys       | Sergey Shadrin                 | Shadrin                   |  38 found |  38 kept
+mathphys       | Ran Tessler                    | Tessler                   |  18 found |  16 kept
+mathphys       | Edward Witten                  | Witten                    |  10 found |  10 kept
+mathphys       | Di Yang                        | Di Yang                   |  50 found |  11 kept
+mathphys       | Don Zagier                     | Zagier                    |  47 found |  36 kept
+mathphys       | Youjin Zhang                   | Youjin Zhang              |  50 found |  46 kept
+mathphys       | Jian Zhou                      | Jian Zhou                 |  49 found |   2 kept

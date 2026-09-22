@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>arXiv – Amplituhedron</title>
+    <link>https://arxiv.org</link>
+    <description>Recent arXiv papers by followed authors</description>
+    <lastBuildDate>Tue, 22 Sep 2026 12:18:51 +0000</lastBuildDate>
+    <item>
+      <title>Landau and cluster structures of one-loop amplitudes in ${\mathcal N}=4$ SYM in dimensional regularization</title>
+      <link>https://arxiv.org/abs/2609.05716</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05716</guid>
+      <pubDate>Fri, 04 Sep 2026 20:48:59 +0000</pubDate>
+      <author>Athanasia-Konstantina Angelopoulou, Ruth Britto, Matteo Parisi</author>
+      <description>&lt;p&gt;&lt;b&gt;Athanasia-Konstantina Angelopoulou, Ruth Britto, Matteo Parisi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Matteo Parisi · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Generalized unitarity, Landau analysis, and cluster adjacency encode complementary aspects of scattering amplitudes. We use one-loop planar $\mathcal N=4$ SYM amplitudes in dimensional regularization, at arbitrary multiplicity and helicity, to make their interface explicit. The weight-two symbol decomposes into an LS part, in which maximal-cut leading singularities furnish the coefficients and Landau loci associated with nested cuts organize the ordered symbol entries, an algebraic four-mass sector, and residual terms. Cancellations of certain letters contributed by individual box integrals, as well as further simplifications, are explained by the two-mass triangle relations among box coefficients. We prove these relations using a BCFW-like application of the global residue theorem and show that they can be understood geometrically as different dissections of the same region in the tree amplituhedron obtained by projecting the loop geometry of a triple cut. We then prove that the full rational symbol, including its infrared-divergent part, obeys cluster adjacency in the flag cluster algebra $\mathrm{Fl}_{2,4;n}$ for all multiplicities and helicities. Within the sector depending only on momentum-twistor four-brackets, we conjecture a stronger cluster property in $\operatorname{Gr}(4,n)$ for all helicities and prove it for NMHV amplitudes: the amplitude admits a representation in which every pole of each coefficient is compatible with both symbol entries. Finally, we observe that the algebraic four-mass letters, although non-rational, exhibit a suggestive Sklyanin-bracket pattern.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.05716"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Very Nearly Right Theory of Flavor</title>
+      <link>https://arxiv.org/abs/2607.27315</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.27315</guid>
+      <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+      <author>Nima Arkani-Hamed, Carolina Figueiredo, Lawrence J. Hall, Claudio Andrea Manzari</author>
+      <description>&lt;p&gt;&lt;b&gt;Nima Arkani-Hamed, Carolina Figueiredo, Lawrence J. Hall, Claudio Andrea Manzari&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · hep-ph, hep-ex, hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;A striking empirical observation about the CKM matrix is that the angles of the unitarity triangle $(α, β, γ)$ are very close to $(π/2, π/8, 3 π/8) $, simple fractions of $π$ that are suggestive of an underlying theory linking flavor and spontaneous CP violation. However, relating this empirical observation to an underlying theory of flavor is challenging, since the unitarity triangle is a complicated function of the Yukawa matrices. In this letter we present a simple picture for the Yukawas where this direct link is possible. We begin by parametrizing the ten-dimensional space of flavor data via &amp;quot;nine-link textures&amp;quot;, full-rank $Y_{u,d}$ matrices with a total of nine non-zero entries, with a single CP violating phase. Fitting the ten parameters of all such textures to the flavor data reveals a wonderful surprise: the CP phases cluster tightly around multiples of $π/8$! This happens because the entries of $Y_{u,d}$ naturally define a &amp;quot;Yukawa triangle&amp;quot;, in most cases identical to the unitarity triangle at leading order in small flavor parameters. Most interestingly, these two triangles are not the same beyond leading order, yielding precise predictions for $(α, β, γ)$ with calculable deviation from $(π/2, π/8, 3 π/8)$, which can be decisively excluded or strongly confirmed by the next generation of experimental measurements of the angles. The 9-link textures are sparse and their determinants are naturally real, which taken together with spontaneous CP violation can resolve the strong CP problem.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.27315"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dual Lattice Functions of Polytopes</title>
+      <link>https://arxiv.org/abs/2607.08101</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.08101</guid>
+      <pubDate>Thu, 09 Jul 2026 04:25:58 +0000</pubDate>
+      <author>Yibo Gao, Thomas Lam, Lei Xue</author>
+      <description>&lt;p&gt;&lt;b&gt;Yibo Gao, Thomas Lam, Lei Xue&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Thomas Lam · math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We define the dual lattice function of a rational polytope $P$ via the discrete Laplace transform of the exponential of its support function. This definition is a discrete analogue of the dual volume function of a polytope that the authors studied in previous work. We show that the dual lattice function is valuative, and by multiplying with the torus form, it becomes the canonical form of the exponential polytope $\mathrm{exp}(P)$ as a positive geometry. This result suggests the study of the class of toric polytopes, which are certain semialgebraic subsets of projective toric varieties. Our work is a first step towards discretization of positive geometries in the simplest case of polytopes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.08101"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Surface Water Wave Scattering and the Hydrotope</title>
+      <link>https://arxiv.org/abs/2606.28280</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.28280</guid>
+      <pubDate>Fri, 26 Jun 2026 17:21:29 +0000</pubDate>
+      <author>Nima Arkani-Hamed, Francesco Calisto, Nail Ussembayev, W. Wayne Zhao, Zihan Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Nima Arkani-Hamed, Francesco Calisto, Nail Ussembayev, W. Wayne Zhao, Zihan Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · hep-th, physics.flu-dyn&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the classical tree-level scattering amplitudes of deep-water surface gravity waves using the methods of high-energy physics. For scattering in one horizontal dimension and in the two-negative-wavenumber sector we obtain a closed formula for $n$-wave scattering. Up to a kinematic prefactor, the amplitude is the volume of a classic polytope -- a box sliced by a hyperplane, which we dub the hydrotope, whose purpose in life is simply to organize the sign patterns of the &amp;quot;chambers&amp;quot; characterizing all the different regions of the two-minus kinematic space. The general formula was discovered by Claude Opus 4.6 working under our guidance, beginning with our earlier discovery of a one-term expression valid in the &amp;quot;simplest&amp;quot; kinematic chamber. Our results resolve the puzzle raised by Y.V. Lvov&amp;#x27;s 1997 computation of the five-wave amplitudes, unifying and extending it to all multiplicities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.28280"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amplituhedra and origami, II: loop level</title>
+      <link>https://arxiv.org/abs/2606.03439</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.03439</guid>
+      <pubDate>Tue, 02 Jun 2026 10:23:09 +0000</pubDate>
+      <author>Pavel Galashin</author>
+      <description>&lt;p&gt;&lt;b&gt;Pavel Galashin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Pavel Galashin · hep-th, math-ph, math.AG, math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Building on the recently discovered origami-amplituhedron correspondence, we prove that the BCFW (Britto-Cachazo-Feng-Witten) cells triangulate the $m=4$ amplituhedron in full generality at all loop orders, both in momentum and momentum-twistor space. Along the way, we develop two natural &amp;quot;$L$-punctured&amp;quot; extensions of the positive Grassmannian and relate them via T-duality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.03439"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Noncrossing Duality and the Geometry of Positive Tropical Linear Spaces</title>
+      <link>https://arxiv.org/abs/2604.25212</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.25212</guid>
+      <pubDate>Tue, 28 Apr 2026 04:30:55 +0000</pubDate>
+      <author>Nick Early, Thomas Lam</author>
+      <description>&lt;p&gt;&lt;b&gt;Nick Early, Thomas Lam&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Thomas Lam · math.CO, hep-th, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;While the positive Grassmannian is deeply understood through the rich combinatorics of plabic graphs and positroid cells, its tropical counterpart, the positive tropical Grassmannian Trop$_{&amp;gt;0}G(k,n)$, has lacked a comparable structural framework for general $k$. Both the global face structure of Trop$_{&amp;gt;0}G(k,n)$ and the internal metric geometry of the tropical linear spaces it parametrizes have remained largely uncharted. This paper develops a systematic algebraic and polyhedral foundation that resolves this gap. The engine of our framework is a fundamental tropical duality, analogous to the duality between cluster variables (or more precisely, their $u$-coordinates) and $\mathbf{g}$-vectors, pairing two families of objects introduced by the first author: the planar basis of tropical Plücker vectors and the planar cross-ratios on the positive configuration space. We prove that this duality links the fan structure of the positive tropical Grassmannian to the noncrossing fan of Santos, Stump, and Welker, yielding a global bijection between integer points of $Trop_{&amp;gt;0}G(k,n)$ and noncrossing tableaux. We then study how this discrete combinatorial data controls the continuous metric geometry of positive tropical linear spaces. We realize the bounded complex of an integer positive tropical linear space as the subdifferential of a central roof function on the hypersimplex, and use this realization to embed it into a dilate of the fundamental alcoved simplex. The dilation factor, and hence the geometric diameter of the complex, is governed by a single invariant, the planar kinematics ($K) weight, which we show equals the number of columns in the associated noncrossing tableau. The results of this work are applied in our parallel work on scaffolds for higher tropical Grassmannians.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.25212"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scaffolds for Higher Tropical Grassmannians: Foundations</title>
+      <link>https://arxiv.org/abs/2604.25211</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.25211</guid>
+      <pubDate>Tue, 28 Apr 2026 04:30:41 +0000</pubDate>
+      <author>Nick Early, Thomas Lam</author>
+      <description>&lt;p&gt;&lt;b&gt;Nick Early, Thomas Lam&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Thomas Lam · math.CO, hep-th, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Scaffolds are the one-dimensional skeleta of high-dimensional flag simplicial complexes of nonpositive curvature. They generalize the phylogenetic trees of Trop G(2,n) to arbitrary $k$, drawing together SL(k)-web bases, affine buildings, the combinatorics of the positive tropical Grassmannian and low-dimensional topology. We prove that scaffolds model points in all tropical Grassmannians via a $k$-point distance function. In this paper, we study in detail CAT(0) planar graphs, which are positive scaffolds for the tropical Grassmannian of three-planes. CAT(0) planar graphs are directed versions of the diskoids of Fontaine-Kamnitzer-Kuperberg, planar dual to SL(3)-webs. Our main result is the construction of a unique representation of any given integer positive tropical Plucker vector by a normal CAT(0) planar graph. We show that any normal CAT(0) planar graph embeds into the tropical linear space as a Lam-Postnikov membrane, and embeds into the Keel-Tevelev membrane within the affine building. We show that Early&amp;#x27;s planar basis expansion can be computed directly from the strand combinatorics of the dual web, and connect this expansion to Petersen-Pylyavskyy-Speyer&amp;#x27;s noncrossing tableaux, explored further in our companion paper.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.25211"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Positivity and Cluster Structures in Landau Analysis</title>
+      <link>https://arxiv.org/abs/2603.25493</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.25493</guid>
+      <pubDate>Thu, 26 Mar 2026 14:31:34 +0000</pubDate>
+      <author>Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels</author>
+      <description>&lt;p&gt;&lt;b&gt;Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Matteo Parisi · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Landau analysis in momentum twistor space can be formulated as the study of varieties of lines in three-dimensional projective space, together with their projections and discriminants. Within this framework, we define enumerative invariants (LS degrees) that count leading singularities. Leading Landau singularities (LS discriminants) arise as discriminants detecting the collision of leading singularities. We uncover a recursive mechanism underlying Landau singularities, governed by substitution maps between Grassmannians. Applying this framework, we prove positivity and factorization into cluster variables for the LS discriminant of a large class of Landau diagrams at arbitrary loop order. This provides a first-principles explanation for the emergence of positivity and cluster algebra structures in the singularities of planar N=4 super Yang-Mills theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.25493"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Landau Analysis in the Grassmannian</title>
+      <link>https://arxiv.org/abs/2603.25454</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.25454</guid>
+      <pubDate>Thu, 26 Mar 2026 13:52:06 +0000</pubDate>
+      <author>Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels</author>
+      <description>&lt;p&gt;&lt;b&gt;Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Matteo Parisi · math.AG, hep-th, math-ph, math.AC, math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Momentum twistors for scattering amplitudes in particle physics are lines in three-space. We develop Landau analysis for Feynman integrals in this setting. The resulting discriminants and resultants are identified with Hurwitz and Chow forms of incidence varieties in products of Grassmannians. We study their degrees and factorizations, and the kinematic regimes in which the fibers of the Landau map are rational or real. Identifying this map with the amplituhedron map on positroid varieties, and the associated recursions with promotion maps, yields a geometric mechanism for the emergence of positivity and cluster structures in planar N=4 super Yang-Mills theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.25454"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Combinatorics of the Cosmohedron</title>
+      <link>https://arxiv.org/abs/2603.03425</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.03425</guid>
+      <pubDate>Tue, 03 Mar 2026 19:00:00 +0000</pubDate>
+      <author>Federico Ardila-Mantilla, Nima Arkani-Hamed, Carolina Figueiredo, Francisco Vazão</author>
+      <description>&lt;p&gt;&lt;b&gt;Federico Ardila-Mantilla, Nima Arkani-Hamed, Carolina Figueiredo, Francisco Vazão&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · math.CO, hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The cosmohedron was recently proposed as a polytope underlying the cosmological wavefunction for $\text{Tr}(Φ^3)$ theory. Its faces were conjectured to be in bijection with Matryoshkas, which are obtained from a subdivision of a polygon by sequentially wrapping groups of polygons into larger polygons. In this paper we prove the correctness of this construction, and elucidate its combinatorial structure. Cosmohedra generalize to a wider class of $\mathcal{X}$ in $Y$ polytopes, where we chisel a polytope from the family $\mathcal{X}$ at each vertex of a polytope $Y$. We sketch a new application of these chiseled polytopes to the physics of ultraviolet divergences in loop-integrated Feynman amplitudes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.03425"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generating the fermion mass hierarchy at the TeV scale</title>
+      <link>https://arxiv.org/abs/2602.17754</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.17754</guid>
+      <pubDate>Thu, 19 Feb 2026 19:00:00 +0000</pubDate>
+      <author>Nima Arkani-Hamed, Carolina Figueiredo, Lawrence J. Hall, Claudio Andrea Manzari</author>
+      <description>&lt;p&gt;&lt;b&gt;Nima Arkani-Hamed, Carolina Figueiredo, Lawrence J. Hall, Claudio Andrea Manzari&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · hep-ph, hep-ex, hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We propose a class of theories to generate quark and lepton mass matrices where the scale of new physics is at the TeV scale, without inducing the large flavor and CP violating processes that are often thought to relegate the origin of flavor to energies above $\sim 100$ TeV. The models have new vector-like leptons and quarks, with mass mixings to each other and Yukawa couplings to light Standard Model fields encoded in &amp;quot;chains&amp;quot; reminiscent of dimensional deconstruction. Locality in the chains both generates the hierarchical Standard Model Yukawa matrices, and ensures that CP and flavor violating effects are small, even with the vector-like particles at the TeV scale. A simple extension also generates neutrino masses, whose tiny size is parametrically related to the square of the electron Yukawa coupling. We outline the essential features of these models, explain how fermion mass hierarchies and mixing angles emerge, and explore their phenomenological implications. This framework can be tested both in the final run of the LHC as well as at possible future colliders operating at the 10 TeV scale, and we identify some of the distinctive experimental signatures associated with the production and decay of the new vector-like fermions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.17754"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A probabilistic interpretation for interpolation Macdonald polynomials</title>
+      <link>https://arxiv.org/abs/2602.13492</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.13492</guid>
+      <pubDate>Fri, 13 Feb 2026 21:55:56 +0000</pubDate>
+      <author>Houcine Ben Dali, Lauren Williams</author>
+      <description>&lt;p&gt;&lt;b&gt;Houcine Ben Dali, Lauren Williams&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Lauren Williams · math.CO, cond-mat.stat-mech, math-ph, math.PR&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Previous work of Ayyer, Martin, and Williams gave a probabilistic interpretation of the Macdonald polynomials $P_λ(x_1,\dots,x_n;1,t)$ at $q=1$ in terms of a Markov chain called the multispecies $t$-Push TASEP, a Markov chain involving particles of types $λ_1,\dots,λ_n$ hopping around a ring. In particular, they showed that for each composition $η$ obtained by permuting the parts of $λ$, the stationary probability of being in state $η$ is proportional to the ASEP polynomial $F_η(x_1,\dots,x_n; 1,t)$, and the normalizing constant (or partition function) is $P_λ(x_1,\dots,x_n; 1,t)$. There is an inhomogeneous generalization of Macdonald polynomials due to Knop and Sahi called interpolation Macdonald polynomials $P^*_λ(x_1,\dots,x_n;q,t)$, as well as an inhomogeneous generalization of ASEP polynomials called interpolation ASEP polynomials $F^*_η(x_1,\dots,x_n;q,t)$ that we introduced in previous work. In this article we introduce a new Markov chain called the interpolation $t$-Push TASEP, and show that its steady state probabilities and partition function are given by the interpolation ASEP polynomials and the interpolation Macdonald polynomial, evaluated at $q=1$. This generalizes the previous result of Ayyer, Martin, and Williams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.13492"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Proof</title>
+      <link>https://arxiv.org/abs/2602.05192</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.05192</guid>
+      <pubDate>Thu, 05 Feb 2026 01:37:14 +0000</pubDate>
+      <author>Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava, Rachel Ward, Shmuel Weinberger, Lauren Williams</author>
+      <description>&lt;p&gt;&lt;b&gt;Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava, Rachel Ward, Shmuel Weinberger, Lauren Williams&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Lauren Williams · cs.AI, math.AG, math.CO, math.GT, math.HO, math.RA&lt;/i&gt;&lt;/p&gt;&lt;p&gt;To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.05192"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Combinatorial invariance for the coefficient of $q$ in Kazhdan-Lusztig polynomials</title>
+      <link>https://arxiv.org/abs/2601.07793</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.07793</guid>
+      <pubDate>Mon, 12 Jan 2026 18:07:28 +0000</pubDate>
+      <author>Grant T. Barkley, Christian Gaetz, Thomas Lam</author>
+      <description>&lt;p&gt;&lt;b&gt;Grant T. Barkley, Christian Gaetz, Thomas Lam&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Thomas Lam · math.CO, math.RT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the combinatorial invariance of the coefficient of $q$ in Kazhdan--Lusztig polynomials for arbitrary Coxeter groups. As a result, we obtain the Combinatorial Invariance Conjecture, of Lusztig and of Dyer, also for Bruhat intervals of length at most $6$. We also prove the Gabber--Joseph conjecture for the second-highest $Ext$ group of a pair of Verma modules, as well as the combinatorial invariance of the dimension of this group, and of the numbers of frozen and of mutable variables in the cluster structure on Richardson varieties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2601.07793"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configuration Spaces of Finite Representation Type Algebras</title>
+      <link>https://arxiv.org/abs/2512.24870</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.24870</guid>
+      <pubDate>Wed, 31 Dec 2025 13:57:43 +0000</pubDate>
+      <author>Nima Arkani-Hamed, Hadleigh Frost, Pierre-Guy Plamondon, Giulio Salvatori, Hugh Thomas</author>
+      <description>&lt;p&gt;&lt;b&gt;Nima Arkani-Hamed, Hadleigh Frost, Pierre-Guy Plamondon, Giulio Salvatori, Hugh Thomas&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · math.RT, hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;To every finite-dimensional $\mathbb C$-algebra $Λ$ of finite representation type we associate an affine variety. These varieties are a large generalization of the varieties defined by &amp;quot;$u$ variables&amp;quot; satisfying &amp;quot;$u$-equations&amp;quot;, first introduced in the context of open string theory and moduli space of ordered points on the real projective line by Koba and Nielsen, rediscovered by Brown as &amp;quot;dihedral co-ordinates&amp;quot;, and recently generalized to any finite type hereditary algebras. We show that each such variety is irreducible and admits a rational parametrization. The assignment is functorial: algebra quotients correspond to monomial maps among the varieties. The non-negative real part of each variety has boundary strata that are controlled by Jasso reduction. These non-negative parts naturally define a generalization of open string integrals in physics, exhibiting factorization and splitting properties that do not come from a worldsheet picture. We further establish a family of Rogers dilogarithm identities extending results of Chapoton beyond the Dynkin case.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.24870"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Correlators are simpler than wavefunctions</title>
+      <link>https://arxiv.org/abs/2512.23795</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.23795</guid>
+      <pubDate>Mon, 29 Dec 2025 19:00:01 +0000</pubDate>
+      <author>Nima Arkani-Hamed, Ross Glew, Francisco Vazão</author>
+      <description>&lt;p&gt;&lt;b&gt;Nima Arkani-Hamed, Ross Glew, Francisco Vazão&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Nima Arkani-Hamed · hep-th, gr-qc, hep-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Recent works reveal a simplicity in equal-time correlators absent from wavefunctions. We show that it follows from the fact that correlators are full spacetime integrals, rather than half-spacetime integrals as for the wavefunction. This makes striking properties manifest: some wavefunction singularities are absent, factorization simplifies, and around every pole the Laurent expansion has vanishing first subleading term. Near the total-energy pole, the expansion to second order is generated by a differential operator on scattering amplitudes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.23795"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Varieties of Lines in 3-Space</title>
+      <link>https://arxiv.org/abs/2511.21333</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.21333</guid>
+      <pubDate>Wed, 26 Nov 2025 12:29:49 +0000</pubDate>
+      <author>Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels</author>
+      <description>&lt;p&gt;&lt;b&gt;Benjamin Hollering, Elia Mazzucchelli, Matteo Parisi, Bernd Sturmfels&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Matteo Parisi · math.CO, hep-th, math.AC, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider configurations of lines in 3-space with incidences prescribed by a graph. This defines a subvariety in a product of Grassmannians. Leveraging a connection with rigidity theory in the plane, for any graph, we determine the dimension of the incidence variety and characterize when it is irreducible or a complete intersection. We study its multidegree and the family of Schubert problems it encodes. Our spanning-tree coordinates enable efficient symbolic computations. We also provide numerical irreducible decompositions for incidence varieties with up to eight lines. These constructions with lines play a key role in the Landau analysis of scattering amplitudes in particle physics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.21333"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A combinatorial formula for Interpolation Macdonald polynomials</title>
+      <link>https://arxiv.org/abs/2510.02587</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.02587</guid>
+      <pubDate>Thu, 02 Oct 2025 21:46:43 +0000</pubDate>
+      <author>Houcine Ben Dali, Lauren Williams</author>
+      <description>&lt;p&gt;&lt;b&gt;Houcine Ben Dali, Lauren Williams&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Lauren Williams · math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In 1996, Knop and Sahi introduced a remarkable family of inhomogeneous symmetric polynomials, defined via vanishing conditions, whose top homogeneous parts are exactly the Macdonald polynomials. Like the Macdonald polynomials, these interpolation Macdonald polynomials are closely connected to the Hecke algebra, and admit nonsymmetric versions, which generalize the nonsymmetric Macdonald polynomials. In this paper we give a combinatorial formula for interpolation Macdonald polynomials in terms of signed multiline queues; this formula generalizes the combinatorial formula for Macdonald polynomials in terms of multiline queues given by Corteel-Mandelshtam-Williams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.02587"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The combinatorial geometry of particle physics</title>
+      <link>https://arxiv.org/abs/2509.25372</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25372</guid>
+      <pubDate>Mon, 29 Sep 2025 18:24:28 +0000</pubDate>
+      <author>Thomas Lam</author>
+      <description>&lt;p&gt;&lt;b&gt;Thomas Lam&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Thomas Lam · math.CO, hep-th, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Recent breakthroughs in the study of scattering amplitudes have uncovered profound and unexpected connections with combinatorial geometry. These connections range from classical structures -- such as polytopes, matroids, and Grassmannians -- to more modern developments including positroid varieties and the amplituhedron. Together they point toward the unifying framework of positive geometry, in which geometric domains canonically determine analytic functions governing scattering processes. This survey traces the emergence of positive geometry from the physics of amplitudes, building towards recent progress on amplitudes for matroids.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2509.25372"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
