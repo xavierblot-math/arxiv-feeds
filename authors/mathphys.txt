@@ -1,0 +1,49 @@
+# Feed: Mathematical Physics
+# Format: Display name | query sent to arXiv as au:"query" | optional categories
+# Rare surname -> "Surname I" (I = first-name initial). Common name -> "Firstname Surname".
+Alexander Alexandrov | Alexandrov A
+Marvin Anas Hahn | Marvin Anas Hahn
+Marco Bertola | Bertola M
+Gaëtan Borot | Borot G
+Vincent Bouchard | Bouchard V
+Andrea Brini | Brini A
+Alexandr Buryak | Buryak A
+Guido Carlet | Carlet G
+Guillaume Chapuy | Chapuy G
+Leonid Chekhov | Chekhov L
+Nitin K. Chidambaram | Chidambaram N
+Ann du Crest de Villeneuve | Crest de Villeneuve
+Norman Do | Norman Do
+Bertrand Eynard | Eynard B
+Boris Feigin | Feigin B
+Edward Frenkel | Frenkel E
+Ezra Getzler | Getzler E
+Alessandro Giacchetto | Giacchetto A
+Ian Goulden | Goulden I
+John Harnad | Harnad J
+Jan-Willem van Ittersum | Ittersum
+Ishan Jaztar Singh | Jaztar
+Paul Johnson | Paul Johnson | math.AG,math.CO,math-ph
+Maksim Karev | Karev M
+Maxim Kazarian | Kazarian M
+David Klompenhouwer | Klompenhouwer D
+Maxim Kontsevich | Kontsevich M
+Reinier Kramer | Kramer R
+Sergei Lando | Lando S
+Danilo Lewański | Lewanski D
+Paolo Lorenzoni | Lorenzoni P
+Francesca Lusetti | Lusetti F
+Alexander Mikhailov | Mikhailov A
+Motohico Mulase | Mulase M
+Paul Norbury | Norbury P
+Nicolas Orantin | Orantin N
+Paolo Rossi | Paolo Rossi | math.AG,math-ph,nlin.SI,math.SG
+Giulio Ruzza | Ruzza G
+Adrien Sauvaget | Sauvaget A
+Sergey Shadrin | Shadrin S
+Ran Tessler | Tessler R
+Edward Witten | Witten E
+Di Yang | Di Yang | math.AG,math-ph,nlin.SI
+Don Zagier | Zagier D
+Youjin Zhang | Youjin Zhang | math.AG,math-ph,nlin.SI
+Jian Zhou | Jian Zhou | math.AG,math-ph
