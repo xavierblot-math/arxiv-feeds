@@ -52,3 +52,5 @@ Claude Sabbah | Claude Sabbah
 Giordano Cotti | Giordano Cotti
 Si-Qi Liu | Si-Qi Liu | math.AG,math-ph,nlin.SI
 Stijn Velstra | Velstra
+Francisco Hernández Iglesias | Hernandez Iglesias
+Victor Kac | Kac

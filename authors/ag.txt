@@ -45,3 +45,12 @@ Nicolas Perrin | Nicolas Perrin | math.AG
 Johannes Schmitt | Johannes Schmitt | math.AG,math.CO
 Andrei Bud | Andrei Bud
 Yannik Schuler | Yannik Schuler
+Sam Payne | Sam Payne | math.AG,math.CO
+Leo Herr | Leo Herr
+Martin Möller | Martin Möller
+Martin Moeller | Martin Moeller
+Navid Nabijou | Nabijou
+Sergej Monavari | Monavari
+Gavril Farkas | Gavril Farkas
+Tom Bridgeland | Bridgeland
+Samuel Grushevsky | Grushevsky
