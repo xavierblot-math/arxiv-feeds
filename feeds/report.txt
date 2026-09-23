@@ -1,5 +1,5 @@
-Last run: 2026-09-23 04:51 UTC
-Authors with 0 found: check the query in authors/*.txt
+Last run: 2026-09-23 08:43 UTC
+0 found: check the line in authors/*.txt or keywords/*.txt
 
 ag             | Adam Afandi                    | Afandi                    |   4 found |   4 kept
 ag             | Pierrick Bousseau              | Bousseau                  |  27 found |  27 kept
@@ -101,3 +101,29 @@ mathphys       | Claude Sabbah                  | Claude Sabbah             |  5
 mathphys       | Giordano Cotti                 | Giordano Cotti            |  17 found |  16 kept
 mathphys       | Si-Qi Liu                      | Si-Qi Liu                 |  41 found |  41 kept
 mathphys       | Stijn Velstra                  | Velstra                   |   2 found |   2 kept
+broad          | Gromov-Witten                  | Gromov-Witten             |  50 found |  50 kept
+broad          | integrable hierarchies         | integrable hierarchies    |  50 found |  46 kept
+broad          | integrable hierarchy           | integrable hierarchy      |  50 found |  46 kept
+broad          | tau function                   | tau function              |  50 found |  39 kept
+broad          | tau functions                  | tau functions             |  50 found |  39 kept
+broad          | tau-function                   | tau-function              |  50 found |  39 kept
+broad          | tau-functions                  | tau-functions             |  50 found |  39 kept
+topics         | double ramification            | double ramification       |  50 found |  50 kept
+topics         | Dubrovin-Zhang                 | Dubrovin-Zhang            |  38 found |  38 kept
+topics         | tau-symmetric                  | tau-symmetric             |  19 found |   9 kept
+topics         | Riemann hierarchy              | Riemann hierarchy         |   3 found |   3 kept
+topics         | Witten-Kontsevich              | Witten-Kontsevich         |  43 found |  42 kept
+topics         | quantum integrable hierarchies | quantum integrable hierarchies |   6 found |   6 kept
+topics         | Frobenius manifold             | Frobenius manifold        |  50 found |  48 kept
+topics         | cohomological field theory     | cohomological field theory |  50 found |  48 kept
+topics         | Givental                       | Givental                  |  50 found |  49 kept
+topics         | tautological relations         | tautological relations    |  31 found |  31 kept
+topics         | Hodge integrals                | Hodge integrals           |  50 found |  50 kept
+topics         | r-spin                         | r-spin                    |  50 found |  43 kept
+topics         | Chiodo class                   | Chiodo class              |   8 found |   8 kept
+topics         | Hurwitz numbers                | Hurwitz numbers           |  50 found |  46 kept
+topics         | topological recursion          | topological recursion     |  50 found |  50 kept
+topics         | x-y swap                       | x-y swap                  |   6 found |   6 kept
+topics         | quantum curve                  | quantum curve             |  50 found |  46 kept
+topics         | resurgence                     | resurgence                |  90 found |  90 kept
+topics         | star product                   | star product              | 101 found | 101 kept

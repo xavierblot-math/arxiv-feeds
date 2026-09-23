@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>arXiv – Broad</title>
+    <link>https://arxiv.org</link>
+    <description>Recent arXiv papers (personal feed)</description>
+    <lastBuildDate>Wed, 23 Sep 2026 08:41:51 +0000</lastBuildDate>
+    <item>
+      <title>On the atomic decomposition of complete intersection in flag varieties</title>
+      <link>https://arxiv.org/abs/2609.21914</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21914</guid>
+      <pubDate>Fri, 18 Sep 2026 15:37:09 +0000</pubDate>
+      <author>Boris Alexeev, Leonardo F. Cavenaghi, Giovane Galindo, Bogdan Georgiev, Ludmil Katzarkov, Pedro Antonio Muniz Martins</author>
+      <description>&lt;p&gt;&lt;b&gt;Boris Alexeev, Leonardo F. Cavenaghi, Giovane Galindo, Bogdan Georgiev, Ludmil Katzarkov, Pedro Antonio Muniz Martins&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.DG, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a root-theoretic localization formalism for genus-zero Gromov--Witten invariants of flag varieties and of smooth zero loci of globally generated homogeneous vector bundles. The resulting invariants are expressed as finite sums over decorated trees whose contributions are determined by the root system of the ambient flag variety and by the torus weights of the defining bundle. We connect these computations with the Theory of Hodge Atoms of Katzarkov--Kontsevich--Pantev--Yu via the matrix of small quantum multiplication by first Chern class. Let $X$ be a Fano fourfold with $h^{3,1}(X)=1$ arising as a hyperplane section of a suitable Fano fivefold. Its cohomology decomposes into a monodromy-fixed part and the middle vanishing cohomology. This decomposition is preserved by quantum multiplication by the first Chern class. Moreover, it acts by a scalar on the vanishing summand. We show, for the monodromy-fixed block, that (a) if every eigenvalue has algebraic multiplicity at most two and $X$ is Hodge general, then $X$ is irrational; (b) if every eigenvalue has Jordan defect at most one and $X$ is rational, then every weak factorization contains a smooth surface center whose minimal model is a projective K3 surface. Many applications are presented.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.21914"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Hurwitz existence problem in prime degree</title>
+      <link>https://arxiv.org/abs/2609.20572</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20572</guid>
+      <pubDate>Thu, 17 Sep 2026 15:31:11 +0000</pubDate>
+      <author>Jijian Song, Hailin Wen, Zebao Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Jijian Song, Hailin Wen, Zebao Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.GT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $p$ be a prime. We prove that every compatible branch datum of degree $p$ over the sphere is realizable by a connected branched cover. The three-point case is constructed in residue characteristic $p$. Henrio&amp;#x27;s moment theorem supplies the distinct-point moment solutions from which we construct a special primitive tail for each prescribed partition; a second application underlies the new tail required by a positive source genus. These tails are joined by a logarithmic deformation datum and embedded in one subgroup of $S_p$ containing a common regular subgroup of order $p$. Wewers&amp;#x27;s lifting theorem produces a three-point Galois cover in characteristic zero. The quotient by a point stabilizer has degree $p$ and the prescribed three ramification profiles. The fusion and realization results of Edmonds--Kulkarni--Stong then give the assertion for an arbitrary number of branch values. As consequences, the connected prime-degree Hurwitz potential has full support on the Riemann--Hurwitz locus, every corresponding connected relative Gromov--Witten invariant of $\mathbf P^1$ is nonzero, the two-relative-point disconnected sector with even completed-cycle orders at most $p$ is strictly positive subject to the dimension constraint, and the connected transposition sector is strictly positive.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.20572"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cartan-Fejer Gram Tomography and Flop Covariance for BPS Resummed Gromov-Witten Potentials</title>
+      <link>https://arxiv.org/abs/2609.16693</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.16693</guid>
+      <pubDate>Tue, 15 Sep 2026 06:16:30 +0000</pubDate>
+      <author>Xiaobin Li</author>
+      <description>&lt;p&gt;&lt;b&gt;Xiaobin Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a matrix-valued finite difference formalism for the genus zero BPS resummed local Gromov-Witten potential of a threefold flop. Factoring the central difference as \[ Δ_η=\nabla_η^2, \qquad \nabla_η=T_{hη/2}-T_{-hη/2}, \] we prove that the mixed differences \( \mathbf H=(\nabla_{η_i}\nabla_{η_j}F)_{i,j} \) admit an exact rank one signed \(q\)-Gram decomposition. Primitive BPS classes are therefore detected by rank one coefficient matrices, and a matrix-valued Möbius inversion reconstructs all multiplicities on a primitive ray. Under a simple threefold flop the Gram forcing is covariant away from the flopped ray and acquires the universal logarithmic anomaly \[ κ_C(C^+\otimes C^+)\log r, \qquad κ_C=\sum_{d\ge1}d^3n_{dC}. \] After a natural renormalization it becomes flop covariant, while one classical logarithmic derivative recovers the cubic correction in the crepant transformation formula. We interpret \(κ_C\) as the third moment of the GV width distribution: Toda&amp;#x27;s noncommutative width is the second moment, and contraction algebra BPS invariants give a finite cohomological width series whose numerical realization contains all these moments. For root supported BPS theories, simple root Gram coefficients reconstruct the signed Cartan matrix. Applied to the standard ADE foldings, the theory distinguishes \(B_n\) from \(C_n\), detects the \(F_4\) double bond and \(D_4\) triality, and yields explicit global \(q\)-Gram discriminants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.16693"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Punctured log Gromov-Witten theory of log modifications and double ramification cycles with target log variety</title>
+      <link>https://arxiv.org/abs/2609.16602</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.16602</guid>
+      <pubDate>Tue, 15 Sep 2026 03:54:48 +0000</pubDate>
+      <author>Samuel Johnston</author>
+      <description>&lt;p&gt;&lt;b&gt;Samuel Johnston&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We expand upon a previous study conducted by the author on the behavior of punctured log Gromov-Witten theory under log étale modifications $\widetilde{X} \rightarrow X$, giving expressions for log Gromov-Witten classes on $\widetilde{X}$ in terms of log Gromov-Witten classes on $X$, facilitating a complete reduction of the punctured log Gromov-Witten theory of any modification $\widetilde{X}$ of an snc log scheme $X$ to the punctured log Gromov-Witten theory of $X$. We apply this result in two settings. First, we prove a log-orbifold correspondence equating the logarithmic invariants of the canonical wall structure of Gross and Siebert with a class of orbifold invariants considered in the relative quantum cohomology ring of Tseng and You, and more generally construct a family of algebra homomorphisms from the intrinsic mirror algebra $R_{(X,D)}$ of Gross and Siebert to appropriate power series rings. Second, we show the punctured log Gromov-Witten classes of split toric bundles are effectively reconstructed in terms of the punctured log Gromov-Witten classes of the base. Additional input for the second application is the introduction and study of double ramification cycles with target log variety, generalizing the double ramification cycles with target variety investigated by Janda-Pandharipande-Pixton-Zvonkine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.16602"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blow-up formulas of Gromov-Witten invariants and virtual cycles under positivity conditions</title>
+      <link>https://arxiv.org/abs/2609.14553</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.14553</guid>
+      <pubDate>Sun, 13 Sep 2026 14:40:02 +0000</pubDate>
+      <author>Sanghyeon Lee, Seungjae Yun</author>
+      <description>&lt;p&gt;&lt;b&gt;Sanghyeon Lee, Seungjae Yun&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $\widetilde{X}$ be the blow-up of a smooth projective variety $X$ along a smooth subvariety $Z \subset X$ satisfying a numerical positivity condition. We study virtual cycles of moduli spaces of stable maps to $\widetilde{X}$. We lift the numerical blow-up formula of Chen and Du to a pushforward identity for virtual cycles of moduli spaces of genus-zero stable maps to $\widetilde{X}$ and $X$. Using virtual dimension calculations for the fixed loci and a free-leaf contraction morphism, we show that all correction terms in the master space localization formula vanish. Variants of this method yields further blow-up formulas, including a generalization of Gathmann&amp;#x27;s formula. We also give a counterexample to the point-blow-up conjecture in higher genus (proposed by Hu), and establish an absolute--relative correspondence in all genera under positivity and dimension assumptions, comparing the Gromov--Witten theories of $(\widetilde{X},E)$ and $X$, where $E$ is the exceptional divisor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.14553"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Caterpillar Degenerations of Spectral Curves and Double Gelfand-Zeitlin Geometry</title>
+      <link>https://arxiv.org/abs/2609.14423</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.14423</guid>
+      <pubDate>Sun, 13 Sep 2026 10:46:06 +0000</pubDate>
+      <author>George Y. Liu</author>
+      <description>&lt;p&gt;&lt;b&gt;George Y. Liu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we study the decomposition, in the caterpillar or weak-coupling limit, of a spectral curve with two irregular poles of order two, namely a spectral curve of type $(2,2)$, into two spectral curves each having one regular singularity(order-$1$ pole) and one irregular pole of order two, namely spectral curves of type $(1,2)$ or $(2,1)$. Such spectral curves can be identified with a double Gelfand--Zeitlin (DGZ) system. We show that the Duistermaat--Heckman measure on the DGZ side can be identified with the Weyl measure on the gauge-theory side arises from gluing two quivers. Furthermore, the Fourier expansion of the isomonodromic tau function can be interpreted as a Peter--Weyl expansion in the real polarization of the DGZ system. On the other hand, we introduce the nodal caterpillar spectral network. Applying the caterpillar spectral network, we then obtain an explicit expression for the Stokes matrix up to a normalization factor. This expression agrees with the existing analytic formulas. Moreover, we identify the variation of endpoint normalization arising in the Stokes computation with the equivariant Euler class of the fluctuation complex over the Coulomb moduli space. As a result, the variations produce both the perturbative coefficients of isomonodromy tau and the perturbative partition function, and thus give an identification of them without using conformal blocks. Finally, using the gluing technique for spectral curves and the DGZ system, we predict the perturbative coefficients of the conjectural higher-rank $P_{\mathrm{III}}$ isomonodromic tau function from the viewpoint of spectral geometry.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.14423"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conifold Gap for the Quintic Threefold</title>
+      <link>https://arxiv.org/abs/2609.13921</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.13921</guid>
+      <pubDate>Sat, 12 Sep 2026 13:06:44 +0000</pubDate>
+      <author>Huai-Liang Chang, Shuai Guo, Lei You, Huaigong Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Huai-Liang Chang, Shuai Guo, Lei You, Huaigong Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the all-genus conifold gap conjecture for the Gromov--Witten (GW) theories of the quintic threefold, other smooth Fermat Calabi--Yau threefold hypersurfaces, and local $\mathbb P^2$, as well as for the FJRW theories associated with these hypersurfaces. Our proof uses Mixed Spin P-field (MSP) theory and analogous master-space constructions. The central object is the \emph{cone-vertex theory}. We express this theory as a translation of the point CohFT via a formal Laplace transform and prove a universal conifold gap theorem for the resulting translated theories. The master-space construction then transfers the gap from the cone-vertex theory to the GW and FJRW theories.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.13921"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matrix Dressing Beyond Pfaff-Toda</title>
+      <link>https://arxiv.org/abs/2609.12970</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.12970</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:40 +0000</pubDate>
+      <author>Sylvain Carpentier, Marta Dell'Atti</author>
+      <description>&lt;p&gt;&lt;b&gt;Sylvain Carpentier, Marta Dell&amp;#x27;Atti&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a matrix pseudodifference operator framework that places theAdler-Pfaff and Pfaff-Toda hierarchies in a common algebraic setting. The bi-infinite Adler-Pfaff hierarchy then becomes a $2\times2$ matrix pseudodifference Lax hierarchy. We introduce the Matrix Pfaff-Toda hierarchy by dressing the matrix Laurent algebra $M_{2N}\bigl(\mathbb{C}[\mathcal{S},\mathcal{S}^{-1}]\bigr)$ using a Pfaff-Toda splitting of the matrix pseudodifference algebra. In the one-component case, its diagonal sector recovers the continuous Pfaff-Toda hierarchy, while the off-diagonal directions supply the missing odd flows, and the powers of a single bare operator reconstruct the full Adler-Pfaff hierarchy. For general $N$, on the regular factorization locus, the multicomponent Pfaff-Toda tau-functions of Savchenko and Zabrodin realize the commuting diagonal sector, with its dressing equations derived directly from the fermionic bilinear identity. Reductions to the block-diagonal and scalar cases recover multicomponent and scalar $2D$ Toda, identifying the even Pfaff hierarchy with an anti-diagonal Toda subhierarchy, and yielding the Krichever-Zabrodin C-Toda hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.12970"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siebert's formula for virtual pullbacks</title>
+      <link>https://arxiv.org/abs/2609.12213</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.12213</guid>
+      <pubDate>Thu, 10 Sep 2026 21:11:53 +0000</pubDate>
+      <author>Xuanchun Lu, Rachel Webb</author>
+      <description>&lt;p&gt;&lt;b&gt;Xuanchun Lu, Rachel Webb&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For a DM-type morphism of algebraic stacks $f \colon X \to Y$ with a relative perfect obstruction theory $\mathbb{E} \to \mathbb{L}_{X/Y}$ having a global resolution, we give a formula for the induced virtual pullback in terms of $\mathbb{E}$ and $f$. We apply our formula to prove functoriality properties of the virtual fundamental class in Gromov-Witten theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.12213"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Difference Equations and Reconstruction of Local Gopakumar-Vafa Spectra for Threefold Flops</title>
+      <link>https://arxiv.org/abs/2609.10488</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10488</guid>
+      <pubDate>Wed, 09 Sep 2026 17:27:47 +0000</pubDate>
+      <author>Xiaobin Li</author>
+      <description>&lt;p&gt;&lt;b&gt;Xiaobin Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study difference equations for the local Gromov-Witten theory of a contractible rational curve in a Calabi-Yau threefold from the viewpoint of reconstruction. Starting from the Bryan-Katz-Leung multiple cover decomposition, we associate to all nonzero local GV degree sectors on an exceptional ray a single central difference forcing term governed by explicit Fejér-type Laurent kernels. Our main result is an information equivalence theorem: once the exceptional ray and its lattice normalization are fixed, the full quantum forcing, its regular specialization at $λ=0$, and the local genus zero Gopakumar-Vafa spectrum determine one another. In particular, every local GV multiplicity is recovered from the classical forcing by an explicit Möbius inversion. In the primitive normalization relevant to a simple flopping contraction, the same classical forcing also recovers the noncommutative and commutative widths of the contraction algebra: the former is the order at $q=1$ of the exponentiated forcing and the latter is its first $q$-coefficient. For finite support we further determine the minimal Laurent polynomial denominator clearing operator on the finest common shift lattice. Its cyclotomic factorization is strictly coarser than the GV spectrum. Length two, $E_6$, $E_7$, and $E_8$ examples exhibit the resulting hierarchy of information loss: Kollár length does not determine the forcing, the cyclotomic skeleton does not determine the GV support, and even the complete local difference data do not determine the analytic type of the flop.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.10488"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Closed to Relative Higher-Genus Gromov-Witten Invariants via Resurgent Functions</title>
+      <link>https://arxiv.org/abs/2609.09256</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09256</guid>
+      <pubDate>Tue, 08 Sep 2026 15:43:38 +0000</pubDate>
+      <author>Murad Alim, Noah Tischler</author>
+      <description>&lt;p&gt;&lt;b&gt;Murad Alim, Noah Tischler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Higher genus Gromov-Witten invariants of Calabi-Yau threefolds are encoded in a generating function which is an asymptotic series in a formal parameter $λ$. Using resurgence, analytic functions in this formal parameter were uncovered. In this paper we focus on the resolved conifold and study the enumerative meaning of the strong-coupling asymptotic expansion, in powers of $ 1/λ$, of the resurgent analytic functions. We show that this expansion contains both a closed curve-counting contribution in dual variables and a contribution governed by relative Gromov-Witten invariants, naturally interpreted in logarithmic geometry.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.09256"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mirror Counts of Spectral Curves</title>
+      <link>https://arxiv.org/abs/2609.06821</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.06821</guid>
+      <pubDate>Sun, 06 Sep 2026 20:29:18 +0000</pubDate>
+      <author>Tom Graber, Mingyuan Hu, Eric Zaslow</author>
+      <description>&lt;p&gt;&lt;b&gt;Tom Graber, Mingyuan Hu, Eric Zaslow&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a convex lattice polygon $Δ\subset \mathbb R^2$, let $N_Δ$ be the count of rational, nodal curves in the linear system of the ample line bundle $L_Δ$ on the toric variety $\mathbb P_Δ$ defined by $Δ$, having fixed intersection with the toric boundary. We show that the relative Jacobian of the linear system defines an integrable system that has a mirror dual in the language of constructible sheaves on a two-torus microsupported on a Legendrian link. In this setting, we define the dual counting problem using an analogue of rulings of Legendrian links in three-space, then prove equivalence with $N_Δ$. We perform calculations of $N_Δ$ in several examples using constructible methods, tropical curve counting, and localization in logarithmic Gromov-Witten theory to demonstrate the equality of the different approaches. Moreover, the rulings give rise to a stratification of the moduli of constructible sheaves. We conjecture that this ruling decomposition recovers the refined tropical invariants of Block-Göttsche, and hence encodes higher-genus logarithmic Gromov--Witten invariants, by a theorem of Bousseau.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.06821"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiments with membranes, maps and sheaves</title>
+      <link>https://arxiv.org/abs/2609.03152</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.03152</guid>
+      <pubDate>Wed, 02 Sep 2026 20:36:16 +0000</pubDate>
+      <author>Daniel Holmes, Yannik Schuler</author>
+      <description>&lt;p&gt;&lt;b&gt;Daniel Holmes, Yannik Schuler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Motivated by the conjectural existence of M-theory, we investigate a web of correspondences between enumerative invariants of a Calabi-Yau fivefold $Z$ with a torus action. This includes a correspondence between the fivefold Gromov-Witten invariants and K-theoretic Pandharipande-Thomas invariants of a threefold $X \subset Z$, mediated by so-called membrane indices, which generalise Gopakumar-Vafa invariants. We establish the correspondence for strip geometries for restricted torus actions and test it numerically for general torus actions. Further numerical evidence is provided for the closed vertex, local surfaces and local projective spaces. For the latter we present conjectural formulae for their low-degree membrane indices. When the fivefold is the product of the affine plane with a suitable toric variety, we prove geometric engineering and equate the generating series of Pandharipande-Thomas invariants with the corresponding instanton partition function while equality with the Gromov-Witten series is probed numerically.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.03152"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Membranes and Maps</title>
+      <link>https://arxiv.org/abs/2609.02409</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.02409</guid>
+      <pubDate>Wed, 02 Sep 2026 10:23:55 +0000</pubDate>
+      <author>Alessandro Giacchetto, Rahul Pandharipande, Yannik Schuler</author>
+      <description>&lt;p&gt;&lt;b&gt;Alessandro Giacchetto, Rahul Pandharipande, Yannik Schuler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In positive degree, equivariant Gromov-Witten invariants of Calabi-Yau fivefolds are expected to admit an interpretation in terms of M2-branes, while we conjecture that constant maps are governed by the corresponding supergravity index. We make the first expectation precise by proposing a modular interpretation of M2-branes supported on several smooth curves meeting at an $n$-fold point. Together, the two pictures yield conjectural formulas for the Gromov-Witten invariants, which we translate into closed formulas for pointed and unpointed quintuple Hodge integrals. We show that these conjectures imply a K-theoretic Gromov-Witten/Pairs correspondence for local curves in degree one and link the generating series of constant maps to Donaldson-Thomas theory of points. We also prove the conjectures in two limits of the equivariant parameters. Along the way, we obtain new closed formulas for certain triple Hodge integrals.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.02409"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Isomonodromic Deformations for Linear $q$-Difference Systems of Degree One</title>
+      <link>https://arxiv.org/abs/2609.02952</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.02952</guid>
+      <pubDate>Wed, 02 Sep 2026 00:21:12 +0000</pubDate>
+      <author>Yiming Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Yiming Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct isomonodromy transformations for linear $q$-difference systems of the form $Y(qz)=A(z)Y(z)$, where $A(z)=A_0+z A_1$ has diagonal leading coefficient. These transformations shift eigenvalues of the leading coefficient $A_1$ together with roots of $\det A(z)$. They lift compatibility to the right eigenpairs of $A(z)$, yielding a discrete local tau function. The resulting deformation equations preserve the Birkhoff connection matrix, and reduce in their $q\to 1$ limit to the isomonodromic deformation of a meromorphic connection on $\mathbb P^1$ with an irregular singularity of Poincaré rank one at $\infty$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.02952"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virasoro Constraints for Orbifold Curves</title>
+      <link>https://arxiv.org/abs/2609.01300</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01300</guid>
+      <pubDate>Tue, 01 Sep 2026 14:29:20 +0000</pubDate>
+      <author>Jianxun Hu, Pengrong Jin, Hua-Zhong Ke, Jingwei Lu, Hsian-Hua Tseng, Longting Wu</author>
+      <description>&lt;p&gt;&lt;b&gt;Jianxun Hu, Pengrong Jin, Hua-Zhong Ke, Jingwei Lu, Hsian-Hua Tseng, Longting Wu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the Virasoro constraints for the relative Gromov--Witten theory of all smooth projective effective orbifold curves, allowing relative conditions at ordinary points. The absolute Jiang--Tseng Virasoro conjecture for smooth projective effective orbifold curves follows as a corollary.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.01300"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wall-crossing formula and genus-one Virasoro conjecture for Fano complete intersections</title>
+      <link>https://arxiv.org/abs/2608.29870</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.29870</guid>
+      <pubDate>Sun, 30 Aug 2026 15:57:33 +0000</pubDate>
+      <author>Shuai Guo, Qingsheng Zhang, Yang Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Qingsheng Zhang, Yang Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The Virasoro conjecture predicts a set of universal relations among all genera Gromov--Witten invariants of any smooth projective variety. The conjecture is well understood for semisimple theories, but remains largely open in the non-semisimple setting. We prove the genus-one Virasoro conjecture on the ambient state space of smooth Fano complete intersections in projective space. For most of these complete intersections, the big quantum cohomology is nowhere semisimple. We also generalize the wall-crossing formula for quasimap invariants with weighted markings to the equivariant twisted setting, allowing descendant insertions at light markings. Together with genus-one quantum Lefschetz for quasimaps with light markings, this wall-crossing formula provides the key bridge from the Gromov--Witten theory of the complete intersection to the semisimple equivariant twisted theory of the projective space.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.29870"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Difference equations of average entropies</title>
+      <link>https://arxiv.org/abs/2608.27829</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27829</guid>
+      <pubDate>Fri, 28 Aug 2026 01:53:15 +0000</pubDate>
+      <author>Youyi Huang, Linfeng Wei, Lu Wei, Peter J. Forrester</author>
+      <description>&lt;p&gt;&lt;b&gt;Youyi Huang, Linfeng Wei, Lu Wei, Peter J. Forrester&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy, tau function, tau functions, tau-function, tau-functions · math-ph, cs.IT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Exact cumulants of entanglement entropies of random state ensembles have traditionally been studied within the random matrix framework. In this work, we propose an alternative approach based on the intrinsic connection to integrable systems. The central idea is to embed entropic quantities into tau functions satisfying Toda-type lattice equations, which in turn yield linear difference equations for their averages. Directly solving the difference equations recovers exact entropy formulas in the literature. The integrable systems approach bypasses the case-by-case, ensemble-dependent derivations required by random matrix methods. The approach also suggests a possible route towards unified and more efficient higher-order cumulant calculations by exploring integrable hierarchies.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.27829"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sato-theoretic construction of the anti-self-dual Yang-Mills hierarchy and the Ward conjecture</title>
+      <link>https://arxiv.org/abs/2608.25647</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.25647</guid>
+      <pubDate>Wed, 26 Aug 2026 11:24:42 +0000</pubDate>
+      <author>Shangshuai Li, Da-jun Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Shangshuai Li, Da-jun Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop the Sato-theoretic dressing framework for the anti-self-dual Yang-Mills (ASDYM) hierarchy based on a normalized Riemann-Hilbert decomposition. A four-sector expansion of the generating function yields a bi-infinite matrix array of relative coordinates, extending the affine coordinates on the big cell of the Sato Grassmannian. We derive the Sato-Wilson equations, continuous coordinate flows, and their discrete analogues. Several classical integrable hierarchies are recovered under dimensional reduction constraints, with their nonlinear variables identified as specific relative coordinates.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.25647"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Splitting and loop theorems in logarithmic Gromov--Witten theory</title>
+      <link>https://arxiv.org/abs/2608.24718</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.24718</guid>
+      <pubDate>Tue, 25 Aug 2026 15:34:55 +0000</pubDate>
+      <author>Leo Herr, David Holmes, Pim Spelier</author>
+      <description>&lt;p&gt;&lt;b&gt;Leo Herr, David Holmes, Pim Spelier&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We define a new theory of logarithmic Gromov--Witten invariants allowing negative contact orders using pierced logarithmic curves. We prove that these classes satisfy logarithmic birational invariance and satisfy loop and splitting theorems generalising those for classical Gromov--Witten invariants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.24718"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The transformations of the mToda hierarchy in tau functions</title>
+      <link>https://arxiv.org/abs/2608.24185</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.24185</guid>
+      <pubDate>Tue, 25 Aug 2026 07:51:10 +0000</pubDate>
+      <author>Wenchuang Guan, Shen Wang, Bailin Zhang, Jipeng Cheng</author>
+      <description>&lt;p&gt;&lt;b&gt;Wenchuang Guan, Shen Wang, Bailin Zhang, Jipeng Cheng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we investigate the modified Toda (mToda) hierarchy, which can be regarded as the 2-component first modified Kadomtsev-Petviashvili (mKP) hierarchy. We first investigate the connection between the Toda and mToda tau functions. Based on this, we construct the transformations for the mToda tau functions and Lax operators. Furthermore, we present the mToda squared eigenfunction symmetries and derive the Adler-Shiota-van Moerbeke (ASvM) formula, which plays a crucial role by connecting the actions of the additional symmetries on the wave functions with the Sato--Bäcklund transformations of the tau functions. Finally, by establishing the equivalence between the actions of vertex operators on the mToda tau functions and the multi-step mToda transformations, we derive the mToda addition formulas, also known as the generalized Fay identities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.24185"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum invariance under non-smooth toric flops of the simplest type</title>
+      <link>https://arxiv.org/abs/2608.24066</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.24066</guid>
+      <pubDate>Tue, 25 Aug 2026 04:53:20 +0000</pubDate>
+      <author>Tsung-Chen Chen, Jia-Hua Chong, Hui-Wen Lin</author>
+      <description>&lt;p&gt;&lt;b&gt;Tsung-Chen Chen, Jia-Hua Chong, Hui-Wen Lin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For a non-smooth toric flop of the simplest type, we provide the $\textit{quantum product formulas}$ and construct the $\textit{degree-preserving}$ quantum correspondence via $\textit{generalized}$ analytic continuation which is achieved through a $\textit{regularization}$ map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for $\textit{all genera}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.24066"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Total Inner Products and Cyclic Chern-Simons Forms</title>
+      <link>https://arxiv.org/abs/2608.20495</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20495</guid>
+      <pubDate>Thu, 20 Aug 2026 18:31:03 +0000</pubDate>
+      <author>Pavel Giterman, Jake P. Solomon</author>
+      <description>&lt;p&gt;&lt;b&gt;Pavel Giterman, Jake P. Solomon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.QA, hep-th, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce the notion of a total inner product on an $A_\infty$-algebra, and a cyclic Chern-Simons form associated to a topologically nilpotent element. The total inner product applied to the cyclic Chern-Simons form gives a superpotential function that is gauge invariant on solutions of the Maurer-Cartan equation known as bounding cochains. The derivative of the superpotential is computed. The definition of total inner product replaces strict symmetries that appear in previous notions of homotopy inner products with symmetries up to an infinite family of coherent homotopies. We show how to recover previous notions of homotopy inner products as special cases of total inner products. Total inner products are designed to facilitate the definition of descendent open Gromov-Witten invariants. The definitions of the total inner product and the cyclic Chern-Simons form use the total complex of cyclic codifferential forms, which gives a chain model for cyclic homology. We give explicit formulas for homotopy equivalences with other known models. We discuss also the notion of an $\infty$-trace, which arises from Connes&amp;#x27; cyclic complex, and the associated $\infty$-modulus, which gives another gauge-invariant function on bounding cochains. In open Gromov-Witten theory, the $\infty$-modulus is used to normalize the bounding cochains to which the superpotential is applied. We develop our definitions for general curved Banach $A_\infty$-algebras, and give both unital and non-unital versions of the main results. In the unital setting, we work with weak bounding cochains, solutions of an inhomogeneous Maurer-Cartan equation involving the unit. Weak bounding cochains arise in the open Gromov-Witten theory of Lagrangian submanifolds with non-vanishing Maslov class. The derivative of the superpotential at a weak bounding cochain is related to the derivative of the $\infty$-modulus.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.20495"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>All-Genus Large-Degree Asymptotics for Gromov--Witten Invariants of the Projective Plane</title>
+      <link>https://arxiv.org/abs/2608.18883</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18883</guid>
+      <pubDate>Wed, 19 Aug 2026 13:03:42 +0000</pubDate>
+      <author>Shuai Guo, Gang Tian, Tianhang Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Gang Tian, Tianhang Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This is the first part of a series of papers on the large-degree asymptotics of Gromov--Witten invariants. In this paper, we prove complete large-degree asymptotic expansions, at every fixed genus, for the primary Gromov--Witten invariants of the complex projective plane. The proof uses singularity analysis to transfer the local expansions of generating functions at their dominant singularities to asymptotic expansions of Gromov--Witten invariants. The genus-zero asymptotic expansion is obtained from an analysis of the Witten--Dijkgraaf--Verlinde--Verlinde (WDVV) equation. The higher-genus cases are obtained from the Givental--Teleman reconstruction theorem for semisimple cohomological field theories and from the graph-sum formula for the $R$-matrix action.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.18883"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gromov-Witten theory of abelian varieties in families and modular forms</title>
+      <link>https://arxiv.org/abs/2608.16737</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16737</guid>
+      <pubDate>Mon, 17 Aug 2026 15:47:50 +0000</pubDate>
+      <author>Georg Oberdieck</author>
+      <description>&lt;p&gt;&lt;b&gt;Georg Oberdieck&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This is the first paper in a series on the Gromov-Witten theory of the universal abelian variety over the moduli space of principally polarized abelian varieties of dimension $h$. We conjecture that the generating series of Gromov-Witten classes, when summed over the degree against the principal polarization, is a cycle-valued quasimodular form for $\mathrm{SL}_2(\mathbb{Z})$ and satisfy a holomorphic anomaly equation. These conjectures generalize the quasimodularity of the Gromov-Witten theory of elliptic curves to higher dimension and raise interesting questions regarding enumerative mirror symmetry for abelian varieties. In genus $1$ it specializes to a conjecture of Greer and Lian which was proven by Iribar Lopez after tautological projection. We also discuss a special family of abelian varieties with a conjectural relation to Siegel quasimodular forms of higher genus. The main result of the paper is a proof of the conjectures in genus $2$ after tautological projection. For that we introduce quotient Gromov-Witten invariants which are indexed by the characteristic polynomial of the curve class and are shown to determine all descendent Gromov-Witten invariants satisfying a degree conditions. We then give an explicit formula for all genus $2$ quotient invariants after tautological projection as the Shimura lift of the product of two Eisenstein series. The formula is based on a curious modular identity derived in a joint appendix with Brandon Williams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.16737"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bootstrapping bilinear relations of discrete Painlevé systems from 5d gauge theories</title>
+      <link>https://arxiv.org/abs/2608.15756</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.15756</guid>
+      <pubDate>Sun, 16 Aug 2026 14:16:14 +0000</pubDate>
+      <author>Minsung Kim, Xin Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Minsung Kim, Xin Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study tau-functions of elliptic and $ q $-Painlevé equations through their correspondence with 5d $ \mathcal{N}=1 $ supersymmetric field theories. Defining tau-functions associated with 5d field theories in terms of partition functions on the $ Ω$-background, we propose a bootstrap method that determines their bilinear relations from the effective prepotential and the perturbative contributions, together with the global symmetry of the theory. Applying the method to 5d $ \mathrm{SU}(2) $ gauge theories coupled to $ N_f \leq 8 $ fundamental hypermultiplets, we obtain the bilinear relations of the elliptic and $ q $-Painlevé equations. This method can be applied to general 5d supersymmetric field theories beyond $ \mathrm{SU}(2) $ gauge theories.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.15756"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neveu--Schwarz Irregular Vertex Operators, Decomposition Theorems, and Bilinear Operators</title>
+      <link>https://arxiv.org/abs/2608.12727</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12727</guid>
+      <pubDate>Thu, 13 Aug 2026 02:14:52 +0000</pubDate>
+      <author>Hajime Nagoya</author>
+      <description>&lt;p&gt;&lt;b&gt;Hajime Nagoya&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct rank-zero irregular vertex operators for the Neveu--Schwarz algebra as linear maps between irregular Verma modules of the same rank satisfying the usual superconformal commutation relations and an irregular asymptotic condition. Under the nondegeneracy assumption $Λ_{2p}\neq0$, we prove their existence and uniqueness. We then extend the decomposition theorem for the Neveu--Schwarz algebra to the irregular setting: the tensor product of the free-fermion Fock module with a rank-$p$ Neveu--Schwarz irregular Verma module decomposes into an infinite direct sum of tensor products of two Virasoro irregular Verma modules. We also prove a compatible decomposition of the irregular vertex operators into tensor products of Virasoro irregular vertex operators. Using suitable pairings and mode insertions, we derive bilinear differential equations for weighted sums of products of Virasoro irregular conformal blocks of types $(0,0,1)$ and $(0,2)$. After explicit parameter identifications and a gauge transformation in the Painlevé V case, the resulting bilinear differential operators agree with those appearing in the quantum Painlevé V and IV tau-function equations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.12727"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Differential equations for bipartite maps with bounded face degrees</title>
+      <link>https://arxiv.org/abs/2608.10772</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.10772</guid>
+      <pubDate>Tue, 11 Aug 2026 10:26:18 +0000</pubDate>
+      <author>Valentin Bonzom</author>
+      <description>&lt;p&gt;&lt;b&gt;Valentin Bonzom&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math.CO, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In recent years, integrable hierarchies have been used to great advantage for the enumeration of combinatorial maps. They have led to recurrence formulas with respect to the size and genus of the maps, e.g. for triangulations, bipartite quadrangulations and bipartite maps, and for constellations. These formulas are not only remarkably simple but also provide the fastest way of calculating these numbers of maps. With the exception of Louf&amp;#x27;s work on constellations, it has however remained a challenge to obtain recurrence formulas that control the degrees of the faces of the maps. Here we show how to achieve this for bipartite maps with bounded face degrees. By combining equations from the KP hierarchy and from the Virasoro constraints, a differentially algebraic system is obtained. It couples the generating functions of bipartite maps with bounded root face degrees while controlling the numbers of edges, black vertices, white vertices and number of faces of each degree (and in particular the genus). Finally, this system of ODEs is shown to give recurrence formulas that allows to calculate all the corresponding numbers of maps.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.10772"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An explicit four-corner dictionary for (2,p) minimal Liouville gravity</title>
+      <link>https://arxiv.org/abs/2608.08669</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.08669</guid>
+      <pubDate>Sun, 09 Aug 2026 12:23:56 +0000</pubDate>
+      <author>A. Alexandrov, V. Belavin</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Alexandrov, V. Belavin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;(2,p) minimal Liouville gravity admits four algebraic descriptions interrelated by dualities. On the Frobenius manifold (FM) side the theory is built either on the $A_{1}$ manifold of $Q(y)=y^{2}+u_{1}$ ($y$-side) or on the $A_{p-1}$ manifold in the variable $x$ ($x$-side). On the spectral curve / topological recursion (SC) side the analogous choice is the Chebyshev curve and its $x\leftrightarrow y$ swap. FM-$y$, SC-$y$ require a resonance transformation between the KdV times and the Liouville couplings, while the other two do not. We work out the explicit correspondence between the four approaches at the level of the dispersionless tau-function. The normalisation-independent three-point ratios agree with conformal field theory in all four formulations, and matching the full amplitudes fixes a single per-insertion factor reproducing the signed Verlinde matrices. We use the Kharchev--Marshakov integral transform of the basis functions, whose determinant gives an explicit relation between the corresponding tau-functions and realises the $x\!\leftrightarrow\! y$ swap at genus zero. Once the independently fixed linear SC-$x$ normalisation is imposed, the Laurent deformation in the second coordinate gives an alternative genus-zero derivation of the known compact resonance transformation for the whole (2,p) series, including all mixed coefficients.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.08669"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elliptic curve counting in toric threefolds: virtual, enumerative, and tropical</title>
+      <link>https://arxiv.org/abs/2608.05486</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05486</guid>
+      <pubDate>Thu, 06 Aug 2026 00:32:39 +0000</pubDate>
+      <author>Sae Koyama</author>
+      <description>&lt;p&gt;&lt;b&gt;Sae Koyama&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the enumerative geometry of elliptic curves in toric threefolds. We consider enumerative integer invariants, called well-spaced counts, which can be studied using well-spaced genus-one tropical curves in $\mathbb{R}^3$. By comparing this with the logarithmic degeneration formula, we obtain an explicit relationship between logarithmic virtual invariants and these geometric invariants. The result is a logarithmic analogue of a formula of Getzler--Pandharipande for elliptic curves in $\mathbb{P}^3$. As an application, we show that the virtual logarithmic invariants for $\mathbb{P}^3$ with respect to its toric boundary are strictly less than the ordinary Gromov--Witten invariants once the degree is sufficiently large. Several examples are included.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.05486"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Tau function for $q$-Painlevé VI as a Fredholm determinant</title>
+      <link>https://arxiv.org/abs/2608.03345</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.03345</guid>
+      <pubDate>Tue, 04 Aug 2026 08:54:49 +0000</pubDate>
+      <author>Harini Desiraju, Pieter Roffelsen</author>
+      <description>&lt;p&gt;&lt;b&gt;Harini Desiraju, Pieter Roffelsen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, math.CA, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give an analytic construction of a tau function for the $q$-difference sixth Painlevé equation ($q$PVI) as a Fredholm determinant through the general Riemann-Hilbert problem associated with it. We show that the tau function is an analytic function on its domain of definition that vanishes at a particular point if and only if the corresponding Riemann-Hilbert problem is point-wise not solvable there. We express the corresponding $q$PVI transcendents in terms of the tau function as well as three copies of it with some of the parameters shifted. Then the vanishing of any of these four tau functions corresponds to the transcendents taking value in a specific corresponding exceptional line on the initial value space of $q$PVI. Finally, we derive an asymptotic expansion of the tau function for small times $t$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.03345"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Explicit description of certain 3-point K-theoretic Gromov-Witten invariants for flag manifolds</title>
+      <link>https://arxiv.org/abs/2608.00359</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.00359</guid>
+      <pubDate>Sat, 01 Aug 2026 00:14:54 +0000</pubDate>
+      <author>Satoshi Naito, Daisuke Sagaki</author>
+      <description>&lt;p&gt;&lt;b&gt;Satoshi Naito, Daisuke Sagaki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.QA, math.AG, math.CO, math.KT, math.RT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give an explicit description, in terms of the quantum Bruhat graph, of the (torus-equivariant) 3-point, genus 0, $K$-theoretic Gromov-Witten invariants $\langle \mathcal{O}(- λ), \mathcal{O}^{w}, \mathcal{O}_{u} \rangle_{d}$ for the (full) flag manifold $X = G/B$, where $\mathcal{O}(- λ)$ denotes the class in the (torus-equivariant) $K$-theory ring $K_{T}(X)$ of $X$ of the line bundle $\mathcal{O}_{X}(- λ) = G \times_{B} \mathbb{C}_λ$ over $X = G/B$ associated to a weight $λ\in W \varpi_i$ lying in the Weyl group orbit of a minuscule fundamental weight $\varpi_i$, and $\mathcal{O}_{u}$, $\mathcal{O}^{w}$ are the Schubert and opposite Schubert classes in $K_{T}(X)$ for $u, w \in W$. This result can be thought of as a partial generalization of the quantum $K$-theoretic divisor axiom, which we obtained in our previous work; our proof utilizes a generalization of the Chevalley formula in the (torus-equivariant) quantum $K$-theory ring $QK_{T}(X)$ of $X$, which computes the quantum product with the line bundle class $\mathcal{O}(- λ)$ associated to the weight $λ$ above.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2608.00359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrability in Asymptotic Symmetries of Spacetime: the $\text{BMS}_3$ scenario</title>
+      <link>https://arxiv.org/abs/2607.28454</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.28454</guid>
+      <pubDate>Thu, 30 Jul 2026 16:19:28 +0000</pubDate>
+      <author>Corentin Vitel</author>
+      <description>&lt;p&gt;&lt;b&gt;Corentin Vitel&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math-ph, gr-qc&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We revisit the proof of a $\mathfrak{bms}_3-$integrable hierarchy introduced in Fuentealba et al. (JHEP, 2018), using different structural methodologies. Specifically, from the variational complex on the ring of polynomial symbols, a $\mathfrak{bms}_3$ bi-Hamiltonian structure is constructed on which a Nijenhuis operator can be attached. A similar argument is made for the $\mathrm{AdS}_3$ case, where we check that the flat limit of the latter recovers the asymptotically flat situation. An alternative $τ-$scheme description is also presented. Moreover, a Lie-Poisson description suggests that such a $\mathfrak{bms}_3-$hierarchy is not unique. For a subclass of so-called energy-dependent Schrödinger operators, it is shown that their Lax flows are described by the coadjoint orbits of $\mathfrak{bms}_3$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.28454"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tau functions of the constrained matrix KP hierarchy</title>
+      <link>https://arxiv.org/abs/2607.25596</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.25596</guid>
+      <pubDate>Tue, 28 Jul 2026 11:27:55 +0000</pubDate>
+      <author>Xiaohan Fan, Jipeng Cheng, Jinbiao Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Xiaohan Fan, Jipeng Cheng, Jinbiao Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The constrained matrix KP hierarchy $(L^{k})_{&amp;lt;0}=\sum_{i=1}^{m}Q_{i}\partial^{-1}R_{i}^{\intercal}$ is investigated from the aspects of tau functions. Firstly, the matrix KP hierarchy is viewed as one special reduction of the multi-component KP hierarchy. Then bilinear equations of the constrained matrix KP hierarchy as the multi-component KP hierarchy are given in terms of tau functions. Finally based upon these results, the tau functions for the constrained matrix KP hierarchy are constructed by using the multi-component boson-fermion correspondence. Notice that the solutions of the constrained matrix KP hierarchy are derived without using quasi-determinants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.25596"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loop Algebra Splitting and Darboux Transformations for Nonlocal Derivative Nonlinear Schrödinger Hierarchies</title>
+      <link>https://arxiv.org/abs/2607.23422</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.23422</guid>
+      <pubDate>Sun, 26 Jul 2026 02:39:51 +0000</pubDate>
+      <author>Ziqi Li, Zhiwei Wu</author>
+      <description>&lt;p&gt;&lt;b&gt;Ziqi Li, Zhiwei Wu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a unified algebraic framework for nonlocal derivative nonlinear Schrödinger (DNLS)-type hierarchies based on loop algebra splittings. Within this framework, nonlocal and reverse space-time reductions are realized through algebraic constraints, leading to the corresponding integrable hierarchies. By constructing simple elements and establishing the associated factorization theory, we derive Darboux transformations (DTs). And apply DTs to construct explicit solutions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.23422"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mersenne Representation, the Conolly Sequence, and Soliton Profiles over Finite Fields</title>
+      <link>https://arxiv.org/abs/2607.22202</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.22202</guid>
+      <pubDate>Fri, 24 Jul 2026 11:16:33 +0000</pubDate>
+      <author>Fumitaka Yura</author>
+      <description>&lt;p&gt;&lt;b&gt;Fumitaka Yura&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math.CO, math.DS, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the Mersenne representation of nonnegative integers and its decomposition into the binary and nonbinary sides. The nonbinary values form A055938, and their successor structure gives a direct proof of the relation between A055938 and A080578 that is recorded as conjectural in the OEIS entry for A080578. The binary-side counting function is identified with a shifted Conolly sequence. We then develop the parent map, truncation blocks, truncation remainders, and the Mersenne tau function associated with this representation. The parent map is conjugate to deletion of the lowest digit. Differences of the Mersenne tau rows recover the parent iterates and the counting function, and they give formulas for digit reconstruction and for a diagonal tau defect. Finally, we revisit a known finite-depth one-soliton family of the finite-field BBS. The Mersenne combinatorics is used directly to reconstruct a global integer-valued traveling-wave profile and to prove an integer window-counting theorem. Reduction modulo 3 yields the corresponding finite-field traveling-wave solutions. We also construct an integer-valued traveling-wave tau function whose front values are given by the Mersenne tau rows. The resulting construction shows how the combinatorics of a number representation can enter directly into the reconstruction of solutions of an integrable system.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.22202"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tau functions and correlation functions of the bosonic universal character hierarchy</title>
+      <link>https://arxiv.org/abs/2607.18780</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.18780</guid>
+      <pubDate>Tue, 21 Jul 2026 07:03:00 +0000</pubDate>
+      <author>Denghui Li, Jinzhou Liu, Zhaowen Yan</author>
+      <description>&lt;p&gt;&lt;b&gt;Denghui Li, Jinzhou Liu, Zhaowen Yan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This paper is concerned with the construction of the bosonic universal character (UC) hierarchy, whose tau functions are investigated within the framework of charged free bosons. The Lie algebra corresponding to the bosonic UC hierarchy is $\mathfrak{\widehat{gl}}_{2\infty}$. It is shown that the tau functions of bosonic UC hierarchy can be represented based on a series of ordered exponential operators. Furthermore, we derive correlation functions of the bosonic UC hierarchy, which can be expressed as the product of UCs. It is worth noting that the correlation functions of the bosonic UC hierarchy are the inverse of the correlation functions of the generalized phase model.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.18780"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Toda hierarchy for the stationary theory of the tube with negative contact orders</title>
+      <link>https://arxiv.org/abs/2607.18656</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.18656</guid>
+      <pubDate>Tue, 21 Jul 2026 02:57:57 +0000</pubDate>
+      <author>Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct a master $2$-Toda tau sequence for the stationary relative theory of $(\PP^1,0,\infty)$ with any fixed finite lists of negative contacts. The negative-contact blocks are encoded by finite products of exponentials of infinite-wedge Lie algebra elements, with the block at $\infty$ taken as the adjoint of the entire corresponding left block. After adjoining independent positive-profile Toda times, the resulting charged-vacuum matrix elements form a genuine $2$-Toda tau sequence. Following the standard $Q,u$ specialization, its positive signed-degree coefficients recover the stationary relative Gromov--Witten invariants with the prescribed positive and negative contacts, which occur in and are constrained by the induced coefficientwise Hirota equations. The master tau sequence is larger than the enumerative sector: it generally contains nonzero, non-vacuum signed-degree-zero coefficients, as well as auxiliary nonzero lattice components, for which no enumerative interpretation is asserted. Consequently the Hirota equations form a coupled master system and do not, without additional input, close on the positive-degree invariants alone. The construction uses the large-root definition of negative contact, the Johnson--Kumaran--Wu operator formula for the tube, and the Kyoto/Plücker construction of the $2$-Toda hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.18656"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(1,k) CFT and RH problem with the c=-2 case</title>
+      <link>https://arxiv.org/abs/2607.18120</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.18120</guid>
+      <pubDate>Mon, 20 Jul 2026 16:14:58 +0000</pubDate>
+      <author>Mikhail Bershtein, Andrei Grigorev, Anton Shchechkin</author>
+      <description>&lt;p&gt;&lt;b&gt;Mikhail Bershtein, Andrei Grigorev, Anton Shchechkin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Following approach of Iorgov--Lisovyy--Teschner, we construct solutions of the (modified) Riemann--Hilbert problem using conformal blocks of $(1,k)$ Virasoro models. For $k&amp;gt;1$ case, the solution of this Riemann--Hilbert problem is not unique due to more singular behavior at punctures. On the CFT side the dimension of the space of conformal blocks also increases. We specifically study the $k=2$ case, which corresponds to the central charge $c=-2$ and symplectic fermions. We explicitly construct a corresponding solution of the modified Riemann--Hilbert problem in the case of 3 punctures and prove its uniqueness under suitable initial data conditions. We also obtain new bilinear relations for $c=-2$ tau functions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.18120"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baxter Q-operators from a Schwinger-Boson construction of the master T-operator and the mKP hierarchy</title>
+      <link>https://arxiv.org/abs/2607.17642</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.17642</guid>
+      <pubDate>Mon, 20 Jul 2026 07:55:13 +0000</pubDate>
+      <author>Zengo Tsuboi</author>
+      <description>&lt;p&gt;&lt;b&gt;Zengo Tsuboi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The master T-operator is a generating function for transfer matrices and a tau-function of the modified KP (mKP) hierarchy. It is conventionally introduced through a Schur-function expansion whose coefficients are fused transfer matrices satisfying the Cherednik--Bazhanov--Reshetikhin determinant formula. For rational inhomogeneous gl(M) spin chains, we give an alternative definition: we realize gl(M) on an auxiliary Fock space generated by finitely many families of Schwinger bosons, form a monodromy matrix from the resulting L-operator, and define the master T-operator as its trace over the Fock space. Howe duality then reproduces the Schur-function expansion. This realization relates two constructions of Baxter Q-operators. In the construction of [arXiv:1112.3310] (see also [arXiv:1010.4022]), the Q-operators are obtained from residues of the master T-operator with respect to selected Miwa variables. In the construction of [arXiv:1010.3699], they are defined using degenerate Yangian L-operators in oscillator form. When selected Miwa variables approach the inverses of boundary-twist eigenvalues, the defining trace develops poles. After a suitable rescaling of this L-operator, only the terms contributing to the highest-order pole survive in the normalized limit; before the trace is taken, they form the degenerate Yangian L-operator of the second construction. The trace then gives an explicit residue formula for the corresponding Q-operator. Independently, a Holstein--Primakoff-type large-occupation-number contraction of this L-operator on subspaces with fixed total occupation numbers yields the same degenerate Yangian L-operator.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.17642"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finite Group Reduction of the DR/DZ Hierarchies</title>
+      <link>https://arxiv.org/abs/2607.16607</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.16607</guid>
+      <pubDate>Sat, 18 Jul 2026 03:05:34 +0000</pubDate>
+      <author>Si-Qi Liu, Youjin Zhang, Tianwen Zhong</author>
+      <description>&lt;p&gt;&lt;b&gt;Si-Qi Liu, Youjin Zhang, Tianwen Zhong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten, integrable hierarchies, integrable hierarchy · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the finite group reduction of the Dubrovin-Zhang/Double Ramification hierarchy associated with a semisimple CohFT preserves its bihamiltonian structure and its tau structure. By applying this result to the orbifold Gromov-Witten theory with the target $\mathbb{P}^1_{2,2,2,2}$, we obtain two non-equivalent integrable hierarchies which can be associated with the Frobenius manifold structure on the Hurwitz space $M_{1;1}$, and we show that one of them is equivalent to the genus one topological recursion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.16607"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dispersionless modified DKP hierarchy as the Yang-Baxter equation</title>
+      <link>https://arxiv.org/abs/2607.09180</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.09180</guid>
+      <pubDate>Fri, 10 Jul 2026 08:14:31 +0000</pubDate>
+      <author>A. Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the dispersionless version of the modified DKP hierarchy originally defined as the limit of relations for the tau-function of the Hirota-Miwa type has an equivalent reformulation as the Yang-Baxter equation for Baxter&amp;#x27;s $R$-matrix of Boltzmann weights for the 8-vertex model.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.09180"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold</title>
+      <link>https://arxiv.org/abs/2607.07355</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.07355</guid>
+      <pubDate>Wed, 08 Jul 2026 12:48:47 +0000</pubDate>
+      <author>Bohan Fang, Zhuoming Lan, Jingxiang Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Bohan Fang, Zhuoming Lan, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove a closed-string remodeling statement for the affine binary dihedral Calabi--Yau orbifold threefold $\mathcal X=[\mathbb C^2/Γ\times\mathbb C]$, where $Γ$ is a binary dihedral subgroup of $SU(2)$. This target lies outside the toric setting of the Bouchard--Klemm--Mariño--Pasquetti remodeling conjecture: the toric mirror curve is replaced by the type-$D_l$ logarithmic Toda curve of Brini--Ma--Strachan, and the Chekhov--Eynard--Orantin topological recursion is replaced by the $\mathbb Z_2$-equivariant topological recursion of Giacchetto--Kramer--Lewański, run in the sign sector of the Toda-curve involution with the Prym kernel as its two-point input. We identify the equivariant orbifold quantum cohomology Frobenius manifold of $\mathcal X$ with the invariant Jacobian Frobenius structure of the Toda curve, and we prove that the B-model $R$-matrix, defined by regularized stationary phase, equals the A-side normalized canonical Givental--Teleman $R$-matrix on the smooth oscillatory chamber; this equality is anchored at the orbifold point through a semistable degeneration of the Toda curve. Comparing the resulting Givental--Teleman and Dunin-Barkowski--Orantin--Shadrin--Spitz graph sums then identifies, after a parity-twisted leaf substitution, the sign-sector recursion with the descendant Gromov--Witten generating functions of $\mathcal X$ in the stable range ($2g-2+n&amp;gt;0$ with $n&amp;gt;0$), and identifies the recursion free energies with the equivariant Gromov--Witten free energies of $\mathcal X$ for $g\geq2$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.07355"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unitary matrix models, quantized symmetric functions and spin chain</title>
+      <link>https://arxiv.org/abs/2607.06384</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.06384</guid>
+      <pubDate>Tue, 07 Jul 2026 15:22:01 +0000</pubDate>
+      <author>Gao-fu Ren</author>
+      <description>&lt;p&gt;&lt;b&gt;Gao-fu Ren&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct a correspondence between a broad class of unitary matrix models and vacuum correlation functions in quantum spin-chain Hilbert spaces. The key step is to lift symmetric functions to operators acting on the $N$-magnon sector in a way that preserves the relevant ring structure. For any unitary matrix model whose integrand admits a factorized expansion in symmetric functions, the Schur orthogonality of the unitary group integral is then translated into the inner product of quantized Schur states. We illustrate the construction for the Gross--Witten--Wadia model, superconformal indices of $\mathcal{N}=4$ super Yang--Mills theory with classical gauge groups, and Toda tau functions. The resulting operator formulation provides a unified algebraic bridge between unitary matrix integrals, quantum integrable systems and symmetric function theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.06384"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Noncommutative Cartier Formulae</title>
+      <link>https://arxiv.org/abs/2607.05360</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.05360</guid>
+      <pubDate>Mon, 06 Jul 2026 17:36:47 +0000</pubDate>
+      <author>Semon Rezchikov</author>
+      <description>&lt;p&gt;&lt;b&gt;Semon Rezchikov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AT, math.AG, math.KT, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove, for every $\mathbb{E}_1$ algebra $A$, a formula describing the interaction of the action of the cap product on topological Hochschild homology of $A$ with the cyclotomic structure map, as well as a variant of this result relative to a ring $R$. Specializing to $R = \mathbb{F}_p$ gives a noncommutative analog of a formula of Cartier which describes the conjugation of interior product action on differential forms by the Cartier isomorphism, and which computes the $p$-curvature of the Getzler-Gauss-Manin connection in terms of an equivariant cap product. The motivation for this formula comes from symplectic geometry, where (in the case $R=\mathbb{F}_p$ or a Novikov analog) the symplectic analog of this formula explains the interaction between the cyclotomic structure on symplectic cohomology and the quantum Steenrod operations. We prove, under standard transversality and nondegeneracy assumptions on the Fukaya category, that for a Calabi-Yau symplectic manifold with rational symplectic form, the $p$-curvature of the quantum connection computes the Quantum Steenrod operations. In particular, the $p$-curvature of the quantum connections of projective Calabi-Yau hypersurfaces, and many other examples in mirror symmetry, can be interpreted in terms of $\mathbb{Z}/p\mathbb{Z}$-equivariant genus zero Gromov-Witten invariants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2607.05360"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Global Results on the Classification of Two-Component Integrable Evolutionary Systems</title>
+      <link>https://arxiv.org/abs/2606.25802</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.25802</guid>
+      <pubDate>Wed, 24 Jun 2026 13:19:05 +0000</pubDate>
+      <author>Alexander V. Mikhailov, Vladimir Novikov, Jing Ping Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander V. Mikhailov, Vladimir Novikov, Jing Ping Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive necessary and sufficient integrability conditions for two-component polynomial evolutionary systems of odd order in $(1+1)$ dimensions. Integrable systems are members of infinite hierarchies of commuting symmetries, which are characterised by their spectral invariants. We prove that there are precisely $24$ possible spectral classes of integrable hierarchies. As an application, we obtain a complete classification of integrable homogeneous hierarchies whose lowest-order equations are of order 3 and 5. The resulting classification naturally splits into two classes. The C--integrable systems are reduced, by means of differential substitutions, to linear--triangular form, while the S--integrable systems are related, through linear changes of variables and differential substitutions, to canonical Drinfeld--Sokolov KdV-type systems associated with affine Lie algebras of rank two.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.25802"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equivariant Interpolations in Topological Holography</title>
+      <link>https://arxiv.org/abs/2606.24272</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.24272</guid>
+      <pubDate>Tue, 23 Jun 2026 07:57:33 +0000</pubDate>
+      <author>Jan Troost</author>
+      <description>&lt;p&gt;&lt;b&gt;Jan Troost&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We revisit equivariant Gromov-Witten theories on P1 and on P1 x C2. One can introduce three equivariant parameters associated to rotations of the sphere as well as the two planes. A number of points in the parameter space have known holographic duals. These include the symmetric orbifold point dual to the AdS3 x S3 x C2 string theory at string scale radius of curvature, the grand canonical Hurwitz theory and the product of two Kontsevich models. Within this framework, we discuss interpolations in the equivariant parameters. Firstly, we move between the small and large equivariant parameter regimes in Gromov-Witten theory on P1. At large equivariant parameter, the model is dominated by the pure topological gravity theories at the two fixed points while at small equivariant parameter the theory is equivalent to the grand canonical Hurwitz theory. The deformation is a solvable analogue for the interpolation in the transposition coupling in the moduli space of the AdS3/CFT2 duality. Moreover, we propose that the full equivariant correspondence between the Gromov-Witten theory on P1 x C2 and the symmetric orbifold of the equivariant plane can be embedded in string theory. On the boundary side of that correspondence, we analyze the scaling limit from the equivariant to the ordinary cohomology ring for the Hilbert scheme of points on the plane in terms of Jack symmetric polynomials. We explicitly compute several structure constants of the equivariant cohomology ring and point out their intriguing positivity and integrality properties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.24272"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The KdV vacuum operator and its Katz extension</title>
+      <link>https://arxiv.org/abs/2606.23878</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.23878</guid>
+      <pubDate>Mon, 22 Jun 2026 19:26:11 +0000</pubDate>
+      <author>Martin T. Luu</author>
+      <description>&lt;p&gt;&lt;b&gt;Martin T. Luu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI, math-ph, math.RT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We define a connection on the formal disc that can be used to single out the vacuum of the Drinfeld-Sokolov KdV hierarchy associated to a simple complex finite-dimensional Lie algebra. As a connection, it has a canonical Katz extension from the disc to the sphere. We express this Katz extension in terms of the Kac coordinates of a suitable Weyl group conjugacy class. As a consequence, we show that the Katz extension has meaning in the context of the integrable hierarchy: It describes an additional symmetry.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.23878"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exact Harmonic Dimensional Reduction and Conformal Lifting for Multicomponent $(3+1)$ Nonlinear Schrödinger Systems</title>
+      <link>https://arxiv.org/abs/2606.22808</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.22808</guid>
+      <pubDate>Mon, 22 Jun 2026 03:36:47 +0000</pubDate>
+      <author>O. V. Kaptsov</author>
+      <description>&lt;p&gt;&lt;b&gt;O. V. Kaptsov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;A harmonic dimensional reduction framework is developed for $(3+1)\mathrm{D}$ systems of coupled nonlinear Schrödinger-type equations with stationary transverse trapping potentials. The central result is a lifting lemma: if the transverse phase functions are harmonic and the trapping potential exactly cancels the squared phase gradient, the full $(3+1)\mathrm{D}$ system reduces identically to a closed $(1+1)\mathrm{D}$ integrable hierarchy, and every solution of the reduced system lifts to an exact solution of the original multidimensional model. The framework is applied to four systems. For the scalar Gross--Pitaevskii equation, Kuznetsov--Ma breathers are embedded in $(3+1)\mathrm{D}$ geometries carrying vortex lattices with finite, non-singular density at the cores. For the two-component Manakov system, the phase-inversion ansatz yields exact vector solutions with vanishing mass current and non-trivial transverse spin current modulated by the longitudinal breather. For the three-component spinor $F=1$ Bose--Einstein condensate, a symmetric Kuznetsov--Ma breather and a spin-exchange rogue wave are constructed, the latter exhibiting transient density amplification by a factor of nine in the $m_F=0$ channel. For the Maxwell--Bloch system, self-induced transparency solitons, two-soliton elastic collisions, and Kuznetsov--Ma breathers are lifted to full $(3+1)\mathrm{D}$ geometry, with population inversion remaining transversely uniform despite arbitrary phase winding in the cross-section.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.22808"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An integrable semi-discretization of the two-component Hunter-Saxton equation</title>
+      <link>https://arxiv.org/abs/2606.18701</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.18701</guid>
+      <pubDate>Wed, 17 Jun 2026 05:26:45 +0000</pubDate>
+      <author>Ayako Hori, Yuta Tanaka, Ken-ichi Maruno, Yasuhiro Ohta</author>
+      <description>&lt;p&gt;&lt;b&gt;Ayako Hori, Yuta Tanaka, Ken-ichi Maruno, Yasuhiro Ohta&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we propose an integrable semi-discretization of the two-component Hunter--Saxton (2-HS) equation, the short-wave limit of the two-component Camassa--Holm (2-CH) equation. At the continuous level, we show that the 2-HS equation can be derived from a new bilinear formulation, distinct from the conventional one in the literature, via a pseudo 2-reduction and a hodograph transformation. For the semi-discrete construction, we first discretize the underlying bilinear equations in the spatial direction. We then impose the pseudo 2-reduction and apply a discrete hodograph transformation to obtain the semi-discrete system in the physical variables. To the best of our knowledge, the resulting system is the first integrable semi-discretization that preserves the two-component structure of the 2-HS equation. We construct the N-soliton solutions of the continuous and semi-discrete systems in Wronskian and Casoratian forms, respectively. The integrability of the semi-discrete system is inherited from the underlying integrable hierarchy and is further verified by a Lax pair.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.18701"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bounds for Genus Zero Gromov-Witten Invariants</title>
+      <link>https://arxiv.org/abs/2606.16997</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.16997</guid>
+      <pubDate>Mon, 15 Jun 2026 17:32:07 +0000</pubDate>
+      <author>Mark McLean</author>
+      <description>&lt;p&gt;&lt;b&gt;Mark McLean&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give a bound for the norm of each primary genus zero Gromov-Witten invariant in any smooth projective variety. This bound depends only on the maximum degree of its defining polynomials, the norms of the differential forms representing each insertion, the number of marked points and the degree of the curves. These bounds grow factorially in the number of marked points and a multiple of the degree. This implies that the Borel transform of the genus zero primary generating function converges absolutely in a particular translation of the ample cone. To prove these bounds, we start with Siebert&amp;#x27;s formula, expressing genus zero Gromov-Witten invariants in terms of the Segre class of the normal cone of the underlying moduli space inside the space of curves mapping to projective space and the Chern classes of the bundle whose fiber over a curve is the space of sections of the pulled back normal bundle. We then use this description to bound each primary Gromov-Witten invariant in terms of an intermediate count of curves called the D-volume. A deformation to the normal cone argument is then used to compare such an intermediate count with one in projective space.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.16997"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Schubert calculus of the quantum K-theory for partial flag manifolds: a 3d A-model perspective</title>
+      <link>https://arxiv.org/abs/2606.15261</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.15261</guid>
+      <pubDate>Sat, 13 Jun 2026 11:39:01 +0000</pubDate>
+      <author>Zhihao Duan, Osama Khlaif, Hao Zou</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhihao Duan, Osama Khlaif, Hao Zou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We further investigate the 3d gauged linear sigma model (GLSM)/~quantum K-theory correspondence for partial flag manifolds $X \equiv {\rm Fl}(\boldsymbol{k};n)$. This is a 3d uplift of the 2d GLSM/quantum cohomology correspondence with the 3d theory compactified on $\mathbb{R}^2\times S^1_β$. Recently, a set of half-BPS line operators, called Schubert line defects, were constructed that correspond to the Schubert classes in the K-theory ring of $X$. Utilizing algebro-geometric algorithms, we compute $2$-point and $3$-point correlation functions of these line operators in the 3d A-model regime of the theory. These are interpreted as genus-$0$ K-theoretic Gromov--Witten invariants, and they produce the K-theoretic Littlewood--Richardson coefficients of the quantum K-theory ring of $X$. We show how this works explicitly in examples, going beyond the existing results in the literature. Taking the small $β$ limit, we apply these techniques to the resulting 2d GLSM. We explicitly compute the quantum cohomology ring relations of $X$ for some cases and match with existing results in the literature in examples.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.15261"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elliptic orbifold lines and integrable hierarchies</title>
+      <link>https://arxiv.org/abs/2606.08909</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.08909</guid>
+      <pubDate>Mon, 08 Jun 2026 01:21:53 +0000</pubDate>
+      <author>Todor Milanov</author>
+      <description>&lt;p&gt;&lt;b&gt;Todor Milanov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In 2003, Givental and the author constructed Hirota quadratic (or bilinear) equations for simple singularities -- a result later utilized by Fan, Jarvis, and Ruan to establish the generalized Witten conjecture. Whether this construction extends to broader classes of singularities has since remained an open question. In this paper, we resolve this question affirmatively for simple elliptic singularities. More precisely, using mirror symmetry, we construct Hirota quadratic equations for simple elliptic singularities by showing that the Gromov--Witten invariants of the elliptic orbifold lines satisfy a system of bilinear equations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.08909"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equivariant Quantum Cohomology of Grassmannians via the Clifford algebra</title>
+      <link>https://arxiv.org/abs/2606.06352</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.06352</guid>
+      <pubDate>Thu, 04 Jun 2026 16:21:22 +0000</pubDate>
+      <author>Christian Korff, Mikhail Vasilev</author>
+      <description>&lt;p&gt;&lt;b&gt;Christian Korff, Mikhail Vasilev&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.CO, math-ph, math.QA, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct an explicit equivariant quantum Satake map for Grassmannians, which enables us to express their torus-equivariant quantum cohomology in terms of that of projective space. We then consider the exterior algebra of the latter, which admits a canonical identification with a Clifford algebra. We describe the resulting action in several complementary ways: first, from a geometric perspective via push-pull maps, and second, in terms of the shuffle product, which also arises in the simplest cohomological Hall algebra associated with the $A_1$-quiver. Exploiting the Clifford algebra structure, we derive new recurrence relations among equivariant Gromov-Witten invariants, yielding a new method for their computation in terms of Wick&amp;#x27;s Theorem. As an application, we provide combinatorial proofs of Graham positivity for both equivariant quantum Pieri rules, and in one case extend these results to quantum triple Schubert calculus.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.06352"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrable hierarchies with zero dispersion and elliptic curves</title>
+      <link>https://arxiv.org/abs/2606.01354</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.01354</guid>
+      <pubDate>Sun, 31 May 2026 17:15:47 +0000</pubDate>
+      <author>A. Savchenko, A. Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Savchenko, A. Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy, tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider integrable hierarchies such as KP, modified KP, 2D Toda lattice, BKP (small and large), DKP, Pfaff-Toda and their multi-component generalizations. We work in the framework of the bilinear formalism in which the universal dependent variable is a tau-function satisfying bilinear equations of the Hirota-Miwa type. Our principal interest in this paper is the dispersionless versions of the hierarchies. In the limit of zero dispersion the main object is an $F$-function, which is the limit of properly re-scaled logarithm of the tau-function. We show that in all the cases there exists an algebraic curve built into the structure of the hierarchy. We call it the {\it dynamical curve}. For the KP, modified KP and Toda lattice hierarchies, as well as for their multi-component generalizations, the curve is rational (of genus 0) and can be uniformized by rational or trigonometric functions. For hierarchies of the Pfaff type (DKP and Pfaff-Toda) the dynamical curve is in general a smooth elliptic curve (of genus 1), with its modular parameter being a dynamical variable. It is also shown that the large BKP hierarchy admits two different dispersionless versions. In one of them the dynamical curve degenerates to a rational curve while in the other one it remains to be elliptic. We show that a reformulation of the hierarchies based on uniformization of the dynamical curves by elliptic (or trigonometric) functions makes their structure nice and clear, especially in the multi-component case.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2606.01354"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The multiple cover formula for $K3$ and abelian surfaces</title>
+      <link>https://arxiv.org/abs/2605.30008</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.30008</guid>
+      <pubDate>Thu, 28 May 2026 14:35:40 +0000</pubDate>
+      <author>Georg Oberdieck, Rahul Pandharipande</author>
+      <description>&lt;p&gt;&lt;b&gt;Georg Oberdieck, Rahul Pandharipande&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;All reduced descendent Gromov-Witten invariants of $K3$ and abelian surfaces in primitive curve classes can be calculated by the methods of \cite{BOPY,MPT}. To handle the imprimitive curve classes, a multiple cover formula was conjectured in \cite{ObPand} for $K3$ surfaces and in \cite{O_NLGW} for abelian surfaces. We prove here that both descendent multiple cover formulas are implied by the conjectural families GW/PT correspondence for semipositive relative 3-folds with primary insertions. The implication is proven by showing that the multiple cover formula for $S$ can be recast as a property of an appropriate localization vertex for the relative 3-fold Gromov-Witten theory of $(S\times \mathbb{P}^1/S_0 \cup S_\infty)$. The families GW/PT correspondence then transfers the multiple cover formula from the Gromov-Witten side to the stable pairs side where the formula is proven geometrically by studying cosections and applying universality properties. Along the way, we prove a DT/PT correspondence for the reduced theories of $(S\times \mathbb{P}^1/S_0 \cup S_\infty)$ using the wallcrossing techniques of Kuhn-Liu-Thimm \cite{KLT2,KLT}.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.30008"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Gromov-Witten invariants in genus zero and Lagrangian cobordisms</title>
+      <link>https://arxiv.org/abs/2605.27122</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.27122</guid>
+      <pubDate>Tue, 26 May 2026 14:57:05 +0000</pubDate>
+      <author>Amanda Hirschi, Kai Hugtenburg</author>
+      <description>&lt;p&gt;&lt;b&gt;Amanda Hirschi, Kai Hugtenburg&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct open Gromov-Witten invariants in genus zero for arbitrary closed symplectic manifolds and embedded relatively spin Lagrangians, which are weakly unobstructed by a bounding cochain. This uses the foundational work of \cite{HH25,HH26} and the algebraic framework of \cite{ST21}. We prove the open WDVV relations and show that these invariants are independent of the choice of almost complex structure and under Hamiltonian isotopy. We also prove a relation between open Gromov-Witten invariants of cobordant Lagrangians.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.27122"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where solitons are in a KdV soliton gas</title>
+      <link>https://arxiv.org/abs/2605.18093</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.18093</guid>
+      <pubDate>Mon, 18 May 2026 09:10:09 +0000</pubDate>
+      <author>Benjamin Doyon</author>
+      <description>&lt;p&gt;&lt;b&gt;Benjamin Doyon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, cond-mat.stat-mech&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The Korteweg-De Vries (KdV) equation, a paradigmatic integrable model, admits multi-soliton solutions where localised profiles interact by elastic, factorised scattering. But when solitons interact, their shapes are modified, and individual solitons cannot be identified anymore, a key problem in soliton gases where one needs a density of solitons per unit distance. This is the question of quasi-particles in integrable systems: can we locate asymptotic objects at finite times and densities in the macroscopic limit of infinite number of solitons? A good definition of solitons&amp;#x27; positions should guarantee that the field in any mesoscopic neighbourhood is determined by solitons lying there. We solve this problem for the KdV equation. We define solitons&amp;#x27; positions as explicit solutions to the semiclassical Bethe equations. We show a density lower bound generalising the hard-rod condition and reminiscent of the condensate lower-bound known from soliton gases. We construct a fluid-cell projection, that projects out solitons lying outside mesoscopic regions, and show that the result is a field composed solely of the remaining solitons, unchanged in this region and exponentially supported there. From this we show that in the weak limit, conserved densities are given by the empirical density for these solitons&amp;#x27; positions. Thus we have associated a kinetic theory of quasi-particles to the KdV equation. We also find new bounds on the growth of the multi-soliton support and on the supremum of the field and its derivatives. The results hold under natural conditions on spectral and impact parameters, and no randomness or large-wavelength conditions are required. Our proof is based on a novel solitonic tau function. This is a first step towards rigorously deriving the kinetic equation of the KdV soliton gas, first proposed by Gennady El in 2003. The methods are generalisable to other solitonic models.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.18093"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The tau functions of the constrained CKP hierarchy</title>
+      <link>https://arxiv.org/abs/2605.17794</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.17794</guid>
+      <pubDate>Mon, 18 May 2026 03:19:44 +0000</pubDate>
+      <author>Danqi Chen, Jipeng Cheng, Shen Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Danqi Chen, Jipeng Cheng, Shen Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The CKP hierarchy is one important sub-hierarchy of the KP hierarchy, which is quite special due to its tau function. Here we construct the tau functions for the constrained CKP hierarchy $(L^k)_{&amp;lt;0}=\sum_{i=1}^{m}\big(q_{1,i}\partial^{-1}q_{2,i}-(-1)^kq_{2,i}\partial^{-1}q_{1,i}\big)$ with $k$ being odd or even positive integer by using the CKP Darboux transformations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.17794"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bulk-deformations, Floer complex bordism, and Grothendieck-Riemann-Roch</title>
+      <link>https://arxiv.org/abs/2605.06620</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.06620</guid>
+      <pubDate>Thu, 07 May 2026 17:34:40 +0000</pubDate>
+      <author>Kenneth Blakey, Noah Porcelli</author>
+      <description>&lt;p&gt;&lt;b&gt;Kenneth Blakey, Noah Porcelli&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG, math.AT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a Liouville manifold, we compute a Floer-homotopical invariant -- the complexification of the lift of symplectic cohomology to complex cobordism -- in terms of a classical Floer-theoretic invariant, namely, symplectic cohomology bulk-deformed by the Chern character. We do this by giving an explicit model for the complexified homotopy groups of the MU-module spectrum associated to a complex-oriented flow category and proving a ``homotopy coherent&amp;#x27;&amp;#x27; version of the classical Grothedieck-Riemann-Roch theorem. Using the aforementioned relation, we establish a computable cohomological criterion, in terms of the pair-of-pants product and the BV operator on symplectic cohomology, for when this MU lift cannot be obtained via base change from the sphere spectrum; moreover, we give examples where this holds. Finally, we use this non-base change criterion to detect examples of non-trivial higher-dimensional complex cobordism classes of relative Gromov-Witten type moduli spaces in the context of a smooth complex projective variety relative to an ample smooth divisor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.06620"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The General Structure of Trilinear Equations</title>
+      <link>https://arxiv.org/abs/2605.05624</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.05624</guid>
+      <pubDate>Thu, 07 May 2026 03:23:36 +0000</pubDate>
+      <author>Takeshi Fukuyama</author>
+      <description>&lt;p&gt;&lt;b&gt;Takeshi Fukuyama&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, gr-qc&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate trilinear structures as a natural extension of the Hirota bilinear formalism in integrable systems. While bilinear equations are associated with Grassmannian geometry and Plücker relations, trilinear equations suggest a higher algebraic structure involving three-slot couplings of tau functions. Focusing on the stationary axisymmetric Einstein equations, we show that when the Ernst potential is written in a tau-ratio form, the nonlinear equation decomposes into a cubic sector containing all second-derivative terms and a quartic gradient envelope. The cubic sector is identified with a YTSF-type trilinear kernel. We formulate a general trilinear kernel criterion and apply it to the Tomimatsu--Sato solutions. In particular, we demonstrate that the $δ=3$ solution possesses the same trilinear kernel structure as the $δ=2$ case, with a universal normalization up to a constant factor. These results suggest that the trilinear kernel represents a universal structure governing the highest-derivative sector of the Ernst system, providing a new perspective on integrability beyond the bilinear hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.05624"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open-closed Deligne-Mumford field theories: construction</title>
+      <link>https://arxiv.org/abs/2605.03521</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.03521</guid>
+      <pubDate>Tue, 05 May 2026 08:58:34 +0000</pubDate>
+      <author>Amanda Hirschi, Kai Hugtenburg</author>
+      <description>&lt;p&gt;&lt;b&gt;Amanda Hirschi, Kai Hugtenburg&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG, math.AT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Open-closed Deligne--Mumford field theories are chain-level field theories based on moduli spaces of stable curves with boundary. We associate to a relatively spin embedded Lagrangian $L \subset (X,ω)$ such an open-closed DMFT. It extends the Fukaya $A_\infty$ algebra to curves of arbitrarily high genus and with arbitrarily many boundary components and is unique up to homotopy. This is the first step in proving Kontsevich&amp;#x27;s conjecture that the Fukaya category determines the Gromov--Witten invariants of $X$, following a strategy delineated by Costello.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.03521"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Negative Hierarchy of Hydrodynamic Type Equations</title>
+      <link>https://arxiv.org/abs/2605.02595</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.02595</guid>
+      <pubDate>Mon, 04 May 2026 13:46:12 +0000</pubDate>
+      <author>Kostyantyn Zheltukhin</author>
+      <description>&lt;p&gt;&lt;b&gt;Kostyantyn Zheltukhin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The negative integrable hierarchies of shallow water waves and dispersionless Toda lattice equations are considered. The integrability is shown by explicit construction of an infinite set of conservation laws.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.02595"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A new family of weighted double Hurwitz numbers and a new ELSV-type formula with $Ω$-classes</title>
+      <link>https://arxiv.org/abs/2605.00584</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.00584</guid>
+      <pubDate>Fri, 01 May 2026 11:47:45 +0000</pubDate>
+      <author>Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math.AG, hep-th, math-ph, math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We analyze a new family of weighted double Hurwitz numbers that was introduced as a notable example in the context of the $x-y$ duality for logarithmic topological recursion. We use this family to systematically demonstrate, refine and develop techniques that play a crucial role in the interaction of hypergeometric (Orlov--Scherbin) KP tau functions and intersection theory of moduli spaces of curves. In particular, we discuss the subtleties related to the derivation of the ELSV-type formulas in this context and derive a new, explicit ELSV-type formula in terms of the so-called $Ω$-classes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.00584"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bilinear formalism for Schwarzian KP and Harry Dym hierarchies</title>
+      <link>https://arxiv.org/abs/2605.00235</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.00235</guid>
+      <pubDate>Thu, 30 Apr 2026 21:14:55 +0000</pubDate>
+      <author>Vadim Prokofev, Anton Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;Vadim Prokofev, Anton Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy, tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider the Schwarzian KP and Harry Dym hierarchies in the framework of the bilinear formalism which is well known for such integrable hierarchies as KP, modified KP, BKP, Toda lattice and other. We show that, similarly to the bilinear formulation of the modified KP hierarchy, the Schwarzian KP can be reformulated as an integral bilinear equation for a pair of KP tau-functions with the property that any linear combination of them is again a tau function of the KP hierarchy. The Harry Dym hierarchy is then obtained as the Lax-Sato formulation of the SchKP one. The close connection with Backlund-Darboux transformations for integrable hierarchies is also discussed. Besides, it is shown that the SchKP hierarchy has a natural embedding into the multi-component KP hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2605.00235"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monodromy, Logarithmic Sectors, and Two-Point Functions in Critical Topologically Massive Gravity</title>
+      <link>https://arxiv.org/abs/2604.26493</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.26493</guid>
+      <pubDate>Wed, 29 Apr 2026 09:56:40 +0000</pubDate>
+      <author>Yannick Mvondo-She</author>
+      <description>&lt;p&gt;&lt;b&gt;Yannick Mvondo-She&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate the structure of logarithmic modes in critical topologically massive gravity (CTMG) at the chiral point $μ\ell=1$ from the perspective of analytic continuation and monodromy. Starting from the degeneration of massive and left-moving graviton modes, we construct the logarithmic mode as a derivative in parameter space and show that it acquires a natural multivalued structure upon complexification of the radial coordinate. We demonstrate that this multivaluedness induces a nontrivial monodromy action on the space of linearized solutions, under which the left-moving and logarithmic modes form an indecomposable (Jordan block) representation. This monodromy is unipotent and provides a bulk realization of the logarithmic structure typically associated with logarithmic conformal field theories. We further show that the monodromy representation alone is sufficiently constraining to determine the characteristic logarithmic form and mixing structure of two-point functions, up to normalization, without assuming logarithmic conformal field theory data a priori. These results suggest a geometric interpretation in which logarithmic modes act as sources of branchlike behavior in the bulk, analogous to twist fields that generate monodromy. While this perspective is compatible with proposed connections to branched coverings, Hurwitz theory, and integrable hierarchies, establishing a precise correspondence is left for future work.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.26493"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cut and paste invariants of moduli spaces of stable maps to toric surfaces</title>
+      <link>https://arxiv.org/abs/2604.26000</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.26000</guid>
+      <pubDate>Tue, 28 Apr 2026 18:00:02 +0000</pubDate>
+      <author>Cat Rust</author>
+      <description>&lt;p&gt;&lt;b&gt;Cat Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study moduli spaces of logarithmic stable maps to proper toric surfaces with prescribed tangency conditions to the toric boundary. Fixing a surface, we define a chamber decomposition on the space of all tangencies such that as a function of the tangency data, the class of the corresponding moduli space in the Grothendieck ring of varieties is constant. The tangency data defines a collection of lines through the origin which, along with the rays of the toric fan, are cyclically ordered. The chambers of the decomposition are regions for which this cyclic ordering is constant and generalise the well-known resonance chambers. We pose the open question of whether the Gromov-Witten invariants of the moduli spaces are polynomial on these chambers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.26000"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geometry of Logarithmic Topological Recursion: Dilaton Equations, Free Energies and Variational Formulas</title>
+      <link>https://arxiv.org/abs/2604.25622</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.25622</guid>
+      <pubDate>Tue, 28 Apr 2026 13:29:23 +0000</pubDate>
+      <author>Alexander Hock, Olivier Marchal, Nicolas Orantin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Hock, Olivier Marchal, Nicolas Orantin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math-ph, hep-th, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;One of the most important applications of topological recursion concerns spectral curves for which the functions $(x,y)$ defining the spectral curve are allowed to have logarithmic singularities. This occurs for instance for Seiberg-Witten curves and mirror curves computing Gromov--Witten invariants of toric Calabi--Yau threefolds. A recently introduced extension of topological recursion, the so-called logarithmic topological recursion, exhibits the correct behavior under certain limits of those spectral curves. In this article, we derive the dilaton equations in the setting of logarithmic topological recursion, as well as variational formulas, and provide a definition of the free energies in situations where standard topological recursion was known to fail. We present examples in which the new definition of the free energies \textit{directly} (without any computation) reproduces the full perturbative part of the Nekrasov--Shatashvili partition function of 4d $\mathcal{N}=2$ pure supersymmetric gauge theory, as well as the all-genus free energies of mirror curves of strip geometries, including in particular the topological vertex and the resolved conifold.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.25622"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reduced Gromov-Witten invariants without ghost bubble censorship</title>
+      <link>https://arxiv.org/abs/2604.13209</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.13209</guid>
+      <pubDate>Tue, 14 Apr 2026 18:33:40 +0000</pubDate>
+      <author>Guangbo Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Guangbo Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give a definition of all-genus reduced Gromov-Witten invariants of symplectic manifolds by using effectively supported multivalued perturbations on derived orbifold/Kuranishi charts, which bypasses the hard analytical result of sharp compactification/ghost bubble censorship of Zinger, Doan-Walpuski, and Ekholm-Shende.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.13209"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the large genus of Hurwitz numbers</title>
+      <link>https://arxiv.org/abs/2604.12880</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.12880</guid>
+      <pubDate>Tue, 14 Apr 2026 15:31:06 +0000</pubDate>
+      <author>Davide Accadia, Danilo Lewański, Giulio Ruzza</author>
+      <description>&lt;p&gt;&lt;b&gt;Davide Accadia, Danilo Lewański, Giulio Ruzza&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.RT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Hurwitz theory provides a large variety of enumerative problems related to algebraic geometry, mathematical physics, and combinatorics. We give a general framework to approach the large genus asymptotics of Hurwitz theory using only elementary methods and apply it to several types of Hurwitz numbers: single, double, or with an arbitrary numbers of fixed ramifications; simple and / or including completed cycles type of ramification and / or finitely many blocks of weakly monotone and / or strictly monotone types of ramifications. These, to the best of our knowledge, cover most of the Hurwitz numbers studied, and include for instance correlators of the HCIZ matrix model, Grothendieck dessins d&amp;#x27;enfant, weighted Hurwitz numbers, and Gromov-Witten invariants of the Riemann sphere. We also apply our method to b-content Hurwitz numbers. As a specialisation, we recover some previously known about the large genus asymptotics of Hurwitz theory, namely classical results by Hurwitz and recent results of Do-He-Robertson, C. Yang, and results connected to recent work of X. Li.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.12880"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Descendant and Fourier-Mukai equivalences for simple flops</title>
+      <link>https://arxiv.org/abs/2604.09962</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.09962</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:16 +0000</pubDate>
+      <author>Jiun-Cheng Chen, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Jiun-Cheng Chen, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For a simple flop $X\dashrightarrow X&amp;#x27;$, we construct a correspondence between genus $0$ descendant Gromov-Witten theories of $X$ and $X&amp;#x27;$. We show that the Fourier-Mukai equivalence induced by $X\dashrightarrow X&amp;#x27;$ is compatible, in a precise sense, with the descendant correspondence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.09962"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Harmonic Analysis of the Instanton Prepotential</title>
+      <link>https://arxiv.org/abs/2604.08725</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.08725</guid>
+      <pubDate>Thu, 09 Apr 2026 19:37:29 +0000</pubDate>
+      <author>Rafael Álvarez-García, Fabian Ruehle</author>
+      <description>&lt;p&gt;&lt;b&gt;Rafael Álvarez-García, Fabian Ruehle&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Discrete symmetries of Calabi-Yau moduli spaces, generated by isomorphic flops, constrain the instanton expansion of the 4D $\mathcal{N}=2$ Type~IIA prepotential. We show that the Coxeter-invariant functions into which the prepotential organizes are eigenfunctions of a Laplace-Beltrami operator built from the Coxeter-invariant symmetric bilinear form on the moduli space. This means that the Gromov-Witten expansion can be interpreted as a superposition of waves propagating on the Coxeter quotient of the moduli space, and its resummation is the corresponding spectral decomposition. For the dihedral Coxeter groups, separation of variables in the eigenvalue equation explains from first principles why special modified Bessel functions, ordinary Bessel functions and Jacobi theta functions appear as the natural building blocks of the prepotential, depending on whether the Coxeter rotation acts hyperbolically, elliptically, or parabolically. The resulting spectral representations converge efficiently in the interior of the moduli space, complementing the standard large-volume instanton expansion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2604.08725"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Hirota Identity for Hyperpfaffian $τ$-Functions in Charge-$L$ Ensembles</title>
+      <link>https://arxiv.org/abs/2603.25866</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.25866</guid>
+      <pubDate>Thu, 26 Mar 2026 19:47:59 +0000</pubDate>
+      <author>Christopher D. Sinclair</author>
+      <description>&lt;p&gt;&lt;b&gt;Christopher D. Sinclair&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math-ph, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study log-gas ensembles with inverse temperature $β= L^2$ using a confluent Vandermonde representation that admits a formulation in the exterior algebra of a finite-dimensional vector space. By interpreting the system as consisting of finitely many particles with integer charge $L$, partition functions can be expressed exactly as hyperpfaffians. In this formulation, the system is governed by a natural momentum grading arising from the confluent Vandermonde structure, and its statistical observables are determined entirely by the corresponding bigraded commutative subalgebra. The geometric identity that a particle&amp;#x27;s $L$-blade wedges with itself to zero produces momentum Plücker relations within this algebra. These relations generate momentum transport identities between sectors of different particle number. Upon introducing dynamic time variables, the partition functions become $τ$-functions, and these transport identities are transformed into Hirota bilinear equations. This provides an explicit algebraic origin for the integrable hierarchy structure of the $β= L^2$ ensembles, which may be viewed as a finite-dimensional analogue of the Sato Grassmannian formulation of integrable systems.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.25866"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KdV integrability in GUE correlators</title>
+      <link>https://arxiv.org/abs/2603.24956</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.24956</guid>
+      <pubDate>Thu, 26 Mar 2026 02:48:42 +0000</pubDate>
+      <author>Di Yang</author>
+      <description>&lt;p&gt;&lt;b&gt;Di Yang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy, tau function, tau functions, tau-function, tau-functions · math-ph, math.AG, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Okounkov [36] proved a remarkable formula relating $n$-point GUE (Gaussian unitary ensemble) correlators of a fixed genus to Witten&amp;#x27;s intersection numbers of the same genus. The partition function of GUE correlators is a tau-function for the Toda lattice hierarchy. In this note, based on the knowledge of these two statements we give a new proof of the Witten--Kontsevich theorem, that relates Witten&amp;#x27;s intersection numbers to the KdV (Korteweg--de Vries) integrable hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.24956"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gromov-Witten invariants and membrane indices of fivefolds via the topological vertex</title>
+      <link>https://arxiv.org/abs/2603.24256</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.24256</guid>
+      <pubDate>Wed, 25 Mar 2026 12:49:05 +0000</pubDate>
+      <author>Yannik Schuler</author>
+      <description>&lt;p&gt;&lt;b&gt;Yannik Schuler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We conjecture the existence of almost integer invariants governing the all-genus equivariant Gromov-Witten theory of Calabi-Yau fivefolds with a torus action. We prove the conjecture for skeletal, locally anti-diagonal torus actions by establishing a vertex formalism evaluating the Gromov-Witten invariants via the topological vertex of Aganagic, Klemm, Marino and Vafa. We apply the formalism in several examples.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.24256"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New soliton solutions for Chen-Lee-Liu and Burgers hierarchies and its Bäcklund transformations</title>
+      <link>https://arxiv.org/abs/2603.23665</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.23665</guid>
+      <pubDate>Tue, 24 Mar 2026 19:10:15 +0000</pubDate>
+      <author>Y. F. Adans, H. Aratyn, C. P. Constantinidis, J. F. Gomes, G. V. Lobo, T. C. Santiago</author>
+      <description>&lt;p&gt;&lt;b&gt;Y. F. Adans, H. Aratyn, C. P. Constantinidis, J. F. Gomes, G. V. Lobo, T. C. Santiago&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, hep-th, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Positive and negative flows of the Chen-Lee-Liu model and its various reductions, including Burgers hierarchy, are formulated within the framework of Riemann-Hilbert-Birkhoff decomposition with the constant grade two generator. Two classes of vacua, namely zero vacuum and constant non-zero vacuum can be realized within a centerless Heisenberg algebra. The tau functions for soliton solutions are obtained by a dressing method and vertex operators are constructed for both types of vacua. We are able to select and classify the soliton solutions in terms of the type of vertices involved. A judicious choice of vertices yields in a closed form a particular set of multi soliton solutions for the Burgers hierarchy. We develop and analyze a class of gauge-Bäcklund transformations that generate further multi soliton solutions from those obtained by dressing method by letting them interact with various integrable defects.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.23665"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A note on Virasoro constraints for products</title>
+      <link>https://arxiv.org/abs/2603.22486</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.22486</guid>
+      <pubDate>Mon, 23 Mar 2026 18:54:38 +0000</pubDate>
+      <author>Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study Virasoro constraints for Gromov-Witten theory of a product variety when one factor has semi-simple quantum cohomology.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.22486"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enumerative geometry of $K3$ surfaces</title>
+      <link>https://arxiv.org/abs/2603.11136</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.11136</guid>
+      <pubDate>Wed, 11 Mar 2026 16:25:44 +0000</pubDate>
+      <author>Thomas Dedieu</author>
+      <description>&lt;p&gt;&lt;b&gt;Thomas Dedieu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The aim of these notes is to explain various enumerative results about $K3$ surfaces without assuming familiarity with Gromov--Witten theory. The enumerative results in question are due to Beauville, Bryan and Leung, Pandharipande, Maulik, Thomas, and others, and confirm conjectures made by Yau--Zaslow, Göttsche, and Katz--Klemm--Vafa.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.11136"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Constraints of the D$Δ$KP hierarchy to the semi-discrete AKNS and Burgers hierarchies</title>
+      <link>https://arxiv.org/abs/2603.08301</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.08301</guid>
+      <pubDate>Mon, 09 Mar 2026 12:24:42 +0000</pubDate>
+      <author>Jin Liu, Da-jun Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Jin Liu, Da-jun Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The paper investigates three eigenfunction constraints of two (2+1)-dimensional differential-difference integrable systems. First, we revisit the known squared eigenfunction symmetry constraint of the differential-difference Kadomtsev-Petviashvili (D$Δ$KP) hierarchy, which gives rise to a semi-discrete Ablowitz-Kaup-Newell-Segur hierarchy. Second, we introduce a linear eigenfunction constraint for the D$Δ$KP system and obtain a combined semi-discrete Burgers (sdBurgers) hierarchy. In the third one, we consider another linear eigenfunction constraint for the modified D$Δ$KP system and obtain the same combined sdBurgers hierarchy. All these constraint results are proved by using recursive algebraic structures of the involved integrable hierarchies generated by their master symmetries.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.08301"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The GW/PT conjectures for toric pairs</title>
+      <link>https://arxiv.org/abs/2603.07772</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.07772</guid>
+      <pubDate>Sun, 08 Mar 2026 19:24:58 +0000</pubDate>
+      <author>Davesh Maulik, Dhruv Ranganathan</author>
+      <description>&lt;p&gt;&lt;b&gt;Davesh Maulik, Dhruv Ranganathan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the conjectural correspondence between logarithmic Gromov-Witten theory and logarithmic Donaldson/Pandharipande-Thomas theory for pairs $(Y|\partial Y)$ consisting of a toric threefold $Y$ and any torus invariant divisor $\partial Y$, with primary insertions. The results are the first verifications of this conjecture when $\partial Y$ is singular, i.e., the ``fully logarithmic&amp;#x27;&amp;#x27; setting, and the first proof of the equivariant toric correspondence for pairs when $\partial Y$ is nonempty. When $\partial Y$ is empty, we get a new proof of the known toric correspondence, but our methods also lead to stronger conclusions. In particular, we show the PT series is a Laurent polynomial in the presence of sufficient positivity and prove a 2008 conjecture of Oblomkov, Okounkov, Pandharipande, and the first author stating the capped vertex is a Laurent polynomial. The methods also verify the logarithmic DT/PT conjecture for toric threefold pairs. Using the constraints of the logarithmic theory, the complete evaluation of toric pairs is determined by a single calculation -- the degree $1$ series of $\mathbb{P}^3$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.07772"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cobordism-valued intersection theory on $\overline{\mathcal{M}}_{0,n}$</title>
+      <link>https://arxiv.org/abs/2603.03829</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.03829</guid>
+      <pubDate>Wed, 04 Mar 2026 08:27:00 +0000</pubDate>
+      <author>Benjamin Ellis-Bloor</author>
+      <description>&lt;p&gt;&lt;b&gt;Benjamin Ellis-Bloor&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.AT, math.KT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We calculate the genus zero cobordism-valued Gromov-Witten invariants of a point by refining the string equation on $\overline{\mathcal{M}}_{0,n}$ from the Chow ring to algebraic cobordism. This gives inductive formulas for cobordism-valued psi-class intersections on $\overline{\mathcal{M}}_{0,n}$, and in particular the cobordism classes $[\overline{\mathcal{M}}_{0,n}]$, and for their images in $K$-theory. Explicit formulas are given up to $n = 8$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.03829"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Additional symmetries of the KP-mKP hierarchy and Virasoro constraints to the Burgers-KdV hierarchy</title>
+      <link>https://arxiv.org/abs/2603.01354</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.01354</guid>
+      <pubDate>Mon, 02 Mar 2026 01:23:47 +0000</pubDate>
+      <author>Zongyao Feng, Lumin Geng, Chao-Zhong Wu</author>
+      <description>&lt;p&gt;&lt;b&gt;Zongyao Feng, Lumin Geng, Chao-Zhong Wu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;A KP-mKP hierarchy was introduced recently via pseudo-differential operators containing two derivations. In this paper, for the KP-mKP hierarchy we derive a class of (differential) Fay identities and construct a series of additional symmetries. Moreover, the additional symmetries are represented as certain linear actions on the tau functions of the hierarchy, with the help of the Adler-Shiota-van Moerbeke formula. As an application, we reprove the Virasoro constraints to the tau functions of the Burgers-KdV hierarchy, and such results are generalized to its higher order extensions regarded as reductions of the KP-mKP hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2603.01354"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An invitation to the enumerative geometry of degenerations</title>
+      <link>https://arxiv.org/abs/2602.20840</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.20840</guid>
+      <pubDate>Tue, 24 Feb 2026 12:28:54 +0000</pubDate>
+      <author>Dhruv Ranganathan</author>
+      <description>&lt;p&gt;&lt;b&gt;Dhruv Ranganathan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This expository article is an introduction to logarithmic Gromov--Witten (GW) theory. We discuss how to study the GW theory of a smooth projective variety via simple normal crossings degenerations. We survey several approaches to constructing well-behaved, virtually smooth moduli spaces of stable maps to such degenerations. Each irreducible component of the special fiber of a degeneration determines a pair consisting of a variety and a normal crossings divisor, and these pairs carry their own logarithmic GW theory. We explain how the GW theory of the general fiber can be expressed in terms of the logarithmic GW theory of these pairs. Finally, we discuss applications to tautological classes on the moduli space of curves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.20840"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topology of the Vakil--Zinger moduli space</title>
+      <link>https://arxiv.org/abs/2602.16103</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.16103</guid>
+      <pubDate>Wed, 18 Feb 2026 00:31:07 +0000</pubDate>
+      <author>Terry Dekun Song</author>
+      <description>&lt;p&gt;&lt;b&gt;Terry Dekun Song&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.AT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive a set of generators for the rational homology of the desingularised genus one mapping space $\widetilde{\mathcal{M}}_{1,n}(\mathbb{P}^r,d)$ constructed by Vakil--Zinger and qualitatively describe the relations among the generators. The results build on a detailed study of the stratifications of the moduli spaces coming from tropical geometry and the constraints coming from the weight filtration on the Borel--Moore homology groups of strata, extending the techniques from the previous study on $\overline{\mathcal{M}}_{g,n}.$ Our results imply that the even homology of $\widetilde{\mathcal{M}}_{1,n}(\mathbb{P}^r,d)$ is tautological and controlled by genus-zero and reduced genus-one Gromov--Witten theory. We verify the Hodge and Tate conjectures for $\widetilde{\mathcal{M}}_{1,n}(\mathbb{P}^r,d),$ completely describe its rational Picard group, and recover known results on the vanishing of odd cohomology. Our techniques also apply to the pure weight homology groups of genus one stable maps $\overline{\mathcal{M}}_{1,n}(\mathbb{P}^r,d).$&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.16103"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upper bounds for logarithmic Gromov-Witten invariants of projective space</title>
+      <link>https://arxiv.org/abs/2602.15685</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.15685</guid>
+      <pubDate>Tue, 17 Feb 2026 16:08:14 +0000</pubDate>
+      <author>Dan Simms</author>
+      <description>&lt;p&gt;&lt;b&gt;Dan Simms&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We provide an upper bound for the genus zero logarithmic Gromov-Witten invariants of projective space relative to its toric boundary. The upper bound is polynomial in the contact orders, with degree depending on the number of marked points. The result hinges on the positivity of intersections for projective spaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.15685"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Open/Closed Gromov-Witten/Hurwitz Correspondence and Localized World Sheets for Completed Cycles</title>
+      <link>https://arxiv.org/abs/2602.12786</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.12786</guid>
+      <pubDate>Fri, 13 Feb 2026 10:09:32 +0000</pubDate>
+      <author>Jan Troost</author>
+      <description>&lt;p&gt;&lt;b&gt;Jan Troost&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · hep-th&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We discuss the open/closed version of the Gromov-Witten/Hurwitz correspondence. The duality equates the relative Gromov-Witten invariants and the count of covers of the target space with prescribed holonomies at boundaries. We clarify the projective large N limit as well as the role of the completed versus the ordinary cycles associated to the bulk and the boundary vertex operators respectively. We provide an example check of both the correspondence and the fact that cycles dual to closed strings need to be completed. Moreover, we identify the connected world sheets that contribute to an equivariantly localized amplitude in the bulk that is solely due to a completion term. We also propose a picture for the completed cycle combinatorics that involves a localization diagram glued to a cut-and-join string interaction.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.12786"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open enumerative geometries for Landau-Ginzburg models</title>
+      <link>https://arxiv.org/abs/2602.12707</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.12707</guid>
+      <pubDate>Fri, 13 Feb 2026 08:20:41 +0000</pubDate>
+      <author>Mark Gross, Tyler L. Kelly, Ran J. Tessler</author>
+      <description>&lt;p&gt;&lt;b&gt;Mark Gross, Tyler L. Kelly, Ran J. Tessler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math.AG, hep-th, math-ph, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We survey the recent progress in defining open enumerative theories for Landau-Ginzburg models. We illustrate the ideas required to develop these new foundations. In particular, we describe how to define the open enumerative invariants as integrals of multisections of certain vector bundles over a moduli space that is a real orbifold with corners, after prescribing boundary conditions for the multisections. We then explain the known situations where the open invariants satisfy certain forms of topological recursion relations, integrable hierarchies, or mirror symmetry. We end with a list of open questions and problems.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.12707"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lie dialgebras, gauge theory, and Lagrangian multiforms for integrable models</title>
+      <link>https://arxiv.org/abs/2602.11306</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.11306</guid>
+      <pubDate>Wed, 11 Feb 2026 19:30:47 +0000</pubDate>
+      <author>Anup Anand Singh</author>
+      <description>&lt;p&gt;&lt;b&gt;Anup Anand Singh&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math-ph, hep-th, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Lagrangian multiforms provide a variational framework for describing integrable hierarchies. This thesis presents two approaches for systematically constructing Lagrangian one-forms, which cover the case of finite-dimensional integrable hierarchies, thus addressing one of the central open problems in the theory of Lagrangian multiforms. The first approach, based on the theory of Lie dialgebras, incorporates into Lagrangian one-forms the notion of the classical $r$-matrix and produces Lagrangian one-forms living on coadjoint orbits. We prove an important structural result relating the closure relation for Lagrangian one-forms to the Poisson involutivity of Hamiltonians and the double zero on Euler-Lagrange equations. In the second approach, we extend the notion of Lagrangian one-forms to the setting of gauge theories and derive a variational formulation of the Hitchin system associated with a compact Riemann surface of arbitrary genus. We show that this description corresponds to a Lagrangian one-form for classical $3$d holomorphic-topological BF theory coupled with so-called type A and type B defects. Notably, this establishes an explicit connection between $3$d holomorphic-topological BF theory and the Hitchin system at the classical level. Further, we derive a unifying action for a hierarchy of Lax equations describing the Hitchin system in terms of meromorphic Lax matrices. As applications of the two approaches, we also obtain explicit Lagrangian one-forms for the hierarchies of various well-known integrable models.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.11306"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symplectic Excision and Distance Rigidity</title>
+      <link>https://arxiv.org/abs/2602.08969</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.08969</guid>
+      <pubDate>Mon, 09 Feb 2026 18:04:44 +0000</pubDate>
+      <author>Yoel Groman</author>
+      <description>&lt;p&gt;&lt;b&gt;Yoel Groman&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider various notions of completeness in symplectic topology and ask two related questions. Does a complete open symplectic manifold remain complete after excising a subset? Can two sets be made arbitrarily far apart by adjusting the almost complex structure within an appropriate class of complete almost complex structures? We find rigidity phenomena when the excised set is a symplectic hypersurface. These arise from certain open Gromov-Witten invariants. We contrast this with flexibility that often occurs when the excised set is coisotropic. We also briefly touch on the opposite question of obstructions to existence of a complete symplectic structure compatible with a given complex structure. For the notion of completeness we first consider the traditional notion of geometric boundedness. We then introduce a broader notion of normalized completeness, related to the notion of intermittent boundedness of [Geom. Topol. 27 (2023), 1273-1390, arXiv:1510.04265], which depends on $C^0$ properties and is a contractible condition. Finally, we speculate about the relation to a Fukaya-categorical notion of completeness.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.08969"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BKP and CKP hierarchies via orbifold Saito theory</title>
+      <link>https://arxiv.org/abs/2602.06736</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.06736</guid>
+      <pubDate>Fri, 06 Feb 2026 14:32:43 +0000</pubDate>
+      <author>Alexey Basalaev</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexey Basalaev&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Semisimple Dubrovin-Frobenius manifolds can be used to construct integrable hierarchies, following the work of Dubrovin-Zhang and Buryak. Examples of such hierarchies include the Kac-Wakimoto hierarchies, the KP hierarchy, among others. In all these examples, the Saito theory of isolated singularities played a crucial role. In this note, we show that the BKP and CKP hierarchies can likewise be constructed from Dubrovin-Frobenius manifolds. This new construction, however, utilizes the orbifold version of Saito theory for isolated singularities endowed with a symmetry group.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.06736"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geometric realization of $W$-operators</title>
+      <link>https://arxiv.org/abs/2602.04779</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.04779</guid>
+      <pubDate>Wed, 04 Feb 2026 17:15:35 +0000</pubDate>
+      <author>Lu-Yao Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Lu-Yao Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math-ph, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Certain integrable hierarchies appearing in random matrix theory, enumerative geometry, and conformal field theory are governed by Virasoro/$W$-algebra constraints and their $W$-representations.Motivated by the Gaussian Hermitian $β$-ensemble and recent studies of superintegrable partition function hierarchies, we build an explicit bridge from symmetric group class algebras to bosonic Fock spaces and further to geometry. On the algebraic side, we decompose the transposition class sum into cut and join channels and recover the classical cut-and-join operator on the ring of symmetric functions. On the geometric side, we use the Grojnowski-Nakajima Fock space identification to realize the ladder operator $E_1=[W_0,p_1]$ as the Hecke correspondence on $\mathrm{Hilb}_n(\mathbb C^2)$, and we interpret the cubic generator $W_0$ as a normal ordered triple incidence correspondence. We then explain how the $β$-deformed cubic generator $W_0^{(β)}$ arises from the Ward identities/Virasoro constraints of the Gaussian $β$-ensemble via a background charge parametrization, clarifying its conformal field theoretic meaning. Finally, using the Grojnowski-Nakajima Heisenberg-Fock isomorphism $Φ_{\mathrm{Hilb}}:Λ\xrightarrow{\sim}\bigoplus_{n\ge0}H_T^*(\Hilb^n(\mathbb C^2))$, we transport the resulting commutator hierarchy to Hilbert schemes, where $E_1$ is realised by the Hecke correspondence (adding one point) and the diagonal correction terms are computed by equivariant localization from the $T$-weights of the tangent bundle $T\Hilb^n(\mathbb C^2)$ and the tautological bundle $\mathcal V$. This provides a geometric realization framework that unifies $β$-deformed integrable structures and offers new tools for studying quiver gauge theory partition functions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2602.04779"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wave functions and k-point functions for the AKNS hierarchy</title>
+      <link>https://arxiv.org/abs/2601.18211</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.18211</guid>
+      <pubDate>Mon, 26 Jan 2026 06:55:51 +0000</pubDate>
+      <author>Ang Fu</author>
+      <description>&lt;p&gt;&lt;b&gt;Ang Fu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For an arbitrary solution to the AKNS hierarchy, the logarithmic derivatives of the tau-function of the solution can be computed by the matrix-resolvent method [14,21]. In this paper, we introduce a pair of wave functions of the solution and we use them to express the corresponding matrix resolvent. Based on this, we derive a new formula for the k-point correlation function of the AKNS hierarchy expressed in terms of wave functions. As an application, we show that the tau-function of an arbitrary solution to the AKNS hierarchy is a KP tau-function.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2601.18211"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Stability Limit of Prepotentials for Hurwitz-Frobenius Manifolds: An Infinite-Dimensional Approach</title>
+      <link>https://arxiv.org/abs/2601.18152</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.18152</guid>
+      <pubDate>Mon, 26 Jan 2026 05:16:43 +0000</pubDate>
+      <author>Shilin Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Shilin Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The stability of prepotential derivatives for Frobenius manifolds associated with A_N and D_N singularities has been utilized to construct (2+1)-dimensional dispersionless integrable hierarchies. Although the generalization of this construction to genus-zero Hurwitz-Frobenius manifolds was shown to yield the genus-zero Whitham hierarchy, a direct geometric explanation of this correspondence has been lacking. In this note, we provide a direct proof of this identification within the framework of infinite-dimensional Frobenius manifolds. We demonstrate that the stability of prepotentials is an intrinsic property of the tau-structure of the Whitham hierarchy. Furthermore, we extend this identification to the hierarchies arising from the stability of solutions to the open WDVV equations with the extensions of the Whitham hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2601.18152"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shifted symplectic structures and Poisson vertex algebra</title>
+      <link>https://arxiv.org/abs/2601.17840</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.17840</guid>
+      <pubDate>Sun, 25 Jan 2026 13:45:46 +0000</pubDate>
+      <author>Wenda Fang</author>
+      <description>&lt;p&gt;&lt;b&gt;Wenda Fang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math.QA, math-ph, math.RT, math.SG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct Poisson vertex algebra (PVA) structures on arc spaces from $1$-shifted symplectic (QP) data. A Hamiltonian satisfying the classical master equation induces a canonical PVA $λ$-bracket, matching the Hamiltonian-operator formalism for integrable hierarchies. As applications, we find the resulting PVA sheaves on $\mathbb P^1$ and reinterpret our classical $R$-matrix as Maurer-Cartan data in a deformation-theoretic geometric framework, yielding AKS-type integrable hierarchies from the corresponding $R$-deformations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2601.17840"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bilinear tau forms of quantum Painlevé equations and $\mathbb{C}^2/\mathbb{Z}_2$ blowup relations in SUSY gauge theories</title>
+      <link>https://arxiv.org/abs/2512.25051</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.25051</guid>
+      <pubDate>Wed, 31 Dec 2025 18:47:43 +0000</pubDate>
+      <author>Giulio Bonelli, Anton Shchechkin, Alessandro Tanzini</author>
+      <description>&lt;p&gt;&lt;b&gt;Giulio Bonelli, Anton Shchechkin, Alessandro Tanzini&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, hep-th, math.QA, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive bilinear tau forms of the canonically quantized Painlevé equations, thereby relating them to those previously obtained from the $\mathbb{C}^2/\mathbb{Z}_2$ blowup relations for the $\mathcal{N}=2$ supersymmetric gauge theory partition functions on a general $Ω$-background. We fully fix the refined Painlevé/gauge theory dictionary by formulating the proper equations for the quantum nonautonomous Painlevé Hamiltonians. We also describe the quantum Painlevé symmetries at the level of tau functions and, as a byproduct of this analysis, obtain several $\mathbb{C}^2/\mathbb{Z}_2$ blowup relations including those in nontrivial holonomy sectors of the gauge theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.25051"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General Zakharov-Shabat equations without Lax operators</title>
+      <link>https://arxiv.org/abs/2512.24216</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.24216</guid>
+      <pubDate>Tue, 30 Dec 2025 13:27:11 +0000</pubDate>
+      <author>Masatoshi Noumi, Takashi Takebe</author>
+      <description>&lt;p&gt;&lt;b&gt;Masatoshi Noumi, Takashi Takebe&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The operators in the Zakharov-Shabat equations of integrable hierarchies are usually defined from the Lax operators. In this article it is shown that the Zakharov-Shabat equations themselves recover the Lax operators under suitable change of independent variables in the case of the KP hierarchy and the modified KP hierarchy (in the matrix formulation).&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.24216"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dispersionless version of multi-component Pfaff-Toda hierarchy</title>
+      <link>https://arxiv.org/abs/2512.22357</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.22357</guid>
+      <pubDate>Fri, 26 Dec 2025 19:36:53 +0000</pubDate>
+      <author>A. Savchenko, A. Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Savchenko, A. Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider the dispersionless limit of the recently introduced multi-component Pfaff-Toda hierarchy. Its dispersionless version is a set of nonlinear differential equations for the dispersionless limit of logarithm of the tau-function (the F-function). They are obtained as limiting cases of bilinear equations of the Hirota-Miwa type. The analysis of the Pfaff-Toda hierarchy is substantially simplified by using the observation that the full (not only dispersionless) N-component Pfaff-Toda hierarchy is actually equivalent to the 2N-component DKP hierarchy. In the dispersionless limit, there is an elliptic curve built in the structure of the hierarchy, with the elliptic modular parameter being a dynamical variable. This curve can be uniformized by elliptic functions, and in the elliptic parametrization the hierarchy acquires a compact and especially nice form.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.22357"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lax pairs for BKM hierarchy</title>
+      <link>https://arxiv.org/abs/2512.22064</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.22064</guid>
+      <pubDate>Fri, 26 Dec 2025 15:38:17 +0000</pubDate>
+      <author>Andrey Yu. Konyaev, Vladimir S. Matveev</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrey Yu. Konyaev, Vladimir S. Matveev&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI, math-ph, math.AP, math.DG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct Lax pairs for the recently (2023) introduced integrable PDE systems known as the BKM equations. As many known and previously studied integrable systems are special cases of the BKM systems, our construction provides Lax pairs for many integrable hierarchies, including previously studied ones such as Camassa-Holm, Dullin-Gottwald-Holm, cKdV, Ito, and Marvan-Pavlov, as well as new ones. The corresponding pair is related to a Sturm-Liouville operator on the real line whose potential depends rationally on the spectral parameter.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.22064"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tropical KP Theory on Banana Curves</title>
+      <link>https://arxiv.org/abs/2512.13366</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.13366</guid>
+      <pubDate>Mon, 15 Dec 2025 14:20:37 +0000</pubDate>
+      <author>Simonetta Abenda, Türkü Özlüm Çelik, Claudia Fevola, Yelena Mandelshtam</author>
+      <description>&lt;p&gt;&lt;b&gt;Simonetta Abenda, Türkü Özlüm Çelik, Claudia Fevola, Yelena Mandelshtam&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math.AG, math-ph, math.CO&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The Kadomtsev-Petviashvili (KP) equation is the cornerstone of integrable systems, whose solutions reflect deep connections in algebraic geometry. Banana curves are reducible rational curves obtained as a degeneration of hyperelliptic curves. In this work, we relate the family of KP multi-solitons arising from banana curves together with non-special divisors of fixed degree to the combinatorics of the tropical theta divisor of the curve. We describe the Voronoi and Delaunay polytopes and show that the latter are combinatorially equivalent to uniform matroid polytopes. As a consequence, the combinatorics of the tropical theta divisor canonically encodes the matroid and Grassmannian structures underlying the associated KP multi-soliton solutions. We define the Hirota variety of a banana graph, which parametrizes all tau functions arising from such a graph. Starting from the matroid arising from Delaunay polytopes and the periods in the tropical limit, we construct an explicit parametrization of this variety which realizes the tau function as a multi-soliton. Our framework specializes naturally to real and positive settings.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.13366"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hirota-tau and Heun-function framework for Dirac vacuum polarization and quantum stabilization of kinks</title>
+      <link>https://arxiv.org/abs/2512.07658</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.07658</guid>
+      <pubDate>Mon, 08 Dec 2025 15:52:12 +0000</pubDate>
+      <author>Harold Blas</author>
+      <description>&lt;p&gt;&lt;b&gt;Harold Blas&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · hep-th, math-ph, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate a modified affine Toda model coupled to matter (ATM) which includes a scalar self-interacting potential and demonstrate that its first-order integro-differential structure, preserving a deformed Noether-topological current correspondence, provides a consistent framework for fermion-soliton interactions. In this formulation, the fermion-soliton energy is proportional to the soliton&amp;#x27;s topological charge. We evaluate the renormalized energy functional, incorporating one-loop quantum corrections, and perform a variational minimization to determine the configuration that extremizes the functional. The fermionic back-reaction and the self-interacting scalar critically shape the fermion-kink energy, the in-gap bound-state spectrum, and the fermionic vacuum-polarization energy, yielding well-defined stability minima of the total energy as functions of the fermion and scalar masses and coupling parameters, in the semiclassical approximation. A key result is that the Heun-equation formalism is necessary to construct nonzero-energy bound and scattering states: unlike the tau-function method, which captures only the zero mode, the Heun approach encodes the full scattering data through local solution matching conditions. These results refine the spectral analysis of deformed integrable models. The stability of soliton-fermion configurations has direct implications for topologically protected states in quantum information and condensed-matter systems.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.07658"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The quantum integrable hierarchy for the Gromov-Witten theory of elliptic curves</title>
+      <link>https://arxiv.org/abs/2512.04621</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.04621</guid>
+      <pubDate>Thu, 04 Dec 2025 09:51:28 +0000</pubDate>
+      <author>Paolo Rossi, Sergey Shadrin, Ishan Jaztar Singh</author>
+      <description>&lt;p&gt;&lt;b&gt;Paolo Rossi, Sergey Shadrin, Ishan Jaztar Singh&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · math.AG, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct the quantum double ramification hierarchy associated with the Gromov-Witten theory of elliptic curves. We use results of Oberdieck and Pixton on the intersection numbers of the double ramification cycle, the Gromov-Witten classes of the elliptic curve and the Hodge class $λ_{g-1}$ together with vanishing results for $λ_{g-2}$ to produce a closed, modular expression for the resulting integrable hierarchy. It is the first explicit nontrivial example of a quantum integrable hierarchy from a cohomological field theory containing fermionic fields, which correspond to the odd classes in the cohomology of the elliptic curve.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2512.04621"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Degenerate Addition Formulas of the KP Hierarchy and Applications</title>
+      <link>https://arxiv.org/abs/2511.22876</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.22876</guid>
+      <pubDate>Fri, 28 Nov 2025 04:40:48 +0000</pubDate>
+      <author>Atsushi Nakayashiki</author>
+      <description>&lt;p&gt;&lt;b&gt;Atsushi Nakayashiki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph, math.AG, math.RT&lt;/i&gt;&lt;/p&gt;&lt;p&gt;It is well known that tau functions of the KP hierarchy satisfy addition formulas. Among them we consider the formula which expresses a tau function with shifted arguments by $2n$ parameters in terms of the same tau function with shifted arguments by two parameters in the form of determinant. We then take the limits of it tending some of parameters to zero. As an important special case we obtain the formula which connects the shifted tau function to the Wronskian of functions obtained by substituting parameter values into the spectral variable of the wave function. As an application, we prove the equivalence of vertex operators and Darboux transformations. As another application, we derive a new addition formula for Riemann&amp;#x27;s theta functions of Riemann surfaces by considering theta function solutions of the KP hierarchy. It can be considered as a limit of Fay&amp;#x27;s famous formula (43) in the book [Lecture Notes in Math., Vol. 352, Springer, Berlin, 1973]. But the formula we have derived is a different limit from the limits of (43) considered in that book.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.22876"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transformations of the 2-component BKP tau functions</title>
+      <link>https://arxiv.org/abs/2511.15384</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15384</guid>
+      <pubDate>Wed, 19 Nov 2025 12:26:04 +0000</pubDate>
+      <author>Mengyao Chen, Jipeng Cheng, Jinbiao Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Mengyao Chen, Jipeng Cheng, Jinbiao Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The 2-component BKP (2-BKP) hierarchy is an important integrable system corresponding to the infinite dimensional Lie algebras $b_{\infty}$ and $d_{\infty}$, which contains Novikov-Veselov equation and can be used to describe the total descendent potential of D type singularity. Here we firstly introduce the projections of the mixed pseudo-differential operators to rewrite the 2-BKP Lax equation in the Shiota construction, where the scalar Lax operators involving two differential operators $\partial_1$ and $\partial_2$ are used. Based upon this, the $(M_1,M_2)$-reduction of the 2-BKP hierarchy is given. After that, we give the most important result of this paper, i.e., the transformations of the 2-BKP tau functions, which are in fact the 2-BKP Darboux transformations. Here we further give the corresponding changes in the 2-BKP Lax operators. Also the corresponding results are investigated for the reduction case. Finally, the additional symmetries can be viewed as the special cases of the transformations of the 2-BKP tau functions. Besides, we discuss the Pfaffian identities of the 2-BKP tau functions by successive applications of the above transformations, which are closely related with the 2-BKP addition formulae.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.15384"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-component Pfaff-Toda hierarchy within bilinear formalism</title>
+      <link>https://arxiv.org/abs/2511.10779</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10779</guid>
+      <pubDate>Thu, 13 Nov 2025 20:04:49 +0000</pubDate>
+      <author>A. Savchenko, A. Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Savchenko, A. Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Using the free fermions technique and non-abelian bosonization rules we introduce the multi-component Pfaff-Toda hierarchy. The tau-function is defined as vacuum expectation value of a Clifford group element of the algebra of Fermi-operators. A generating bilinear integral equation for the tau-function is obtained. A number of bilinear functional relations for the tau-function of the Hirota-Miwa type are derived as corollaries of the generating bilinear equation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.10779"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Total partition function with fermionic number fluxes of local toric Calabi--Yau threefold and KP integrability</title>
+      <link>https://arxiv.org/abs/2511.10082</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.10082</guid>
+      <pubDate>Thu, 13 Nov 2025 08:36:22 +0000</pubDate>
+      <author>Zhiyuan Wang, Chenglang Yang, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhiyuan Wang, Chenglang Yang, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, math.AG, math.SG, nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Aganagic, Dijkgraaf, Klemm, Mariño and Vafa \cite{adkmv} predicted that the open string partition function on a smooth toric Calabi--Yau threefold should be a tau-function of multi-component KP hierarchy after considering the contributions from nonzero fermion number fluxes through loops in the toric diagram. In this paper, we prove their prediction in the case of local toric Calabi--Yau threefolds. More precisely, we construct the total partition function of local toric Calabi--Yau threefolds using an operator on the fermionic Fock space which we developed in an earlier work \cite{wyz} to represent the topological vertex, and show that the total partition function is the trace of an operator on the fermionic Fock space. As an application, we prove the KP integrability of the total partition function.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.10082"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generalized discrete integrable operator and integrable hierarchy</title>
+      <link>https://arxiv.org/abs/2511.05046</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.05046</guid>
+      <pubDate>Fri, 07 Nov 2025 07:33:52 +0000</pubDate>
+      <author>Huan Liu</author>
+      <description>&lt;p&gt;&lt;b&gt;Huan Liu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · nlin.SI&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce and systematically develop two classes of discrete integrable operators: those with $2\times 2$ matrix kernels and those possessing general differential kernels, thereby generalizing the discrete analogue previously studied. A central finding is their inherent connection to higher-order pole solutions of integrable hierarchies, contrasting sharply with standard operators linked to simple poles. This work not only provides explicit resolvent formulas for matrix kernels and differential operator analogues but also offers discrete integrable structures that encode higher-order behaviour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2511.05046"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrability in Three-Dimensional Gravity: Eigenfunction-Forced KdV Flows</title>
+      <link>https://arxiv.org/abs/2510.10519</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.10519</guid>
+      <pubDate>Sun, 12 Oct 2025 09:35:54 +0000</pubDate>
+      <author>Hamed Adami, Anouchah Latifi</author>
+      <description>&lt;p&gt;&lt;b&gt;Hamed Adami, Anouchah Latifi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy · hep-th, gr-qc&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We uncover a direct connection between three-dimensional gravity with chiral boundary conditions and a class of forced integrable systems. Starting from the Chern-Simons formulation, we derive consistent boundary conditions on a non-compact spatial slice, leading to boundary dynamics described by the potential modified KdV hierarchy. The dynamics reduce to a forced KdV equation, where the forcing term is determined self-consistently by the eigenfunctions of the associated Schrödinger operator. Using the inverse scattering transform, the reflectionless sector is solved via the Gelfand-Levitan-Marchenko method, while the radiative sector exhibits universal dispersive decay. This framework unifies AdS$_3$ boundary dynamics with integrable hierarchies and elucidates the roles of solitons and radiation in the dual conformal field theory.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.10519"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On a matrix constrained CKP hierarchy</title>
+      <link>https://arxiv.org/abs/2510.09054</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.09054</guid>
+      <pubDate>Fri, 10 Oct 2025 06:48:44 +0000</pubDate>
+      <author>Song Li, Kelei Tian, Zhiwei Wu</author>
+      <description>&lt;p&gt;&lt;b&gt;Song Li, Kelei Tian, Zhiwei Wu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarchies, integrable hierarchy, tau function, tau functions, tau-function, tau-functions · nlin.SI, math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The algebraic structures of integrable hierarchies play an important role in the study of soliton equations. In this paper, we use splitting theory to give a matrix representation of a constrained CKP hierarchy, which can be considered as a generalization of the $\hat{A}_{2n}^{(2)}$-KdV hierarchy and the constrained KP hierarchy. An equivalent construction in terms of the pseudo-differential operator is discussed. Darboux transformations, scaling transformation and tau functions $\ln τ_f$ for this constrained hierarchy are studied. Moreover, we present formulas for the Virasoro vector fields on $\ln τ_f$ for the $\hat{A}_{2 n}^{(2)}$-KdV hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.09054"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Hurwitz numbers and the mKP hierarchy</title>
+      <link>https://arxiv.org/abs/2510.08038</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.08038</guid>
+      <pubDate>Thu, 09 Oct 2025 10:21:40 +0000</pubDate>
+      <author>Alexandr Buryak, Ran J. Tessler, Mikhail Troshkin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexandr Buryak, Ran J. Tessler, Mikhail Troshkin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph, math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give a natural definition of open Hurwitz numbers, where the weight of each ramified covering includes an integer parameter $N$ taken to the power that is equal to the number of boundary components of a Riemann surface with boundary mapping to $\mathbb{CP}^1$. We prove that the resulting sequence of partition functions, depending on $N\in\mathbb{Z}$, is a tau-sequence of the mKP hierarchy, or in other words it is a sequence of tau-functions of the KP hierarchy where each tau-function is obtained from the previous one by a Bäcklund-Darboux transformation. Our result is motivated by a previous observation of Alexandrov and the first two authors that the refined intersection numbers on the moduli spaces of Riemann surfaces with boundary give a tau-sequence of the mKP hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2510.08038"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SU(N) integrals and tau functions</title>
+      <link>https://arxiv.org/abs/2509.20213</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.20213</guid>
+      <pubDate>Wed, 24 Sep 2025 15:10:08 +0000</pubDate>
+      <author>A. Yu. Orlov</author>
+      <description>&lt;p&gt;&lt;b&gt;A. Yu. Orlov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function, tau functions, tau-function, tau-functions · math-ph&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We present a family of solvable multi-matrix models associated with an arbitrary embedded graph $Γ$ with a single vertex. The graph with $n$ edges is equipped with $2n$ corner matrices. The partition function of each member of the family depends on the set of eigenvalues of monodromies of corner matrices around the vertices of the dual graph $Γ^*$ and sets of parameters attached to each vertex of $Γ$. We select the cases where the partition function of a model is a tau function of KP, 2KP and BKP hiearachies. We compare integrals over ${U}(N)$ and over ${SU}(N)$ groups. In $U(N)$ case there is no restriction on the number of vertices of $Γ$. We also consider mixed ensembles of matrices from $GL(N),U(N)$ and $SU(N)$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2509.20213"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
