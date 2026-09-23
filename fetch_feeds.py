@@ -2,7 +2,7 @@
 """
 Build RSS feeds of recent arXiv papers for lists of authors.
 
-For every file authors/<name>.txt, this script queries the arXiv API
+For every file authors/<name>.txt (and keywords/<name>.txt), this script queries the arXiv API
 one author at a time (politely spaced), keeps papers in the allowed
 categories, merges and deduplicates them, and writes feeds/<name>.xml.
 It also writes feeds/report.txt with the number of papers found per author.
@@ -42,6 +42,8 @@ TITLES = {
     "ag": "arXiv – Algebraic Geometry",
     "mathphys": "arXiv – Mathematical Physics",
     "amplituhedron": "arXiv – Amplituhedron",
+    "topics": "arXiv – Topics",
+    "broad": "arXiv – Broad",
 }
 
 RESULTS_PER_AUTHOR = 50    # latest papers fetched per author
@@ -101,6 +103,22 @@ HOSTS = ["https://arxiv.org/api/query", "https://export.arxiv.org/api/query"]
 USER_AGENT = "arxiv-author-feeds/1.1 (personal RSS feed; github actions)"
 
 
+def read_keywords(path):
+    """Lines: expression | optional categories -> same tuples as read_authors."""
+    items = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        cats, explicit = DEFAULT_CATS, False
+        if len(parts) > 1 and parts[1]:
+            cats = {c.strip() for c in parts[1].split(",") if c.strip()}
+            explicit = True
+        items.append((parts[0], parts[0], cats, explicit))
+    return items
+
+
 def fetch(search):
     """Fetch one arXiv search with curl (arXiv currently refuses Python urllib)."""
     params = urllib.parse.urlencode({
@@ -152,12 +170,12 @@ def parse(xml_bytes):
     return papers
 
 
-def build_rss(title, papers):
+def build_rss(title, papers, label="Followed"):
     rss = ET.Element("rss", version="2.0")
     ch = ET.SubElement(rss, "channel")
     ET.SubElement(ch, "title").text = title
     ET.SubElement(ch, "link").text = "https://arxiv.org"
-    ET.SubElement(ch, "description").text = "Recent arXiv papers by followed authors"
+    ET.SubElement(ch, "description").text = "Recent arXiv papers (personal feed)"
     ET.SubElement(ch, "lastBuildDate").text = format_datetime(datetime.now(timezone.utc))
     for p in papers:
         url = f"https://arxiv.org/abs/{p['id']}"
@@ -169,7 +187,7 @@ def build_rss(title, papers):
         ET.SubElement(it, "author").text = ", ".join(p["authors"])
         ET.SubElement(it, "description").text = (
             f"<p><b>{escape(', '.join(p['authors']))}</b></p>"
-            f"<p><i>Followed: {escape(', '.join(sorted(p['followed'])))}"
+            f"<p><i>{label}: {escape(', '.join(sorted(p['followed'])))}"
             f" · {escape(', '.join(p['cats']))}</i></p>"
             f"<p>{escape(p['summary'])}</p>"
             f"<p><a href=\"https://arxiv.org/pdf/{p['id']}\">PDF</a></p>"
@@ -186,20 +204,22 @@ def main():
     total_failures = total_calls = 0
     consecutive_failures = 0
 
-    for path in sorted((ROOT / "authors").glob("*.txt")):
+    sources = [(path, "au") for path in sorted((ROOT / "authors").glob("*.txt"))]
+    sources += [(path, "abs") for path in sorted((ROOT / "keywords").glob("*.txt"))]
+    for path, field in sources:
         feed = path.stem
         merged = {}
         failures = 0
-        authors = read_authors(path)
-        print(f"== {feed}: {len(authors)} authors")
+        authors = read_authors(path) if field == "au" else read_keywords(path)
+        print(f"== {feed}: {len(authors)} entries")
         for name, query, cats, explicit in authors:
             total_calls += 1
             # Common names: one search per category, so that homonyms
             # in other fields do not fill the result window.
             if explicit:
-                searches = [f'au:"{query}" AND cat:{c}' for c in sorted(cats)]
+                searches = [f'{field}:"{query}" AND cat:{c}' for c in sorted(cats)]
             else:
-                searches = [f'au:"{query}"']
+                searches = [f'{field}:"{query}"']
             papers, ok = [], False
             for search in searches:
                 data = fetch(search)
@@ -215,14 +235,15 @@ def main():
                 failures += 1
                 consecutive_failures += 1
                 if consecutive_failures >= 8:
-                    sys.exit("8 authors failed in a row: arXiv is refusing requests. "
+                    sys.exit("8 searches failed in a row: arXiv is refusing requests. "
                              "Feeds left unchanged; try again later.")
                 report.append(f"{feed:14} | {name:30} | {query:25} | ERROR")
                 continue
             consecutive_failures = 0
             papers = list({p["id"]: p for p in papers}.values())
-            papers = [p for p in papers
-                      if any(name_matches(name, a) for a in p["authors"])]
+            if field == "au":
+                papers = [p for p in papers
+                          if any(name_matches(name, a) for a in p["authors"])]
             kept = [p for p in papers if set(p["cats"]) & cats]
             report.append(f"{feed:14} | {name:30} | {query:25} | "
                           f"{len(papers):3} found | {len(kept):3} kept")
@@ -237,13 +258,14 @@ def main():
             continue
         papers = sorted((p for p in merged.values() if p["published"] >= cutoff),
                         key=lambda p: p["published"], reverse=True)[:MAX_ITEMS]
-        xml = build_rss(TITLES.get(feed, f"arXiv – {feed}"), papers)
+        xml = build_rss(TITLES.get(feed, f"arXiv – {feed}"), papers,
+                        "Followed" if field == "au" else "Matched")
         (out_dir / f"{feed}.xml").write_text(xml, encoding="utf-8")
         print(f"  -> feeds/{feed}.xml ({len(papers)} items)")
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     header = [f"Last run: {stamp}",
-              "Authors with 0 found: check the query in authors/*.txt", ""]
+              "0 found: check the line in authors/*.txt or keywords/*.txt", ""]
     (out_dir / "report.txt").write_text("\n".join(header + report) + "\n",
                                         encoding="utf-8")
     if total_calls and total_failures == total_calls:

@@ -1,0 +1,22 @@
+# Feed: Topics (searched in abstracts)
+# Format: expression | optional categories
+# The expression is searched as an exact phrase in arXiv abstracts.
+double ramification
+Dubrovin-Zhang
+tau-symmetric
+Riemann hierarchy
+Witten-Kontsevich
+quantum integrable hierarchies
+Frobenius manifold
+cohomological field theory
+Givental
+tautological relations
+Hodge integrals
+r-spin
+Chiodo class
+Hurwitz numbers
+topological recursion
+x-y swap
+quantum curve
+resurgence | math.AG,math-ph
+star product | math.QA,math-ph,math.AG

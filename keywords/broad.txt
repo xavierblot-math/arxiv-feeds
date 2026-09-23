@@ -1,0 +1,11 @@
+# Feed: Broad (the field at large, searched in abstracts)
+# Format: expression | optional categories
+Gromov-Witten
+integrable hierarchies
+integrable hierarchy
+tau function
+tau functions
+tau-function
+tau-functions
+τ-function
+τ-functions
