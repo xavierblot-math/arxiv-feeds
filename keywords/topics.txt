@@ -20,3 +20,6 @@ x-y swap
 quantum curve
 resurgence | math.AG,math-ph
 star product | math.QA,math-ph,math.AG
+KdV hierarchy
+r-KdV
+quantum KdV
