@@ -7,5 +7,3 @@ tau function
 tau functions
 tau-function
 tau-functions
-τ-function
-τ-functions
