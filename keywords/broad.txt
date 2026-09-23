@@ -7,3 +7,5 @@ tau function
 tau functions
 tau-function
 tau-functions
+KdV
+Korteweg-de Vries
