@@ -1,11 +1,11 @@
-Last run: 2026-09-22 12:55 UTC
+Last run: 2026-09-23 04:51 UTC
 Authors with 0 found: check the query in authors/*.txt
 
 ag             | Adam Afandi                    | Afandi                    |   4 found |   4 kept
 ag             | Pierrick Bousseau              | Bousseau                  |  27 found |  27 kept
 ag             | Samir Canning                  | Samir Canning             |  24 found |  24 kept
 ag             | Renzo Cavalieri                | Renzo Cavalieri           |  47 found |  46 kept
-ag             | Alessio Cela                   | Cela                      |  24 found |  18 kept
+ag             | Alessio Cela                   | Cela                      |  25 found |  19 kept
 ag             | Dawei Chen                     | Dawei Chen                |  53 found |  53 kept
 ag             | Alessandro Chiodo              | Chiodo                    |  10 found |  10 kept
 ag             | Emily Clader                   | Clader                    |  26 found |  24 kept
@@ -21,7 +21,7 @@ ag             | Kefeng Liu                     | Kefeng Liu                |  9
 ag             | Melissa Liu                    | Melissa Liu               |  53 found |  53 kept
 ag             | Xiaobo Liu                     | Xiaobo Liu                |  21 found |  21 kept
 ag             | Steffen Marcus                 | Steffen Marcus            |  14 found |  14 kept
-ag             | Hannah Markwig                 | Markwig                   |  45 found |  45 kept
+ag             | Hannah Markwig                 | Markwig                   |  46 found |  46 kept
 ag             | Sam Molcho                     | Molcho                    |  20 found |  20 kept
 ag             | Denis Nesterov                 | Denis Nesterov            |  12 found |  12 kept
 ag             | Georg Oberdieck                | Oberdieck                 |  39 found |  37 kept
@@ -97,7 +97,7 @@ mathphys       | Don Zagier                     | Zagier                    |  4
 mathphys       | Youjin Zhang                   | Youjin Zhang              |  49 found |  49 kept
 mathphys       | Jian Zhou                      | Jian Zhou                 |  75 found |  75 kept
 mathphys       | Zhe Wang                       | Zhe Wang                  |  16 found |  16 kept
-mathphys       | Claude Sabbah                  | Sabbah                    |  15 found |  15 kept
-mathphys       | Giordano Cotti                 | Cotti                     |   7 found |   7 kept
+mathphys       | Claude Sabbah                  | Claude Sabbah             |  50 found |  49 kept
+mathphys       | Giordano Cotti                 | Giordano Cotti            |  17 found |  16 kept
 mathphys       | Si-Qi Liu                      | Si-Qi Liu                 |  41 found |  41 kept
 mathphys       | Stijn Velstra                  | Velstra                   |   2 found |   2 kept

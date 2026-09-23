@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>Recent arXiv papers by followed authors</description>
-    <lastBuildDate>Tue, 22 Sep 2026 12:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:46:10 +0000</lastBuildDate>
+    <item>
+      <title>Brill-Noether existence with secants</title>
+      <link>https://arxiv.org/abs/2609.26713</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.26713</guid>
+      <pubDate>Tue, 22 Sep 2026 17:05:18 +0000</pubDate>
+      <author>Alessio Cela, Carl Lian</author>
+      <description>&lt;p&gt;&lt;b&gt;Alessio Cela, Carl Lian&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Alessio Cela · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We completely characterize when a general curve of genus $g$ admits a non-degenerate degree $d$ map to projective space $\mathbb{P}^r$, that is $k$-secant along a linear space $\mathbb{P}^s \subset \mathbb{P}^r$ and deforms in a smooth family of expected dimension. This gives an optimal improvement of a theorem of Farkas, who gave necessary conditions, and proved sufficiency under additional numerical assumptions. Our main theorem shows that the natural necessary conditions are in fact sufficient, yielding a generalization of the classical Brill-Noether existence theorem. The proof relies on deformation theory of stable maps, and is valid in arbitrary characteristic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.26713"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tropicalization and degeneration of short flag varieties and their fibers</title>
+      <link>https://arxiv.org/abs/2609.26525</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.26525</guid>
+      <pubDate>Tue, 22 Sep 2026 14:48:32 +0000</pubDate>
+      <author>Hannah Markwig, Michael Schlößer</author>
+      <description>&lt;p&gt;&lt;b&gt;Hannah Markwig, Michael Schlößer&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Followed: Hannah Markwig · math.AG&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Tropicalizations of Grassmannians resp. flag varieties parametrizing (flags of) linear spaces have been studied intensely and reveal rich combinatorial structure. Linear degenerations of flag varieties provide ways of interpolating between products of Grassmannians and flag varieties. Tropical versions of these have been introduced recently, but their combinatorial description and computation remains a challenge. We consider a particular case which allows the use of matroidal methods, namely linear degenerate short flag varieties parametrizing tuples of linear spaces such that a projection of one is contained in the other. Their fibers turn out to be linear spaces themselves under mild assumptions, which allows a comprehensive combinatorial description of their tropicalizations, and accordingly, of tropicalizations of linear degenerate short flag varieties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.26525"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hodge integrals on admissible covers and tautological projections of Prym classes</title>
       <link>https://arxiv.org/abs/2609.17703</link>
