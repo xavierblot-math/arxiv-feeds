@@ -49,7 +49,8 @@ TITLES = {
 RESULTS_PER_AUTHOR = 50    # latest papers fetched per author
 MAX_AGE_DAYS = 365         # papers older than this are dropped from the feed
 MAX_ITEMS = 300            # maximum number of items per feed
-DELAY = 3.5                # seconds between API calls (arXiv asks for >= 3)
+DELAY = 4.5                # seconds between API calls (arXiv asks for >= 3)
+COOLDOWN = 300             # pause after a line fails, before trying it again
 
 ROOT = Path(__file__).resolve().parent
 
@@ -221,22 +222,30 @@ def main():
             else:
                 searches = [f'{field}:"{query}"']
             papers, ok = [], False
-            for search in searches:
-                data = fetch(search)
-                time.sleep(DELAY)
-                if data is not None and not parse(data):
-                    time.sleep(10)  # arXiv sometimes answers with an empty feed
-                    data = fetch(search) or data
+            for round_no in range(2):
+                papers, ok = [], False
+                for search in searches:
+                    data = fetch(search)
                     time.sleep(DELAY)
-                if data is not None:
-                    ok = True
-                    papers += parse(data)
+                    if data is not None and not parse(data):
+                        time.sleep(10)  # arXiv sometimes answers with an empty feed
+                        data = fetch(search) or data
+                        time.sleep(DELAY)
+                    if data is not None:
+                        ok = True
+                        papers += parse(data)
+                if ok or round_no:
+                    break
+                # arXiv is refusing requests: wait, then try this line again
+                print(f"  {name}: no answer, pausing {COOLDOWN // 60} min",
+                      file=sys.stderr, flush=True)
+                time.sleep(COOLDOWN)
             if not ok:
                 failures += 1
                 consecutive_failures += 1
-                if consecutive_failures >= 8:
-                    sys.exit("8 searches failed in a row: arXiv is refusing requests. "
-                             "Feeds left unchanged; try again later.")
+                if consecutive_failures >= 6:
+                    sys.exit("6 lines failed in a row even after pausing: arXiv is "
+                             "refusing requests. Feeds left unchanged; try later.")
                 report.append(f"{feed:14} | {name:30} | {query:25} | ERROR")
                 continue
             consecutive_failures = 0
