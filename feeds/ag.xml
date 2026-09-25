@@ -4,14 +4,6 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 25 Sep 2026 07:29:40 +0000</lastBuildDate>
-    <item>
-      <title>Arithmetic progressions in dense subsets of primitive elements of finite fields</title>
-      <link>https://arxiv.org/abs/2609.29653</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.29653</guid>
-      <pubDate>Fri, 25 Sep 2026 07:22:28 +0000</pubDate>
-      <author>Hai-Liang Wu</author>
-      <description>&lt;p&gt;&lt;b&gt;Hai-Liang Wu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Longting Wu · math.NT, math.CO · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $p$ be a prime and let $\mathcal{P}_p$ be the set of primitive elements of $\mathbb{F}_p$. Inspired by the work of Cohen, Oliveira e Silva and Trudgian on consecutive primitive elements, and by the work of Chang on arithmetic progressions in multiplicative subgroups of finite fields, in this paper, using estimates for multiplicative character sums over systems of linear forms together with the relative Szemer\&amp;#x27;edi&amp;#x27;s theorem of Conlon, Fox and Zhao, we show that, for every fixed integer $k\ge3$ and any fixed number $0&amp;lt;\delta\le 1$, each subset $A\subseteq\mathcal{P}_p$ with $\#A\ge\delta\#\mathcal{P}_p$ contains a nontrivial $k$-term arithmetic progression, provided that $p$ is sufficiently large. Also, by applying Behrend&amp;#x27;s theorem, we construct a large subset $A&amp;#x27;$ of $\mathcal{P}_p$ with $\#A&amp;#x27;=\lfloor(\#\mathcal{P}_p)^{1-\varepsilon}\rfloor$ such that $A&amp;#x27;$ contains no nontrivial $k$-term arithmetic progressions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.29653"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 07:36:40 +0000</lastBuildDate>
   </channel>
 </rss>

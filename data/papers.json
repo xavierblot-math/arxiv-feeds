@@ -1,0 +1,53 @@
+{
+ "2609.28964": {
+  "announce": "new",
+  "authors": [
+   "Wasif Ahmed",
+   "Joydeep Naskar"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.28964",
+  "link": "https://arxiv.org/abs/2609.28964",
+  "matched": [
+   "KdV",
+   "r-spin"
+  ],
+  "seen": "2026-09-25T07:36:18.379957+00:00",
+  "summary": "Minimal strings offer two ways to study quantum surfaces: through a spectral curve or through a differential equation. We ask how much of the quantum equation can be recovered once the classical curve and its motion with the background are known. Our starting point is the resolvent of a scalar differential operator. We require its one-boundary integral to have poles only at branch points, with the resulting differential regular at infinity. These conditions give a finite reconstruction procedure at each genus. When the branch points are simple and their energy values move, we prove that the quantum corrections are unique whenever the procedure is consistent. A specified string equation provides a solution if its trace primitive satisfies the same analytic conditions. The scalar construction also leads to amplitudes with several boundaries. We introduce the method through pure gravity and Ising, then explore higher-order, dual and nonunitary models. Higher-Airy examples connect the calculation to $r$-spin theory on a degenerate locus that requires a separate treatment of the inverse problem.",
+  "title": "Resolvent reconstruction of minimal strings beyond KdV"
+ },
+ "2609.30242": {
+  "announce": "new",
+  "authors": [
+   "Changzheng Li",
+   "Konstanze Rietsch",
+   "Mingzhi Yang"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "topics": [
+    "Givental"
+   ]
+  },
+  "id": "2609.30242",
+  "link": "https://arxiv.org/abs/2609.30242",
+  "matched": [
+   "Givental"
+  ],
+  "seen": "2026-09-25T07:36:18.379957+00:00",
+  "summary": "We initiate a `Peterson program' that seeks to extend Dale Peterson's theory for the quantum cohomology of flag varieties to arbitrary Schubert varieties, and that incorporates a mirror-symmetric approach. In this first paper we introduce a generalisation of the (localised) Peterson variety associated to an arbitrary Schubert variety $\\check X_{w,P}$ inside a partial flag variety $\\check G/\\check P$. This generalisation is possibly a non-reduced affine scheme that lies in the Langlands dual full flag variety $G/B$. Additionally, we construct a Lie-theoretic `superpotential' associated to $\\check X_{w,P}$, generalising earlier ones for the flag varieties $\\check G/\\check P$ from [Rie08], and we show that its relative critical point locus recovers the generalised Peterson variety. We make the key conjecture that for smooth Fano Schubert varieties the coordinate ring of the generalised Peterson variety recovers the quantum cohomology ring of $\\check X_{w,P}$ localised at the quantum parameters. For smooth Fano Schubert varieties $X_{w,B}$ in $\\check G/\\check B$ we furthermore map our generalised Peterson variety to the cotangent bundle $\\mathcal T^*(T)$ of the maximal torus $T$ of $G$ and construct a partial compactification that we conjecture models the full quantum cohomology ring of $\\check X_{w,B}$, in analogy with the Givental-Kim presentation of $QH^*(\\check G/\\check B)$ via the degenerate leaf of the Kostant Toda lattice of $\\check G$. These conjectures are verified for all smooth Schubert divisors in the complete type $A$ flag variety, and we show that our superpotential agrees with that introduced for Grassmannian Schubert varieties by Rietsch and Williams, after a suitable isomorphism of the domains.",
+  "title": "A Peterson program for general Schubert varieties and mirror symmetry"
+ }
+}

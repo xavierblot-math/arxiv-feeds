@@ -4,12 +4,12 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 25 Sep 2026 07:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:36:40 +0000</lastBuildDate>
     <item>
       <title>Resolvent reconstruction of minimal strings beyond KdV</title>
       <link>https://arxiv.org/abs/2609.28964</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.28964</guid>
-      <pubDate>Fri, 25 Sep 2026 07:22:28 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 07:36:18 +0000</pubDate>
       <author>Wasif Ahmed, Joydeep Naskar</author>
       <description>&lt;p&gt;&lt;b&gt;Wasif Ahmed, Joydeep Naskar&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Minimal strings offer two ways to study quantum surfaces: through a spectral curve or through a differential equation. We ask how much of the quantum equation can be recovered once the classical curve and its motion with the background are known. Our starting point is the resolvent of a scalar differential operator. We require its one-boundary integral to have poles only at branch points, with the resulting differential regular at infinity. These conditions give a finite reconstruction procedure at each genus. When the branch points are simple and their energy values move, we prove that the quantum corrections are unique whenever the procedure is consistent. A specified string equation provides a solution if its trace primitive satisfies the same analytic conditions. The scalar construction also leads to amplitudes with several boundaries. We introduce the method through pure gravity and Ising, then explore higher-order, dual and nonunitary models. Higher-Airy examples connect the calculation to $r$-spin theory on a degenerate locus that requires a separate treatment of the inverse problem.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.28964"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>

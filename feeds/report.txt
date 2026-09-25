@@ -1,9 +1,13 @@
-Last run: 2026-09-25 07:29 UTC
+Last run: 2026-09-25 07:36 UTC
 Announcements downloaded: 211 (0 category feeds failed)
-New papers stored this run: 0
+New papers stored this run: 2
 
-ag             |    1 items |   0 new this run
+ag             |    0 items |   0 new this run
 amplituhedron  |    0 items |   0 new this run
 broad          |    1 items |   1 new this run
-mathphys       |    3 items |   0 new this run
+mathphys       |    0 items |   0 new this run
 topics         |    2 items |   2 new this run
+
+Matched this run:
+  Givental                                 | A Peterson program for general Schubert varieties and mirror symmetry
+  KdV, r-spin                              | Resolvent reconstruction of minimal strings beyond KdV
