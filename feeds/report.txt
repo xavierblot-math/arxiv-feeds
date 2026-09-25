@@ -1,17 +1,9 @@
-Last run: 2026-09-25 07:22 UTC
+Last run: 2026-09-25 07:29 UTC
 Announcements downloaded: 211 (0 category feeds failed)
-New papers stored this run: 6
+New papers stored this run: 0
 
-ag             |    1 items |   1 new this run
+ag             |    1 items |   0 new this run
 amplituhedron  |    0 items |   0 new this run
 broad          |    1 items |   1 new this run
-mathphys       |    3 items |   3 new this run
+mathphys       |    3 items |   0 new this run
 topics         |    2 items |   2 new this run
-
-Matched this run:
-  Givental                                 | A Peterson program for general Schubert varieties and mirror symmetry
-  Youjin Zhang                             | Jordan Blocks, Differential Traces, and Colon-Ideal Noncontainment ove
-  Youjin Zhang                             | Structure-preserving diffuse-domain accelerated saddle dynamics for we
-  Si-Qi Liu                                | Localization near the edge for the lattice Anderson-Bernoulli model on
-  Longting Wu                              | Arithmetic progressions in dense subsets of primitive elements of fini
-  KdV, r-spin                              | Resolvent reconstruction of minimal strings beyond KdV

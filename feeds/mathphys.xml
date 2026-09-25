@@ -4,15 +4,7 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 25 Sep 2026 07:22:50 +0000</lastBuildDate>
-    <item>
-      <title>Jordan Blocks, Differential Traces, and Colon-Ideal Noncontainment over Noetherian Quotients</title>
-      <link>https://arxiv.org/abs/2609.29516</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.29516</guid>
-      <pubDate>Fri, 25 Sep 2026 07:22:28 +0000</pubDate>
-      <author>Yizhi Zhang</author>
-      <description>&lt;p&gt;&lt;b&gt;Yizhi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Youjin Zhang · math.AC, math.AG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $k$ be a field of characteristic zero, let $R$ be a commutative $k$-algebra, let $I$ be a proper ideal of $R$, and assume that $A=R/I$ is Noetherian. We prove that if $a=[f]$ in $A$ is nilpotent and $d_{A/k}a=0$, then $I:f$ is not contained in $(I,f)$. If $R$ is local with maximal ideal $\mathfrak n$, then $I:f$ is not contained in $(I,f)+\mathfrak n(I:f)$. As applications, we prove the isolated hypersurface case in arbitrary dimension and extend the conclusion to non-isolated critical loci on smooth varieties. Finally, we exhibit a five-variable isolated singularity satisfying $J_f:f\subseteq\overline{J_f}$, thereby disproving the integral-closure strengthening.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.29516"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 07:29:40 +0000</lastBuildDate>
     <item>
       <title>Structure-preserving diffuse-domain accelerated saddle dynamics for wetting transitions</title>
       <link>https://arxiv.org/abs/2609.29039</link>
@@ -20,6 +12,14 @@
       <pubDate>Fri, 25 Sep 2026 07:22:28 +0000</pubDate>
       <author>Tianye Xu, Lei Zhang, Yuze Zhang</author>
       <description>&lt;p&gt;&lt;b&gt;Tianye Xu, Lei Zhang, Yuze Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Youjin Zhang · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Wetting transitions on textured substrates play a central role in the design of functional surfaces, but resolving their transition mechanisms requires efficient exploration of complex energy landscapes. In particular, saddle points are essential for revealing the connectivity among metastable states and transition pathways. In this work, we develop a diffuse-domain accelerated saddle dynamics (DD-ASD) framework for mass-constrained wetting transitions on complex textured substrates. The diffuse-domain formulation embeds complex solid geometries into a Cartesian grid, avoiding body-fitted mesh construction in repeated saddle-point searches. An orthogonal projection is applied consistently to the phase-field state and unstable-direction dynamics, preserving the prescribed droplet mass at the discrete level. Momentum acceleration is incorporated into the saddle dynamics to improve the efficiency of high-index saddle searches. Under the stated local spectral and exact-eigenspace assumptions, we establish a local convergence rate of $1-\mathcal{O}(1/\sqrt{\kappa})$ on the effective mass-conserving subspace. Numerical experiments demonstrate the effectiveness of the proposed method in resolving wetting solution landscapes, transition pathways, and energy barriers on textured substrates. We further extend the framework to fully three-dimensional wetting-landscape computations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.29039"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jordan Blocks, Differential Traces, and Colon-Ideal Noncontainment over Noetherian Quotients</title>
+      <link>https://arxiv.org/abs/2609.29516</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.29516</guid>
+      <pubDate>Fri, 25 Sep 2026 07:22:28 +0000</pubDate>
+      <author>Yizhi Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Yizhi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Youjin Zhang · math.AC, math.AG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $k$ be a field of characteristic zero, let $R$ be a commutative $k$-algebra, let $I$ be a proper ideal of $R$, and assume that $A=R/I$ is Noetherian. We prove that if $a=[f]$ in $A$ is nilpotent and $d_{A/k}a=0$, then $I:f$ is not contained in $(I,f)$. If $R$ is local with maximal ideal $\mathfrak n$, then $I:f$ is not contained in $(I,f)+\mathfrak n(I:f)$. As applications, we prove the isolated hypersurface case in arbitrary dimension and extend the conclusion to non-isolated critical loci on smooth varieties. Finally, we exhibit a five-variable isolated singularity satisfying $J_f:f\subseteq\overline{J_f}$, thereby disproving the integral-closure strengthening.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.29516"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Localization near the edge for the lattice Anderson-Bernoulli model on general dimension</title>
