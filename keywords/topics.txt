@@ -1,25 +1,25 @@
-# Feed: Topics (searched in abstracts)
+# Feed: Topics (precise expressions)
 # Format: expression | optional categories
-# The expression is searched as an exact phrase in arXiv abstracts.
+# Matching ignores case, accents and hyphens, and is a substring match.
 double ramification
 Dubrovin-Zhang
 tau-symmetric
 Riemann hierarchy
 Witten-Kontsevich
-quantum integrable hierarchies
+quantum integrable hierarch
 Frobenius manifold
 cohomological field theory
 Givental
-tautological relations
-Hodge integrals
+tautological relation
+Hodge integral
 r-spin
 Chiodo class
-Hurwitz numbers
+Hurwitz number
 topological recursion
 x-y swap
 quantum curve
-resurgence | math.AG,math-ph
-star product | math.QA,math-ph,math.AG
 KdV hierarchy
 r-KdV
 quantum KdV
+resurgence | math.AG,math-ph
+star product | math.QA,math-ph,math.AG

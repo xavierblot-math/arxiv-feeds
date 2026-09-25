@@ -1,11 +1,10 @@
-# Feed: Broad (the field at large, searched in abstracts)
+# Feed: Broad (the field at large)
 # Format: expression | optional categories
+# Matching ignores case, accents and hyphens, and is a substring match:
+# "integrable hierarch" catches hierarchy and hierarchies,
+# "tau function" catches tau-functions.
 Gromov-Witten
-integrable hierarchies
-integrable hierarchy
+integrable hierarch
 tau function
-tau functions
-tau-function
-tau-functions
 KdV
 Korteweg-de Vries

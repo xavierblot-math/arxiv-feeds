@@ -1,37 +1,40 @@
 #!/usr/bin/env python3
 """
-Build RSS feeds of recent arXiv papers for lists of authors.
+Personal arXiv feeds, built from arXiv's daily announcement RSS.
 
-For every file authors/<name>.txt (and keywords/<name>.txt), this script queries the arXiv API
-one author at a time (politely spaced), keeps papers in the allowed
-categories, merges and deduplicates them, and writes feeds/<name>.xml.
-It also writes feeds/report.txt with the number of papers found per author.
+Every run downloads the daily announcement feed of each category in
+CATEGORIES (one request each, from rss.arxiv.org), keeps "new" and "cross"
+announcements, and matches every announced paper against:
+  - authors/<feed>.txt : "Full name | (ignored) | optional categories"
+  - keywords/<feed>.txt: "expression | optional categories"
+Matches are added to data/papers.json (the store, which accumulates over
+time), and feeds/<feed>.xml is rebuilt from the store at every run.
 
-Line format in authors/*.txt (lines starting with # are ignored):
-    Full name | query | optional categories
-Examples:
-    Sergey Shadrin | Shadrin
-    Jun Li | Jun Li | math.AG
-The query is sent to arXiv as au:"<query>". Results are then kept only if
-one author has the same surname and first-name initial as the full name,
-and the paper is in one of the categories.
+The arXiv search API (export.arxiv.org/api/query) is no longer used: since
+mid-September 2026 it answers HTTP 406 to any query that misses its cache.
 """
 
+import json
 import subprocess
 import sys
 import time
 import unicodedata
-import urllib.parse
-import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from html import escape
 from pathlib import Path
 
-ATOM = "{http://www.w3.org/2005/Atom}"
+# Categories whose daily announcements are downloaded.
+CATEGORIES = [
+    "math.AG", "math-ph", "math.CO", "hep-th",
+    "math.QA", "nlin.SI", "math.SG",
+]
 
-# Categories kept by default (an author line can override this).
+# Announcement types kept: "new", "cross", "replace", "replace-cross".
+ACCEPT_TYPES = {"new", "cross"}
+
+# Categories kept by default (a line in authors/ or keywords/ can override).
 DEFAULT_CATS = {
     "math.AG", "math-ph", "math.MP", "math.CO", "hep-th",
     "math.QA", "nlin.SI", "math.SG",
@@ -46,30 +49,34 @@ TITLES = {
     "broad": "arXiv – Broad",
 }
 
-RESULTS_PER_AUTHOR = 50    # latest papers fetched per author
-MAX_AGE_DAYS = 365         # papers older than this are dropped from the feed
-MAX_ITEMS = 300            # maximum number of items per feed
-DELAY = 4.5                # seconds between API calls (arXiv asks for >= 3)
-COOLDOWN = 300             # pause after a line fails, before trying it again
+RSS_HOSTS = ["https://rss.arxiv.org/rss/", "https://export.arxiv.org/rss/"]
+USER_AGENT = "personal-arxiv-feeds/2.0 (daily RSS reader)"
+MAX_AGE_DAYS = 365     # papers older than this leave the feeds and the store
+MAX_ITEMS = 300        # maximum number of items per feed
+DELAY = 3.0            # seconds between downloads
 
 ROOT = Path(__file__).resolve().parent
+STORE = ROOT / "data" / "papers.json"
+DC = "{http://purl.org/dc/elements/1.1/}"
+ARXIV = "{http://arxiv.org/schemas/atom}"
 
+
+# ---------------------------------------------------------------- matching
 
 def norm(text):
-    """Lowercase, strip accents and punctuation: 'Lewański' -> 'lewanski'."""
+    """Lowercase, strip accents and punctuation: 'Lewański' -> ['lewanski']."""
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
     return "".join(c if c.isalnum() else " " for c in text.lower()).split()
 
 
-def name_matches(display_name, paper_author):
-    """True if paper_author looks like display_name: same surname and
-    one of the given names starts with the same initial.
+def name_matches(full_name, paper_author):
+    """True if paper_author looks like full_name: same surname, and the first
+    given name (or a later one written in full) has the same initial.
     'Ran Tessler' matches 'Ran J. Tessler' and 'R. Tessler';
-    'Melissa Liu' matches 'Chiu-Chu Melissa Liu'; 'Sergey Shadrin'
-    does not match 'O. S. Shadrin'."""
-    want = norm(display_name)
-    got = norm(paper_author)
+    'Melissa Liu' matches 'Chiu-Chu Melissa Liu';
+    'Sergey Shadrin' does not match 'O. S. Shadrin'."""
+    want, got = norm(full_name), norm(paper_author)
     if not want or not got:
         return False
     surname, initial = want[-1], want[0][0]
@@ -78,118 +85,139 @@ def name_matches(display_name, paper_author):
     given = got[:got.index(surname)]
     if not given:
         return False
-    # first given name, or any later given name written in full
     return given[0][0] == initial or any(
         len(g) > 1 and g[0] == initial for g in given[1:])
 
 
-def read_authors(path):
-    authors = []
+def read_lines(path, kind):
+    """Read an authors/ or keywords/ file -> [(label, categories), ...]."""
+    out = []
     for line in path.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
         parts = [p.strip() for p in line.split("|")]
-        name = parts[0]
-        query = parts[1] if len(parts) > 1 and parts[1] else name
-        cats, explicit = DEFAULT_CATS, False
-        if len(parts) > 2 and parts[2]:
-            cats = {c.strip() for c in parts[2].split(",") if c.strip()}
-            explicit = True
-        authors.append((name, query, cats, explicit))
-    return authors
+        cats = DEFAULT_CATS
+        # authors: "name | query | cats" (query is no longer used)
+        # keywords: "expression | cats"
+        cat_field = parts[2] if kind == "authors" and len(parts) > 2 else (
+            parts[1] if kind == "keywords" and len(parts) > 1 else "")
+        if cat_field:
+            cats = {c.strip() for c in cat_field.split(",") if c.strip()}
+        out.append((parts[0], cats))
+    return out
 
 
-HOSTS = ["https://arxiv.org/api/query", "https://export.arxiv.org/api/query"]
-USER_AGENT = "arxiv-author-feeds/1.1 (personal RSS feed; github actions)"
+# ---------------------------------------------------------------- download
 
-
-def read_keywords(path):
-    """Lines: expression | optional categories -> same tuples as read_authors."""
-    items = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        parts = [p.strip() for p in line.split("|")]
-        cats, explicit = DEFAULT_CATS, False
-        if len(parts) > 1 and parts[1]:
-            cats = {c.strip() for c in parts[1].split(",") if c.strip()}
-            explicit = True
-        items.append((parts[0], parts[0], cats, explicit))
-    return items
-
-
-def fetch(search):
-    """Fetch one arXiv search with curl (arXiv currently refuses Python urllib)."""
-    params = urllib.parse.urlencode({
-        "search_query": search,
-        "sortBy": "submittedDate",
-        "sortOrder": "descending",
-        "max_results": RESULTS_PER_AUTHOR,
-    })
-    for attempt in range(2):
-        for host in HOSTS:
-            try:
-                r = subprocess.run(
-                    ["curl", "-sS", "-L", "--compressed", "--max-time", "60",
-                     "-A", USER_AGENT,
-                     "-H", "Accept: application/atom+xml,application/xml;q=0.9,*/*;q=0.8",
-                     "-w", "\n%{http_code}", f"{host}?{params}"],
-                    capture_output=True, timeout=90)
-                body, _, code = r.stdout.rpartition(b"\n")
-                if r.returncode == 0 and code.strip() == b"200" and b"<feed" in body:
-                    return body
-                print(f"  {host}: HTTP {code.decode().strip() or '?'} {r.stderr.decode().strip()}",
-                      file=sys.stderr)
-            except Exception as e:
-                print(f"  {host}: {e}", file=sys.stderr)
-            time.sleep(5)
-        time.sleep(20)
+def fetch(url):
+    """Download one URL with curl (Python's urllib is refused by arXiv)."""
+    for attempt in range(3):
+        try:
+            r = subprocess.run(
+                ["curl", "-sS", "-L", "--compressed", "--max-time", "90",
+                 "-A", USER_AGENT,
+                 "-H", "Accept: application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
+                 "-w", "\n%{http_code}", url],
+                capture_output=True, timeout=120)
+            body, _, code = r.stdout.rpartition(b"\n")
+            if r.returncode == 0 and code.strip() == b"200" and b"<rss" in body:
+                return body
+            print(f"  {url}: HTTP {code.decode().strip() or '?'} "
+                  f"{r.stderr.decode().strip()}", file=sys.stderr, flush=True)
+        except Exception as e:
+            print(f"  {url}: {e}", file=sys.stderr, flush=True)
+        time.sleep(10 * (attempt + 1))
     return None
 
 
-def parse(xml_bytes):
+def parse_announcements(xml_bytes):
+    """Parse one daily announcement feed -> list of papers."""
     root = ET.fromstring(xml_bytes)
     papers = []
-    for e in root.findall(f"{ATOM}entry"):
-        raw_id = e.findtext(f"{ATOM}id", "")
-        if "/abs/" not in raw_id:
+    for item in root.iter("item"):
+        guid = (item.findtext("guid") or "")
+        link = (item.findtext("link") or "")
+        arxiv_id = ""
+        if ":" in guid:
+            arxiv_id = guid.rsplit(":", 1)[1]
+        elif "/abs/" in link:
+            arxiv_id = link.split("/abs/")[1]
+        arxiv_id = arxiv_id.split("v")[0] if arxiv_id[:1].isdigit() else arxiv_id
+        if not arxiv_id:
             continue
-        arxiv_id = raw_id.split("/abs/")[1].rsplit("v", 1)[0]
-        published = datetime.fromisoformat(
-            e.findtext(f"{ATOM}published", "").replace("Z", "+00:00"))
+
+        description = item.findtext("description") or ""
+        announce = item.findtext(f"{ARXIV}announce_type") or ""
+        if not announce and "Announce Type:" in description:
+            announce = description.split("Announce Type:")[1].split("\n")[0]
+        announce = announce.strip().lower()
+
+        summary = description
+        if "Abstract:" in summary:
+            summary = summary.split("Abstract:", 1)[1]
+        summary = " ".join(summary.split())
+
+        authors = [a.strip() for a in
+                   (item.findtext(f"{DC}creator") or "").split(",") if a.strip()]
+        cats = []
+        for c in item.findall("category"):
+            cats += [t.strip() for t in (c.text or "").split() if t.strip()]
+
         papers.append({
             "id": arxiv_id,
-            "title": " ".join(e.findtext(f"{ATOM}title", "").split()),
-            "summary": " ".join(e.findtext(f"{ATOM}summary", "").split()),
-            "published": published,
-            "authors": [a.findtext(f"{ATOM}name", "")
-                        for a in e.findall(f"{ATOM}author")],
-            "cats": [c.get("term") for c in e.findall(f"{ATOM}category")],
+            "title": " ".join((item.findtext("title") or "").split()),
+            "summary": summary,
+            "authors": authors,
+            "cats": cats,
+            "announce": announce,
+            "link": link or f"https://arxiv.org/abs/{arxiv_id}",
         })
     return papers
 
 
-def build_rss(title, papers, label="Followed"):
+# ------------------------------------------------------------------- store
+
+def load_store():
+    if STORE.exists():
+        try:
+            return json.loads(STORE.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"store unreadable ({e}), starting a new one", file=sys.stderr)
+    return {}
+
+
+def save_store(store):
+    STORE.parent.mkdir(parents=True, exist_ok=True)
+    STORE.write_text(json.dumps(store, ensure_ascii=False, indent=1,
+                                sort_keys=True), encoding="utf-8")
+
+
+# ------------------------------------------------------------------- feeds
+
+def build_rss(title, papers):
     rss = ET.Element("rss", version="2.0")
     ch = ET.SubElement(rss, "channel")
     ET.SubElement(ch, "title").text = title
     ET.SubElement(ch, "link").text = "https://arxiv.org"
-    ET.SubElement(ch, "description").text = "Recent arXiv papers (personal feed)"
-    ET.SubElement(ch, "lastBuildDate").text = format_datetime(datetime.now(timezone.utc))
+    ET.SubElement(ch, "description").text = "arXiv announcements (personal feed)"
+    ET.SubElement(ch, "lastBuildDate").text = format_datetime(
+        datetime.now(timezone.utc))
     for p in papers:
-        url = f"https://arxiv.org/abs/{p['id']}"
+        url = p.get("link") or f"https://arxiv.org/abs/{p['id']}"
         it = ET.SubElement(ch, "item")
         ET.SubElement(it, "title").text = p["title"]
         ET.SubElement(it, "link").text = url
         ET.SubElement(it, "guid", isPermaLink="true").text = url
-        ET.SubElement(it, "pubDate").text = format_datetime(p["published"])
+        ET.SubElement(it, "pubDate").text = format_datetime(
+            datetime.fromisoformat(p["seen"]))
         ET.SubElement(it, "author").text = ", ".join(p["authors"])
+        matched = ", ".join(p.get("matched", []))
         ET.SubElement(it, "description").text = (
             f"<p><b>{escape(', '.join(p['authors']))}</b></p>"
-            f"<p><i>{label}: {escape(', '.join(sorted(p['followed'])))}"
-            f" · {escape(', '.join(p['cats']))}</i></p>"
+            f"<p><i>Matched: {escape(matched)}"
+            f" · {escape(', '.join(p['cats']))}"
+            f" · {escape(p.get('announce', ''))}</i></p>"
             f"<p>{escape(p['summary'])}</p>"
             f"<p><a href=\"https://arxiv.org/pdf/{p['id']}\">PDF</a></p>"
         )
@@ -197,88 +225,100 @@ def build_rss(title, papers, label="Followed"):
     return ET.tostring(rss, encoding="unicode", xml_declaration=True)
 
 
+# -------------------------------------------------------------------- main
+
 def main():
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=MAX_AGE_DAYS)
+
+    # 1. the rules: feed name -> (kind, [(label, categories)])
+    rules = {}
+    for kind in ("authors", "keywords"):
+        for path in sorted((ROOT / kind).glob("*.txt")):
+            rules[path.stem] = (kind, read_lines(path, kind))
+            print(f"{path}: {len(rules[path.stem][1])} lines")
+
+    # 2. today's announcements
+    announced, failures = [], 0
+    for cat in CATEGORIES:
+        data = None
+        for host in RSS_HOSTS:
+            data = fetch(host + cat)
+            if data:
+                break
+        time.sleep(DELAY)
+        if data is None:
+            failures += 1
+            print(f"== {cat}: FAILED", flush=True)
+            continue
+        papers = [p for p in parse_announcements(data)
+                  if p["announce"] in ACCEPT_TYPES]
+        announced += papers
+        print(f"== {cat}: {len(papers)} new/cross announcements", flush=True)
+
+    if failures == len(CATEGORIES):
+        sys.exit("All category feeds failed; store and feeds left unchanged.")
+
+    # 3. match against the rules, merge into the store
+    store = load_store()
+    added, per_feed_new = 0, {}
+    for paper in {p["id"]: p for p in announced}.values():
+        hits = {}
+        text = " ".join(norm(paper["title"] + " " + paper["summary"]))
+        for feed, (kind, lines) in rules.items():
+            for label, cats in lines:
+                if not set(paper["cats"]) & cats:
+                    continue
+                if kind == "authors":
+                    ok = any(name_matches(label, a) for a in paper["authors"])
+                else:
+                    ok = " ".join(norm(label)) in text
+                if ok:
+                    hits.setdefault(feed, []).append(label)
+        if not hits:
+            continue
+        entry = store.get(paper["id"])
+        if entry is None:
+            entry = dict(paper, seen=now.isoformat(), feeds={}, matched=[])
+            added += 1
+        for feed, labels in hits.items():
+            entry["feeds"][feed] = sorted(set(entry["feeds"].get(feed, []))
+                                          | set(labels))
+            per_feed_new[feed] = per_feed_new.get(feed, 0) + 1
+        entry["matched"] = sorted({l for ls in entry["feeds"].values() for l in ls})
+        store[paper["id"]] = entry
+
+    # 4. drop old papers, save, rebuild every feed
+    store = {i: e for i, e in store.items()
+             if datetime.fromisoformat(e["seen"]) >= cutoff}
+    save_store(store)
+
     out_dir = ROOT / "feeds"
     out_dir.mkdir(exist_ok=True)
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
-    report = []
-    total_failures = total_calls = 0
-    consecutive_failures = 0
-
-    sources = [(path, "au") for path in sorted((ROOT / "authors").glob("*.txt"))]
-    sources += [(path, "abs") for path in sorted((ROOT / "keywords").glob("*.txt"))]
-    for path, field in sources:
-        feed = path.stem
-        merged = {}
-        failures = 0
-        authors = read_authors(path) if field == "au" else read_keywords(path)
-        print(f"== {feed}: {len(authors)} entries")
-        for name, query, cats, explicit in authors:
-            total_calls += 1
-            # Common names: one search per category, so that homonyms
-            # in other fields do not fill the result window.
-            if explicit:
-                searches = [f'{field}:"{query}" AND cat:{c}' for c in sorted(cats)]
-            else:
-                searches = [f'{field}:"{query}"']
-            papers, ok = [], False
-            for round_no in range(2):
-                papers, ok = [], False
-                for search in searches:
-                    data = fetch(search)
-                    time.sleep(DELAY)
-                    if data is not None and not parse(data):
-                        time.sleep(10)  # arXiv sometimes answers with an empty feed
-                        data = fetch(search) or data
-                        time.sleep(DELAY)
-                    if data is not None:
-                        ok = True
-                        papers += parse(data)
-                if ok or round_no:
-                    break
-                # arXiv is refusing requests: wait, then try this line again
-                print(f"  {name}: no answer, pausing {COOLDOWN // 60} min",
-                      file=sys.stderr, flush=True)
-                time.sleep(COOLDOWN)
-            if not ok:
-                failures += 1
-                consecutive_failures += 1
-                if consecutive_failures >= 6:
-                    sys.exit("6 lines failed in a row even after pausing: arXiv is "
-                             "refusing requests. Feeds left unchanged; try later.")
-                report.append(f"{feed:14} | {name:30} | {query:25} | ERROR")
-                continue
-            consecutive_failures = 0
-            papers = list({p["id"]: p for p in papers}.values())
-            if field == "au":
-                papers = [p for p in papers
-                          if any(name_matches(name, a) for a in p["authors"])]
-            kept = [p for p in papers if set(p["cats"]) & cats]
-            report.append(f"{feed:14} | {name:30} | {query:25} | "
-                          f"{len(papers):3} found | {len(kept):3} kept")
-            print(f"  {name}: {len(papers)} found, {len(kept)} kept")
-            for p in kept:
-                merged.setdefault(p["id"], {**p, "followed": set()})
-                merged[p["id"]]["followed"].add(name)
-
-        total_failures += failures
-        if authors and failures > len(authors) / 2:
-            print(f"Too many failures for {feed}, feed not updated.", file=sys.stderr)
-            continue
-        papers = sorted((p for p in merged.values() if p["published"] >= cutoff),
-                        key=lambda p: p["published"], reverse=True)[:MAX_ITEMS]
-        xml = build_rss(TITLES.get(feed, f"arXiv – {feed}"), papers,
-                        "Followed" if field == "au" else "Matched")
+    report = [f"Last run: {now.strftime('%Y-%m-%d %H:%M UTC')}",
+              f"Announcements downloaded: {len(announced)}"
+              f" ({failures} category feeds failed)",
+              f"New papers stored this run: {added}", ""]
+    for feed in sorted(rules):
+        papers = sorted((e for e in store.values() if feed in e["feeds"]),
+                        key=lambda e: e["seen"], reverse=True)[:MAX_ITEMS]
+        xml = build_rss(TITLES.get(feed, f"arXiv – {feed}"),
+                        [dict(p, matched=p["feeds"][feed]) for p in papers])
         (out_dir / f"{feed}.xml").write_text(xml, encoding="utf-8")
-        print(f"  -> feeds/{feed}.xml ({len(papers)} items)")
+        report.append(f"{feed:14} | {len(papers):4} items"
+                      f" | {per_feed_new.get(feed, 0):3} new this run")
+        print(f"-> feeds/{feed}.xml ({len(papers)} items)", flush=True)
 
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    header = [f"Last run: {stamp}",
-              "0 found: check the line in authors/*.txt or keywords/*.txt", ""]
-    (out_dir / "report.txt").write_text("\n".join(header + report) + "\n",
+    # which lines matched something today (helps tuning)
+    if added:
+        report += ["", "Matched this run:"]
+        for entry in sorted(store.values(), key=lambda e: e["seen"],
+                            reverse=True)[:60]:
+            if entry["seen"] >= now.isoformat()[:10]:
+                report.append(f"  {', '.join(entry['matched']):40} | "
+                              f"{entry['title'][:70]}")
+    (out_dir / "report.txt").write_text("\n".join(report) + "\n",
                                         encoding="utf-8")
-    if total_calls and total_failures == total_calls:
-        sys.exit("All requests failed (arXiv unreachable?).")
 
 
 if __name__ == "__main__":
