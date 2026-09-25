@@ -71,22 +71,34 @@ def norm(text):
 
 
 def name_matches(full_name, paper_author):
-    """True if paper_author looks like full_name: same surname, and the first
-    given name (or a later one written in full) has the same initial.
+    """True if paper_author is the same person as full_name.
+
+    Same surname, and:
+      - if the paper spells a given name out, one of them must match the
+        full name's given names ("Youjin Zhang" is not "Yong Zhang"),
+      - if the paper only uses initials, the first one must match
+        ("S. V. Shadrin" yes, "O. S. Shadrin" no).
     'Ran Tessler' matches 'Ran J. Tessler' and 'R. Tessler';
-    'Melissa Liu' matches 'Chiu-Chu Melissa Liu';
-    'Sergey Shadrin' does not match 'O. S. Shadrin'."""
+    'Melissa Liu' matches 'Chiu-Chu Melissa Liu'."""
     want, got = norm(full_name), norm(paper_author)
     if not want or not got:
         return False
-    surname, initial = want[-1], want[0][0]
+    surname = want[-1]
     if surname not in got:
         return False
-    given = got[:got.index(surname)]
-    if not given:
+    want_given, got_given = want[:-1], got[:got.index(surname)]
+    if not want_given or not got_given:
         return False
-    return given[0][0] == initial or any(
-        len(g) > 1 and g[0] == initial for g in given[1:])
+    spelled = [g for g in got_given if len(g) > 1]
+    if not spelled:                       # the paper only has initials
+        return got_given[0][0] == want_given[0][0]
+    for g in spelled:
+        for w in want_given:
+            if g == w:
+                return True
+            if min(len(g), len(w)) >= 4 and (g.startswith(w) or w.startswith(g)):
+                return True               # Jérémy / Jeremie-style variants
+    return False
 
 
 def read_lines(path, kind):
