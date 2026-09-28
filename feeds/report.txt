@@ -1,14 +1,9 @@
-Last run: 2026-09-28 06:15 UTC
+Last run: 2026-09-28 18:13 UTC
 Announcements downloaded: 141 (0 category feeds failed)
-New papers stored this run: 3
+New papers stored this run: 0
 
 ag             |    0 items |   0 new this run
 amplituhedron  |    0 items |   0 new this run
 broad          |    2 items |   1 new this run
 mathphys       |    0 items |   0 new this run
 topics         |    4 items |   2 new this run
-
-Matched this run:
-  Gromov-Witten                            | Revisiting three-dimensional GLSMs and K-theoretic I-functions
-  r-spin                                   | Thermodynamics of the $q$-deformed Kittel--Shore model for spin-1 part
-  r-spin                                   | Hilbert space in the flat limit of AdS/CFT. I. Massive particles

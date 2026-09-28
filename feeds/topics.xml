@@ -4,15 +4,7 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 28 Sep 2026 06:15:23 +0000</lastBuildDate>
-    <item>
-      <title>Thermodynamics of the $q$-deformed Kittel--Shore model for spin-1 particles</title>
-      <link>https://arxiv.org/abs/2609.31094</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.31094</guid>
-      <pubDate>Mon, 28 Sep 2026 06:15:01 +0000</pubDate>
-      <author>V. Mariscal, J. J. Relancio</author>
-      <description>&lt;p&gt;&lt;b&gt;V. Mariscal, J. J. Relancio&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · cond-mat.stat-mech, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Quantum algebras ($q$-algebras) have been used in the literature to deform spin-chain models. In particular, in previous works by the present authors, the Kittel--Shore Hamiltonian was deformed using $\mathfrak{su}_q(2)$ algebra. The deformed Hamiltonian was presented for a general spin, and the thermodynamic properties were studied for spin-1/2 particles. In this paper, we focus on the $q$-deformation of the Kittel--Shore model for spin-1 systems. We analyse the impact of this deformation on the thermodynamic properties and phase transitions of the system as a function of the deformation parameter $q$. Specifically, we study the specific heat, magnetic susceptibility, and magnetisation, including a detailed analysis of the Curie temperature characterising the ferromagnetic phase. Furthermore, a finite-size scaling analysis is conducted for both the ferromagnetic and antiferromagnetic cases. Results are systematically compared with those of the undeformed model to reveal the physical effects of the $q$-deformation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.31094"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 18:13:43 +0000</lastBuildDate>
     <item>
       <title>Hilbert space in the flat limit of AdS/CFT. I. Massive particles</title>
       <link>https://arxiv.org/abs/2609.31055</link>
@@ -20,6 +12,14 @@
       <pubDate>Mon, 28 Sep 2026 06:15:01 +0000</pubDate>
       <author>Kevin Nguyen</author>
       <description>&lt;p&gt;&lt;b&gt;Kevin Nguyen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The flat limit of AdS$_4$ spacetime corresponds, at the level of the symmetry algebra, to the In\&amp;quot;on\&amp;quot;u--Wigner contraction $\mathfrak{so}(2,3) \to \mathfrak{iso}(1,3)$. We describe the emergence of the Hilbert space of massive scattering states of arbitrary integer spin $s$ from unitary lowest-weight representations $\mathcal{D}(\Delta,s)$ of the conformal group, using a basis of `pseudo-momentum&amp;#x27; states first introduced by Fronsdal. These states nicely reduce to Wigner&amp;#x27;s momentum eigenstates in the limit of vanishing AdS curvature radius $\ell \to \infty$, at fixed $m=\Delta/\ell$. A simple conformal map relates this description to conformal fields in $\mathbb{R}^3$ familiar from radial quantization, with the interior and exterior of the unit ball respectively corresponding to outgoing and ingoing momenta. Under the contraction, and upon appropriate rescaling, the inner product on $\mathcal{D}(\Delta,s)$ converges to the standard Lorentz-invariant inner product of Wigner&amp;#x27;s massive particles, so that unitarity is preserved throughout. The contraction to massless particles is briefly discussed here, and will be treated in detail in a forthcoming paper.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.31055"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thermodynamics of the $q$-deformed Kittel--Shore model for spin-1 particles</title>
+      <link>https://arxiv.org/abs/2609.31094</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.31094</guid>
+      <pubDate>Mon, 28 Sep 2026 06:15:01 +0000</pubDate>
+      <author>V. Mariscal, J. J. Relancio</author>
+      <description>&lt;p&gt;&lt;b&gt;V. Mariscal, J. J. Relancio&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · cond-mat.stat-mech, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Quantum algebras ($q$-algebras) have been used in the literature to deform spin-chain models. In particular, in previous works by the present authors, the Kittel--Shore Hamiltonian was deformed using $\mathfrak{su}_q(2)$ algebra. The deformed Hamiltonian was presented for a general spin, and the thermodynamic properties were studied for spin-1/2 particles. In this paper, we focus on the $q$-deformation of the Kittel--Shore model for spin-1 systems. We analyse the impact of this deformation on the thermodynamic properties and phase transitions of the system as a function of the deformation parameter $q$. Specifically, we study the specific heat, magnetic susceptibility, and magnetisation, including a detailed analysis of the Curie temperature characterising the ferromagnetic phase. Furthermore, a finite-size scaling analysis is conducted for both the ferromagnetic and antiferromagnetic cases. Results are systematically compared with those of the undeformed model to reveal the physical effects of the $q$-deformation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.31094"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resolvent reconstruction of minimal strings beyond KdV</title>
