@@ -49,5 +49,77 @@
   "seen": "2026-09-25T07:36:18.379957+00:00",
   "summary": "We initiate a `Peterson program' that seeks to extend Dale Peterson's theory for the quantum cohomology of flag varieties to arbitrary Schubert varieties, and that incorporates a mirror-symmetric approach. In this first paper we introduce a generalisation of the (localised) Peterson variety associated to an arbitrary Schubert variety $\\check X_{w,P}$ inside a partial flag variety $\\check G/\\check P$. This generalisation is possibly a non-reduced affine scheme that lies in the Langlands dual full flag variety $G/B$. Additionally, we construct a Lie-theoretic `superpotential' associated to $\\check X_{w,P}$, generalising earlier ones for the flag varieties $\\check G/\\check P$ from [Rie08], and we show that its relative critical point locus recovers the generalised Peterson variety. We make the key conjecture that for smooth Fano Schubert varieties the coordinate ring of the generalised Peterson variety recovers the quantum cohomology ring of $\\check X_{w,P}$ localised at the quantum parameters. For smooth Fano Schubert varieties $X_{w,B}$ in $\\check G/\\check B$ we furthermore map our generalised Peterson variety to the cotangent bundle $\\mathcal T^*(T)$ of the maximal torus $T$ of $G$ and construct a partial compactification that we conjecture models the full quantum cohomology ring of $\\check X_{w,B}$, in analogy with the Givental-Kim presentation of $QH^*(\\check G/\\check B)$ via the degenerate leaf of the Kostant Toda lattice of $\\check G$. These conjectures are verified for all smooth Schubert divisors in the complete type $A$ flag variety, and we show that our superpotential agrees with that introduced for Grassmannian Schubert varieties by Rietsch and Williams, after a suitable isomorphism of the domains.",
   "title": "A Peterson program for general Schubert varieties and mirror symmetry"
+ },
+ "2609.31055": {
+  "announce": "new",
+  "authors": [
+   "Kevin Nguyen"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.31055",
+  "link": "https://arxiv.org/abs/2609.31055",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-28T06:15:01.940409+00:00",
+  "summary": "The flat limit of AdS$_4$ spacetime corresponds, at the level of the symmetry algebra, to the In\\\"on\\\"u--Wigner contraction $\\mathfrak{so}(2,3) \\to \\mathfrak{iso}(1,3)$. We describe the emergence of the Hilbert space of massive scattering states of arbitrary integer spin $s$ from unitary lowest-weight representations $\\mathcal{D}(\\Delta,s)$ of the conformal group, using a basis of `pseudo-momentum' states first introduced by Fronsdal. These states nicely reduce to Wigner's momentum eigenstates in the limit of vanishing AdS curvature radius $\\ell \\to \\infty$, at fixed $m=\\Delta/\\ell$. A simple conformal map relates this description to conformal fields in $\\mathbb{R}^3$ familiar from radial quantization, with the interior and exterior of the unit ball respectively corresponding to outgoing and ingoing momenta. Under the contraction, and upon appropriate rescaling, the inner product on $\\mathcal{D}(\\Delta,s)$ converges to the standard Lorentz-invariant inner product of Wigner's massive particles, so that unitarity is preserved throughout. The contraction to massless particles is briefly discussed here, and will be treated in detail in a forthcoming paper.",
+  "title": "Hilbert space in the flat limit of AdS/CFT. I. Massive particles"
+ },
+ "2609.31094": {
+  "announce": "cross",
+  "authors": [
+   "V. Mariscal",
+   "J. J. Relancio"
+  ],
+  "cats": [
+   "cond-mat.stat-mech",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.31094",
+  "link": "https://arxiv.org/abs/2609.31094",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-28T06:15:01.940409+00:00",
+  "summary": "Quantum algebras ($q$-algebras) have been used in the literature to deform spin-chain models. In particular, in previous works by the present authors, the Kittel--Shore Hamiltonian was deformed using $\\mathfrak{su}_q(2)$ algebra. The deformed Hamiltonian was presented for a general spin, and the thermodynamic properties were studied for spin-1/2 particles. In this paper, we focus on the $q$-deformation of the Kittel--Shore model for spin-1 systems. We analyse the impact of this deformation on the thermodynamic properties and phase transitions of the system as a function of the deformation parameter $q$. Specifically, we study the specific heat, magnetic susceptibility, and magnetisation, including a detailed analysis of the Curie temperature characterising the ferromagnetic phase. Furthermore, a finite-size scaling analysis is conducted for both the ferromagnetic and antiferromagnetic cases. Results are systematically compared with those of the undeformed model to reveal the physical effects of the $q$-deformation.",
+  "title": "Thermodynamics of the $q$-deformed Kittel--Shore model for spin-1 particles"
+ },
+ "2609.31273": {
+  "announce": "new",
+  "authors": [
+   "Taro Kimura",
+   "Yinda Li",
+   "Xiaohan Yan"
+  ],
+  "cats": [
+   "hep-th",
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2609.31273",
+  "link": "https://arxiv.org/abs/2609.31273",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-09-28T06:15:01.940409+00:00",
+  "summary": "We revisit the correspondence between three-dimensional gauged linear sigma models and K-theoretic Gromov-Witten theory. We show that the K-theoretic Hori-Vafa formula for the grassmannian arises from the three-dimensional gauge theory upon including an appropriate anomaly-cancellation factor. Furthermore, we derive K-theoretic I-functions for isotropic grassmannians by incorporating symmetric and anti-symmetric tensor representation fields together with suitable boundary conditions.",
+  "title": "Revisiting three-dimensional GLSMs and K-theoretic I-functions"
  }
 }

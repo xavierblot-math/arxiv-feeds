@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 27 Sep 2026 18:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:15:23 +0000</lastBuildDate>
+    <item>
+      <title>Revisiting three-dimensional GLSMs and K-theoretic I-functions</title>
+      <link>https://arxiv.org/abs/2609.31273</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.31273</guid>
+      <pubDate>Mon, 28 Sep 2026 06:15:01 +0000</pubDate>
+      <author>Taro Kimura, Yinda Li, Xiaohan Yan</author>
+      <description>&lt;p&gt;&lt;b&gt;Taro Kimura, Yinda Li, Xiaohan Yan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · hep-th, math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We revisit the correspondence between three-dimensional gauged linear sigma models and K-theoretic Gromov-Witten theory. We show that the K-theoretic Hori-Vafa formula for the grassmannian arises from the three-dimensional gauge theory upon including an appropriate anomaly-cancellation factor. Furthermore, we derive K-theoretic I-functions for isotropic grassmannians by incorporating symmetric and anti-symmetric tensor representation fields together with suitable boundary conditions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.31273"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Resolvent reconstruction of minimal strings beyond KdV</title>
       <link>https://arxiv.org/abs/2609.28964</link>
