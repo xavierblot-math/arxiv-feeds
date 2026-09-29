@@ -121,5 +121,153 @@
   "seen": "2026-09-28T06:15:01.940409+00:00",
   "summary": "We revisit the correspondence between three-dimensional gauged linear sigma models and K-theoretic Gromov-Witten theory. We show that the K-theoretic Hori-Vafa formula for the grassmannian arises from the three-dimensional gauge theory upon including an appropriate anomaly-cancellation factor. Furthermore, we derive K-theoretic I-functions for isotropic grassmannians by incorporating symmetric and anti-symmetric tensor representation fields together with suitable boundary conditions.",
   "title": "Revisiting three-dimensional GLSMs and K-theoretic I-functions"
+ },
+ "2609.31791": {
+  "announce": "cross",
+  "authors": [
+   "Chuanhong Gao"
+  ],
+  "cats": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.31791",
+  "link": "https://arxiv.org/abs/2609.31791",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "In this work, we investigate the unstable circular orbits of spinning test particles and the associated classical orbital chaos bound in a hairy black hole spacetime admitting a double photon sphere structure. This background supports two distinct branches of unstable circular orbits, referred to as the inner and outer branches. We find that, within the parameter ranges considered, the inner branch always satisfies the chaos bound, whereas violations can occur on the outer branch. This behavior contrasts with many previous studies focusing primarily on near-horizon violations of the chaos bound and reveals a clear dependence of the bound on the orbital branch. Our analysis further shows that the total angular momentum of the particle has a pronounced effect on the local orbital instability and can enlarge the bound-violating region on the outer branch. Meanwhile, the deformation parameter of the background geometry regulates the validity of the bound by modifying both the orbital Lyapunov exponent and the black hole surface gravity. By contrast, the effect of the particle spin is comparatively weak and mainly shifts the existing unstable circular orbits and the corresponding critical boundaries through the spin-curvature coupling.",
+  "title": "Chaos bound for spinning particles in a hairy black hole with two photon spheres"
+ },
+ "2609.31819": {
+  "announce": "cross",
+  "authors": [
+   "Asaad Daher",
+   "David Wagner",
+   "Masoud Shokri",
+   "Dirk H. Rischke"
+  ],
+  "cats": [
+   "nucl-th",
+   "hep-ph",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.31819",
+  "link": "https://arxiv.org/abs/2609.31819",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "We study massive spin-$1/2$ Boltzmann particles in global thermodynamic equilibrium with rotation and acceleration, consistently including quantum corrections up to order $\\mathcal{O}(\\hbar^2)$. For such a system, the fluid velocity becomes an independent thermodynamic variable and fundamental thermodynamic relations have to be extended. Employing the Wigner-function formalism, we show that the standard mass-shell condition $k^2 = m^2$ is modified at order $\\mathcal{O}(\\hbar^2)$ by contributions quadratic in the thermal vorticity. Incorporating this modified mass-shell constraint, we derive the (net) particle-number current, energy-momentum tensor, spin-current tensor, and associated thermodynamic quantities in the kinetic, canonical, and de Groot--van Leeuwen--van Weert (GLW) pseudo-gauges. We explicitly demonstrate that, while global quantities, like the total particle number or total energy, are independent of the choice of pseudo-gauge, local quantities, like the particle-number density or the energy density, are pseudo-gauge dependent. We then examine the thermodynamic relations in each pseudo-gauge and demonstrate that thermodynamic consistency requires that the thermodynamic Maxwell relations are satisfied. We find that these relations hold in the kinetic-theory pseudo-gauge, whereas they are in general violated in the canonical and GLW pseudo-gauges. These findings suggest a preference for using the kinetic-theory pseudo-gauge in applications such as spin hydrodynamics.",
+  "title": "Global equilibrium at order $\\mathcal{O}(\\hbar^2)$: pseudo-gauge ambiguity, Maxwell relations, and thermodynamic consistency"
+ },
+ "2609.32571": {
+  "announce": "cross",
+  "authors": [
+   "Mohammad Ali Gorji",
+   "Yuhang Zhu"
+  ],
+  "cats": [
+   "gr-qc",
+   "astro-ph.CO",
+   "hep-ph",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.32571",
+  "link": "https://arxiv.org/abs/2609.32571",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "A spectator spin-2 field can mix linearly with the metric tensor perturbations. We study the coupled tensor system in an inflationary background, including a parity violating effect parametrised by $\\theta$. Without expanding in the linear mixing between the two fields, we solve the system exactly for arbitrary mass while treating the mixing strength nonperturbatively. The mode functions of both helicities are constructed by acting with an operator-valued Gauss hypergeometric function ${}_2F_1$ on Whittaker modes, and the late-time power spectrum of each graviton helicity is expressed in closed form in terms of the generalised hypergeometric function ${}_3F_2$. We find that one helicity is exponentially enhanced, showing that strong mixing with a spectator spin-2 field can generate a large and highly chiral primordial gravitational wave spectrum. The degree of circular polarisation is bounded by $\\tanh(\\pi\\theta)$, independently of the spin-2 mass and the mixing strength. The same solution also gives the late-time power spectrum of the spectator field and its cross spectrum with the graviton. In the weak mixing limit, our exact result reproduces the perturbative Schwinger-Keldysh result. These solutions provide a nonperturbative framework for studying primordial gravitational waves sourced by additional tensor modes.",
+  "title": "Exact Solutions for Chiral Gravitational Waves from Spin-2 Mixing"
+ },
+ "2609.32702": {
+  "announce": "new",
+  "authors": [
+   "Moslem Shafiee",
+   "Ahmad Sheykhi"
+  ],
+  "cats": [
+   "hep-th",
+   "gr-qc"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.32702",
+  "link": "https://arxiv.org/abs/2609.32702",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "We investigate Hawking radiation of a quantum-corrected Schwarzschild black hole with vacuum polarization and conformal anomaly effects. The corrected geometry has two horizons, a non-monotonic Hawking temperature that vanishes at a critical mass, and a logarithmic entropy correction. We compute greybody factors, spectra, and emission rates for massless bosonic fields of various spins and angular momenta. Quantum corrections suppress low-energy greybody factors and enhance high-energy ones. During late evaporation, where quantum influences become significant, the decreasing temperature strongly suppresses emission. In this case, the higher-spin modes become negligible, and the scalar $s=l=0$ mode dominates. The black hole lifetime is greatly extended as it asymptotically approaches a stable extremal remnant.",
+  "title": "Greybody Factors and Hawking Spectra of Quantum-Corrected Black Holes"
+ },
+ "2609.34119": {
+  "announce": "new",
+  "authors": [
+   "Hal Tasaki"
+  ],
+  "cats": [
+   "math-ph",
+   "cond-mat.stat-mech",
+   "cond-mat.str-el",
+   "math.MP",
+   "quant-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.34119",
+  "link": "https://arxiv.org/abs/2609.34119",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "Symmetry-protected topological (SPT) phases in quantum spin chains are distinguished by topological indices. Ogata's operator-algebraic indices apply to a broad range of symmetry classes without requiring continuous symmetry, whereas the elementary twist index of Tasaki requires $\\mathrm{U}(1)$ symmetry. We prove their equivalence in the common setting of integer-spin chains with on-site $\\mathrm{U}(1)\\rtimes\\mathbb{Z}_2$ symmetry and a symmetric locally-unique gapped ground state, without assuming translation invariance or a matrix product representation. A charge-fluctuation estimate yields a strong-limit construction of half-chain rotations with their phases fixed. An exact group commutator identity then identifies the Ogata index with the limit of local twist expectations and gives an explicit error bound. This provides a computable formula when a lower bound on the gap and the relevant ground-state expectations are available. As an application, a previous twist-index calculation determines the Ogata index to be $(-1)^S$ for the antiferromagnetic Heisenberg chain under explicit uniqueness and boundary-field gap assumptions. The author formulated the problem and proposed the basic strategy, while ChatGPT made substantial contributions to the development of the proof.",
+  "title": "The equivalence of topological indices for $\\mathrm{U}(1)\\rtimes\\mathbb{Z}_2$-symmetric quantum spin chains"
+ },
+ "2609.35604": {
+  "announce": "new",
+  "authors": [
+   "Ran J. Tessler"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Ran Tessler"
+   ]
+  },
+  "id": "2609.35604",
+  "link": "https://arxiv.org/abs/2609.35604",
+  "matched": [
+   "Ran Tessler"
+  ],
+  "seen": "2026-09-29T06:13:59.983341+00:00",
+  "summary": "For every pair of integers $0\\leq k\\leq N,$ and and every subgroup of $D_N\\times\\mathbb{Z}_2$, we construct the nonnegative symmetric Grassmannian, which is the subspace of the nonnegative Grassmannian fixed under that group, where the dihedral part acts on columns (with a sign correction to keep nonnegativity) and the $\\mathbb{Z}_2$ factor exchanges a space with its orthocomplement (again, with a sign correction). This construction generalizes the earlier constructions of \\cite{Karpman2018,Fraser2020,Shevchenko2025}. We study the geometry of this space. Then, when $k$ is further restricted to the range $[2,N-2]$ we also define a symmetric amplituhedron. We analyze its basic properties and its conjectural BCFW decomposition. The ABJM and reflected Lagrangian amplituhedra are the special cases corresponding to the groups $\\{1\\}\\times\\mathbb{Z}_2,$ and the group generated by a reflection combined with the exchange,",
+  "title": "Symmetric Amplituhedra I: Spinor Helicity"
  }
 }

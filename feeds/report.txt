@@ -1,9 +1,17 @@
-Last run: 2026-09-28 18:13 UTC
-Announcements downloaded: 141 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-09-29 06:13 UTC
+Announcements downloaded: 317 (0 category feeds failed)
+New papers stored this run: 6
 
 ag             |    0 items |   0 new this run
 amplituhedron  |    0 items |   0 new this run
-broad          |    2 items |   1 new this run
-mathphys       |    0 items |   0 new this run
-topics         |    4 items |   2 new this run
+broad          |    2 items |   0 new this run
+mathphys       |    1 items |   1 new this run
+topics         |    9 items |   5 new this run
+
+Matched this run:
+  r-spin                                   | The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathb
+  r-spin                                   | Greybody Factors and Hawking Spectra of Quantum-Corrected Black Holes
+  Ran Tessler                              | Symmetric Amplituhedra I: Spinor Helicity
+  r-spin                                   | Chaos bound for spinning particles in a hairy black hole with two phot
+  r-spin                                   | Global equilibrium at order $\mathcal{O}(\hbar^2)$: pseudo-gauge ambig
+  r-spin                                   | Exact Solutions for Chiral Gravitational Waves from Spin-2 Mixing
