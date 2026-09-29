@@ -4,23 +4,7 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:14:21 +0000</lastBuildDate>
-    <item>
-      <title>The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains</title>
-      <link>https://arxiv.org/abs/2609.34119</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.34119</guid>
-      <pubDate>Tue, 29 Sep 2026 06:13:59 +0000</pubDate>
-      <author>Hal Tasaki</author>
-      <description>&lt;p&gt;&lt;b&gt;Hal Tasaki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, cond-mat.stat-mech, cond-mat.str-el, math.MP, quant-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Symmetry-protected topological (SPT) phases in quantum spin chains are distinguished by topological indices. Ogata&amp;#x27;s operator-algebraic indices apply to a broad range of symmetry classes without requiring continuous symmetry, whereas the elementary twist index of Tasaki requires $\mathrm{U}(1)$ symmetry. We prove their equivalence in the common setting of integer-spin chains with on-site $\mathrm{U}(1)\rtimes\mathbb{Z}_2$ symmetry and a symmetric locally-unique gapped ground state, without assuming translation invariance or a matrix product representation. A charge-fluctuation estimate yields a strong-limit construction of half-chain rotations with their phases fixed. An exact group commutator identity then identifies the Ogata index with the limit of local twist expectations and gives an explicit error bound. This provides a computable formula when a lower bound on the gap and the relevant ground-state expectations are available. As an application, a previous twist-index calculation determines the Ogata index to be $(-1)^S$ for the antiferromagnetic Heisenberg chain under explicit uniqueness and boundary-field gap assumptions. The author formulated the problem and proposed the basic strategy, while ChatGPT made substantial contributions to the development of the proof.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.34119"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Greybody Factors and Hawking Spectra of Quantum-Corrected Black Holes</title>
-      <link>https://arxiv.org/abs/2609.32702</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.32702</guid>
-      <pubDate>Tue, 29 Sep 2026 06:13:59 +0000</pubDate>
-      <author>Moslem Shafiee, Ahmad Sheykhi</author>
-      <description>&lt;p&gt;&lt;b&gt;Moslem Shafiee, Ahmad Sheykhi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, gr-qc · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate Hawking radiation of a quantum-corrected Schwarzschild black hole with vacuum polarization and conformal anomaly effects. The corrected geometry has two horizons, a non-monotonic Hawking temperature that vanishes at a critical mass, and a logarithmic entropy correction. We compute greybody factors, spectra, and emission rates for massless bosonic fields of various spins and angular momenta. Quantum corrections suppress low-energy greybody factors and enhance high-energy ones. During late evaporation, where quantum influences become significant, the decreasing temperature strongly suppresses emission. In this case, the higher-spin modes become negligible, and the scalar $s=l=0$ mode dominates. The black hole lifetime is greatly extended as it asymptotically approaches a stable extremal remnant.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.32702"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 18:14:32 +0000</lastBuildDate>
     <item>
       <title>Chaos bound for spinning particles in a hairy black hole with two photon spheres</title>
       <link>https://arxiv.org/abs/2609.31791</link>
@@ -44,6 +28,22 @@
       <pubDate>Tue, 29 Sep 2026 06:13:59 +0000</pubDate>
       <author>Mohammad Ali Gorji, Yuhang Zhu</author>
       <description>&lt;p&gt;&lt;b&gt;Mohammad Ali Gorji, Yuhang Zhu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · gr-qc, astro-ph.CO, hep-ph, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;A spectator spin-2 field can mix linearly with the metric tensor perturbations. We study the coupled tensor system in an inflationary background, including a parity violating effect parametrised by $\theta$. Without expanding in the linear mixing between the two fields, we solve the system exactly for arbitrary mass while treating the mixing strength nonperturbatively. The mode functions of both helicities are constructed by acting with an operator-valued Gauss hypergeometric function ${}_2F_1$ on Whittaker modes, and the late-time power spectrum of each graviton helicity is expressed in closed form in terms of the generalised hypergeometric function ${}_3F_2$. We find that one helicity is exponentially enhanced, showing that strong mixing with a spectator spin-2 field can generate a large and highly chiral primordial gravitational wave spectrum. The degree of circular polarisation is bounded by $\tanh(\pi\theta)$, independently of the spin-2 mass and the mixing strength. The same solution also gives the late-time power spectrum of the spectator field and its cross spectrum with the graviton. In the weak mixing limit, our exact result reproduces the perturbative Schwinger-Keldysh result. These solutions provide a nonperturbative framework for studying primordial gravitational waves sourced by additional tensor modes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.32571"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Greybody Factors and Hawking Spectra of Quantum-Corrected Black Holes</title>
+      <link>https://arxiv.org/abs/2609.32702</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.32702</guid>
+      <pubDate>Tue, 29 Sep 2026 06:13:59 +0000</pubDate>
+      <author>Moslem Shafiee, Ahmad Sheykhi</author>
+      <description>&lt;p&gt;&lt;b&gt;Moslem Shafiee, Ahmad Sheykhi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, gr-qc · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate Hawking radiation of a quantum-corrected Schwarzschild black hole with vacuum polarization and conformal anomaly effects. The corrected geometry has two horizons, a non-monotonic Hawking temperature that vanishes at a critical mass, and a logarithmic entropy correction. We compute greybody factors, spectra, and emission rates for massless bosonic fields of various spins and angular momenta. Quantum corrections suppress low-energy greybody factors and enhance high-energy ones. During late evaporation, where quantum influences become significant, the decreasing temperature strongly suppresses emission. In this case, the higher-spin modes become negligible, and the scalar $s=l=0$ mode dominates. The black hole lifetime is greatly extended as it asymptotically approaches a stable extremal remnant.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.32702"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains</title>
+      <link>https://arxiv.org/abs/2609.34119</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.34119</guid>
+      <pubDate>Tue, 29 Sep 2026 06:13:59 +0000</pubDate>
+      <author>Hal Tasaki</author>
+      <description>&lt;p&gt;&lt;b&gt;Hal Tasaki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, cond-mat.stat-mech, cond-mat.str-el, math.MP, quant-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Symmetry-protected topological (SPT) phases in quantum spin chains are distinguished by topological indices. Ogata&amp;#x27;s operator-algebraic indices apply to a broad range of symmetry classes without requiring continuous symmetry, whereas the elementary twist index of Tasaki requires $\mathrm{U}(1)$ symmetry. We prove their equivalence in the common setting of integer-spin chains with on-site $\mathrm{U}(1)\rtimes\mathbb{Z}_2$ symmetry and a symmetric locally-unique gapped ground state, without assuming translation invariance or a matrix product representation. A charge-fluctuation estimate yields a strong-limit construction of half-chain rotations with their phases fixed. An exact group commutator identity then identifies the Ogata index with the limit of local twist expectations and gives an explicit error bound. This provides a computable formula when a lower bound on the gap and the relevant ground-state expectations are available. As an application, a previous twist-index calculation determines the Ogata index to be $(-1)^S$ for the antiferromagnetic Heisenberg chain under explicit uniqueness and boundary-field gap assumptions. The author formulated the problem and proposed the basic strategy, while ChatGPT made substantial contributions to the development of the proof.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.34119"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hilbert space in the flat limit of AdS/CFT. I. Massive particles</title>
