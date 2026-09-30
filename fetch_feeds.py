@@ -28,7 +28,7 @@ from pathlib import Path
 # Categories whose daily announcements are downloaded.
 CATEGORIES = [
     "math.AG", "math-ph", "math.CO", "hep-th",
-    "math.QA", "nlin.SI", "math.SG",
+    "math.QA", "nlin.SI", "math.SG", "math.DG",
 ]
 
 # Announcement types kept: "new", "cross", "replace", "replace-cross".
@@ -37,7 +37,7 @@ ACCEPT_TYPES = {"new", "cross"}
 # Categories kept by default (a line in authors/ or keywords/ can override).
 DEFAULT_CATS = {
     "math.AG", "math-ph", "math.MP", "math.CO", "hep-th",
-    "math.QA", "nlin.SI", "math.SG",
+    "math.QA", "nlin.SI", "math.SG", "math.DG",
 }
 
 # Feed titles (file name without .txt -> title).
