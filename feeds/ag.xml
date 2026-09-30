@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 30 Sep 2026 06:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Stable ample vector bundles without semipositive Kobayashi curvature</title>
+      <link>https://arxiv.org/abs/2609.37309</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.37309</guid>
+      <pubDate>Wed, 30 Sep 2026 18:13:06 +0000</pubDate>
+      <author>Kefeng Liu, Xueyuan Wan</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Xueyuan Wan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG, math.CV · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct slope-stable ample rank-two vector bundles on every Hirzebruch surface $\mathbb{F}_e$ that admit no smooth strongly pseudoconvex Finsler metric with semipositive Kobayashi curvature. These examples give a negative answer to Kobayashi&amp;#x27;s problem. The same bundles give counterexamples to the smooth strongly pseudoconvex Finsler formulation of Fulton&amp;#x27;s problem and to the Hartshorne--Schneider conjecture on the convexity of complements. For $e=1$, these counterexamples have a simply connected Fano base that is not a product.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.37309"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From $3$-spin to Negative $r$-spin: Limits of Cohomological Field Theories and Tautological Relations</title>
       <link>https://arxiv.org/abs/2609.36509</link>

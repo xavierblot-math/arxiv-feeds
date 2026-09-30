@@ -326,6 +326,30 @@
   "summary": "We prove that the negative $r$-spin tautological relations of Chidambaram--Garcia-Failde--Giacchetto are a consequence of Pixton's $3$-spin relations, for every $r\\ge2$, and deduce that they hold in the tautological Chow ring of $\\overline{\\mathcal{M}}_{g,n}$. In particular, our result for $r=2$ implies that Kazarian--Norbury $K$-relations hold in Chow. The proof factors through two essential parts. The first part shows that the tautological relations arising from Chiodo's class imply the negative $r$-spin relations. This requires an intricate study of limiting behavior of the Givental--Teleman graph contributions. In the second part, we show that the Chiodo relations are a consequence of Pixton's $3$-spin relations as an application of a generalization of Janda's work on tautological relations from CohFTs.",
   "title": "From $3$-spin to Negative $r$-spin: Limits of Cohomological Field Theories and Tautological Relations"
  },
+ "2609.37309": {
+  "announce": "new",
+  "authors": [
+   "Kefeng Liu",
+   "Xueyuan Wan"
+  ],
+  "cats": [
+   "math.DG",
+   "math.CV"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2609.37309",
+  "link": "https://arxiv.org/abs/2609.37309",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-09-30T18:13:06.121723+00:00",
+  "summary": "We construct slope-stable ample rank-two vector bundles on every Hirzebruch surface $\\mathbb{F}_e$ that admit no smooth strongly pseudoconvex Finsler metric with semipositive Kobayashi curvature. These examples give a negative answer to Kobayashi's problem. The same bundles give counterexamples to the smooth strongly pseudoconvex Finsler formulation of Fulton's problem and to the Hartshorne--Schneider conjecture on the convexity of complements. For $e=1$, these counterexamples have a simply connected Fano base that is not a product.",
+  "title": "Stable ample vector bundles without semipositive Kobayashi curvature"
+ },
  "2609.37421": {
   "announce": "new",
   "authors": [

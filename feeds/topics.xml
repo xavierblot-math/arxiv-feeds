@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 30 Sep 2026 06:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Helicity-Resolved Constructibility from Unified Ward Identities</title>
+      <link>https://arxiv.org/abs/2609.35976</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35976</guid>
+      <pubDate>Wed, 30 Sep 2026 06:14:20 +0000</pubDate>
+      <author>Jaehoon Jeong</author>
+      <description>&lt;p&gt;&lt;b&gt;Jaehoon Jeong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, hep-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the large-$z$ behavior of massive higher-spin particles under all-line transverse shifts is controlled by the helicity magnitude rather than the total spin. The apparent additional $z$ growth of nonextremal higher-spin wavefunctions is removed by unified Ward identities acting independently on each vector index. To expose this structure, we embed a four-dimensional massive momentum and its mass into an auxiliary null five-vector, whose fifth-current components characterize the breaking and restoration of the massless Ward identities. These identities determine the fixed-helicity large-$z$ scaling and yield a helicity-resolved constructibility criterion valid for arbitrary spin. Provided the stripped kinematic tensor remains finite in the massless limit, increasing the total spin does not by itself worsen constructibility, and amplitudes with nonnegative coupling dimension are constructible for all helicity configurations at five points and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.35976"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From $3$-spin to Negative $r$-spin: Limits of Cohomological Field Theories and Tautological Relations</title>
       <link>https://arxiv.org/abs/2609.36509</link>
@@ -20,14 +28,6 @@
       <pubDate>Wed, 30 Sep 2026 06:14:20 +0000</pubDate>
       <author>Nils Gluth, Thomas Guhr</author>
       <description>&lt;p&gt;&lt;b&gt;Nils Gluth, Thomas Guhr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Scattering theory is at the core of gaining information about most quantum systems. In general, analytic progress is difficult and the investigation of universal features using statistical methods is of interest. Commonly this is carried out within the Heidelberg approach which models the Hamiltonian of the target by a random matrix. Hitherto, such investigations were performed for systems that are effectively spinless or have total angular momentum conservation. In light of recent experimental progress it has become relevant to also investigate systems with half-integer spin. Using supersymmetry, we derive the distribution for the real and imaginary parts of the scattering matrix elements and the corresponding cross sections in the case of symplectic symmetry. These results complete the derivations for Dysons threefold way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.37696"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Helicity-Resolved Constructibility from Unified Ward Identities</title>
-      <link>https://arxiv.org/abs/2609.35976</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.35976</guid>
-      <pubDate>Wed, 30 Sep 2026 06:14:20 +0000</pubDate>
-      <author>Jaehoon Jeong</author>
-      <description>&lt;p&gt;&lt;b&gt;Jaehoon Jeong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, hep-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the large-$z$ behavior of massive higher-spin particles under all-line transverse shifts is controlled by the helicity magnitude rather than the total spin. The apparent additional $z$ growth of nonextremal higher-spin wavefunctions is removed by unified Ward identities acting independently on each vector index. To expose this structure, we embed a four-dimensional massive momentum and its mass into an auxiliary null five-vector, whose fifth-current components characterize the breaking and restoration of the massless Ward identities. These identities determine the fixed-helicity large-$z$ scaling and yield a helicity-resolved constructibility criterion valid for arbitrary spin. Provided the stripped kinematic tensor remains finite in the massless limit, increasing the total spin does not by itself worsen constructibility, and amplitudes with nonnegative coupling dimension are constructible for all helicity configurations at five points and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.35976"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chaos bound for spinning particles in a hairy black hole with two photon spheres</title>
