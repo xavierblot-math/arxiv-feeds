@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 29 Sep 2026 18:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:14:41 +0000</lastBuildDate>
+    <item>
+      <title>Fredholm determinant solutions to the modified KP hierarchy and 2D Toda lattice: isospectral and non-isospectral reductions</title>
+      <link>https://arxiv.org/abs/2609.37421</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.37421</guid>
+      <pubDate>Wed, 30 Sep 2026 06:14:20 +0000</pubDate>
+      <author>Dan Dai, Han-Han Sheng</author>
+      <description>&lt;p&gt;&lt;b&gt;Dan Dai, Han-Han Sheng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study Fredholm determinant solutions to the first two positive and the first negative members of the modified Kadomtsev-Petviashvili (mKP) hierarchy, together with the bilinear two-dimensional Toda lattice (2DTL) equation. By applying isospectral reductions, we explicitly construct Fredholm determinant solutions for the modified Korteweg-de Vries (mKdV), the modified Camassa-Holm, and the focusing nonlinear Schr\&amp;quot;odinger equations. Furthermore, we demonstrate that in the non-isospectral case, the reduction from the mKP and 2DTL equations to the non-isospectral negative KdV equation yields solutions characterized by the deformed Bessel determinant.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.37421"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Revisiting three-dimensional GLSMs and K-theoretic I-functions</title>
       <link>https://arxiv.org/abs/2609.31273</link>

@@ -1,9 +1,15 @@
-Last run: 2026-09-29 18:14 UTC
-Announcements downloaded: 317 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-09-30 06:14 UTC
+Announcements downloaded: 231 (0 category feeds failed)
+New papers stored this run: 4
 
-ag             |    0 items |   0 new this run
+ag             |    1 items |   1 new this run
 amplituhedron  |    0 items |   0 new this run
-broad          |    2 items |   0 new this run
-mathphys       |    1 items |   1 new this run
-topics         |    9 items |   5 new this run
+broad          |    3 items |   1 new this run
+mathphys       |    1 items |   0 new this run
+topics         |   12 items |   3 new this run
+
+Matched this run:
+  Felix Janda, Givental, r-spin, tautological relation | From $3$-spin to Negative $r$-spin: Limits of Cohomological Field Theo
+  r-spin                                   | Distribution of Scattering Matrix Elements in the case of Symplectic S
+  KdV, Korteweg-de Vries                   | Fredholm determinant solutions to the modified KP hierarchy and 2D Tod
+  r-spin                                   | Helicity-Resolved Constructibility from Unified Ward Identities

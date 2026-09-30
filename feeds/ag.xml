@@ -4,6 +4,14 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 29 Sep 2026 18:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:14:41 +0000</lastBuildDate>
+    <item>
+      <title>From $3$-spin to Negative $r$-spin: Limits of Cohomological Field Theories and Tautological Relations</title>
+      <link>https://arxiv.org/abs/2609.36509</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.36509</guid>
+      <pubDate>Wed, 30 Sep 2026 06:14:20 +0000</pubDate>
+      <author>Deniz Genlik, Felix Janda</author>
+      <description>&lt;p&gt;&lt;b&gt;Deniz Genlik, Felix Janda&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Felix Janda · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that the negative $r$-spin tautological relations of Chidambaram--Garcia-Failde--Giacchetto are a consequence of Pixton&amp;#x27;s $3$-spin relations, for every $r\ge2$, and deduce that they hold in the tautological Chow ring of $\overline{\mathcal{M}}_{g,n}$. In particular, our result for $r=2$ implies that Kazarian--Norbury $K$-relations hold in Chow. The proof factors through two essential parts. The first part shows that the tautological relations arising from Chiodo&amp;#x27;s class imply the negative $r$-spin relations. This requires an intricate study of limiting behavior of the Givental--Teleman graph contributions. In the second part, we show that the Chiodo relations are a consequence of Pixton&amp;#x27;s $3$-spin relations as an application of a generalization of Janda&amp;#x27;s work on tautological relations from CohFTs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.36509"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
