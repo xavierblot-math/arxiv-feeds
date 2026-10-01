@@ -1,15 +1,9 @@
-Last run: 2026-10-01 06:15 UTC
+Last run: 2026-10-01 18:15 UTC
 Announcements downloaded: 237 (0 category feeds failed)
-New papers stored this run: 4
+New papers stored this run: 0
 
 ag             |    4 items |   2 new this run
 amplituhedron  |    1 items |   1 new this run
 broad          |    5 items |   2 new this run
 mathphys       |    1 items |   0 new this run
 topics         |   14 items |   2 new this run
-
-Matched this run:
-  Gromov-Witten, Pierrick Bousseau         | Intrinsic mirror symmetry for orbifold cubic surfaces and the $A_1$ sp
-  Gromov-Witten, Shuai Guo, topological recursion | Structure of higher-genus open-closed Gromov--Witten theory of $\mathc
-  r-spin                                   | Para families of orthogonal polynomials
-  Lauren Williams                          | Grassmannian tree webs and cluster variables
