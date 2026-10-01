@@ -400,5 +400,122 @@
   "seen": "2026-09-30T06:14:20.158912+00:00",
   "summary": "Scattering theory is at the core of gaining information about most quantum systems. In general, analytic progress is difficult and the investigation of universal features using statistical methods is of interest. Commonly this is carried out within the Heidelberg approach which models the Hamiltonian of the target by a random matrix. Hitherto, such investigations were performed for systems that are effectively spinless or have total angular momentum conservation. In light of recent experimental progress it has become relevant to also investigate systems with half-integer spin. Using supersymmetry, we derive the distribution for the real and imaginary parts of the scattering matrix elements and the corresponding cross sections in the case of symplectic symmetry. These results complete the derivations for Dysons threefold way.",
   "title": "Distribution of Scattering Matrix Elements in the case of Symplectic Symmetry"
+ },
+ "2609.38211": {
+  "announce": "new",
+  "authors": [
+   "St\\'ephane Z. Beaulac",
+   "Nicolas Cramp\\'e",
+   "Quentin Labriet",
+   "Lucia Morey",
+   "Rafael I. Nepomechie",
+   "Luc Vinet"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP",
+   "math.RT"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2609.38211",
+  "link": "https://arxiv.org/abs/2609.38211",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-01T06:15:59.098100+00:00",
+  "summary": "The para-Krawtchouk polynomials arose in the search for spin chains with perfect state transfer; the para-Racah, $q$-para-Racah and para-Bannai--Ito polynomials followed, obtained through singular truncations of families of the Askey scheme and used in turn to design spin chains. All are orthogonal on bi-lattices; the prefix goes back to the para-Krawtchouk case, whose spectrum is that of the parabose oscillator. The representations that these polynomials provide of the corresponding algebras --- Hahn, Racah, $q$-Racah, Bannai--Ito and complementary Bannai--Ito --- are shown to be reducible. Each decomposes into a direct sum of two irreducible modules of the same algebra, one attached to each of the two interlaced sub-lattices, and the parameters of the submodules are given. The para polynomials are thereby expressed in terms of the classical polynomials that the submodules carry, and the pairing $\\lambda_n=\\lambda_{N-n}$ of their eigenvalues is accounted for; the three features of the bi-lattice setting on which the reduction rests are identified. The properties of the para families are then presented in a unified way in the light of this decomposition, together with the constructions through which these families arise and the settings in which they have been put to use.",
+  "title": "Para families of orthogonal polynomials"
+ },
+ "2609.38398": {
+  "announce": "new",
+  "authors": [
+   "Jian-Rong Li",
+   "Chenglu Wang",
+   "Lauren Williams"
+  ],
+  "cats": [
+   "math.CO",
+   "math.RT"
+  ],
+  "feeds": {
+   "amplituhedron": [
+    "Lauren Williams"
+   ]
+  },
+  "id": "2609.38398",
+  "link": "https://arxiv.org/abs/2609.38398",
+  "matched": [
+   "Lauren Williams"
+  ],
+  "seen": "2026-10-01T06:15:59.098100+00:00",
+  "summary": "Homogeneous coordinate rings of Grassmannians are among the most fundamental instances of cluster algebras arising in ``nature.'' Despite their importance, however, the cluster variables of these cluster algebras are not well-understood, except in special cases. For the Grassmannian of 3-planes in n-space, Fomin and Pylyavskyy conjectured [FP16] that the cluster and frozen variables are exactly the indecomposable, non-elliptic web invariants which are arborizable. They proved that in particular, if an SL3 tensor diagram is a planar tree, its web invariant is a cluster or frozen variable. In this article, we give a new proof of their result for Gr(3, n) planar tree webs, and we generalize the result to Gr(4, n): if an SL4 tensor diagram for Gr(4, n) is a planar tree web, its web invariant is a cluster or frozen variable. Our proof uses some of the cluster quasihomomorphisms from [EZLP+23] and [EZPT+25] (namely, upper promotion and spurion promotion), as well as a new 6-leg pattern map.",
+  "title": "Grassmannian tree webs and cluster variables"
+ },
+ "2609.38556": {
+  "announce": "cross",
+  "authors": [
+   "Pierrick Bousseau",
+   "Sayan Chattopadhyay"
+  ],
+  "cats": [
+   "math.AG",
+   "hep-th",
+   "math.GT"
+  ],
+  "feeds": {
+   "ag": [
+    "Pierrick Bousseau"
+   ],
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2609.38556",
+  "link": "https://arxiv.org/abs/2609.38556",
+  "matched": [
+   "Gromov-Witten",
+   "Pierrick Bousseau"
+  ],
+  "seen": "2026-10-01T06:15:59.098100+00:00",
+  "summary": "We determine the intrinsic mirror of an orbifold cubic surface with three nodes and interpret the resulting geometry through mirror symmetry between the $PGL(2,\\mathbb{C})$ and $SL(2,\\mathbb{C})$ character varieties of the once-punctured torus. We further construct a quantization of the mirror using higher genus Gromov-Witten theory and show that it recovers the $A_1$ spherical double affine Hecke algebra.",
+  "title": "Intrinsic mirror symmetry for orbifold cubic surfaces and the $A_1$ spherical DAHA"
+ },
+ "2609.40257": {
+  "announce": "cross",
+  "authors": [
+   "Shuai Guo",
+   "Jingyi Xu",
+   "Qingsheng Zhang"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "ag": [
+    "Shuai Guo"
+   ],
+   "broad": [
+    "Gromov-Witten"
+   ],
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2609.40257",
+  "link": "https://arxiv.org/abs/2609.40257",
+  "matched": [
+   "Gromov-Witten",
+   "Shuai Guo",
+   "topological recursion"
+  ],
+  "seen": "2026-10-01T06:15:59.098100+00:00",
+  "summary": "We study the closed and open Gromov--Witten potentials of the toric Calabi--Yau threefold $$ X_p=\\operatorname{Tot}\\bigl(\\mathcal{O}_{\\mathbb{P}^{1}}(p-1)\\oplus\\mathcal{O}_{\\mathbb{P}^{1}}(-p-1)\\bigr),\\qquad p\\geq 2. $$ We prove closed and open mirror symmetry under a nonvanishing condition on the torus weights, relating these potentials to topological recursion on the mirror curves. We establish polynomial structures for both the higher-genus closed potentials and the stable open potentials. We also establish double-scaling limits for topological recursion on the mirror curves. In particular, our results for the closed potentials prove the higher-genus ansatz and the double-scaling conjecture of Caporaso--Griguolo--Mari\\~no--Pasquetti--Seminara.",
+  "title": "Structure of higher-genus open-closed Gromov--Witten theory of $\\mathcal{O}_{\\mathbb{P}^{1}}(p-1)\\oplus\\mathcal{O}_{\\mathbb{P}^{1}}(-p-1)$"
  }
 }

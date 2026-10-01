@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 30 Sep 2026 18:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:16:24 +0000</lastBuildDate>
+    <item>
+      <title>Structure of higher-genus open-closed Gromov--Witten theory of $\mathcal{O}_{\mathbb{P}^{1}}(p-1)\oplus\mathcal{O}_{\mathbb{P}^{1}}(-p-1)$</title>
+      <link>https://arxiv.org/abs/2609.40257</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.40257</guid>
+      <pubDate>Thu, 01 Oct 2026 06:15:59 +0000</pubDate>
+      <author>Shuai Guo, Jingyi Xu, Qingsheng Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Jingyi Xu, Qingsheng Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: topological recursion · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the closed and open Gromov--Witten potentials of the toric Calabi--Yau threefold $$ X_p=\operatorname{Tot}\bigl(\mathcal{O}_{\mathbb{P}^{1}}(p-1)\oplus\mathcal{O}_{\mathbb{P}^{1}}(-p-1)\bigr),\qquad p\geq 2. $$ We prove closed and open mirror symmetry under a nonvanishing condition on the torus weights, relating these potentials to topological recursion on the mirror curves. We establish polynomial structures for both the higher-genus closed potentials and the stable open potentials. We also establish double-scaling limits for topological recursion on the mirror curves. In particular, our results for the closed potentials prove the higher-genus ansatz and the double-scaling conjecture of Caporaso--Griguolo--Mari\~no--Pasquetti--Seminara.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.40257"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Para families of orthogonal polynomials</title>
+      <link>https://arxiv.org/abs/2609.38211</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38211</guid>
+      <pubDate>Thu, 01 Oct 2026 06:15:59 +0000</pubDate>
+      <author>St\'ephane Z. Beaulac, Nicolas Cramp\'e, Quentin Labriet, Lucia Morey, Rafael I. Nepomechie, Luc Vinet</author>
+      <description>&lt;p&gt;&lt;b&gt;St\&amp;#x27;ephane Z. Beaulac, Nicolas Cramp\&amp;#x27;e, Quentin Labriet, Lucia Morey, Rafael I. Nepomechie, Luc Vinet&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, math.MP, math.RT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The para-Krawtchouk polynomials arose in the search for spin chains with perfect state transfer; the para-Racah, $q$-para-Racah and para-Bannai--Ito polynomials followed, obtained through singular truncations of families of the Askey scheme and used in turn to design spin chains. All are orthogonal on bi-lattices; the prefix goes back to the para-Krawtchouk case, whose spectrum is that of the parabose oscillator. The representations that these polynomials provide of the corresponding algebras --- Hahn, Racah, $q$-Racah, Bannai--Ito and complementary Bannai--Ito --- are shown to be reducible. Each decomposes into a direct sum of two irreducible modules of the same algebra, one attached to each of the two interlaced sub-lattices, and the parameters of the submodules are given. The para polynomials are thereby expressed in terms of the classical polynomials that the submodules carry, and the pairing $\lambda_n=\lambda_{N-n}$ of their eigenvalues is accounted for; the three features of the bi-lattice setting on which the reduction rests are identified. The properties of the para families are then presented in a unified way in the light of this decomposition, together with the constructions through which these families arise and the settings in which they have been put to use.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.38211"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Helicity-Resolved Constructibility from Unified Ward Identities</title>
       <link>https://arxiv.org/abs/2609.35976</link>

@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 30 Sep 2026 18:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:16:24 +0000</lastBuildDate>
+    <item>
+      <title>Intrinsic mirror symmetry for orbifold cubic surfaces and the $A_1$ spherical DAHA</title>
+      <link>https://arxiv.org/abs/2609.38556</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38556</guid>
+      <pubDate>Thu, 01 Oct 2026 06:15:59 +0000</pubDate>
+      <author>Pierrick Bousseau, Sayan Chattopadhyay</author>
+      <description>&lt;p&gt;&lt;b&gt;Pierrick Bousseau, Sayan Chattopadhyay&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Pierrick Bousseau · math.AG, hep-th, math.GT · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We determine the intrinsic mirror of an orbifold cubic surface with three nodes and interpret the resulting geometry through mirror symmetry between the $PGL(2,\mathbb{C})$ and $SL(2,\mathbb{C})$ character varieties of the once-punctured torus. We further construct a quantization of the mirror using higher genus Gromov-Witten theory and show that it recovers the $A_1$ spherical double affine Hecke algebra.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.38556"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Structure of higher-genus open-closed Gromov--Witten theory of $\mathcal{O}_{\mathbb{P}^{1}}(p-1)\oplus\mathcal{O}_{\mathbb{P}^{1}}(-p-1)$</title>
+      <link>https://arxiv.org/abs/2609.40257</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.40257</guid>
+      <pubDate>Thu, 01 Oct 2026 06:15:59 +0000</pubDate>
+      <author>Shuai Guo, Jingyi Xu, Qingsheng Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Jingyi Xu, Qingsheng Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Shuai Guo · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the closed and open Gromov--Witten potentials of the toric Calabi--Yau threefold $$ X_p=\operatorname{Tot}\bigl(\mathcal{O}_{\mathbb{P}^{1}}(p-1)\oplus\mathcal{O}_{\mathbb{P}^{1}}(-p-1)\bigr),\qquad p\geq 2. $$ We prove closed and open mirror symmetry under a nonvanishing condition on the torus weights, relating these potentials to topological recursion on the mirror curves. We establish polynomial structures for both the higher-genus closed potentials and the stable open potentials. We also establish double-scaling limits for topological recursion on the mirror curves. In particular, our results for the closed potentials prove the higher-genus ansatz and the double-scaling conjecture of Caporaso--Griguolo--Mari\~no--Pasquetti--Seminara.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2609.40257"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Stable ample vector bundles without semipositive Kobayashi curvature</title>
       <link>https://arxiv.org/abs/2609.37309</link>
