@@ -4,7 +4,31 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 01 Oct 2026 18:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:14:45 +0000</lastBuildDate>
+    <item>
+      <title>Completed cycle transfer and the conifold gap for (P^2, E)</title>
+      <link>https://arxiv.org/abs/2610.00179</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00179</guid>
+      <pubDate>Fri, 02 Oct 2026 06:14:20 +0000</pubDate>
+      <author>Xiaobin Li</author>
+      <description>&lt;p&gt;&lt;b&gt;Xiaobin Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Conifold boundary conditions constrain higher genus topological string free energies, but the cancellation of subleading poles is not implied by their leading singular behavior. We prove a regularity theorem for connected elliptic completed cycle traces and use it to establish the Nekrasov-Shatashvili conifold gap for the maximal contact relative Gromov-Witten theory of the projective plane with a smooth cubic boundary and a top Hodge class insertion. The higher genus local/relative correspondence expresses the ordinary potential in terms of the relative potential and differentiated lower genus contributions. We identify its conifold polarized correction with an elliptic trace. A central difference identity resums each non-vacuum partition weight into a content product multiplied by a regular exponential. For arbitrary regular parts of the input potentials and any nome with a simple zero, the normalized non-vacuum connected contribution is divisible by the conifold coordinate and by the square of the coupling. The entire polar part and finite part are consequently determined by the vacuum constants. A triangular induction transfers the known ordinary local projective plane gap to the relative theory. We also obtain finite part identities, finite formulas for regular Taylor coefficients, and reconstruction of the holomorphic ambiguities. The argument is formal in the coupling and gives holomorphic remainders at every fixed genus.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.00179"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conifold factorization in topological recursion and Gromov--Witten theory</title>
+      <link>https://arxiv.org/abs/2610.01557</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.01557</guid>
+      <pubDate>Fri, 02 Oct 2026 06:14:20 +0000</pubDate>
+      <author>Juping Chen, Linji Chen, Bohan Fang, Zhengyu Zong</author>
+      <description>&lt;p&gt;&lt;b&gt;Juping Chen, Linji Chen, Bohan Fang, Zhengyu Zong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove a factorization theorem for ordinary topological recursion near a regular nodal degeneration of a spectral curve, allowing logarithmic spectral coordinates. The partition function for closed genera $g\ge2$ factors into the partition function of the normalization, a universal Gaussian vacuum, and the exponential of a connected graph sum. This graph sum has strictly positive order in the vanishing period, and thus the factorization recovers the conifold gap, identifies the term of degree zero in the vanishing period with the free energy of the normalization, and gives finite graph formulas for the coefficients of positive powers of the period. At fixed genus, the regular series converges jointly in the period and the parameters along the nodal locus. The Gaussian neck tensors can be expressed in terms of relative Gromov--Witten invariants of a parametrized $\mathbb P^1$. As examples, we use remodeling to obtain Gromov--Witten factorizations for local $\mathbb P^2$ and local $\mathbb F_0$ in the conifold frame, with backgrounds $\mathbb C^3$ and the resolved conifold, respectively. The analogous local $\mathbb F_1$ factorization has background $\mathcal O(1)\oplus\mathcal O(-3)$ over $\mathbb P^1$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.01557"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum hierarchies of the ILW and BO equations and the DR cycles on the moduli spaces of curves</title>
+      <link>https://arxiv.org/abs/2610.01841</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.01841</guid>
+      <pubDate>Fri, 02 Oct 2026 06:14:20 +0000</pubDate>
+      <author>Alexandr Buryak, Abner Hernandez Rodriguez</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexandr Buryak, Abner Hernandez Rodriguez&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Korteweg-de Vries · math-ph, math.AG, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In an earlier paper of P. Rossi and the first author, a construction of a wide class of quantum hierarchies was presented, with the input data given by an arbitrary cohomological field theory. A crucial role in the construction is played by the double ramification (DR) cycles on the moduli spaces of stable curves. As a special case, one gets a quantization of the hierarchy of the Intermediate Long Wave (ILW) equation. The ILW equation has two famous limits: the Korteweg--de Vries equation and the Benjamin--Ono (BO) equation, and for the latter one a quantum hierarchy was constructed by Nazarov and Sklyanin. In our paper, we propose a conjecture describing a relation between a limit of the quantum ILW hierarchy and the Nazarov--Sklyanin hierarchy and present various checks to support it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.01841"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Intrinsic mirror symmetry for orbifold cubic surfaces and the $A_1$ spherical DAHA</title>
       <link>https://arxiv.org/abs/2609.38556</link>

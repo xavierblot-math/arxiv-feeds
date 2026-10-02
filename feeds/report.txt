@@ -1,9 +1,15 @@
-Last run: 2026-10-01 18:15 UTC
-Announcements downloaded: 237 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-02 06:14 UTC
+Announcements downloaded: 279 (0 category feeds failed)
+New papers stored this run: 4
 
-ag             |    4 items |   2 new this run
-amplituhedron  |    1 items |   1 new this run
-broad          |    5 items |   2 new this run
-mathphys       |    1 items |   0 new this run
-topics         |   14 items |   2 new this run
+ag             |    4 items |   0 new this run
+amplituhedron  |    1 items |   0 new this run
+broad          |    8 items |   3 new this run
+mathphys       |    2 items |   1 new this run
+topics         |   17 items |   3 new this run
+
+Matched this run:
+  Gromov-Witten                            | Completed cycle transfer and the conifold gap for (P^2, E)
+  Gromov-Witten, topological recursion     | Conifold factorization in topological recursion and Gromov--Witten the
+  Alexandr Buryak, Korteweg-de Vries, cohomological field theory, double ramification | Quantum hierarchies of the ILW and BO equations and the DR cycles on t
+  r-spin, topological recursion            | Super Liouville theory on the torus: bootstrap and the super Virasoro 

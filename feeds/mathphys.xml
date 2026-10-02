@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 01 Oct 2026 18:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:14:45 +0000</lastBuildDate>
+    <item>
+      <title>Quantum hierarchies of the ILW and BO equations and the DR cycles on the moduli spaces of curves</title>
+      <link>https://arxiv.org/abs/2610.01841</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.01841</guid>
+      <pubDate>Fri, 02 Oct 2026 06:14:20 +0000</pubDate>
+      <author>Alexandr Buryak, Abner Hernandez Rodriguez</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexandr Buryak, Abner Hernandez Rodriguez&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Alexandr Buryak · math-ph, math.AG, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In an earlier paper of P. Rossi and the first author, a construction of a wide class of quantum hierarchies was presented, with the input data given by an arbitrary cohomological field theory. A crucial role in the construction is played by the double ramification (DR) cycles on the moduli spaces of stable curves. As a special case, one gets a quantization of the hierarchy of the Intermediate Long Wave (ILW) equation. The ILW equation has two famous limits: the Korteweg--de Vries equation and the Benjamin--Ono (BO) equation, and for the latter one a quantum hierarchy was constructed by Nazarov and Sklyanin. In our paper, we propose a conjecture describing a relation between a limit of the quantum ILW hierarchy and the Nazarov--Sklyanin hierarchy and present various checks to support it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.01841"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Symmetric Amplituhedra I: Spinor Helicity</title>
       <link>https://arxiv.org/abs/2609.35604</link>
