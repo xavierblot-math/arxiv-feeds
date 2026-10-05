@@ -1,9 +1,16 @@
-Last run: 2026-10-04 21:09 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-05 06:18 UTC
+Announcements downloaded: 202 (0 category feeds failed)
+New papers stored this run: 5
 
-ag             |    4 items |   0 new this run
-amplituhedron  |    1 items |   0 new this run
-broad          |    8 items |   0 new this run
+ag             |    5 items |   1 new this run
+amplituhedron  |    2 items |   1 new this run
+broad          |    9 items |   1 new this run
 mathphys       |    2 items |   0 new this run
-topics         |   17 items |   0 new this run
+topics         |   19 items |   2 new this run
+
+Matched this run:
+  Hsian-Hua Tseng                          | Quantum cohomology, Hitchin systems, and Fourier--Mukai comparison
+  Frobenius manifold                       | A solution to the quantum Yang--Baxter equation associated with a univ
+  Lauren Williams                          | Signed seeds and G-gradings on cluster algebras
+  KdV, Korteweg-de Vries                   | Generalized eigenstate thermalization beyond leading order in 2D large
+  r-spin                                   | Unfolded Schwinger-Dyson hierarchy for vertex functions

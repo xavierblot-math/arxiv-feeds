@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:18:48 +0000</lastBuildDate>
+    <item>
+      <title>Generalized eigenstate thermalization beyond leading order in 2D large c CFTs</title>
+      <link>https://arxiv.org/abs/2610.03514</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.03514</guid>
+      <pubDate>Mon, 05 Oct 2026 06:18:23 +0000</pubDate>
+      <author>Ziyuan Wang, Jiaju Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Ziyuan Wang, Jiaju Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a Fock-space formulation that reduces expectation values of vacuum-family quasi-primaries in qKdV eigenstates of arbitrary highest-weight conformal families to a free-bosonic problem, and employ it to test the generalized eigenstate thermalization hypothesis (GETH), in 2D conformal field theories with large central charge $c$. We demonstrate that the first two quantum Korteweg--de Vries (qKdV) charges $Q_1$ and $Q_3$ lift all degeneracies except along at most countably many curves in the $(c,\Delta)$ plane, where $\Delta$ is the highest weight of the conformal family, so that the full-qKdV simultaneous eigenstates are unambiguously determined by $Q_1$ and $Q_3$. Based on this, a near-complete toolkit for testing in the vacuum conformal family or falsifying the general form of GETH, i.e. equating qKdV eigenstates and thermal states of the generalized Gibbs ensemble in the sense of expectations of local observables, is provided in this paper, through the infinite tower of qKdV charges. A stronger form of the GETH, namely that all expectations of local observables of a definite level should be expressible of qKdV charges but not contain microscopic eigenstate information, is directly falsified at subleading order in the large-$c$ expansion. At levels 6 and 8 in the vacuum family, expectation values of quasi-primaries in simultaneous eigenstates of the qKdV charges are not fixed by first finitely many qKdV charges, and microscopic information of the eigenstate is required.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.03514"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Completed cycle transfer and the conifold gap for (P^2, E)</title>
       <link>https://arxiv.org/abs/2610.00179</link>

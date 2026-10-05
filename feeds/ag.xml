@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:18:48 +0000</lastBuildDate>
+    <item>
+      <title>Quantum cohomology, Hitchin systems, and Fourier--Mukai comparison</title>
+      <link>https://arxiv.org/abs/2610.03520</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.03520</guid>
+      <pubDate>Mon, 05 Oct 2026 06:18:23 +0000</pubDate>
+      <author>Yunfeng Jiang, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Yunfeng Jiang, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hsian-Hua Tseng · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $X$ be the moduli space of stable trace-free rank $r$ Higgs bundles over a smooth projective curve $C$ with fixed determinant $\Lambda\in\Pic(C)$ and $\gcd(r,\deg\Lambda)=1$. We prove that the $\cc^*$-equivariant quantum product of a divisor on $X$ is given by the Steinberg correspondence of the Lagrangian Steinberg cycle in $X\times X$. The Steinberg cycle is the image of the reduced virtual fundamental cycle of the $2$-pointed Kontsevich stable map space to $X$ under evaluation map. For $\Gamma=\Pic^0(C)[r]$, we give a character decomposition for $\Gamma$-invariant curve classes or finite orbit sums. In rank two and genus two we explicitly determine its fifteen endoscopic lines and the reduced spectral discriminant. %The resulting endoscopic support statement is cohomological, not a determination of the entire Chow cycle. For $\widehat X=[X/\Gamma]$, which is the moduli space of stable $\PGL_r$-Higgs bundles over $C$. We consider the orbifold quantum cohomology theory from a gerbe-twisted theory. The complex K-theory $\KU^*(X)$ and twisted K-theory $\KU^*([X/\Gamma],\alpha)$ by the lifting $\mu_r$-gerbe $\alpha$ of the universal projective bundle is an isomorphism, and is given by the Fourier-Mukai transformation. We prove that the Fourier-Mukai transformation is compatible with the quantum product by the divisors.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.03520"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Intrinsic mirror symmetry for orbifold cubic surfaces and the $A_1$ spherical DAHA</title>
       <link>https://arxiv.org/abs/2609.38556</link>

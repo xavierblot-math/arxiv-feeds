@@ -4,7 +4,15 @@
     <title>arXiv – Amplituhedron</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:18:48 +0000</lastBuildDate>
+    <item>
+      <title>Signed seeds and G-gradings on cluster algebras</title>
+      <link>https://arxiv.org/abs/2610.03612</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.03612</guid>
+      <pubDate>Mon, 05 Oct 2026 06:18:23 +0000</pubDate>
+      <author>Lauren Williams, Alan Yan</author>
+      <description>&lt;p&gt;&lt;b&gt;Lauren Williams, Alan Yan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Lauren Williams · math.CO, math.RA · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The theory of cluster algebras is closely connected to the theory of total positivity; indeed, the desire to better understand total positivity was one of the main motivations for Fomin and Zelevinsky&amp;#x27;s introduction of cluster algebras [arXiv:math/0104151]. In particular, any cluster variety whose coordinate ring has a cluster structure has a natural notion of positive part: the subset of the variety where all cluster variables are positive. In this paper, we explain that there are other signed cells contained in cluster varieties that are equally natural from a cluster-theoretic point of view. These come from signed seeds, which can be thought of as a $\mathbb{Z}/2\mathbb{Z}$-grading on cluster variables, and which were introduced in [arXiv:2310.17727] in the context of the amplituhedron. More generally, given any abelian group $G$, we introduce the notion of a $G$-graded seed for a cluster algebra, which is a way of assigning elements of $G$ to each cluster variable which is compatible with the cluster structure. When $G$ is the multiplicative group $\{-1, 1\}$, this recovers the above notion of signed seed; when $G = \mathbb{C}^*$, this recovers the notion of cluster automorphism group [GSV10] or cluster dilation group [arXiv:2603.17890]; and when $G = \mathbb{Z}^d$, this recovers the notion of graded cluster algebra studied by Grabowski-Launois [arXiv:1301.2133], Grabowski [arXiv:1309.6170] and Gekhtman-Shapiro-Vainshtein [GSV10, Section 5.2] (which had previously appeared in special cases in work of Fomin-Zelevinsky [arXiv:math/0602259]). The examples we study include the space of square matrices, symmetric matrices, skew-symmetric matrices, positroid varieties, and amplituhedron tiles. We also connect this notion to tropical mutation when $G = \mathbb{R}$ or $\mathbb{Z}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.03612"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Grassmannian tree webs and cluster variables</title>
       <link>https://arxiv.org/abs/2609.38398</link>

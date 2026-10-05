@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:18:48 +0000</lastBuildDate>
+    <item>
+      <title>A solution to the quantum Yang--Baxter equation associated with a universal two-valued algebraic group</title>
+      <link>https://arxiv.org/abs/2610.02354</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02354</guid>
+      <pubDate>Mon, 05 Oct 2026 06:18:23 +0000</pubDate>
+      <author>Victor M. Buchstaber</author>
+      <description>&lt;p&gt;&lt;b&gt;Victor M. Buchstaber&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Frobenius manifold · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct spectral-parameter solutions of the quantum Yang--Baxter equation from the associativity condition of the universal symmetric $2$-algebraic two-valued group, whose multiplication law depends on four coefficients $k_2,k_4,k_6,k_8$ subject to the single relation $4k_8-k_4^2+k_2k_6=0$ -- which coincides with the three-dimensional WDVV equation for Dubrovin&amp;#x27;s normalised potential. Every three-dimensional Frobenius manifold with a cyclic vector field carries such a spectral two-valued group, whose finite branch points are the eigenvalues of the multiplication operator. For an arbitrary unital algebra we show that a two-parameter spectral $R$-operator built from multiplication and unit has Yang--Baxter defect proportional to an explicit tensor built from the associator; for tangent Frobenius algebras this yields a regular, unitary $9\times9$ $R$-matrix satisfying the quantum Yang--Baxter equation exactly at WDVV points, with spectral parameter the Abel coordinate of a bielliptic curve whose elliptic quotient is the spectral curve, together with an associated integrable chain. The $A_3$ Frobenius manifold is worked out explicitly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.02354"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unfolded Schwinger-Dyson hierarchy for vertex functions</title>
+      <link>https://arxiv.org/abs/2610.03554</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.03554</guid>
+      <pubDate>Mon, 05 Oct 2026 06:18:23 +0000</pubDate>
+      <author>Nikita Misuna</author>
+      <description>&lt;p&gt;&lt;b&gt;Nikita Misuna&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We propose a formulation of a quantum field theory within the framework of the unfolded dynamics approach, originally developed in higher-spin gauge theory. We construct an unfolded system that describes a hierarchy of Schwinger-Dyson equations for vertex functions of a scalar QFT in terms of unfolded first-order equations. A distinctive feature of the constructed system is the appearance of two additional evolution parameters responsible for the WKB and RG behaviors. As an illustration, a one-loop analysis of the theory with quartic self-interaction is carried out.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.03554"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Conifold factorization in topological recursion and Gromov--Witten theory</title>
       <link>https://arxiv.org/abs/2610.01557</link>

@@ -634,5 +634,123 @@
   "seen": "2026-10-02T06:14:20.774264+00:00",
   "summary": "Motivated by applications to low-dimensional worldsheet string constructions, we analyze $\\mathcal{N} = 1$ super Liouville theory on the torus. Specifically, we re-examine the recursive representations of the torus one-point super Virasoro blocks that have been constructed in the literature and correct several of their ingredients. In the process we identify a new block in the odd spin structure, associated with a privileged superdescendant whose torus one-point function transforms like that of a Virasoro primary. We then demonstrate that the structure constants for both spacelike and timelike super Liouville theory satisfy modular crossing. Furthermore, we use a bootstrap argument to construct modular crossing kernels for all four spin structure sectors, valid for central charges $c \\in \\mathbb{C}\\setminus(-\\infty,\\tfrac{3}{2}]$, and verify that they correctly implement the crossing transformations of the blocks. As a concrete application of the technology, we analyze the super Virasoro minimal string. There are four such theories, $\\mathrm{0A}^{\\pm}$ and $\\mathrm{0B}^{\\pm}$, which are distinguished by the GSO projection together with the choice of worldsheet supercharge. The resulting NS-sector sphere three-point and torus one-point amplitudes are shown to agree with topological recursion on the spectral curves of the dual matrix integrals, which were recently derived from 3d supergravity. Notably, the one-point function of the privileged superdescendant plays an essential role in the contribution of the odd spin structure to the torus amplitude via a careful treatment of the picture changing operator. We also identify an exceptional zero-momentum Ramond insertion in the $\\mathrm{0A}^{-}$ theory that we interpret geometrically as a Ramond puncture, and match its mixed sphere three-point amplitude to the corresponding intersection theory prediction.",
   "title": "Super Liouville theory on the torus: bootstrap and the super Virasoro minimal string"
+ },
+ "2610.02354": {
+  "announce": "new",
+  "authors": [
+   "Victor M. Buchstaber"
+  ],
+  "cats": [
+   "nlin.SI",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "Frobenius manifold"
+   ]
+  },
+  "id": "2610.02354",
+  "link": "https://arxiv.org/abs/2610.02354",
+  "matched": [
+   "Frobenius manifold"
+  ],
+  "seen": "2026-10-05T06:18:23.411138+00:00",
+  "summary": "We construct spectral-parameter solutions of the quantum Yang--Baxter equation from the associativity condition of the universal symmetric $2$-algebraic two-valued group, whose multiplication law depends on four coefficients $k_2,k_4,k_6,k_8$ subject to the single relation $4k_8-k_4^2+k_2k_6=0$ -- which coincides with the three-dimensional WDVV equation for Dubrovin's normalised potential. Every three-dimensional Frobenius manifold with a cyclic vector field carries such a spectral two-valued group, whose finite branch points are the eigenvalues of the multiplication operator. For an arbitrary unital algebra we show that a two-parameter spectral $R$-operator built from multiplication and unit has Yang--Baxter defect proportional to an explicit tensor built from the associator; for tangent Frobenius algebras this yields a regular, unitary $9\\times9$ $R$-matrix satisfying the quantum Yang--Baxter equation exactly at WDVV points, with spectral parameter the Abel coordinate of a bielliptic curve whose elliptic quotient is the spectral curve, together with an associated integrable chain. The $A_3$ Frobenius manifold is worked out explicitly.",
+  "title": "A solution to the quantum Yang--Baxter equation associated with a universal two-valued algebraic group"
+ },
+ "2610.03514": {
+  "announce": "new",
+  "authors": [
+   "Ziyuan Wang",
+   "Jiaju Zhang"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2610.03514",
+  "link": "https://arxiv.org/abs/2610.03514",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-10-05T06:18:23.411138+00:00",
+  "summary": "We develop a Fock-space formulation that reduces expectation values of vacuum-family quasi-primaries in qKdV eigenstates of arbitrary highest-weight conformal families to a free-bosonic problem, and employ it to test the generalized eigenstate thermalization hypothesis (GETH), in 2D conformal field theories with large central charge $c$. We demonstrate that the first two quantum Korteweg--de Vries (qKdV) charges $Q_1$ and $Q_3$ lift all degeneracies except along at most countably many curves in the $(c,\\Delta)$ plane, where $\\Delta$ is the highest weight of the conformal family, so that the full-qKdV simultaneous eigenstates are unambiguously determined by $Q_1$ and $Q_3$. Based on this, a near-complete toolkit for testing in the vacuum conformal family or falsifying the general form of GETH, i.e. equating qKdV eigenstates and thermal states of the generalized Gibbs ensemble in the sense of expectations of local observables, is provided in this paper, through the infinite tower of qKdV charges. A stronger form of the GETH, namely that all expectations of local observables of a definite level should be expressible of qKdV charges but not contain microscopic eigenstate information, is directly falsified at subleading order in the large-$c$ expansion. At levels 6 and 8 in the vacuum family, expectation values of quasi-primaries in simultaneous eigenstates of the qKdV charges are not fixed by first finitely many qKdV charges, and microscopic information of the eigenstate is required.",
+  "title": "Generalized eigenstate thermalization beyond leading order in 2D large c CFTs"
+ },
+ "2610.03520": {
+  "announce": "new",
+  "authors": [
+   "Yunfeng Jiang",
+   "Hsian-Hua Tseng"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Hsian-Hua Tseng"
+   ]
+  },
+  "id": "2610.03520",
+  "link": "https://arxiv.org/abs/2610.03520",
+  "matched": [
+   "Hsian-Hua Tseng"
+  ],
+  "seen": "2026-10-05T06:18:23.411138+00:00",
+  "summary": "Let $X$ be the moduli space of stable trace-free rank $r$ Higgs bundles over a smooth projective curve $C$ with fixed determinant $\\Lambda\\in\\Pic(C)$ and $\\gcd(r,\\deg\\Lambda)=1$. We prove that the $\\cc^*$-equivariant quantum product of a divisor on $X$ is given by the Steinberg correspondence of the Lagrangian Steinberg cycle in $X\\times X$. The Steinberg cycle is the image of the reduced virtual fundamental cycle of the $2$-pointed Kontsevich stable map space to $X$ under evaluation map. For $\\Gamma=\\Pic^0(C)[r]$, we give a character decomposition for $\\Gamma$-invariant curve classes or finite orbit sums. In rank two and genus two we explicitly determine its fifteen endoscopic lines and the reduced spectral discriminant. %The resulting endoscopic support statement is cohomological, not a determination of the entire Chow cycle. For $\\widehat X=[X/\\Gamma]$, which is the moduli space of stable $\\PGL_r$-Higgs bundles over $C$. We consider the orbifold quantum cohomology theory from a gerbe-twisted theory. The complex K-theory $\\KU^*(X)$ and twisted K-theory $\\KU^*([X/\\Gamma],\\alpha)$ by the lifting $\\mu_r$-gerbe $\\alpha$ of the universal projective bundle is an isomorphism, and is given by the Fourier-Mukai transformation. We prove that the Fourier-Mukai transformation is compatible with the quantum product by the divisors.",
+  "title": "Quantum cohomology, Hitchin systems, and Fourier--Mukai comparison"
+ },
+ "2610.03554": {
+  "announce": "new",
+  "authors": [
+   "Nikita Misuna"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.03554",
+  "link": "https://arxiv.org/abs/2610.03554",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-05T06:18:23.411138+00:00",
+  "summary": "We propose a formulation of a quantum field theory within the framework of the unfolded dynamics approach, originally developed in higher-spin gauge theory. We construct an unfolded system that describes a hierarchy of Schwinger-Dyson equations for vertex functions of a scalar QFT in terms of unfolded first-order equations. A distinctive feature of the constructed system is the appearance of two additional evolution parameters responsible for the WKB and RG behaviors. As an illustration, a one-loop analysis of the theory with quartic self-interaction is carried out.",
+  "title": "Unfolded Schwinger-Dyson hierarchy for vertex functions"
+ },
+ "2610.03612": {
+  "announce": "new",
+  "authors": [
+   "Lauren Williams",
+   "Alan Yan"
+  ],
+  "cats": [
+   "math.CO",
+   "math.RA"
+  ],
+  "feeds": {
+   "amplituhedron": [
+    "Lauren Williams"
+   ]
+  },
+  "id": "2610.03612",
+  "link": "https://arxiv.org/abs/2610.03612",
+  "matched": [
+   "Lauren Williams"
+  ],
+  "seen": "2026-10-05T06:18:23.411138+00:00",
+  "summary": "The theory of cluster algebras is closely connected to the theory of total positivity; indeed, the desire to better understand total positivity was one of the main motivations for Fomin and Zelevinsky's introduction of cluster algebras [arXiv:math/0104151]. In particular, any cluster variety whose coordinate ring has a cluster structure has a natural notion of positive part: the subset of the variety where all cluster variables are positive. In this paper, we explain that there are other signed cells contained in cluster varieties that are equally natural from a cluster-theoretic point of view. These come from signed seeds, which can be thought of as a $\\mathbb{Z}/2\\mathbb{Z}$-grading on cluster variables, and which were introduced in [arXiv:2310.17727] in the context of the amplituhedron. More generally, given any abelian group $G$, we introduce the notion of a $G$-graded seed for a cluster algebra, which is a way of assigning elements of $G$ to each cluster variable which is compatible with the cluster structure. When $G$ is the multiplicative group $\\{-1, 1\\}$, this recovers the above notion of signed seed; when $G = \\mathbb{C}^*$, this recovers the notion of cluster automorphism group [GSV10] or cluster dilation group [arXiv:2603.17890]; and when $G = \\mathbb{Z}^d$, this recovers the notion of graded cluster algebra studied by Grabowski-Launois [arXiv:1301.2133], Grabowski [arXiv:1309.6170] and Gekhtman-Shapiro-Vainshtein [GSV10, Section 5.2] (which had previously appeared in special cases in work of Fomin-Zelevinsky [arXiv:math/0602259]). The examples we study include the space of square matrices, symmetric matrices, skew-symmetric matrices, positroid varieties, and amplituhedron tiles. We also connect this notion to tropical mutation when $G = \\mathbb{R}$ or $\\mathbb{Z}$.",
+  "title": "Signed seeds and G-gradings on cluster algebras"
  }
 }
