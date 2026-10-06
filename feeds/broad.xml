@@ -4,7 +4,31 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:15:05 +0000</lastBuildDate>
+    <item>
+      <title>From wall structures to closed mirror symmetry. The case of $K_{\mathbb{P}^2}$: Renormalized periods over the positive real locus, closed Gromov-Witten invariants from wall functions, and tropical enumeration</title>
+      <link>https://arxiv.org/abs/2610.04252</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.04252</guid>
+      <pubDate>Tue, 06 Oct 2026 06:14:40 +0000</pubDate>
+      <author>Michel van Garrel, Bernd Siebert</author>
+      <description>&lt;p&gt;&lt;b&gt;Michel van Garrel, Bernd Siebert&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We recover closed Gromov-Witten invariants and renormalized mirror periods for $K_{\mathbb{P}^2}$ by the same operation on a wall function. This gives a direct passage from the Gross-Siebert construction of intrinsic mirror pairs to classical enumerative mirror symmetry. The link is a polynomiality theorem for punctured invariants. Assuming the expected identification with the normalized slab function, we also obtain a finite tree sum for closed Gromov-Witten invariants in terms of types of plane tropical curves. The mechanism is expected to extend to more general Calabi-Yau mirror pairs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.04252"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On leading Gopakumar--Vafa invariants of local $\mathbb{P}^2$ and leading Betti numbers of moduli spaces of one-dimensional sheaves on $\mathbb{P}^2$</title>
+      <link>https://arxiv.org/abs/2610.04483</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.04483</guid>
+      <pubDate>Tue, 06 Oct 2026 06:14:40 +0000</pubDate>
+      <author>Zhiyuan Wang, Chenglang Yang</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhiyuan Wang, Chenglang Yang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP, math.SG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper we use the topological vertex formalism to derive a structural formula for the leading terms of the generating series of Gromov--Witten invariants of local $\mathbb P^2$. Then we give two applications of this formula. First we use this result to derive an explicit formula for the leading terms of the transformed Gopakumar--Vafa invariants of local $\mathbb P^2$. This is an extension of a formula of Guo--Zhou \cite{gz} from degree $2d-5$ to $3d-1$, and shares some similar features with the famous G\&amp;quot;ottsche--Yau--Zaslow formula. And as the second application, we prove Guo--Wu--Moreira&amp;#x27;s Conjecture \cite{gw} about the leading Betti numbers of the moduli space of one-dimensional Gieseker semistable sheaves on $\mathbb P^2$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.04483"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Riemann theta function near soliton limit</title>
+      <link>https://arxiv.org/abs/2610.05716</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.05716</guid>
+      <pubDate>Tue, 06 Oct 2026 06:14:40 +0000</pubDate>
+      <author>Yuji Kodama</author>
+      <description>&lt;p&gt;&lt;b&gt;Yuji Kodama&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · nlin.SI, math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;It has been known that (the square of) Jacobi elliptic function can be expressed by an infinite sum of single solitons of $\sech^2$ shape. In this paper, we show that there exists a similar structure for higher genus cases. It turns out that this is just a consequence of the quasi-periodicity of the Riemann $\theta$-function. More precisely, we show that the second derivative of $\log \theta$ with the \emph{real} Riemann $\theta$-function of genus $g$ near soliton limit can be well approximated by the \emph{sum} of \emph{real} and \emph{regular} $g$-soliton solutions of Hirota-type in $g$-dimensional real space $\R^g$. This leads to a tessellation of $\R^g$, whose tile is an oblique prism divided into $2^g$ sections by hyper-planes of dominant exponents in the theta function. We apply the results to study quasi-periodic solutions to the KdV and KP equations. We construct the quasi-periodic solutions using the Schottky group, which uniformizes the corresponding Riemann surfaces. We also discuss solitons on quasi-periodic background by pinching some of the homological cycles&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.05716"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Generalized eigenstate thermalization beyond leading order in 2D large c CFTs</title>
       <link>https://arxiv.org/abs/2610.03514</link>

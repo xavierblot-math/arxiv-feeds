@@ -1,9 +1,18 @@
-Last run: 2026-10-05 18:14 UTC
-Announcements downloaded: 202 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-06 06:14 UTC
+Announcements downloaded: 362 (0 category feeds failed)
+New papers stored this run: 7
 
-ag             |    5 items |   1 new this run
-amplituhedron  |    2 items |   1 new this run
-broad          |    9 items |   1 new this run
-mathphys       |    2 items |   0 new this run
-topics         |   19 items |   2 new this run
+ag             |    7 items |   2 new this run
+amplituhedron  |    2 items |   0 new this run
+broad          |   12 items |   3 new this run
+mathphys       |    4 items |   2 new this run
+topics         |   19 items |   0 new this run
+
+Matched this run:
+  Gromov-Witten                            | From wall structures to closed mirror symmetry. The case of $K_{\mathb
+  Gromov-Witten                            | On leading Gopakumar--Vafa invariants of local $\mathbb{P}^2$ and lead
+  Sam Payne                                | The Prym-Green conjecture in even genera up to 30
+  Maxim Kontsevich                         | A quantum connection approach to rationality
+  Gavril Farkas                            | Suciu's Conjecture on hyperplane arrangements
+  KdV                                      | The Riemann theta function near soliton limit
+  Edward Witten                            | An Observer in de Sitter Space, and Rereading Everett

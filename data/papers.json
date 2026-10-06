@@ -752,5 +752,178 @@
   "seen": "2026-10-05T06:18:23.411138+00:00",
   "summary": "The theory of cluster algebras is closely connected to the theory of total positivity; indeed, the desire to better understand total positivity was one of the main motivations for Fomin and Zelevinsky's introduction of cluster algebras [arXiv:math/0104151]. In particular, any cluster variety whose coordinate ring has a cluster structure has a natural notion of positive part: the subset of the variety where all cluster variables are positive. In this paper, we explain that there are other signed cells contained in cluster varieties that are equally natural from a cluster-theoretic point of view. These come from signed seeds, which can be thought of as a $\\mathbb{Z}/2\\mathbb{Z}$-grading on cluster variables, and which were introduced in [arXiv:2310.17727] in the context of the amplituhedron. More generally, given any abelian group $G$, we introduce the notion of a $G$-graded seed for a cluster algebra, which is a way of assigning elements of $G$ to each cluster variable which is compatible with the cluster structure. When $G$ is the multiplicative group $\\{-1, 1\\}$, this recovers the above notion of signed seed; when $G = \\mathbb{C}^*$, this recovers the notion of cluster automorphism group [GSV10] or cluster dilation group [arXiv:2603.17890]; and when $G = \\mathbb{Z}^d$, this recovers the notion of graded cluster algebra studied by Grabowski-Launois [arXiv:1301.2133], Grabowski [arXiv:1309.6170] and Gekhtman-Shapiro-Vainshtein [GSV10, Section 5.2] (which had previously appeared in special cases in work of Fomin-Zelevinsky [arXiv:math/0602259]). The examples we study include the space of square matrices, symmetric matrices, skew-symmetric matrices, positroid varieties, and amplituhedron tiles. We also connect this notion to tropical mutation when $G = \\mathbb{R}$ or $\\mathbb{Z}$.",
   "title": "Signed seeds and G-gradings on cluster algebras"
+ },
+ "2610.04252": {
+  "announce": "new",
+  "authors": [
+   "Michel van Garrel",
+   "Bernd Siebert"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.04252",
+  "link": "https://arxiv.org/abs/2610.04252",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "We recover closed Gromov-Witten invariants and renormalized mirror periods for $K_{\\mathbb{P}^2}$ by the same operation on a wall function. This gives a direct passage from the Gross-Siebert construction of intrinsic mirror pairs to classical enumerative mirror symmetry. The link is a polynomiality theorem for punctured invariants. Assuming the expected identification with the normalized slab function, we also obtain a finite tree sum for closed Gromov-Witten invariants in terms of types of plane tropical curves. The mechanism is expected to extend to more general Calabi-Yau mirror pairs.",
+  "title": "From wall structures to closed mirror symmetry. The case of $K_{\\mathbb{P}^2}$: Renormalized periods over the positive real locus, closed Gromov-Witten invariants from wall functions, and tropical enumeration"
+ },
+ "2610.04483": {
+  "announce": "cross",
+  "authors": [
+   "Zhiyuan Wang",
+   "Chenglang Yang"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP",
+   "math.SG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.04483",
+  "link": "https://arxiv.org/abs/2610.04483",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "In this paper we use the topological vertex formalism to derive a structural formula for the leading terms of the generating series of Gromov--Witten invariants of local $\\mathbb P^2$. Then we give two applications of this formula. First we use this result to derive an explicit formula for the leading terms of the transformed Gopakumar--Vafa invariants of local $\\mathbb P^2$. This is an extension of a formula of Guo--Zhou \\cite{gz} from degree $2d-5$ to $3d-1$, and shares some similar features with the famous G\\\"ottsche--Yau--Zaslow formula. And as the second application, we prove Guo--Wu--Moreira's Conjecture \\cite{gw} about the leading Betti numbers of the moduli space of one-dimensional Gieseker semistable sheaves on $\\mathbb P^2$.",
+  "title": "On leading Gopakumar--Vafa invariants of local $\\mathbb{P}^2$ and leading Betti numbers of moduli spaces of one-dimensional sheaves on $\\mathbb{P}^2$"
+ },
+ "2610.04804": {
+  "announce": "new",
+  "authors": [
+   "Edward Witten"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Edward Witten"
+   ]
+  },
+  "id": "2610.04804",
+  "link": "https://arxiv.org/abs/2610.04804",
+  "matched": [
+   "Edward Witten"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "After re-examining a classic article by Hugh Everett, I will discuss the entropy of de Sitter space from the standpoint of an observer living in the space. This provides a nice example of the importance -- for certain questions -- of taking seriously the fact that in cosmology any observer is really part of the universe that is being observed. (This article has appeared in a special issue of International Journal of Modern Physics A in honor of Gerard 't Hooft.",
+  "title": "An Observer in de Sitter Space, and Rereading Everett"
+ },
+ "2610.05646": {
+  "announce": "new",
+  "authors": [
+   "Sam Payne",
+   "Thomas Willwacher"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Sam Payne"
+   ]
+  },
+  "id": "2610.05646",
+  "link": "https://arxiv.org/abs/2610.05646",
+  "matched": [
+   "Sam Payne"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "We prove the Prym-Green conjecture in every even genus from 20 to 30. The genus 24 case disproves the suggestion of Chiodo-Eisenbud-Farkas-Schreyer that the conjecture might fail in every genus divisible by 8. Our proof uses rational nodal curves with cyclic symmetry to decompose the relevant Koszul differential into a direct sum of smaller maps indexed by characters. We carry out the resulting rank computations over finite fields using the block Wiedemann algorithm.",
+  "title": "The Prym-Green conjecture in even genera up to 30"
+ },
+ "2610.05716": {
+  "announce": "new",
+  "authors": [
+   "Yuji Kodama"
+  ],
+  "cats": [
+   "nlin.SI",
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ]
+  },
+  "id": "2610.05716",
+  "link": "https://arxiv.org/abs/2610.05716",
+  "matched": [
+   "KdV"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "It has been known that (the square of) Jacobi elliptic function can be expressed by an infinite sum of single solitons of $\\sech^2$ shape. In this paper, we show that there exists a similar structure for higher genus cases. It turns out that this is just a consequence of the quasi-periodicity of the Riemann $\\theta$-function. More precisely, we show that the second derivative of $\\log \\theta$ with the \\emph{real} Riemann $\\theta$-function of genus $g$ near soliton limit can be well approximated by the \\emph{sum} of \\emph{real} and \\emph{regular} $g$-soliton solutions of Hirota-type in $g$-dimensional real space $\\R^g$. This leads to a tessellation of $\\R^g$, whose tile is an oblique prism divided into $2^g$ sections by hyper-planes of dominant exponents in the theta function. We apply the results to study quasi-periodic solutions to the KdV and KP equations. We construct the quasi-periodic solutions using the Schottky group, which uniformizes the corresponding Riemann surfaces. We also discuss solitons on quasi-periodic background by pinching some of the homological cycles",
+  "title": "The Riemann theta function near soliton limit"
+ },
+ "2610.06669": {
+  "announce": "cross",
+  "authors": [
+   "Luiz Carazolli",
+   "Leonardo F. Cavenaghi",
+   "Ludmil Katzarkov",
+   "Maxim Kontsevich",
+   "Pedro Antonio Muniz Martins"
+  ],
+  "cats": [
+   "math.AG",
+   "math.DG",
+   "math.SG"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Maxim Kontsevich"
+   ]
+  },
+  "id": "2610.06669",
+  "link": "https://arxiv.org/abs/2610.06669",
+  "matched": [
+   "Maxim Kontsevich"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "We extract rank and regularized exponents from cyclic generic factors of the quantum connection and show that these data persist under the birational comparisons considered here. Applications include showing non-rationality of cubic threefolds, ordinary Gushel--Mukai threefolds, very general quartic fourfolds, and products of the threefolds with $\\PP^1$.",
+  "title": "A quantum connection approach to rationality"
+ },
+ "2610.06683": {
+  "announce": "cross",
+  "authors": [
+   "Marian Aprodu",
+   "Gavril Farkas",
+   "Claudiu Raicu",
+   "Alexander I. Suciu"
+  ],
+  "cats": [
+   "math.AG",
+   "math.CO"
+  ],
+  "feeds": {
+   "ag": [
+    "Gavril Farkas"
+   ]
+  },
+  "id": "2610.06683",
+  "link": "https://arxiv.org/abs/2610.06683",
+  "matched": [
+   "Gavril Farkas"
+  ],
+  "seen": "2026-10-06T06:14:40.404389+00:00",
+  "summary": "We prove that the resonance of any hyperplane arrangement is separable. Using the main result from arXiv:2512.10160 this proves Suciu's conjecture on the fundamental group of every hyperplane arrangement, in its most effective form.",
+  "title": "Suciu's Conjecture on hyperplane arrangements"
  }
 }

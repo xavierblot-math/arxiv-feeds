@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:15:05 +0000</lastBuildDate>
+    <item>
+      <title>The Prym-Green conjecture in even genera up to 30</title>
+      <link>https://arxiv.org/abs/2610.05646</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.05646</guid>
+      <pubDate>Tue, 06 Oct 2026 06:14:40 +0000</pubDate>
+      <author>Sam Payne, Thomas Willwacher</author>
+      <description>&lt;p&gt;&lt;b&gt;Sam Payne, Thomas Willwacher&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Sam Payne · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the Prym-Green conjecture in every even genus from 20 to 30. The genus 24 case disproves the suggestion of Chiodo-Eisenbud-Farkas-Schreyer that the conjecture might fail in every genus divisible by 8. Our proof uses rational nodal curves with cyclic symmetry to decompose the relevant Koszul differential into a direct sum of smaller maps indexed by characters. We carry out the resulting rank computations over finite fields using the block Wiedemann algorithm.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.05646"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Suciu's Conjecture on hyperplane arrangements</title>
+      <link>https://arxiv.org/abs/2610.06683</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06683</guid>
+      <pubDate>Tue, 06 Oct 2026 06:14:40 +0000</pubDate>
+      <author>Marian Aprodu, Gavril Farkas, Claudiu Raicu, Alexander I. Suciu</author>
+      <description>&lt;p&gt;&lt;b&gt;Marian Aprodu, Gavril Farkas, Claudiu Raicu, Alexander I. Suciu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gavril Farkas · math.AG, math.CO · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that the resonance of any hyperplane arrangement is separable. Using the main result from arXiv:2512.10160 this proves Suciu&amp;#x27;s conjecture on the fundamental group of every hyperplane arrangement, in its most effective form.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.06683"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quantum cohomology, Hitchin systems, and Fourier--Mukai comparison</title>
       <link>https://arxiv.org/abs/2610.03520</link>
