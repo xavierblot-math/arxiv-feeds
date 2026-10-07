@@ -925,5 +925,32 @@
   "seen": "2026-10-06T06:14:40.404389+00:00",
   "summary": "We prove that the resonance of any hyperplane arrangement is separable. Using the main result from arXiv:2512.10160 this proves Suciu's conjecture on the fundamental group of every hyperplane arrangement, in its most effective form.",
   "title": "Suciu's Conjecture on hyperplane arrangements"
+ },
+ "2610.08521": {
+  "announce": "cross",
+  "authors": [
+   "Vin\\'icius Salem",
+   "Edilberto O. Silva",
+   "Fabiano M. Andrade"
+  ],
+  "cats": [
+   "quant-ph",
+   "hep-th",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.08521",
+  "link": "https://arxiv.org/abs/2610.08521",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-07T06:13:40.938880+00:00",
+  "summary": "Whether the spin-1/2 Aharonov-Bohm Hamiltonian supports bound states has remained controversial since Hagen concluded that no such states exist for a Dirac particle. Here, we show that Hagen's solution corresponds to a particular member of the one-parameter family of self-adjoint extensions that describe the singular Zeeman interaction, and we identify which member the microscopic physics selects. Matching the extension parameter to a finite-radius flux tube yields $\\nu=0$ precisely at $g=2$, and it does so in every flux sector. The critical $g$ factor is therefore universal, $g_c=2$, and depends on neither the flux sector nor the regularization radius. The flux sector controls the depth of the bound state energy, and we obtain a closed-form expression showing that binding deepens markedly with the integer part of the flux. Hagen's conclusion is thus confirmed and sharpened: it is not a statement about one arbitrary member of a family of extensions, but about the member that the physics selects when the magnetic moment takes its Dirac value, and an anomalous moment is a necessary and sufficient condition for binding in the singular channel.",
+  "title": "Universal critical $g$ factor for spin-1/2 Aharonov-Bohm bound states"
  }
 }

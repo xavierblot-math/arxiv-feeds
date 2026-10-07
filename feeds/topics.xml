@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:14:07 +0000</lastBuildDate>
+    <item>
+      <title>Universal critical $g$ factor for spin-1/2 Aharonov-Bohm bound states</title>
+      <link>https://arxiv.org/abs/2610.08521</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.08521</guid>
+      <pubDate>Wed, 07 Oct 2026 06:13:40 +0000</pubDate>
+      <author>Vin\'icius Salem, Edilberto O. Silva, Fabiano M. Andrade</author>
+      <description>&lt;p&gt;&lt;b&gt;Vin\&amp;#x27;icius Salem, Edilberto O. Silva, Fabiano M. Andrade&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · quant-ph, hep-th, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Whether the spin-1/2 Aharonov-Bohm Hamiltonian supports bound states has remained controversial since Hagen concluded that no such states exist for a Dirac particle. Here, we show that Hagen&amp;#x27;s solution corresponds to a particular member of the one-parameter family of self-adjoint extensions that describe the singular Zeeman interaction, and we identify which member the microscopic physics selects. Matching the extension parameter to a finite-radius flux tube yields $\nu=0$ precisely at $g=2$, and it does so in every flux sector. The critical $g$ factor is therefore universal, $g_c=2$, and depends on neither the flux sector nor the regularization radius. The flux sector controls the depth of the bound state energy, and we obtain a closed-form expression showing that binding deepens markedly with the integer part of the flux. Hagen&amp;#x27;s conclusion is thus confirmed and sharpened: it is not a statement about one arbitrary member of a family of extensions, but about the member that the physics selects when the magnetic moment takes its Dirac value, and an anomalous moment is a necessary and sufficient condition for binding in the singular channel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.08521"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A solution to the quantum Yang--Baxter equation associated with a universal two-valued algebraic group</title>
       <link>https://arxiv.org/abs/2610.02354</link>
