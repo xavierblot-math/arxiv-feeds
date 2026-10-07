@@ -1,12 +1,9 @@
-Last run: 2026-10-07 06:13 UTC
+Last run: 2026-10-07 18:13 UTC
 Announcements downloaded: 253 (0 category feeds failed)
-New papers stored this run: 1
+New papers stored this run: 0
 
 ag             |    7 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   12 items |   0 new this run
 mathphys       |    4 items |   0 new this run
 topics         |   20 items |   1 new this run
-
-Matched this run:
-  r-spin                                   | Universal critical $g$ factor for spin-1/2 Aharonov-Bohm bound states
