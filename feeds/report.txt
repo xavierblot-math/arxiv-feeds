@@ -1,17 +1,9 @@
-Last run: 2026-10-08 06:15 UTC
+Last run: 2026-10-08 18:13 UTC
 Announcements downloaded: 200 (0 category feeds failed)
-New papers stored this run: 6
+New papers stored this run: 0
 
 ag             |    9 items |   2 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   12 items |   0 new this run
 mathphys       |    4 items |   0 new this run
 topics         |   24 items |   4 new this run
-
-Matched this run:
-  Johannes Schmitt, Samir Canning          | Motivic Euler characteristics of moduli spaces of curves
-  Kefeng Liu                               | Transverse rational curves and the LeBrun--Salamon conjecture
-  r-spin                                   | Matrix Product State Representatives of Symmetry-Protected Phases
-  cohomological field theory               | Worldsheets reconstructed: Duals to two-cut matrix models
-  r-spin                                   | Tensor-structure sum rules for spin-1 targets at all $Q^2$
-  r-spin                                   | Coupled Dirac-harmonic maps from closed spin tori
