@@ -952,5 +952,153 @@
   "seen": "2026-10-07T06:13:40.938880+00:00",
   "summary": "Whether the spin-1/2 Aharonov-Bohm Hamiltonian supports bound states has remained controversial since Hagen concluded that no such states exist for a Dirac particle. Here, we show that Hagen's solution corresponds to a particular member of the one-parameter family of self-adjoint extensions that describe the singular Zeeman interaction, and we identify which member the microscopic physics selects. Matching the extension parameter to a finite-radius flux tube yields $\\nu=0$ precisely at $g=2$, and it does so in every flux sector. The critical $g$ factor is therefore universal, $g_c=2$, and depends on neither the flux sector nor the regularization radius. The flux sector controls the depth of the bound state energy, and we obtain a closed-form expression showing that binding deepens markedly with the integer part of the flux. Hagen's conclusion is thus confirmed and sharpened: it is not a statement about one arbitrary member of a family of extensions, but about the member that the physics selects when the magnetic moment takes its Dirac value, and an anomalous moment is a necessary and sufficient condition for binding in the singular channel.",
   "title": "Universal critical $g$ factor for spin-1/2 Aharonov-Bohm bound states"
+ },
+ "2610.08913": {
+  "announce": "new",
+  "authors": [
+   "Sounak Pal"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "cohomological field theory"
+   ]
+  },
+  "id": "2610.08913",
+  "link": "https://arxiv.org/abs/2610.08913",
+  "matched": [
+   "cohomological field theory"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "We compute the higher-rank translation ($\\mathcal{T}$) and rotation ($\\mathcal{R}$) matrices associated with a genus-one spectral curve. Using these data, we reconstruct the worldsheet correlators of vertex operators in the corresponding supersymmetric Landau--Ginzburg (LG) theory. This provides a generalization of the genus-zero, one-cut spectral-curve construction to higher-genus geometries. The matrix-model correlators are mapped to integrals over the moduli space of Riemann surfaces for the symmetric sextic double-well potential, which has a double-cut solution. We further identify the rational and elliptic contributions to the worldsheet integrated vertex operators and show that each of the sector precisely matches the corresponding correlators of single-trace operators in the matrix model. Altogether, our construction showcases an explicit dictionary between the higher-genus spectral-curve data, the associated Cohomological field theory (CohFT), and the worldsheet description of the corresponding matrix-model observables.",
+  "title": "Worldsheets reconstructed: Duals to two-cut matrix models"
+ },
+ "2610.09501": {
+  "announce": "new",
+  "authors": [
+   "Thomas Jackson"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.09501",
+  "link": "https://arxiv.org/abs/2610.09501",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "We provide a simple ansatz for finding integer spin $SO(3)\\times\\Z_2^T\\times\\Z_2^R$-invariant matrix product states representing a phase for each triple of $\\Z_2$ topological indices studied in the literature by Tasaki \\cite{tasakiheistop}\\cite{tasakitop} and Ogata (corresponding to time-reversal and reflection symmetries) \\cite{ogatatime}\\cite{ogatareflection}. Every combination of trivial and non-trivial indices has a spin-$1$ $SU(2)$, time-reversal, and site-reflection symmetric MPS representative with injectivity length $l\\leq 8$. We provide some exact examples for spin-$1$ and a Fortran program which will find representatives of any triple for any integer spin, as well as some data from random sampling for small spin. The existence of such states agrees with the classification of Chen, Gu, and Wen \\cite{chen}, and with the recent results of Tasaki \\cite{tasakinew} equating the hidden-order and one of Ogata's indices, wherein the Ogata index is that associated to the dihedral $D_2$ symmetry.",
+  "title": "Matrix Product State Representatives of Symmetry-Protected Phases"
+ },
+ "2610.09694": {
+  "announce": "new",
+  "authors": [
+   "Jonas Bergstr\\\"om",
+   "Samir Canning",
+   "Dan Petersen",
+   "Johannes Schmitt"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Johannes Schmitt",
+    "Samir Canning"
+   ]
+  },
+  "id": "2610.09694",
+  "link": "https://arxiv.org/abs/2610.09694",
+  "matched": [
+   "Johannes Schmitt",
+   "Samir Canning"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "A combination of recent results of Canning--Larson--Payne--Willwacher and Payne--Willwacher is that the motivic Euler characteristic of the moduli space $M_{g,n}$ of nonsingular curves with $n$ markings is polynomial in the Tate motive if and only if $g=0$ or $3g+2n<25$. In the cases when $g\\geq 1$ and $3g+2n<25$, there are $32$ pairs $(g,n)$ where the motivic Euler characteristic has been computed. We compute the motivic Euler characteristic for $9$ more pairs, leaving only $6$ pairs where the motivic Euler characteristic is polynomial but unknown. In genus $4$, we moreover compute the answer when $n=7$, i.e.~the first non-polynomial case.",
+  "title": "Motivic Euler characteristics of moduli spaces of curves"
+ },
+ "2610.09754": {
+  "announce": "new",
+  "authors": [
+   "J\\\"urgen Jost",
+   "Jingyong Zhu"
+  ],
+  "cats": [
+   "math.DG"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.09754",
+  "link": "https://arxiv.org/abs/2610.09754",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "We construct Dirac-harmonic maps from closed spin tori whose map components are not harmonic. For a closed Riemannian surface as target, we prove that such solutions exist for every source metric and every spin structure whenever the target metric is nonflat. The maps can be chosen null-homotopic, of rank one everywhere, with nowhere-vanishing tension and unbounded energy. For a strictly negatively curved closed oriented target surface, every homotopy class contains such a sequence when the source has the trivial spin structure. For the other spin structures we give a compatibility condition for the same construction. Adding a harmonic circle component yields coupled immersions into the product of any such surface with a circle. The construction combines a spinor phase that cancels the rotation of a moving target frame with a curvature balance along a closed curve. Minimizing the energy of short loops with prescribed signed curvature area produces the required curves without any symmetry assumption on the target. Their total geodesic curvature determines the spinor's periodicity. We also give a curve criterion in arbitrary target dimension, applications to totally geodesic surfaces and warped products, and a local choice of target metric that works on every closed manifold of dimension at least two.",
+  "title": "Coupled Dirac-harmonic maps from closed spin tori"
+ },
+ "2610.09862": {
+  "announce": "cross",
+  "authors": [
+   "Vladimir Pascalutsa",
+   "Marc Vanderhaeghen"
+  ],
+  "cats": [
+   "hep-ph",
+   "hep-th",
+   "nucl-ex",
+   "nucl-th",
+   "physics.atm-clus"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.09862",
+  "link": "https://arxiv.org/abs/2610.09862",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "We derive a family of sum rules for the tensor structure functions of targets with spin one or higher, rooted in exact Siegert relations. The mixed rank-two $TT$--$LT$ degeneracy combines amplitudes of opposite crossing parity and, under the superconvergence assumption, gives $\\int_0^1\\! d x\\,[b_2(x,Q^2)-3b_4(x,Q^2)]=0$ in the Hoodbhoy--Jaffe--Manohar (HJM) basis. At large $Q^2$, the protected moment agrees with Detmold's target-mass-complete twist-two OPE; in the strict Bjorken projection, and if $b_4$ is neglected, it reduces to the Efremov--Teryaev (ET)-type condition $\\int_0^1\\! d x\\,x\\,b_1(x)=0$, whose measured-range footprint is consistent with the HERMES data. Two further rank-two combinations connect crossing-even amplitudes and determine the corresponding subtraction functions through weighted HJM moments. The protected combination can be isolated through separated tensor $LT$ and $TT$ responses, providing a direct experimental strategy for JLab and, ultimately, a future EIC.",
+  "title": "Tensor-structure sum rules for spin-1 targets at all $Q^2$"
+ },
+ "2610.10410": {
+  "announce": "new",
+  "authors": [
+   "Zhengyu Hu",
+   "Kefeng Liu",
+   "Xueyuan Wan"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2610.10410",
+  "link": "https://arxiv.org/abs/2610.10410",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-10-08T06:15:55.016533+00:00",
+  "summary": "We prove that every compact connected positive quaternionic--K\\\"ahler manifold of real dimension $4n$ with $n\\ge2$ is isometric to a Wolf space after rescaling the metric by a positive constant. This proves the LeBrun--Salamon conjecture. The proof uses transverse rational curves and the contact structure of the twistor space.",
+  "title": "Transverse rational curves and the LeBrun--Salamon conjecture"
  }
 }

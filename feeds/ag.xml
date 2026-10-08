@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:16:20 +0000</lastBuildDate>
+    <item>
+      <title>Motivic Euler characteristics of moduli spaces of curves</title>
+      <link>https://arxiv.org/abs/2610.09694</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.09694</guid>
+      <pubDate>Thu, 08 Oct 2026 06:15:55 +0000</pubDate>
+      <author>Jonas Bergstr\"om, Samir Canning, Dan Petersen, Johannes Schmitt</author>
+      <description>&lt;p&gt;&lt;b&gt;Jonas Bergstr\&amp;quot;om, Samir Canning, Dan Petersen, Johannes Schmitt&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Johannes Schmitt, Samir Canning · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;A combination of recent results of Canning--Larson--Payne--Willwacher and Payne--Willwacher is that the motivic Euler characteristic of the moduli space $M_{g,n}$ of nonsingular curves with $n$ markings is polynomial in the Tate motive if and only if $g=0$ or $3g+2n&amp;lt;25$. In the cases when $g\geq 1$ and $3g+2n&amp;lt;25$, there are $32$ pairs $(g,n)$ where the motivic Euler characteristic has been computed. We compute the motivic Euler characteristic for $9$ more pairs, leaving only $6$ pairs where the motivic Euler characteristic is polynomial but unknown. In genus $4$, we moreover compute the answer when $n=7$, i.e.~the first non-polynomial case.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.09694"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transverse rational curves and the LeBrun--Salamon conjecture</title>
+      <link>https://arxiv.org/abs/2610.10410</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10410</guid>
+      <pubDate>Thu, 08 Oct 2026 06:15:55 +0000</pubDate>
+      <author>Zhengyu Hu, Kefeng Liu, Xueyuan Wan</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhengyu Hu, Kefeng Liu, Xueyuan Wan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that every compact connected positive quaternionic--K\&amp;quot;ahler manifold of real dimension $4n$ with $n\ge2$ is isometric to a Wolf space after rescaling the metric by a positive constant. This proves the LeBrun--Salamon conjecture. The proof uses transverse rational curves and the contact structure of the twistor space.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.10410"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Prym-Green conjecture in even genera up to 30</title>
       <link>https://arxiv.org/abs/2610.05646</link>
