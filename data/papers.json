@@ -824,6 +824,38 @@
   "summary": "After re-examining a classic article by Hugh Everett, I will discuss the entropy of de Sitter space from the standpoint of an observer living in the space. This provides a nice example of the importance -- for certain questions -- of taking seriously the fact that in cosmology any observer is really part of the universe that is being observed. (This article has appeared in a special issue of International Journal of Modern Physics A in honor of Gerard 't Hooft.",
   "title": "An Observer in de Sitter Space, and Rereading Everett"
  },
+ "2610.04834": {
+  "announce": "cross",
+  "authors": [
+   "Jinkang Guo",
+   "Yiqiu Han",
+   "Aranya Chakraborty",
+   "Shubham P. Jain",
+   "Tianhao Liu",
+   "Victor V. Albert",
+   "Andrew Lucas"
+  ],
+  "cats": [
+   "quant-ph",
+   "cs.IT",
+   "math.CO",
+   "math.IT",
+   "math.MG"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.04834",
+  "link": "https://arxiv.org/abs/2610.04834",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-09T06:15:42.077059+00:00",
+  "summary": "We introduce a quantum coding framework for discrete small-shift noise, in which errors on qudits are modeled as low-weight $X$- and $Z$-type Pauli shifts, analogous to small phase-space displacements in continuous-variable systems. This structure is approximately respected by nuclear-spin noise and captured by the Lee metric, motivating a quantum extension of classical Lee-metric coding theory. We develop such a formalism for stabilizer codes over $\\mathbb{Z}_q$ for arbitrary $q$, using joint and separate Lee metrics for the $X$- and $Z$-components of errors. For qubits, the joint metric counts $Y$ errors twice and can yield codes that detect and correct $X$ and $Z$ errors with fewer physical qubits than codes designed for the conventional Hamming metric. We discuss Lee-weight spreading under Clifford gates and qubitize codes over $\\mathbb{Z}_4$ via the Gray map, finding codes with two-fold transversal non-qubit-Clifford gates. For quantum CSS Lee-LDPC codes on $n$ qudits, we prove that the Lee distance cannot exceed $O(n)$, uniformly in $q$, demonstrating an unexpected obstruction to using the large internal Hilbert space of a large-$q$ qudit to make high-Lee-distance codes. Under local Metropolis dynamics, certain classical $q$-ary ``helical repetition codes'' have exponentially long memory times at fixed temperature for sufficiently large $q$ (that grows with system length), which can be understood as spontaneous symmetry breaking at finite temperature, even in local one-dimensional models. Hypergraph products of these helical repetition codes provide local two-dimensional quantum codes that inherit self-correction for $Z$ errors, but self-correction for $X$ errors remains an open question.",
+  "title": "Quantum codes in the Lee metric"
+ },
  "2610.05646": {
   "announce": "new",
   "authors": [
@@ -1100,5 +1132,104 @@
   "seen": "2026-10-08T06:15:55.016533+00:00",
   "summary": "We prove that every compact connected positive quaternionic--K\\\"ahler manifold of real dimension $4n$ with $n\\ge2$ is isometric to a Wolf space after rescaling the metric by a positive constant. This proves the LeBrun--Salamon conjecture. The proof uses transverse rational curves and the contact structure of the twistor space.",
   "title": "Transverse rational curves and the LeBrun--Salamon conjecture"
+ },
+ "2610.10736": {
+  "announce": "new",
+  "authors": [
+   "Andreas Klippel"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP",
+   "math.PR"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.10736",
+  "link": "https://arxiv.org/abs/2610.10736",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-09T06:15:42.077059+00:00",
+  "summary": "For the two-dimensional quantum Heisenberg ferromagnet with asymptotically radial power-law exchange, we prove the leading low-temperature free energy at every fixed spin, uniformly on the weak-field scale. We obtain fractional and logarithmically corrected laws associated with the dispersions predicted in [16, 17]. Quantum Monte Carlo simulations support the associated anomalous magnon dispersions for spin one-half [20]. For kernels with finite second moment, we also extend the nearest-neighbour theorem [14], generalizing Takahashi's quadratic law [21] and its weak-field dependence [11].",
+  "title": "Finite- and long-range spin-wave free-energy asymptotics for the two-dimensional quantum Heisenberg ferromagnet"
+ },
+ "2610.10821": {
+  "announce": "new",
+  "authors": [
+   "Hartmut Maennel",
+   "Pierre Vanhove"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.10821",
+  "link": "https://arxiv.org/abs/2610.10821",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-09T06:15:42.077059+00:00",
+  "summary": "We determine the equal-mass two-dimensional three- and four-loop sunset Feynman integrals $I^{(3)}_\\circleddash$ and $I^{(4)}_\\circleddash$ at large Euclidean momentum in terms of the genus-zero Gromov--Witten theory of the local Calabi--Yau fourfold and fivefold $X_L=\\operatorname{Tot}(K_{F_L})$, where $F_L\\subset(\\mathbb P^1)^{L+1}$, $L=3,4$, is a smooth hypersurface of multidegree $(1,\\ldots,1)$. At two loops the sunset integral is governed by the prepotential of a local Calabi--Yau threefold. For $L\\geq3$ the moduli spaces of unmarked stable maps have positive virtual dimension and there is no prepotential, therefore the Feynman integral is governed instead by the one-point potential $\\mathcal F_{\\gamma_L}$ with insertion $\\gamma_L=H^{L-1}/(L-1)!$, by its gravitational descendants, and by $\\zeta(3)$ boundary terms coming from the Gamma class. At both loop orders the coefficient of $R^{L-1}$ in the Frobenius expansion in the mirror coordinate $R$ is $-\\theta_Q\\mathcal F_{\\gamma_L}$ with the Novikov variable $Q=\\exp(R)$. At three loops the whole Feynman integral is an explicit expression in $\\mathcal F_{\\gamma_3}$ alone, because genus-zero recursion determines all descendant series from it; at four loops two diagonal series suffice, and the $\\zeta(3)$ term is itself corrected by $\\theta_Q\\mathcal F_{\\gamma_4}$. At three loops we also derive the analytic normalization independently, from the Picard--Fuchs equation and the polar part of a Mellin transform, prove integrality of the multiple-cover transforms for arbitrary integral insertions together with an explicit quantum-$K$ formula, and compute the exact period connection polynomials. Finally we give endpoint values along the Euclidean axis, bounds on the Taylor radii in the Novikov variable $Q$, a computer-assisted proof of the four-loop endpoint nonanalyticity, and a comparison of the normalizations at two, three and four loops.",
+  "title": "The three- and four-loop equal-mass sunset integrals and local Calabi--Yau fourfolds and fivefolds"
+ },
+ "2610.10828": {
+  "announce": "cross",
+  "authors": [
+   "Hartmut Maennel",
+   "Pierre Vanhove"
+  ],
+  "cats": [
+   "math.AG",
+   "hep-th",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.10828",
+  "link": "https://arxiv.org/abs/2610.10828",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-09T06:15:42.077059+00:00",
+  "summary": "We prove an exact identity, as convergent logarithmic germs at large Euclidean momentum, between the equal-mass two-dimensional $(n-1)$-loop sunset Feynman integral, with $n\\geq4$, and the genus-zero one-point descendant invariants of the local Calabi--Yau $n$-fold $X_n=\\operatorname{Tot}(K_{F_n})$, where $F_n\\subset(\\mathbb P^1)^{n}$ is a smooth $(1,\\ldots,1)$ hypersurface. Writing $s$ for the momentum variable and $y=-1/s$, the identity reads $$ I^{(n-1)}_{\\circleddash}(s)=(-1)^{n-1}yA\\,\\Bigl[nR^{n-1}-\\theta_Q{\\mathcal D}_0^\\Delta\\,R^{n-2} +\\sum_{j=0}^{n-3}c_jR^j\\Bigr], $$ where $R=\\log y+O(y)$ is the local mirror coordinate, $A=\\theta_yR$, $Q=e^R$, ${\\mathcal D}_0^\\Delta(Q)$ is the primary one-point potential, and each $c_j$ is an explicit linear combination of $1$, the descendant series ${\\mathcal D}_a^\\Delta(Q)$ and their derivatives $\\theta_Q{\\mathcal D}_a^\\Delta$, $0\\leq a\\leq n-2$, with coefficients in the odd-zeta values $\\mathbb Q[\\zeta(3),\\zeta(5),\\ldots]$ coming from the Gamma class. The descendant series are given explicitly by the ambient hypergeometric series and the inverse mirror map. We also prove global univalence of the principal mirror map, with explicit upper and lower bounds on the $Q$-Taylor radii, extract the full primary evaluation divisor and its integral cover transform, and reduce the ambient endpoint constants to a finite universal Gamma-class part and $\\lfloor(n-1)/2\\rfloor$ real parameters.",
+  "title": "Equal-mass sunset integrals and genus-zero local Gromov--Witten theory of Calabi--Yau $n$-folds"
+ },
+ "2610.12364": {
+  "announce": "new",
+  "authors": [
+   "Gavril Farkas",
+   "Alessandro Verra"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Gavril Farkas"
+   ]
+  },
+  "id": "2610.12364",
+  "link": "https://arxiv.org/abs/2610.12364",
+  "matched": [
+   "Gavril Farkas"
+  ],
+  "seen": "2026-10-09T06:15:42.077059+00:00",
+  "summary": "Using in a novel way non-abelian Brill-Noether theory, we show that the moduli space of curves of genus 16 is uniruled. This is the highest genus for which such a result is known.",
+  "title": "The moduli space of curves of genus 16 is uniruled"
  }
 }

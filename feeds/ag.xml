@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:16:06 +0000</lastBuildDate>
+    <item>
+      <title>The moduli space of curves of genus 16 is uniruled</title>
+      <link>https://arxiv.org/abs/2610.12364</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12364</guid>
+      <pubDate>Fri, 09 Oct 2026 06:15:42 +0000</pubDate>
+      <author>Gavril Farkas, Alessandro Verra</author>
+      <description>&lt;p&gt;&lt;b&gt;Gavril Farkas, Alessandro Verra&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gavril Farkas · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Using in a novel way non-abelian Brill-Noether theory, we show that the moduli space of curves of genus 16 is uniruled. This is the highest genus for which such a result is known.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.12364"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Motivic Euler characteristics of moduli spaces of curves</title>
       <link>https://arxiv.org/abs/2610.09694</link>
