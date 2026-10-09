@@ -4,15 +4,7 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:16:06 +0000</lastBuildDate>
-    <item>
-      <title>Finite- and long-range spin-wave free-energy asymptotics for the two-dimensional quantum Heisenberg ferromagnet</title>
-      <link>https://arxiv.org/abs/2610.10736</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10736</guid>
-      <pubDate>Fri, 09 Oct 2026 06:15:42 +0000</pubDate>
-      <author>Andreas Klippel</author>
-      <description>&lt;p&gt;&lt;b&gt;Andreas Klippel&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, math.MP, math.PR · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For the two-dimensional quantum Heisenberg ferromagnet with asymptotically radial power-law exchange, we prove the leading low-temperature free energy at every fixed spin, uniformly on the weak-field scale. We obtain fractional and logarithmically corrected laws associated with the dispersions predicted in [16, 17]. Quantum Monte Carlo simulations support the associated anomalous magnon dispersions for spin one-half [20]. For kernels with finite second moment, we also extend the nearest-neighbour theorem [14], generalizing Takahashi&amp;#x27;s quadratic law [21] and its weak-field dependence [11].&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.10736"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 18:13:38 +0000</lastBuildDate>
     <item>
       <title>Quantum codes in the Lee metric</title>
       <link>https://arxiv.org/abs/2610.04834</link>
@@ -20,6 +12,14 @@
       <pubDate>Fri, 09 Oct 2026 06:15:42 +0000</pubDate>
       <author>Jinkang Guo, Yiqiu Han, Aranya Chakraborty, Shubham P. Jain, Tianhao Liu, Victor V. Albert, Andrew Lucas</author>
       <description>&lt;p&gt;&lt;b&gt;Jinkang Guo, Yiqiu Han, Aranya Chakraborty, Shubham P. Jain, Tianhao Liu, Victor V. Albert, Andrew Lucas&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · quant-ph, cs.IT, math.CO, math.IT, math.MG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a quantum coding framework for discrete small-shift noise, in which errors on qudits are modeled as low-weight $X$- and $Z$-type Pauli shifts, analogous to small phase-space displacements in continuous-variable systems. This structure is approximately respected by nuclear-spin noise and captured by the Lee metric, motivating a quantum extension of classical Lee-metric coding theory. We develop such a formalism for stabilizer codes over $\mathbb{Z}_q$ for arbitrary $q$, using joint and separate Lee metrics for the $X$- and $Z$-components of errors. For qubits, the joint metric counts $Y$ errors twice and can yield codes that detect and correct $X$ and $Z$ errors with fewer physical qubits than codes designed for the conventional Hamming metric. We discuss Lee-weight spreading under Clifford gates and qubitize codes over $\mathbb{Z}_4$ via the Gray map, finding codes with two-fold transversal non-qubit-Clifford gates. For quantum CSS Lee-LDPC codes on $n$ qudits, we prove that the Lee distance cannot exceed $O(n)$, uniformly in $q$, demonstrating an unexpected obstruction to using the large internal Hilbert space of a large-$q$ qudit to make high-Lee-distance codes. Under local Metropolis dynamics, certain classical $q$-ary ``helical repetition codes&amp;#x27;&amp;#x27; have exponentially long memory times at fixed temperature for sufficiently large $q$ (that grows with system length), which can be understood as spontaneous symmetry breaking at finite temperature, even in local one-dimensional models. Hypergraph products of these helical repetition codes provide local two-dimensional quantum codes that inherit self-correction for $Z$ errors, but self-correction for $X$ errors remains an open question.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.04834"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finite- and long-range spin-wave free-energy asymptotics for the two-dimensional quantum Heisenberg ferromagnet</title>
+      <link>https://arxiv.org/abs/2610.10736</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10736</guid>
+      <pubDate>Fri, 09 Oct 2026 06:15:42 +0000</pubDate>
+      <author>Andreas Klippel</author>
+      <description>&lt;p&gt;&lt;b&gt;Andreas Klippel&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, math.MP, math.PR · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For the two-dimensional quantum Heisenberg ferromagnet with asymptotically radial power-law exchange, we prove the leading low-temperature free energy at every fixed spin, uniformly on the weak-field scale. We obtain fractional and logarithmically corrected laws associated with the dispersions predicted in [16, 17]. Quantum Monte Carlo simulations support the associated anomalous magnon dispersions for spin one-half [20]. For kernels with finite second moment, we also extend the nearest-neighbour theorem [14], generalizing Takahashi&amp;#x27;s quadratic law [21] and its weak-field dependence [11].&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.10736"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Worldsheets reconstructed: Duals to two-cut matrix models</title>

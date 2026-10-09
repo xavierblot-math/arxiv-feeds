@@ -1,16 +1,9 @@
-Last run: 2026-10-09 06:15 UTC
+Last run: 2026-10-09 18:13 UTC
 Announcements downloaded: 254 (0 category feeds failed)
-New papers stored this run: 5
+New papers stored this run: 0
 
 ag             |   10 items |   1 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   14 items |   2 new this run
 mathphys       |    4 items |   0 new this run
 topics         |   26 items |   2 new this run
-
-Matched this run:
-  Gromov-Witten                            | Equal-mass sunset integrals and genus-zero local Gromov--Witten theory
-  Gavril Farkas                            | The moduli space of curves of genus 16 is uniruled
-  Gromov-Witten                            | The three- and four-loop equal-mass sunset integrals and local Calabi-
-  r-spin                                   | Finite- and long-range spin-wave free-energy asymptotics for the two-d
-  r-spin                                   | Quantum codes in the Lee metric
