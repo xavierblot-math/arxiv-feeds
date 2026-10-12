@@ -4,7 +4,31 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:18:58 +0000</lastBuildDate>
+    <item>
+      <title>On the Cohomology Classes of Certain Eisenstein-Kronecker Forms</title>
+      <link>https://arxiv.org/abs/2610.13581</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13581</guid>
+      <pubDate>Mon, 12 Oct 2026 06:18:33 +0000</pubDate>
+      <author>Zhixuan Sheng, Jie Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhixuan Sheng, Jie Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.CV, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the de Rham cohomology and Deligne splitting for a class of Eisenstein-Kronecker forms by introducing a modular weight grading. As an application, we compute a particular cohomology class that gives rise to generating series of Gromov-Witten invariants of elliptic curves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.13581"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open WDVV equations for non-commutative families of bounding cochains</title>
+      <link>https://arxiv.org/abs/2610.13209</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13209</guid>
+      <pubDate>Mon, 12 Oct 2026 06:18:33 +0000</pubDate>
+      <author>Elad Kosloff</author>
+      <description>&lt;p&gt;&lt;b&gt;Elad Kosloff&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive the noncommutative open WDVV equations for the open Gromov-Witten superpotential introduced in joint work of the author and Solomon, extending the Solomon-Tukachinsky equations to noncommutative differential graded algebras. The resulting recursive formulas facilitate the computation of open Gromov-Witten invariants with multiple boundary point constraints for even-dimensional Lagrangians. We apply the open WDVV equations to compute all open Gromov-Witten invariants for the real loci of even-dimensional complex quadrics of dimension greater than two. These computations show that open Gromov-Witten invariants with multiple boundary point constraints can be nontrivial in arbitrary dimensions. We also construct a character for a natural subalgebra of big quantum cohomology associated to a Lagrangian endowed with a point-like bounding cochain. The character is in the spirit of the Kodaira-Spencer map of Fukaya-Oh-Ohta-Ono. Applying the character construction to the even-dimensional quadric illustrates how point-like bounding cochains refine the information about closed quantum cohomology obtained from weak bounding cochains of Floer theory. Open Gromov-Witten invariants with three boundary point constraints determine the two extensions of the character from the subalgebra to big quantum cohomology.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.13209"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modular Properties of Generalised Gibbs Ensembles: The Deformed KdV Hierarchy</title>
+      <link>https://arxiv.org/abs/2610.13875</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13875</guid>
+      <pubDate>Mon, 12 Oct 2026 06:18:33 +0000</pubDate>
+      <author>Faisal Karimi</author>
+      <description>&lt;p&gt;&lt;b&gt;Faisal Karimi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · hep-th, cond-mat.stat-mech, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct a set of conserved charges which are deformations of quantum KdV charges. They are associated with the modular transformation of a GGE with the spin-$\sigma$ KdV charge inserted with chemical potential $\alpha_\sigma$. The charges are formal power series in the chemical potential, with coefficients given by local integrals of motion. We define local recursion relations and equivalent flow equations, prove commutativity to all orders, and establish uniqueness of the currents modulo total derivatives for a fixed generating series. We show that the eigenvalues of these deformed charges can be obtained from the thermodynamic Bethe Ansatz in two models. In the $c=1/2$ free fermion theory, the deformed charges reduce to explicit linear combinations of undeformed KdV charges, and their ground-state eigenvalues agree with the TBA expansion to all orders. In the Lee-Yang model, we find numerical agreement through cubic order in the spin-$5$ deformation for the first few charges evaluated on low-lying states.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.13875"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The three- and four-loop equal-mass sunset integrals and local Calabi--Yau fourfolds and fivefolds</title>
       <link>https://arxiv.org/abs/2610.10821</link>

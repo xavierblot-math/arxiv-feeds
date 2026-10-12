@@ -1231,5 +1231,190 @@
   "seen": "2026-10-09T06:15:42.077059+00:00",
   "summary": "Using in a novel way non-abelian Brill-Noether theory, we show that the moduli space of curves of genus 16 is uniruled. This is the highest genus for which such a result is known.",
   "title": "The moduli space of curves of genus 16 is uniruled"
+ },
+ "2610.12607": {
+  "announce": "cross",
+  "authors": [
+   "Hung-Hsuan Teh",
+   "Tokiro Numasawa"
+  ],
+  "cats": [
+   "quant-ph",
+   "cond-mat.stat-mech",
+   "cond-mat.str-el",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.12607",
+  "link": "https://arxiv.org/abs/2610.12607",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "We study symmetries and anomalies of dissipative Majorana chains described by Lindblad dynamics. Using the operator-state mapping, we represent the Lindbladian as a non-Hermitian operator on a doubled Hilbert space. In this formulation, the ket and bra contours admit strong fermion parities and strong translations, while their diagonal combinations define weak symmetries. For even and odd chain lengths, we diagnose anomalies by comparing symmetry algebras with and without weak fermion-parity defects. These algebras retain the lattice precursor of the modulo-$8$ anomaly of the closed Majorana chain and exhibit projective relations between strong fermion parity and weak translation, as well as between weak fermion parity and strong translation, which are intrinsic to open quantum systems. We establish the IR correspondence between the lattice symmetry algebras and those of the doubled Majorana CFT in four spin sectors, identifying chiral fermion parities emanated from the lattice translations. Finally, we develop the lattice bosonization of the dissipative chain. For even length with collective energy dephasing, combining the defect and no-defect sectors and imposing GSO projections gives rise to an Ising Lindbladian with non-invertible Kramers--Wannier symmetries descending from the anomalous strong translation and fermion parity of the Majorana chain. For odd length, constructing mutually commuting ket- and bra-sector spin operators instead yields an Ising Lindbladian with a Kramers--Wannier duality defect. Our results provide a controlled framework for extending lattice anomalies and non-invertible symmetries to open quantum systems.",
+  "title": "Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries"
+ },
+ "2610.13209": {
+  "announce": "new",
+  "authors": [
+   "Elad Kosloff"
+  ],
+  "cats": [
+   "math.SG",
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.13209",
+  "link": "https://arxiv.org/abs/2610.13209",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "We derive the noncommutative open WDVV equations for the open Gromov-Witten superpotential introduced in joint work of the author and Solomon, extending the Solomon-Tukachinsky equations to noncommutative differential graded algebras. The resulting recursive formulas facilitate the computation of open Gromov-Witten invariants with multiple boundary point constraints for even-dimensional Lagrangians. We apply the open WDVV equations to compute all open Gromov-Witten invariants for the real loci of even-dimensional complex quadrics of dimension greater than two. These computations show that open Gromov-Witten invariants with multiple boundary point constraints can be nontrivial in arbitrary dimensions. We also construct a character for a natural subalgebra of big quantum cohomology associated to a Lagrangian endowed with a point-like bounding cochain. The character is in the spirit of the Kodaira-Spencer map of Fukaya-Oh-Ohta-Ono. Applying the character construction to the even-dimensional quadric illustrates how point-like bounding cochains refine the information about closed quantum cohomology obtained from weak bounding cochains of Floer theory. Open Gromov-Witten invariants with three boundary point constraints determine the two extensions of the character from the subalgebra to big quantum cohomology.",
+  "title": "Open WDVV equations for non-commutative families of bounding cochains"
+ },
+ "2610.13288": {
+  "announce": "cross",
+  "authors": [
+   "Ruben Lier",
+   "Oliver Porth"
+  ],
+  "cats": [
+   "astro-ph.HE",
+   "hep-th",
+   "physics.plasm-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.13288",
+  "link": "https://arxiv.org/abs/2610.13288",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "Recent numerical simulations have shown that black-hole magnetospheres evolve rapidly toward alignment between the magnetic axis and spin axis but the physical origin of this process has remained unclear. We develop an analytic theory of this alignment within resistive relativistic magnetohydrodynamics. Taking the slow-spin Blandford-Znajek monopole solution as the exterior magnetic field, we reduce the induction equation to a relaxation equation for the current-sheet inclination angle. Our analysis shows that alignment results from second-order spin effects in the Blandford-Znajek solution combined with explicit resistive dissipation. We test this prediction using resistive-GRMHD simulations at several spins and resistivities and find a regime in which the measured late-time secular decay agrees quantitatively with the analytic prediction.",
+  "title": "Resistive alignment of a black-hole magnetosphere"
+ },
+ "2610.13581": {
+  "announce": "cross",
+  "authors": [
+   "Zhixuan Sheng",
+   "Jie Zhou"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.CV",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.13581",
+  "link": "https://arxiv.org/abs/2610.13581",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "We study the de Rham cohomology and Deligne splitting for a class of Eisenstein-Kronecker forms by introducing a modular weight grading. As an application, we compute a particular cohomology class that gives rise to generating series of Gromov-Witten invariants of elliptic curves.",
+  "title": "On the Cohomology Classes of Certain Eisenstein-Kronecker Forms"
+ },
+ "2610.13667": {
+  "announce": "new",
+  "authors": [
+   "Wasif Ahmed",
+   "Joydeep Naskar"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2610.13667",
+  "link": "https://arxiv.org/abs/2610.13667",
+  "matched": [
+   "topological recursion"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "We introduce a discrete spectral curve from $\\mathscr{N}=2$ double-scaled SYK whose topological recursion defines quasi-polynomial volumes in integer boundary lengths. The curve has two edge theories: a local $\\mathscr{N}=2$ theory at the lower edge and a bosonic theory at the upper edge. Focusing on the local $\\mathscr{N}=2$ theory, we compute its finite-$q$ volumes and independently check the first few using the string equation. In the $q\\rightarrow 1$ continuum limit, these recover the super Weil-Petersson volumes of Turiaci and Witten. Finally, we give an all-genus intersection-theoretic interpretation of these local volumes on the moduli space of stable marked curves, in terms of a deformed spin class with a gap-dependent $\\kappa$-class dressing.",
+  "title": "A discrete analogue of $\\mathscr{N}=2$ super Weil-Petersson volumes"
+ },
+ "2610.13875": {
+  "announce": "new",
+  "authors": [
+   "Faisal Karimi"
+  ],
+  "cats": [
+   "hep-th",
+   "cond-mat.stat-mech",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "KdV hierarchy",
+    "quantum KdV"
+   ]
+  },
+  "id": "2610.13875",
+  "link": "https://arxiv.org/abs/2610.13875",
+  "matched": [
+   "KdV",
+   "KdV hierarchy",
+   "quantum KdV"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "We construct a set of conserved charges which are deformations of quantum KdV charges. They are associated with the modular transformation of a GGE with the spin-$\\sigma$ KdV charge inserted with chemical potential $\\alpha_\\sigma$. The charges are formal power series in the chemical potential, with coefficients given by local integrals of motion. We define local recursion relations and equivalent flow equations, prove commutativity to all orders, and establish uniqueness of the currents modulo total derivatives for a fixed generating series. We show that the eigenvalues of these deformed charges can be obtained from the thermodynamic Bethe Ansatz in two models. In the $c=1/2$ free fermion theory, the deformed charges reduce to explicit linear combinations of undeformed KdV charges, and their ground-state eigenvalues agree with the TBA expansion to all orders. In the Lee-Yang model, we find numerical agreement through cubic order in the spin-$5$ deformation for the first few charges evaluated on low-lying states.",
+  "title": "Modular Properties of Generalised Gibbs Ensembles: The Deformed KdV Hierarchy"
+ },
+ "2610.13899": {
+  "announce": "new",
+  "authors": [
+   "Wasif Ahmed",
+   "Joydeep Naskar",
+   "Krishan Saraswat"
+  ],
+  "cats": [
+   "hep-th",
+   "cond-mat.str-el",
+   "gr-qc",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2610.13899",
+  "link": "https://arxiv.org/abs/2610.13899",
+  "matched": [
+   "topological recursion"
+  ],
+  "seen": "2026-10-12T06:18:33.450349+00:00",
+  "summary": "The $q$-deformed Weil-Petersson volumes of Do and Norbury are the top-degree parts of Okuyama's discrete volumes, which are defined by topological recursion on the spectral curve of the double-scaled SYK (DSSYK) model. We show that the same q-deformed volumes can be obtained from a double-scaled matrix model whose disk density is found by zooming in on the soft edges of the DSSYK density. Applying the same procedure to the hard edge of $\\mathcal{N}=1$ DSSYK, we obtain candidate $q$-deformed $\\mathcal{N}=1$ super Weil-Petersson volumes. They are polynomials of fixed degree, and they reduce to the $\\mathcal{N}=1$ super Weil-Petersson volumes in a scaled $q\\to1$ limit. These candidate volumes differ from the $\\mathcal{N}=1$ volumes of Do and Norbury in (arXiv:2510.12431) up to what we call \"irrelevant\" contributions which exactly vanish in the scaled $q\\to 1$ limit. Together, these results demonstrate how q-deformed volumes can be naturally associated to the spectral edges of various DSSYK models and provides an intuitive way to construct them in supersymmetric contexts.",
+  "title": "$q$-deformed Weil-Petersson Volumes from the Spectral Edge of DSSYK and Supersymmetric Extensions"
  }
 }
