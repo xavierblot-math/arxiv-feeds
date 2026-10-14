@@ -4,7 +4,7 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:27:08 +0000</lastBuildDate>
     <item>
       <title>The fifteenth cohomology group of moduli spaces of stable curves</title>
       <link>https://arxiv.org/abs/2610.14377</link>
@@ -22,20 +22,20 @@
       <description>&lt;p&gt;&lt;b&gt;David Anderson, Sam Payne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Sam Payne · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that if $\Pi \subseteq G/P$ is a projected Richardson variety, then the degree map $\mathrm{Pic}(\Pi) \to A_1(\Pi)^\vee$ is injective. Moreover, it is an isomorphism in characteristic zero and in all but finitely many positive characteristics. We conjecture that it is an isomorphism in every characteristic. Our proofs are geometric, using a linear paving, topological properties of klt singularities, and reduction to characteristic zero.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.15161"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Universality of $\mathsf{CohFT}$ of $\mathsf{Hilb}_n(S)$</title>
-      <link>https://arxiv.org/abs/2610.17028</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.17028</guid>
-      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
-      <author>Denis Nesterov, Hsian-Hua Tseng</author>
-      <description>&lt;p&gt;&lt;b&gt;Denis Nesterov, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Denis Nesterov, Hsian-Hua Tseng · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;By virtue of their relation to Fulton--MacPherson compactifications, the cohomological field theory of Hilbert schemes of points on a surface, in extremal curve classes, is universally and effectively determined by the characteristic numbers of the surface and by the corresponding theory of Hilbert schemes of the affine plane. As a consequence, we compute the extremal genus 1 Gromov--Witten invariants of Hilbert schemes of all surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.17028"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Sharp parameter gaps for quantized Mabuchi energies and cscK metrics</title>
       <link>https://arxiv.org/abs/2610.16697</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.16697</guid>
       <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
       <author>Kefeng Liu, Liangdi Zhang</author>
       <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Liangdi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For polarized manifolds, we show that semistability for the quantized Mabuchi energy at one fixed finite parameter is equivalent to uniform K-stability and to unique existence of constant scalar curvature K\&amp;quot;ahler (cscK) metrics. We obtain sharp comparisons between quantized Mabuchi slopes at different parameters and with the ordinary Mabuchi slope. In the presence of automorphisms, we give an equivariant criterion using torus twists under the vanishing of the Futaki character. The estimates also hold for finite-energy geodesic rays in compact K\&amp;quot;ahler classes. On a fixed ruled surface with discrete automorphism group, we construct cscK polarizations with unbounded critical parameters. Their ratios to the $\alpha$-invariant are also unbounded.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.16697"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Universality of $\mathsf{CohFT}$ of $\mathsf{Hilb}_n(S)$</title>
+      <link>https://arxiv.org/abs/2610.17028</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.17028</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Denis Nesterov, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Denis Nesterov, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Denis Nesterov, Hsian-Hua Tseng · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;By virtue of their relation to Fulton--MacPherson compactifications, the cohomological field theory of Hilbert schemes of points on a surface, in extremal curve classes, is universally and effectively determined by the characteristic numbers of the surface and by the corresponding theory of Hilbert schemes of the affine plane. As a consequence, we compute the extremal genus 1 Gromov--Witten invariants of Hilbert schemes of all surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.17028"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The moduli space of curves of genus 16 is uniruled</title>

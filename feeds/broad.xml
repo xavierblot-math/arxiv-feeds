@@ -4,7 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:27:08 +0000</lastBuildDate>
     <item>
       <title>Gauss-Manin Connection in Disguise: Holomorphic Anomaly Equations and Higher Genus Real Gromov-Witten Invariants</title>
       <link>https://arxiv.org/abs/2610.14189</link>
@@ -12,6 +12,22 @@
       <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
       <author>Felipe Espreafico</author>
       <description>&lt;p&gt;&lt;b&gt;Felipe Espreafico&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct an algebraic framework for the extended holomorphic anomaly equations following ideas of Alim, Movasati, Scheidegger and Yau. We choose the quintic threefold as our main model and use this framework to solve the equations and fix the ambiguity up to genus 5. We obtain predictions for real Gromov-Witten invariants, or, equivalently, real Gopakumar-Vafa invariants that are integers and agree with their complex counterparts modulo 2. In the end, we discuss how the framework could be extended and compute the same predictions for the bicubic up to genus 9.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14189"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Global Well-Posedness and Uniform Long-Time Control for a Class of Periodic NLS-Dysthe Equations</title>
+      <link>https://arxiv.org/abs/2610.14786</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.14786</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Andrea Belloni, Filippo Giuliani</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrea Belloni, Filippo Giuliani&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math.AP, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study a class of periodic NLS-Dysthe (NLS-Dy) equations, also referred to as higher-order nonlinear Schr\&amp;quot;odinger equations (HNLS), of the form $i\partial_t u+a\partial_x^2u+b|u|^2u+i\varepsilon(c\partial_x^3u+d|u|^2\partial_xu+eu^2\partial_x\overline{u})=0$ with $ x\in\mathbb T$, $a,b,c,d,e\in\mathbb R$, $abc\neq0$, and $\varepsilon&amp;gt;0$. For $0&amp;lt;\varepsilon\ll1$, equations of this type arise as higher-order modulation models for some nonlinear dispersive PDEs, including the Klein-Gordon equation and the Serre-Green-Naghdi equation modeling the evolution of nonlinear shallow water waves. We prove local well-posedness in $H^s(\mathbb T)$ for $s&amp;gt;3/2$ for arbitrary admissible coefficients, and establish an $H^1$ continuation criterion for $s\ge2$. In the parameter regime $e\neq0$, a lower-order conservation law provides uniform $H^1$ control and, together with the continuation criterion, yields global well-posedness for $s\ge2$. This result does not require the non-resonance condition appearing in Takaoka&amp;#x27;s periodic theory, while the condition $e\neq0$ naturally arises in the modulation setting considered here. Finally, motivated by the long-time regime relevant for modulation, we establish uniform long-time control without imposing a smallness assumption on the initial datum. Using the conservation laws of cubic NLS and their invariance under the commuting complex mKdV flow, we obtain uniform $H^s$ bounds on time intervals of order $\varepsilon^{-1}$ for integer $s\ge2$. For non-integer real $s\ge2$, the maximal $H^s$ solution exists on the same time scale, while uniform control is obtained at a lower regularity, with a loss of less than one derivative.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14786"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Higher-order semi-rational solutions of the (2+1)-dimensional nonlocal multi-component Yajima--Oikawa system</title>
+      <link>https://arxiv.org/abs/2610.14949</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.14949</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Wenqiang Lu, Kelei Tian, Ying Xu, Ge Yi, Xiaoming Zhu</author>
+      <description>&lt;p&gt;&lt;b&gt;Wenqiang Lu, Kelei Tian, Ying Xu, Ge Yi, Xiaoming Zhu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · nlin.SI · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Higher-order semi-rational solutions are constructed for the (2+1)-dimensional nonlocal multi-component Yajima-Oikawa system. This system is obtained from its local \(2M\)-component counterpart through a spatial-reflection reduction. Using Hirota&amp;#x27;s bilinear method and the Kadomtsev-Petviashvili hierarchy reduction, we derive a unified \(6\times6\) block Gram determinant. Its entries involve Schur polynomials and exponential functions. The complex-conjugation and spatial-reflection reductions are imposed through algebraic constraints on the spectral parameters and determinant blocks, with the former ensuring a real-valued denominator tau function. Separate spectral parameter sets are assigned to the rational, breather, and dark-soliton blocks. These solutions describe paired lumps or line rogue waves on breather, dark-soliton, or combined backgrounds. Pure rational, breather, and dark-soliton solutions follow by setting the appropriate block sizes to zero. Asymptotic analysis establishes the elastic interactions of the fundamental breather and dark-soliton pairs and determines their position and phase shifts.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14949"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Universality of $\mathsf{CohFT}$ of $\mathsf{Hilb}_n(S)$</title>
@@ -36,22 +52,6 @@
       <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
       <author>Jiaji Cai, Andrew Harder, Sukjoo Lee</author>
       <description>&lt;p&gt;&lt;b&gt;Jiaji Cai, Andrew Harder, Sukjoo Lee&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.SG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the irrationality of smooth Fano complete intersection fourfolds in weighted projective spaces, using an atom theoretic approach based solely on Gromov--Witten invariants. We prove symplectic irrationality, and hence irrationality for every smooth member, in a wide range of families for which irrationality was previously known only for very general members.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.18489"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Global Well-Posedness and Uniform Long-Time Control for a Class of Periodic NLS-Dysthe Equations</title>
-      <link>https://arxiv.org/abs/2610.14786</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14786</guid>
-      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
-      <author>Andrea Belloni, Filippo Giuliani</author>
-      <description>&lt;p&gt;&lt;b&gt;Andrea Belloni, Filippo Giuliani&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math.AP, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study a class of periodic NLS-Dysthe (NLS-Dy) equations, also referred to as higher-order nonlinear Schr\&amp;quot;odinger equations (HNLS), of the form $i\partial_t u+a\partial_x^2u+b|u|^2u+i\varepsilon(c\partial_x^3u+d|u|^2\partial_xu+eu^2\partial_x\overline{u})=0$ with $ x\in\mathbb T$, $a,b,c,d,e\in\mathbb R$, $abc\neq0$, and $\varepsilon&amp;gt;0$. For $0&amp;lt;\varepsilon\ll1$, equations of this type arise as higher-order modulation models for some nonlinear dispersive PDEs, including the Klein-Gordon equation and the Serre-Green-Naghdi equation modeling the evolution of nonlinear shallow water waves. We prove local well-posedness in $H^s(\mathbb T)$ for $s&amp;gt;3/2$ for arbitrary admissible coefficients, and establish an $H^1$ continuation criterion for $s\ge2$. In the parameter regime $e\neq0$, a lower-order conservation law provides uniform $H^1$ control and, together with the continuation criterion, yields global well-posedness for $s\ge2$. This result does not require the non-resonance condition appearing in Takaoka&amp;#x27;s periodic theory, while the condition $e\neq0$ naturally arises in the modulation setting considered here. Finally, motivated by the long-time regime relevant for modulation, we establish uniform long-time control without imposing a smallness assumption on the initial datum. Using the conservation laws of cubic NLS and their invariance under the commuting complex mKdV flow, we obtain uniform $H^s$ bounds on time intervals of order $\varepsilon^{-1}$ for integer $s\ge2$. For non-integer real $s\ge2$, the maximal $H^s$ solution exists on the same time scale, while uniform control is obtained at a lower regularity, with a loss of less than one derivative.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14786"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Higher-order semi-rational solutions of the (2+1)-dimensional nonlocal multi-component Yajima--Oikawa system</title>
-      <link>https://arxiv.org/abs/2610.14949</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14949</guid>
-      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
-      <author>Wenqiang Lu, Kelei Tian, Ying Xu, Ge Yi, Xiaoming Zhu</author>
-      <description>&lt;p&gt;&lt;b&gt;Wenqiang Lu, Kelei Tian, Ying Xu, Ge Yi, Xiaoming Zhu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · nlin.SI · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Higher-order semi-rational solutions are constructed for the (2+1)-dimensional nonlocal multi-component Yajima-Oikawa system. This system is obtained from its local \(2M\)-component counterpart through a spatial-reflection reduction. Using Hirota&amp;#x27;s bilinear method and the Kadomtsev-Petviashvili hierarchy reduction, we derive a unified \(6\times6\) block Gram determinant. Its entries involve Schur polynomials and exponential functions. The complex-conjugation and spatial-reflection reductions are imposed through algebraic constraints on the spectral parameters and determinant blocks, with the former ensuring a real-valued denominator tau function. Separate spectral parameter sets are assigned to the rational, breather, and dark-soliton blocks. These solutions describe paired lumps or line rogue waves on breather, dark-soliton, or combined backgrounds. Pure rational, breather, and dark-soliton solutions follow by setting the appropriate block sizes to zero. Asymptotic analysis establishes the elastic interactions of the fundamental breather and dark-soliton pairs and determines their position and phase shifts.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14949"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open WDVV equations for non-commutative families of bounding cochains</title>
