@@ -4,7 +4,55 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:27:00 +0000</lastBuildDate>
+    <item>
+      <title>Universality of $\mathsf{CohFT}$ of $\mathsf{Hilb}_n(S)$</title>
+      <link>https://arxiv.org/abs/2610.17028</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.17028</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Denis Nesterov, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Denis Nesterov, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: cohomological field theory · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;By virtue of their relation to Fulton--MacPherson compactifications, the cohomological field theory of Hilbert schemes of points on a surface, in extremal curve classes, is universally and effectively determined by the characteristic numbers of the surface and by the corresponding theory of Hilbert schemes of the affine plane. As a consequence, we compute the extremal genus 1 Gromov--Witten invariants of Hilbert schemes of all surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.17028"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spectral G\aa rding Elliptic Equations</title>
+      <link>https://arxiv.org/abs/2610.15434</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.15434</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Hao Fang, Biao Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Hao Fang, Biao Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Riemann hierarchy · math.AP, math.AG, math.DG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study spectral G\aa rding elliptic equations on compact K\&amp;quot;ahler manifolds. Smooth solvability is equivalent to the existence of a smooth representative in the admissible domain. The concavity theorem for ideal G\aa rding polynomials gives a fixed concave formulation to which Sz\&amp;#x27;ekelyhidi&amp;#x27;s second-order argument applies in every degree $2\le d\le n$, extending Lin&amp;#x27;s top-degree solvability theorem. Combined with the numerical criteria of Fu--Li--Zhang--Zhang and Chen--Nie--Xu, this yields a Nakai--Moishezon type criterion for solvability on compact K\&amp;quot;ahler manifolds. A solution converts the local ideal G\aa rding structure into a global Lorentzian structure. Its mixed derivatives give a strict nonlinear Hodge--Riemann hierarchy from the degree of the equation down to degree two, and the homogenization of the intersection polynomial is Lorentzian in nef class directions. Numerical criteria then produce explicit Hodge--Riemann classes, Lefschetz isomorphisms in bidegree $(1,1)$, and weighted Hodge-index inequalities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.15434"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nested polynomial algebras and the exact spectrum of a three-dimensional two-spin oscillator</title>
+      <link>https://arxiv.org/abs/2610.16317</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.16317</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Ian Marquette, O. Ogulcan Tuncer, I. Yurdusen</author>
+      <description>&lt;p&gt;&lt;b&gt;Ian Marquette, O. Ogulcan Tuncer, I. Yurdusen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, math.MP, quant-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct representations of the symmetry algebra and derive the exact spectrum of a three-dimensional oscillator with two spin-$\tfrac12$ degrees of freedom. The Hamiltonian and its first-order scalar and pseudo-scalar integrals were obtained in earlier classifications. Here we determine their action on the complete spectral basis. At fixed total angular momentum, a quadratic algebra acts on the three triplet orbital channels and admits a three-dimensional deformed-oscillator representation, while an overlapping two-state exchange algebra joins the middle triplet to the singlet. These finite modules determine angular--spin multiplicities but do not quantize the radial energy. A separate positive-discrete-series $su(1,1)$ representation of the common radial Hamiltonian generates the energy sequence. We give the finite matrices, Casimir and structure functions, normalized eigenfunctions, radial ladder actions, the exceptional $j=0$ sector, complete energy-shell multiplicities, and the effect of particle interchange.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.16317"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Harmonic Reduction of Spin-Coupled Grover Walks on Hypercubes via Quantum Bernoulli Noises</title>
+      <link>https://arxiv.org/abs/2610.14467</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.14467</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Ce Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Ce Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · quant-ph, math-ph, math.CO, math.MP, math.PR, math.RT · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We consider spin-coupled Grover walks on hypercubes within the framework of quantum Bernoulli noises (QBN). We identify parity-dependent harmonic subspaces generated by the central Hamming layers: in even dimension they give a fixed-point subspace, whereas in odd dimension the walk reduces on the harmonic subspace to an explicit eight-dimensional reduced dynamics. Using symmetric-group representation theory, we characterize the corresponding isotypic structure and determine the reduced spectrum. The harmonic reduction also yields explicit long-time probability behavior and shows that the resulting states may occupy an asymptotically vanishing fraction of the hypercube while still spanning its full Hamming diameter.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14467"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Very high genus double Hurwitz numbers via mixing times</title>
+      <link>https://arxiv.org/abs/2610.16818</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.16818</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>Baptiste Louf, Lucas Teyssier</author>
+      <description>&lt;p&gt;&lt;b&gt;Baptiste Louf, Lucas Teyssier&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hurwitz number · math.CO, math.GT, math.PR · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We obtain very high genus asymptotics for double Hurwitz numbers when both the size $n$ and the genus $g$ go to infinity, under the constraint that $g$ grows much faster than $n$, more precisely that $\frac{2g}{n}-\ln n\to\infty$. Our proof relies on adapting arguments about the mixing time of the transposition random walk introduced by Diaconis and Shahshahani.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.16818"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The dimensional reduction of the spin-3 and spin-4 partially broken Fronsdal models</title>
+      <link>https://arxiv.org/abs/2610.14284</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.14284</guid>
+      <pubDate>Wed, 14 Oct 2026 06:26:35 +0000</pubDate>
+      <author>D. Dalmazi, A. L. R. dos Santos</author>
+      <description>&lt;p&gt;&lt;b&gt;D. Dalmazi, A. L. R. dos Santos&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Here we perform a Kaluza-Klein dimensional reduction from $D+1$ to $D$ dimensions of a partially broken Fronsdal model for spin-3 and spin-4. The reduced models describe massive spin-3 and spin-4 particles without extra propagating modes. They differ from Singh-Hagen models by quadratic terms which vanish on shell, similarly to their higher dimensional massless parents. A covariant description of the reduced models in terms of gauge invariant field combinations naturally leads to higher derivative models, contrary to lower spin cases ($s\le 2$). For both $s=3$ and $s=4$ we have a rather peculiar massless limit. Although their particle content corresponds to the $\pm j$ helicities with $j=0,1, \cdots s$, as expected, they appear intertwined in a non trivial way preventing diagonalization through any local field redefinition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.14284"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries</title>
       <link>https://arxiv.org/abs/2610.12607</link>

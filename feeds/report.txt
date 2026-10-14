@@ -1,9 +1,26 @@
-Last run: 2026-10-13 18:17 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-14 06:26 UTC
+Announcements downloaded: 564 (0 category feeds failed)
+New papers stored this run: 15
 
-ag             |   10 items |   0 new this run
+ag             |   14 items |   4 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   17 items |   0 new this run
-mathphys       |    4 items |   0 new this run
-topics         |   31 items |   0 new this run
+broad          |   23 items |   6 new this run
+mathphys       |    5 items |   1 new this run
+topics         |   37 items |   6 new this run
+
+Matched this run:
+  Gromov-Witten                            | Gauss-Manin Connection in Disguise: Holomorphic Anomaly Equations and 
+  Hannah Larson                            | The fifteenth cohomology group of moduli spaces of stable curves
+  Alexandr Buryak, Paolo Rossi             | Cetraro lectures on integrable systems and moduli spaces of curves
+  Sam Payne                                | On Chow and Picard groups of Richardson varieties
+  Denis Nesterov, Gromov-Witten, Hsian-Hua Tseng, cohomological field theory | Universality of $\mathsf{CohFT}$ of $\mathsf{Hilb}_n(S)$
+  Gromov-Witten                            | Two-Dimensional Torus Action on the Quadric Threefold and GW-DT-GV Cor
+  Gromov-Witten                            | Irrational families of Fano weighted complete intersection fourfolds
+  Riemann hierarchy                        | Spectral G\aa rding Elliptic Equations
+  r-spin                                   | Nested polynomial algebras and the exact spectrum of a three-dimension
+  r-spin                                   | Harmonic Reduction of Spin-Coupled Grover Walks on Hypercubes via Quan
+  KdV                                      | Global Well-Posedness and Uniform Long-Time Control for a Class of Per
+  Hurwitz number                           | Very high genus double Hurwitz numbers via mixing times
+  r-spin                                   | The dimensional reduction of the spin-3 and spin-4 partially broken Fr
+  tau function                             | Higher-order semi-rational solutions of the (2+1)-dimensional nonlocal
+  Kefeng Liu                               | Sharp parameter gaps for quantized Mabuchi energies and cscK metrics
