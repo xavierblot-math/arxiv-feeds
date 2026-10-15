@@ -4,15 +4,7 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:27:24 +0000</lastBuildDate>
-    <item>
-      <title>Topological recursion for spin enumeration of hypermaps</title>
-      <link>https://arxiv.org/abs/2610.20464</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20464</guid>
-      <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
-      <author>Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin</author>
-      <description>&lt;p&gt;&lt;b&gt;Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Alexander Alexandrov, Maxim Kazarian, Sergey Shadrin · math-ph, hep-th, math.AG, math.CO, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish topological recursion for the spin enumeration of hypermaps, or, in the dual language, spin dessins d&amp;#x27;enfants. This problem has remarkable features distinguishing it from other applications of topological recursion to enumerative combinatorics. First, the spectral curve is elliptic rather than rational, as in most cases studied before. Second, it contains degenerate ramification points, and one has to apply a version of degenerate topological recursion. Finally, the meromorphic correlator differentials have &amp;quot;moving&amp;quot; poles on the antidiagonals between pairs of distinct arguments, and one has to adjust the loop equations to this kind of degeneracy as well. The computations involve concepts of different kinds, such as BKP integrability, Gaussian integrals, the x-y swap, and symplectic duality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20464"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 18:24:52 +0000</lastBuildDate>
     <item>
       <title>The WKB Riemann-Hilbert Problem for the Painlev\'e I System</title>
       <link>https://arxiv.org/abs/2610.20123</link>
@@ -20,6 +12,14 @@
       <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
       <author>Mohamad Alameddine, Olivier Marchal, Nikita Nikolaev, Nicolas Orantin</author>
       <description>&lt;p&gt;&lt;b&gt;Mohamad Alameddine, Olivier Marchal, Nikita Nikolaev, Nicolas Orantin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Nicolas Orantin · math-ph, math.DG, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we solve the direct monodromy problem for the Borel-summed $0$-parameter solution of Painlev\&amp;#x27;e~I. Using the auxiliary time equation, we first construct formal WKB wave matrices whose amplitudes are regular at the double turning point. Rigorous Borel summation then yields exact WKB matrices in each Stokes region. Uniform estimates on moving action strips provide a common exact wave matrix in a full neighbourhood of the double point, proving that all four incident jumps are identities for consistent column normalisations. We formulate the resulting normalised Riemann--Hilbert problem and prove its existence and uniqueness on the Borel domains of the construction. Finally, after Painlev\&amp;#x27;e scaling, the five Borel-summed solutions coincide with the five rotated tritronqu\&amp;#x27;ee solutions of Painlev\&amp;#x27;e~I.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20123"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topological recursion for spin enumeration of hypermaps</title>
+      <link>https://arxiv.org/abs/2610.20464</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20464</guid>
+      <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
+      <author>Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Alexander Alexandrov, Maxim Kazarian, Sergey Shadrin · math-ph, hep-th, math.AG, math.CO, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish topological recursion for the spin enumeration of hypermaps, or, in the dual language, spin dessins d&amp;#x27;enfants. This problem has remarkable features distinguishing it from other applications of topological recursion to enumerative combinatorics. First, the spectral curve is elliptic rather than rational, as in most cases studied before. Second, it contains degenerate ramification points, and one has to apply a version of degenerate topological recursion. Finally, the meromorphic correlator differentials have &amp;quot;moving&amp;quot; poles on the antidiagonals between pairs of distinct arguments, and one has to adjust the loop equations to this kind of degeneracy as well. The computations involve concepts of different kinds, such as BKP integrability, Gaussian integrals, the x-y swap, and symplectic duality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20464"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cetraro lectures on integrable systems and moduli spaces of curves</title>

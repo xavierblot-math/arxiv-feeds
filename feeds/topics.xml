@@ -4,15 +4,7 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:27:24 +0000</lastBuildDate>
-    <item>
-      <title>Topological recursion for spin enumeration of hypermaps</title>
-      <link>https://arxiv.org/abs/2610.20464</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20464</guid>
-      <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
-      <author>Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin</author>
-      <description>&lt;p&gt;&lt;b&gt;Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin, topological recursion, x-y swap · math-ph, hep-th, math.AG, math.CO, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish topological recursion for the spin enumeration of hypermaps, or, in the dual language, spin dessins d&amp;#x27;enfants. This problem has remarkable features distinguishing it from other applications of topological recursion to enumerative combinatorics. First, the spectral curve is elliptic rather than rational, as in most cases studied before. Second, it contains degenerate ramification points, and one has to apply a version of degenerate topological recursion. Finally, the meromorphic correlator differentials have &amp;quot;moving&amp;quot; poles on the antidiagonals between pairs of distinct arguments, and one has to adjust the loop equations to this kind of degeneracy as well. The computations involve concepts of different kinds, such as BKP integrability, Gaussian integrals, the x-y swap, and symplectic duality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20464"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 18:24:52 +0000</lastBuildDate>
     <item>
       <title>Symmetries, Lax pair, and nilpotent Darboux transformation for the KdV-ghost system</title>
       <link>https://arxiv.org/abs/2610.19192</link>
@@ -20,6 +12,14 @@
       <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
       <author>A. Restuccia, J. Rosales-G\'omez, A. Sotomayor</author>
       <description>&lt;p&gt;&lt;b&gt;A. Restuccia, J. Rosales-G\&amp;#x27;omez, A. Sotomayor&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-KdV · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We analyze the KdV--ghost system arising from the BRST formulation of BF-type topological field theory, its symmetries, Lax pair, spectral problem, zero-curvature formulation and Darboux formalism. The system is invariant under shifts of the ghost field, whose generator does not commute with the BRST symmetry of the KdV--ghost system. Their generators allow the introduction of a systematic procedure for generating new solutions from a given one, and the corresponding expressions in the Grassmann algebra are obtained explicitly. We introduce a Grassmann-valued Lax pair and prove an isospectral theorem relating the spectral problem of the spatial Lax operator for the KdV equation to that of its KdV--ghost extension. We also construct a triangular zero-curvature representation and show that the Grassmann-valued spatial Lax operator is related to the KdV spatial Lax operator by a nilpotent conjugation. The natural variable for a local Darboux formulation is the differentiated ghost $v=C_x$, for which the ghost equation coincides with the Fr\&amp;#x27;echet linearization of the KdV flow. We then construct a nilpotent lift of the scalar KdV B\&amp;quot;acklund--Darboux transformation. Using Riccati variables and off-shell factorization identities for the KdV residue and its Fr\&amp;#x27;echet derivative, we prove that the transformation closes on the local KdV--ghost system. Successive Darboux transformations yield a recursive ghost extension of the bosonic Darboux chain, with a new odd homogeneous contribution introduced at each step. For the solitonic examples, the resulting local ghost fields are naturally identified with tangent directions associated with the soliton phase parameters. The construction provides a Darboux-theoretic interpretation of the ghost sector while remaining distinct from the standard supersymmetric KdV hierarchies.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.19192"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topological recursion for spin enumeration of hypermaps</title>
+      <link>https://arxiv.org/abs/2610.20464</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20464</guid>
+      <pubDate>Thu, 15 Oct 2026 06:26:59 +0000</pubDate>
+      <author>Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin, topological recursion, x-y swap · math-ph, hep-th, math.AG, math.CO, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish topological recursion for the spin enumeration of hypermaps, or, in the dual language, spin dessins d&amp;#x27;enfants. This problem has remarkable features distinguishing it from other applications of topological recursion to enumerative combinatorics. First, the spectral curve is elliptic rather than rational, as in most cases studied before. Second, it contains degenerate ramification points, and one has to apply a version of degenerate topological recursion. Finally, the meromorphic correlator differentials have &amp;quot;moving&amp;quot; poles on the antidiagonals between pairs of distinct arguments, and one has to adjust the loop equations to this kind of degeneracy as well. The computations involve concepts of different kinds, such as BKP integrability, Gaussian integrals, the x-y swap, and symplectic duality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20464"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The dimensional reduction of the spin-3 and spin-4 partially broken Fronsdal models</title>
