@@ -1796,5 +1796,106 @@
   "seen": "2026-10-14T06:26:35.687893+00:00",
   "summary": "We study the irrationality of smooth Fano complete intersection fourfolds in weighted projective spaces, using an atom theoretic approach based solely on Gromov--Witten invariants. We prove symplectic irrationality, and hence irrationality for every smooth member, in a wide range of families for which irrationality was previously known only for very general members.",
   "title": "Irrational families of Fano weighted complete intersection fourfolds"
+ },
+ "2610.19192": {
+  "announce": "new",
+  "authors": [
+   "A. Restuccia",
+   "J. Rosales-G\\'omez",
+   "A. Sotomayor"
+  ],
+  "cats": [
+   "nlin.SI",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "r-KdV"
+   ]
+  },
+  "id": "2610.19192",
+  "link": "https://arxiv.org/abs/2610.19192",
+  "matched": [
+   "KdV",
+   "r-KdV"
+  ],
+  "seen": "2026-10-15T06:26:59.651070+00:00",
+  "summary": "We analyze the KdV--ghost system arising from the BRST formulation of BF-type topological field theory, its symmetries, Lax pair, spectral problem, zero-curvature formulation and Darboux formalism. The system is invariant under shifts of the ghost field, whose generator does not commute with the BRST symmetry of the KdV--ghost system. Their generators allow the introduction of a systematic procedure for generating new solutions from a given one, and the corresponding expressions in the Grassmann algebra are obtained explicitly. We introduce a Grassmann-valued Lax pair and prove an isospectral theorem relating the spectral problem of the spatial Lax operator for the KdV equation to that of its KdV--ghost extension. We also construct a triangular zero-curvature representation and show that the Grassmann-valued spatial Lax operator is related to the KdV spatial Lax operator by a nilpotent conjugation. The natural variable for a local Darboux formulation is the differentiated ghost $v=C_x$, for which the ghost equation coincides with the Fr\\'echet linearization of the KdV flow. We then construct a nilpotent lift of the scalar KdV B\\\"acklund--Darboux transformation. Using Riccati variables and off-shell factorization identities for the KdV residue and its Fr\\'echet derivative, we prove that the transformation closes on the local KdV--ghost system. Successive Darboux transformations yield a recursive ghost extension of the bosonic Darboux chain, with a new odd homogeneous contribution introduced at each step. For the solitonic examples, the resulting local ghost fields are naturally identified with tangent directions associated with the soliton phase parameters. The construction provides a Darboux-theoretic interpretation of the ghost sector while remaining distinct from the standard supersymmetric KdV hierarchies.",
+  "title": "Symmetries, Lax pair, and nilpotent Darboux transformation for the KdV-ghost system"
+ },
+ "2610.20123": {
+  "announce": "cross",
+  "authors": [
+   "Mohamad Alameddine",
+   "Olivier Marchal",
+   "Nikita Nikolaev",
+   "Nicolas Orantin"
+  ],
+  "cats": [
+   "math-ph",
+   "math.DG",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Nicolas Orantin"
+   ]
+  },
+  "id": "2610.20123",
+  "link": "https://arxiv.org/abs/2610.20123",
+  "matched": [
+   "Nicolas Orantin"
+  ],
+  "seen": "2026-10-15T06:26:59.651070+00:00",
+  "summary": "In this paper, we solve the direct monodromy problem for the Borel-summed $0$-parameter solution of Painlev\\'e~I. Using the auxiliary time equation, we first construct formal WKB wave matrices whose amplitudes are regular at the double turning point. Rigorous Borel summation then yields exact WKB matrices in each Stokes region. Uniform estimates on moving action strips provide a common exact wave matrix in a full neighbourhood of the double point, proving that all four incident jumps are identities for consistent column normalisations. We formulate the resulting normalised Riemann--Hilbert problem and prove its existence and uniqueness on the Borel domains of the construction. Finally, after Painlev\\'e scaling, the five Borel-summed solutions coincide with the five rotated tritronqu\\'ee solutions of Painlev\\'e~I.",
+  "title": "The WKB Riemann-Hilbert Problem for the Painlev\\'e I System"
+ },
+ "2610.20464": {
+  "announce": "cross",
+  "authors": [
+   "Alexander Alexandrov",
+   "Boris Bychkov",
+   "Petr Dunin-Barkowski",
+   "Maxim Kazarian",
+   "Sergey Shadrin"
+  ],
+  "cats": [
+   "math-ph",
+   "hep-th",
+   "math.AG",
+   "math.CO",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Alexander Alexandrov",
+    "Maxim Kazarian",
+    "Sergey Shadrin"
+   ],
+   "topics": [
+    "r-spin",
+    "topological recursion",
+    "x-y swap"
+   ]
+  },
+  "id": "2610.20464",
+  "link": "https://arxiv.org/abs/2610.20464",
+  "matched": [
+   "Alexander Alexandrov",
+   "Maxim Kazarian",
+   "Sergey Shadrin",
+   "r-spin",
+   "topological recursion",
+   "x-y swap"
+  ],
+  "seen": "2026-10-15T06:26:59.651070+00:00",
+  "summary": "We establish topological recursion for the spin enumeration of hypermaps, or, in the dual language, spin dessins d'enfants. This problem has remarkable features distinguishing it from other applications of topological recursion to enumerative combinatorics. First, the spectral curve is elliptic rather than rational, as in most cases studied before. Second, it contains degenerate ramification points, and one has to apply a version of degenerate topological recursion. Finally, the meromorphic correlator differentials have \"moving\" poles on the antidiagonals between pairs of distinct arguments, and one has to adjust the loop equations to this kind of degeneracy as well. The computations involve concepts of different kinds, such as BKP integrability, Gaussian integrals, the x-y swap, and symplectic duality.",
+  "title": "Topological recursion for spin enumeration of hypermaps"
  }
 }

@@ -1,9 +1,14 @@
-Last run: 2026-10-14 18:26 UTC
-Announcements downloaded: 564 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-15 06:26 UTC
+Announcements downloaded: 226 (0 category feeds failed)
+New papers stored this run: 3
 
-ag             |   14 items |   4 new this run
+ag             |   14 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   23 items |   6 new this run
-mathphys       |    5 items |   1 new this run
-topics         |   37 items |   6 new this run
+broad          |   24 items |   1 new this run
+mathphys       |    7 items |   2 new this run
+topics         |   39 items |   2 new this run
+
+Matched this run:
+  Alexander Alexandrov, Maxim Kazarian, Sergey Shadrin, r-spin, topological recursion, x-y swap | Topological recursion for spin enumeration of hypermaps
+  Nicolas Orantin                          | The WKB Riemann-Hilbert Problem for the Painlev\'e I System
+  KdV, r-KdV                               | Symmetries, Lax pair, and nilpotent Darboux transformation for the KdV
