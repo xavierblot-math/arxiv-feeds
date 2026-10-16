@@ -4,7 +4,39 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 15 Oct 2026 18:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:26:45 +0000</lastBuildDate>
+    <item>
+      <title>Integral and higher-genus quantum McKay correspondence in type D</title>
+      <link>https://arxiv.org/abs/2610.22359</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22359</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Andrea Brini, Jingxiang Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrea Brini, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Givental · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish Iritani&amp;#x27;s integral form of the $\mathbb{C}^\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\mathbb{C}^2/\mathbb{BD}_{4n}$, where $\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental&amp;#x27;s quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\mathbb{C}^2/\mathbb{BD}_{4n}] \times \mathbb{C}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Augmentation curve for torus knots</title>
+      <link>https://arxiv.org/abs/2610.21585</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.21585</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Alexander Hock, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Hock, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: topological recursion · math-ph, hep-th, math.AG, math.GT, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove a version of topological recursion for the correlation differentials of colored HOMFLY-PT polynomials of torus knots on the corresponding augmentation curves, following the proposal of Gu, Jockers, Klemm, and Soroush. To this end, we explicitly construct the spectral curve from the so-called auxiliary curve of Brini, Eynard, and Mari\~no and prove that it coincides with the augmentation curve for every torus knot with coprime $(r,s)$. Finally, our version of topological recursion proves the higher-genus closed-string prediction of the Aganagic--Vafa conjecture for all torus knot augmentation curves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.21585"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Difference between pair creation and anomaly matching: Nontrivial aspects of invertible symmetries and defects in $SU(N)$ models</title>
+      <link>https://arxiv.org/abs/2610.21478</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.21478</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Yoshiki Fukusumi, Shuma Nakashiba</author>
+      <description>&lt;p&gt;&lt;b&gt;Yoshiki Fukusumi, Shuma Nakashiba&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, cond-mat.stat-mech, cond-mat.str-el, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the connection between the $SU(N)_{K}$ Wess-Zumino-Witten (WZW) model and $SU(N)_{K&amp;#x27;}$ WZW models, enforcing the unbroken $\mathbb{Z}_{N}$ symmetries. The fundamental underlying structures are the (half-)integer spin simple currents in the topological quantum field theories and anomaly matching conditions in conformal field theories. For the (half-)integer spin simple current condition of the folded models $SU(N)_{K}\boxtimes_{\mathbb{Z}_{N}} \overline{SU(N)_{K&amp;#x27;}}$ or $SU(N)_{K}\boxtimes_{\mathbb{Z}_{N}} SU(N)_{K&amp;#x27;}$, we obtain the generalized pairing condition $K= \pm R^{2}K&amp;#x27; (\text{mod}.N)$ with $\text{gcd}(R,N)=1$. On the other hand, the anomaly matching condition results in the weaker condition $K= \pm RUK&amp;#x27; (\text{mod}.N)$ with $\text{gcd}(R,N)=\text{gcd}(U,N)=1$. Surprisingly, the anomaly matching without the pairing condition results in the intrinsic mismatch of the preservation law of the $\mathbb{Z}_{N}$ defects and symmetries. The pairing condition canonically relates symmetries and defects, as in category theory, whereas it is unclear whether it can be a guiding principle in prohibiting the massless renormalization group flows.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.21478"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Worldsheet string theory on $\mathrm{AdS}_3 \times \mathbf{S}^3 \times \mathrm{K3}$</title>
+      <link>https://arxiv.org/abs/2610.20696</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20696</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Lorenz Eberhardt, Matthias R. Gaberdiel, Sameer Murthy, Mukund Rangamani</author>
+      <description>&lt;p&gt;&lt;b&gt;Lorenz Eberhardt, Matthias R. Gaberdiel, Sameer Murthy, Mukund Rangamani&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The RNS formalism describing string theory on $\mathrm{AdS}_3 \times \mathbf{S}^3 \times \mathrm{K3}$ supported by pure NS-NS flux is in principle straightforward to write down. One can directly check that the worldsheet theory reproduces the correct chiral spectrum expected from supergravity by analyzing the BRST cohomology. However, when one attempts to construct the worldsheet partition function using the standard rules of the RNS formalism by appropriately summing over spin structures to ensure worldsheet modular invariance, one finds a result in tension with spacetime supersymmetry. We explain why this is the case and, more importantly, propose a resolution. Specifically, we fix the physical state projection for the partition function uniquely by requiring spacetime supersymmetry. Perhaps surprisingly, the projected worldsheet partition function does not factorize into a bosonic and a fermionic part and involves functions that are not modular covariant. As a consistency check, we show that our prescription for the worldsheet partition function reproduces the supergravity spectrum for both Type IIB and IIA theories. Furthermore, we compute the elliptic genus of the dual CFT from the worldsheet, which has both a holomorphic short string and a non-holomorphic long string contribution. The latter displays characteristics of a mock modular function, albeit with some key differences, while the former has the tantalizing structure of a symmetric orbifold. We also point out the worldsheet construction of a non-supersymmetric theory, whose spectrum is free of tachyons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.20696"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Symmetries, Lax pair, and nilpotent Darboux transformation for the KdV-ghost system</title>
       <link>https://arxiv.org/abs/2610.19192</link>
