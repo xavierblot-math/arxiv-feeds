@@ -4,15 +4,7 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:26:45 +0000</lastBuildDate>
-    <item>
-      <title>Integral and higher-genus quantum McKay correspondence in type D</title>
-      <link>https://arxiv.org/abs/2610.22359</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22359</guid>
-      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
-      <author>Andrea Brini, Jingxiang Ma</author>
-      <description>&lt;p&gt;&lt;b&gt;Andrea Brini, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Andrea Brini · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish Iritani&amp;#x27;s integral form of the $\mathbb{C}^\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\mathbb{C}^2/\mathbb{BD}_{4n}$, where $\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental&amp;#x27;s quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\mathbb{C}^2/\mathbb{BD}_{4n}] \times \mathbb{C}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 20:33:30 +0000</lastBuildDate>
     <item>
       <title>Augmentation curve for torus knots</title>
       <link>https://arxiv.org/abs/2610.21585</link>
@@ -20,6 +12,14 @@
       <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
       <author>Alexander Hock, Sergey Shadrin</author>
       <description>&lt;p&gt;&lt;b&gt;Alexander Hock, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Sergey Shadrin · math-ph, hep-th, math.AG, math.GT, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove a version of topological recursion for the correlation differentials of colored HOMFLY-PT polynomials of torus knots on the corresponding augmentation curves, following the proposal of Gu, Jockers, Klemm, and Soroush. To this end, we explicitly construct the spectral curve from the so-called auxiliary curve of Brini, Eynard, and Mari\~no and prove that it coincides with the augmentation curve for every torus knot with coprime $(r,s)$. Finally, our version of topological recursion proves the higher-genus closed-string prediction of the Aganagic--Vafa conjecture for all torus knot augmentation curves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.21585"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integral and higher-genus quantum McKay correspondence in type D</title>
+      <link>https://arxiv.org/abs/2610.22359</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22359</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Andrea Brini, Jingxiang Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrea Brini, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Andrea Brini · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish Iritani&amp;#x27;s integral form of the $\mathbb{C}^\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\mathbb{C}^2/\mathbb{BD}_{4n}$, where $\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental&amp;#x27;s quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\mathbb{C}^2/\mathbb{BD}_{4n}] \times \mathbb{C}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The WKB Riemann-Hilbert Problem for the Painlev\'e I System</title>

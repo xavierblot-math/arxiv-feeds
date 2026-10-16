@@ -4,15 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:26:45 +0000</lastBuildDate>
-    <item>
-      <title>Integral and higher-genus quantum McKay correspondence in type D</title>
-      <link>https://arxiv.org/abs/2610.22359</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22359</guid>
-      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
-      <author>Andrea Brini, Jingxiang Ma</author>
-      <description>&lt;p&gt;&lt;b&gt;Andrea Brini, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish Iritani&amp;#x27;s integral form of the $\mathbb{C}^\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\mathbb{C}^2/\mathbb{BD}_{4n}$, where $\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental&amp;#x27;s quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\mathbb{C}^2/\mathbb{BD}_{4n}] \times \mathbb{C}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 20:33:30 +0000</lastBuildDate>
     <item>
       <title>On the exact quantization of BCOV Theory on Calabi-Yau Manifolds</title>
       <link>https://arxiv.org/abs/2610.21927</link>
@@ -20,6 +12,14 @@
       <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
       <author>Si Li, Minghao Wang</author>
       <description>&lt;p&gt;&lt;b&gt;Si Li, Minghao Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math-ph, hep-th, math.AG, math.DG, math.MP, math.QA · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We announce the solution of constructing perturbative quantum BCOV invariants on arbitrary Calabi-Yau manifolds. In this note, we outline the construction and present an explicit solution. The quantization includes all descendant fields and all loop orders, and expresses the quantum BCOV interaction by an explicit integration over the moduli space of marked Riemann surfaces. This canonical solution provides a mathematical construction of all higher genus BCOV invariants on compact Calabi-Yau manifolds, which are conjecturally equivalent to all higher genus Gromov-Witten invariants on the mirror.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.21927"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integral and higher-genus quantum McKay correspondence in type D</title>
+      <link>https://arxiv.org/abs/2610.22359</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22359</guid>
+      <pubDate>Fri, 16 Oct 2026 06:26:16 +0000</pubDate>
+      <author>Andrea Brini, Jingxiang Ma</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrea Brini, Jingxiang Ma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish Iritani&amp;#x27;s integral form of the $\mathbb{C}^\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\mathbb{C}^2/\mathbb{BD}_{4n}$, where $\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental&amp;#x27;s quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\mathbb{C}^2/\mathbb{BD}_{4n}] \times \mathbb{C}$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22359"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetries, Lax pair, and nilpotent Darboux transformation for the KdV-ghost system</title>

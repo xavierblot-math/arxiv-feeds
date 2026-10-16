@@ -1,16 +1,9 @@
-Last run: 2026-10-16 06:26 UTC
+Last run: 2026-10-16 20:33 UTC
 Announcements downloaded: 219 (0 category feeds failed)
-New papers stored this run: 5
+New papers stored this run: 0
 
 ag             |   14 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   26 items |   2 new this run
 mathphys       |    9 items |   2 new this run
 topics         |   43 items |   4 new this run
-
-Matched this run:
-  Andrea Brini, Givental, Gromov-Witten    | Integral and higher-genus quantum McKay correspondence in type D
-  Sergey Shadrin, topological recursion    | Augmentation curve for torus knots
-  Gromov-Witten                            | On the exact quantization of BCOV Theory on Calabi-Yau Manifolds
-  r-spin                                   | Difference between pair creation and anomaly matching: Nontrivial aspe
-  r-spin                                   | Worldsheet string theory on $\mathrm{AdS}_3 \times \mathbf{S}^3 \times
