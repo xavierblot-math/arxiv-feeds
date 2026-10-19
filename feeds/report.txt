@@ -1,9 +1,15 @@
-Last run: 2026-10-18 20:09 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-19 12:15 UTC
+Announcements downloaded: 184 (0 category feeds failed)
+New papers stored this run: 4
 
-ag             |   14 items |   0 new this run
+ag             |   15 items |   1 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   26 items |   0 new this run
+broad          |   27 items |   1 new this run
 mathphys       |    9 items |   0 new this run
-topics         |   43 items |   0 new this run
+topics         |   45 items |   2 new this run
+
+Matched this run:
+  Felix Janda                              | Deligne--Faltings Logarithmic Derived Geometry with a View towards Log
+  quantum curve, topological recursion     | Folding to the Bessel-Clifford system, and Equivariant Topological Rec
+  resurgence                               | Asymptotic evaluation of multidimensional oscillatory integrals
+  tau function                             | Realization of several related $(2+1)$-dimensional integrable systems 

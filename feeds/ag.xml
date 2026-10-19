@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:15:58 +0000</lastBuildDate>
+    <item>
+      <title>Deligne--Faltings Logarithmic Derived Geometry with a View towards Logarithmic GLSM</title>
+      <link>https://arxiv.org/abs/2610.23803</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.23803</guid>
+      <pubDate>Mon, 19 Oct 2026 12:15:33 +0000</pubDate>
+      <author>Felix Janda, Ruoxi Li</author>
+      <description>&lt;p&gt;&lt;b&gt;Felix Janda, Ruoxi Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Felix Janda · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Many perfect obstruction theories and virtual cycles in enumerative geometry are shadows from derived geometry. In this paper, we give a general construction of reduced perfect obstruction theories arising from a geometric reduction of the derived stack $X$ with respect to a $(-1)$-shifted log function $w_\alpha$. Notably, this construction leads to a decomposition of the virtual cycle $[X]^{\mathrm{vir}}$ into the reduced virtual cycle $[X]^{\mathrm{red}}$ and a reduced boundary cycle $[\Delta_X]^\red$. Our construction is motivated by future applications to the moduli stack of UMD logarithmic R-maps in log GLSM \cite{CJR21}. Along the way, we develop logarithmic analogs of several constructions in derived geometry, in particular proving a logarithmic Lagrangian intersection theorem.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.23803"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The fifteenth cohomology group of moduli spaces of stable curves</title>
       <link>https://arxiv.org/abs/2610.14377</link>

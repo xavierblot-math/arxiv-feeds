@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:15:58 +0000</lastBuildDate>
+    <item>
+      <title>Realization of several related $(2+1)$-dimensional integrable systems via an anti-self-dual Yang--Mills reduction</title>
+      <link>https://arxiv.org/abs/2610.22753</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22753</guid>
+      <pubDate>Mon, 19 Oct 2026 12:15:33 +0000</pubDate>
+      <author>Shangshuai Li, Ken-ichi Maruno, Da-jun Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Shangshuai Li, Ken-ichi Maruno, Da-jun Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · nlin.SI · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive several integrable equations in $(2+1)$ dimensions from the anti-self-dual Yang--Mills (ASDYM) equations with gauge group $G=\mathrm{GL}(2,\mathbb C)$ by imposing a single one-dimensional constraint on the ASDYM matrices. The resulting systems include the $(2+1)$-dimensional nonlinear Schr\&amp;quot;odinger (NLS) equation, a $(2+1)$-dimensional generalized derivative NLS family encompassing the Gerdjikov--Ivanov, Chen--Lee--Liu, and Kaup--Newell equations, and the $(2+1)$-dimensional Heisenberg ferromagnetic (HF) equation. The $(1+1)$-dimensional Wadati--Konno--Ichikawa equation is also recovered through a reciprocal transformation of the HF equation. The nonlinear variables and the associated gauge transformations are expressed explicitly in terms of the entries of the ASDYM matrices. The same one-dimensional constraint is implemented in the Cauchy matrix framework, yielding explicit solutions of the reduced integrable equations. In this formulation, the ASD Yang--Mills Lagrangian density is expressed in terms of a $\tau$-function; for suitable exponential data, this $\tau$-function becomes a Grammian-type $\tau$-function of the Kadomtsev--Petviashvili equaton. The studies are extended to $\mathrm{GL}(M,\mathbb C)$ at the matrix level.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22753"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On the exact quantization of BCOV Theory on Calabi-Yau Manifolds</title>
       <link>https://arxiv.org/abs/2610.21927</link>

@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:15:58 +0000</lastBuildDate>
+    <item>
+      <title>Folding to the Bessel-Clifford system, and Equivariant Topological Recursion</title>
+      <link>https://arxiv.org/abs/2610.23320</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.23320</guid>
+      <pubDate>Mon, 19 Oct 2026 12:15:33 +0000</pubDate>
+      <author>Mohamad Alameddine, Alexander Hock</author>
+      <description>&lt;p&gt;&lt;b&gt;Mohamad Alameddine, Alexander Hock&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: quantum curve, topological recursion · math-ph, math.AG, math.CA, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the interplay between symmetry reductions of meromorphic connections, folding, and topological recursion. As a motivating example, we realize the Bessel-Clifford system as a folding of a symmetry-invariant subspace of the $0-$member of the Painlev\&amp;#x27;e IV hierarchy. We introduce equivariant topological recursion for spectral curves with a Klein four-group $\mathbb Z_2\times\mathbb Z_2$ symmetry and prove that the corresponding equivariant correlators can be folded to the ordinary topological recursion correlators on the quotient spectral curve. We further establish the compatibility of this folding with the associated wave functions and quantum curves. In the Bessel-Clifford example, this yields an explicit relation between the equivariant and folded wave functions and recovers the corresponding quantum curve reduction. These results provide a framework for relating symmetry reductions of integrable systems to folding operations in topological recursion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.23320"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Asymptotic evaluation of multidimensional oscillatory integrals</title>
+      <link>https://arxiv.org/abs/2610.22767</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22767</guid>
+      <pubDate>Mon, 19 Oct 2026 12:15:33 +0000</pubDate>
+      <author>Samuel Crew, Job Feldbrugge</author>
+      <description>&lt;p&gt;&lt;b&gt;Samuel Crew, Job Feldbrugge&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: resurgence · math-ph, hep-th, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Oscillatory integrals appear throughout physics, from diffraction and gravitational lensing to real-time path integrals. Their asymptotic evaluation is complicated by the need to determine which real and complex saddle points contribute, and how they are connected by Stokes phenomena. In multiple dimensions, this traditionally requires computing steepest descent manifolds in a high-dimensional complex space. Here, we develop an algebraic alternative for integrals with polynomial and rational exponents. Using integration by parts and Brieskorn reduction, we construct a finite-dimensional Gauss-Manin system that generates the asymptotic expansion of all saddle points. Its Borel transform yields a Fuchsian system, whose mondromy determines the Stokes constants and hence the adjacency of the saddle points. Combined with the recent South-East rule, this identifies the contributing saddles and enables superasymptotic and hyperasymptotic approximations without computing gradient flows. We demonstate the method for the parabolic umbilic diffraction integral and a Lorentzian lens as examples, obtaining agreement to machine precision. The methods are implemented in an accompanying open-source Julia package Resurgence.jl&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.22767"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Worldsheet string theory on $\mathrm{AdS}_3 \times \mathbf{S}^3 \times \mathrm{K3}$</title>
       <link>https://arxiv.org/abs/2610.20696</link>

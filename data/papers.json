@@ -2040,5 +2040,106 @@
   "seen": "2026-10-16T06:26:16.748756+00:00",
   "summary": "We establish Iritani's integral form of the $\\mathbb{C}^\\times$-equivariant Crepant Transformation Conjecture (CTC) for the minimal resolution of the surface singularity $\\mathbb{C}^2/\\mathbb{BD}_{4n}$, where $\\mathbb{BD}_{4n}$ is the binary dihedral group of order $4n$. We then use Givental's quantisation formalism to prove the all-genus full-descendent CTC in that case. As an application, we deduce the Bryan-Cadman-Young degree-zero form of the orbifold Gromov-Witten/Donaldson-Thomas correspondence for the Calabi-Yau 3-orbifold $[\\mathbb{C}^2/\\mathbb{BD}_{4n}] \\times \\mathbb{C}$.",
   "title": "Integral and higher-genus quantum McKay correspondence in type D"
+ },
+ "2610.22753": {
+  "announce": "new",
+  "authors": [
+   "Shangshuai Li",
+   "Ken-ichi Maruno",
+   "Da-jun Zhang"
+  ],
+  "cats": [
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2610.22753",
+  "link": "https://arxiv.org/abs/2610.22753",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-10-19T12:15:33.845230+00:00",
+  "summary": "We derive several integrable equations in $(2+1)$ dimensions from the anti-self-dual Yang--Mills (ASDYM) equations with gauge group $G=\\mathrm{GL}(2,\\mathbb C)$ by imposing a single one-dimensional constraint on the ASDYM matrices. The resulting systems include the $(2+1)$-dimensional nonlinear Schr\\\"odinger (NLS) equation, a $(2+1)$-dimensional generalized derivative NLS family encompassing the Gerdjikov--Ivanov, Chen--Lee--Liu, and Kaup--Newell equations, and the $(2+1)$-dimensional Heisenberg ferromagnetic (HF) equation. The $(1+1)$-dimensional Wadati--Konno--Ichikawa equation is also recovered through a reciprocal transformation of the HF equation. The nonlinear variables and the associated gauge transformations are expressed explicitly in terms of the entries of the ASDYM matrices. The same one-dimensional constraint is implemented in the Cauchy matrix framework, yielding explicit solutions of the reduced integrable equations. In this formulation, the ASD Yang--Mills Lagrangian density is expressed in terms of a $\\tau$-function; for suitable exponential data, this $\\tau$-function becomes a Grammian-type $\\tau$-function of the Kadomtsev--Petviashvili equaton. The studies are extended to $\\mathrm{GL}(M,\\mathbb C)$ at the matrix level.",
+  "title": "Realization of several related $(2+1)$-dimensional integrable systems via an anti-self-dual Yang--Mills reduction"
+ },
+ "2610.22767": {
+  "announce": "cross",
+  "authors": [
+   "Samuel Crew",
+   "Job Feldbrugge"
+  ],
+  "cats": [
+   "math-ph",
+   "hep-th",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "resurgence"
+   ]
+  },
+  "id": "2610.22767",
+  "link": "https://arxiv.org/abs/2610.22767",
+  "matched": [
+   "resurgence"
+  ],
+  "seen": "2026-10-19T12:15:33.845230+00:00",
+  "summary": "Oscillatory integrals appear throughout physics, from diffraction and gravitational lensing to real-time path integrals. Their asymptotic evaluation is complicated by the need to determine which real and complex saddle points contribute, and how they are connected by Stokes phenomena. In multiple dimensions, this traditionally requires computing steepest descent manifolds in a high-dimensional complex space. Here, we develop an algebraic alternative for integrals with polynomial and rational exponents. Using integration by parts and Brieskorn reduction, we construct a finite-dimensional Gauss-Manin system that generates the asymptotic expansion of all saddle points. Its Borel transform yields a Fuchsian system, whose mondromy determines the Stokes constants and hence the adjacency of the saddle points. Combined with the recent South-East rule, this identifies the contributing saddles and enables superasymptotic and hyperasymptotic approximations without computing gradient flows. We demonstate the method for the parabolic umbilic diffraction integral and a Lorentzian lens as examples, obtaining agreement to machine precision. The methods are implemented in an accompanying open-source Julia package Resurgence.jl",
+  "title": "Asymptotic evaluation of multidimensional oscillatory integrals"
+ },
+ "2610.23320": {
+  "announce": "cross",
+  "authors": [
+   "Mohamad Alameddine",
+   "Alexander Hock"
+  ],
+  "cats": [
+   "math-ph",
+   "math.AG",
+   "math.CA",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "topics": [
+    "quantum curve",
+    "topological recursion"
+   ]
+  },
+  "id": "2610.23320",
+  "link": "https://arxiv.org/abs/2610.23320",
+  "matched": [
+   "quantum curve",
+   "topological recursion"
+  ],
+  "seen": "2026-10-19T12:15:33.845230+00:00",
+  "summary": "We study the interplay between symmetry reductions of meromorphic connections, folding, and topological recursion. As a motivating example, we realize the Bessel-Clifford system as a folding of a symmetry-invariant subspace of the $0-$member of the Painlev\\'e IV hierarchy. We introduce equivariant topological recursion for spectral curves with a Klein four-group $\\mathbb Z_2\\times\\mathbb Z_2$ symmetry and prove that the corresponding equivariant correlators can be folded to the ordinary topological recursion correlators on the quotient spectral curve. We further establish the compatibility of this folding with the associated wave functions and quantum curves. In the Bessel-Clifford example, this yields an explicit relation between the equivariant and folded wave functions and recovers the corresponding quantum curve reduction. These results provide a framework for relating symmetry reductions of integrable systems to folding operations in topological recursion.",
+  "title": "Folding to the Bessel-Clifford system, and Equivariant Topological Recursion"
+ },
+ "2610.23803": {
+  "announce": "new",
+  "authors": [
+   "Felix Janda",
+   "Ruoxi Li"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Felix Janda"
+   ]
+  },
+  "id": "2610.23803",
+  "link": "https://arxiv.org/abs/2610.23803",
+  "matched": [
+   "Felix Janda"
+  ],
+  "seen": "2026-10-19T12:15:33.845230+00:00",
+  "summary": "Many perfect obstruction theories and virtual cycles in enumerative geometry are shadows from derived geometry. In this paper, we give a general construction of reduced perfect obstruction theories arising from a geometric reduction of the derived stack $X$ with respect to a $(-1)$-shifted log function $w_\\alpha$. Notably, this construction leads to a decomposition of the virtual cycle $[X]^{\\mathrm{vir}}$ into the reduced virtual cycle $[X]^{\\mathrm{red}}$ and a reduced boundary cycle $[\\Delta_X]^\\red$. Our construction is motivated by future applications to the moduli stack of UMD logarithmic R-maps in log GLSM \\cite{CJR21}. Along the way, we develop logarithmic analogs of several constructions in derived geometry, in particular proving a logarithmic Lagrangian intersection theorem.",
+  "title": "Deligne--Faltings Logarithmic Derived Geometry with a View towards Logarithmic GLSM"
  }
 }
