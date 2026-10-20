@@ -2141,5 +2141,210 @@
   "seen": "2026-10-19T12:15:33.845230+00:00",
   "summary": "Many perfect obstruction theories and virtual cycles in enumerative geometry are shadows from derived geometry. In this paper, we give a general construction of reduced perfect obstruction theories arising from a geometric reduction of the derived stack $X$ with respect to a $(-1)$-shifted log function $w_\\alpha$. Notably, this construction leads to a decomposition of the virtual cycle $[X]^{\\mathrm{vir}}$ into the reduced virtual cycle $[X]^{\\mathrm{red}}$ and a reduced boundary cycle $[\\Delta_X]^\\red$. Our construction is motivated by future applications to the moduli stack of UMD logarithmic R-maps in log GLSM \\cite{CJR21}. Along the way, we develop logarithmic analogs of several constructions in derived geometry, in particular proving a logarithmic Lagrangian intersection theorem.",
   "title": "Deligne--Faltings Logarithmic Derived Geometry with a View towards Logarithmic GLSM"
+ },
+ "2610.24073": {
+  "announce": "new",
+  "authors": [
+   "Donald Marolf",
+   "Xuyang Yu"
+  ],
+  "cats": [
+   "hep-th",
+   "gr-qc"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.24073",
+  "link": "https://arxiv.org/abs/2610.24073",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "Perturbative quantum gravity about a global de Sitter (dS$_d$) background involves constraints that restrict the state of the linearized theory but which appear only at higher orders in perturbation theory. In particular, for familiar gravitational theories with $d>2$ these constraints require all charges defined by continuous de Sitter isometries to vanish in the linearized state. While standard Fock spaces have the property that the only normalizable state satisfying these constraints is the vacuum, Higuchi suggested that this lack of allowed states should be remedied by instead using the so-called group-averaging inner product. This inner product satisfies important uniqueness conditions, but its positivity has to date remained an open question. For $d > 2$, we establish this positivity here for all such states with $N$ particles (including particles of arbitrary spin) in standard global dS${}_d$ modes where the particle-weights $\\Delta_i$ satisfy the condition ${\\rm Re} \\, \\sum_{i=1}^N \\Delta_i > d-1$, which is the criterion for group averaging to converge absolutely for arbitrary finite linear combinations of such states. We also treat the case of bosonic and fermionic (integer and half-integer spin) particles in dS$_2$ as a toy model for the more general case. However, we can identify certain classes of states for which group averaging continues to converge absolutely for smaller weights. Interestingly, in some cases these smaller-weight states turn out to have {\\it negative} group-averaging norms. We thus also discuss the implications of this observation for perturbative de Sitter quantum gravity.",
+  "title": "On the Positivity of de Sitter Group Averaging"
+ },
+ "2610.24074": {
+  "announce": "cross",
+  "authors": [
+   "Seth K. Asante"
+  ],
+  "cats": [
+   "cs.MS",
+   "gr-qc",
+   "math-ph",
+   "math.MP",
+   "physics.comp-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.24074",
+  "link": "https://arxiv.org/abs/2610.24074",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "QRecoupling.jl is a Julia package for numerical, exact and symbolic evaluation of classical and quantum recoupling coefficients and generic finite sums of quantum factorials, with one interface across the classical limit, principal unitary levels and real or complex deformation. A compact factorial rule and its cyclotomic exponents expose factor cancellation, polynomial structure and level support. The package covers quantum Clebsch-Gordan coefficients, 3j and 6j symbols and user-defined sums. Its adaptive numerical evaluation is combined with exact decisions for sums that cancel to zero. Classical 3j and 6j symbols are evaluated at a speed comparable to that of WIGXJPF, which is based on prime factorization tables, at the smallest spins, and about 6 and 10 times faster at spin cutoff 500. Under real, root-of-unity and complex deformation, the largest relative error measured against independent high-precision references is $3.5 \\times 10^{-14}$ for spins up to 400. Fusion matrices with 401 channels are computed about 100 times faster than by loops over their entries.",
+  "title": "QRecoupling.jl: numerical and exact computation of classical and quantum recoupling coefficients"
+ },
+ "2610.24496": {
+  "announce": "new",
+  "authors": [
+   "Eric Perlmutter"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.24496",
+  "link": "https://arxiv.org/abs/2610.24496",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "We observe an apparently universal behavior in large $N$ conformal field theory (CFT) in $d\\geq 2$ dimensions: the single-trace, higher-spin gap obeys the parametric bound $\\Delta_{\\rm gap} \\lesssim (\\delta c)^{1/d}$, where $\\delta c$ is the central charge increment between successive theories. The origin of this bound is explained heuristically, using a generalized notion of branes that interpolate between conformal points in theory space. Seeking a more precise framework for this picture leads to the central concept of families of CFTs, which tacitly underlies various features and puzzles of AdS/CFT. We develop a working definition of families, with inspiration from families of $L$-functions in number theory, and formulate a family-level version of the gap bound. Interpreted holographically for families of AdS$_{d+1}$ vacua, this bound, when applicable, rules out Planckian scale separation, constrains the size and number of extra dimensions, and explains simple scaling patterns in string/M-theory. It also accounts for why all known large $N$ vector models have a bounded gap.",
+  "title": "Gravity as Large Scale Structure: Families of CFTs and the Higher-Spin Gap"
+ },
+ "2610.24980": {
+  "announce": "new",
+  "authors": [
+   "Dingkang Xiong",
+   "Jian Zhou"
+  ],
+  "cats": [
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Jian Zhou"
+   ],
+   "topics": [
+    "Givental",
+    "topological recursion"
+   ]
+  },
+  "id": "2610.24980",
+  "link": "https://arxiv.org/abs/2610.24980",
+  "matched": [
+   "Givental",
+   "Jian Zhou",
+   "topological recursion"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "We use Virasoro constraints to prove Eynard's intersection-number formula for Eynard-Orantin topological recursion with several simple ramification points. The key construction couples the higher Weil-Petersson partition functions associated with the individual ramification points through a quadratic differential operator determined by the Bergman kernel. We identify this operator with the quadratic part of Givental's quantized $R$-matrix, thereby obtaining a Virasoro-theoretic proof of the DOSS identification of topological recursion with Givental's formula for semisimple cohomological field theories. Furthermore, while the DOSS identification fixes the distinguished $y$-function, we keep the Bergman kernel/$R$-matrix fixed and allow $y$ to vary, showing that this amounts to shifting the evaluation point of the corresponding ancestor potential.",
+  "title": "Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs"
+ },
+ "2610.24985": {
+  "announce": "new",
+  "authors": [
+   "Dingkang Xiong",
+   "Jian Zhou"
+  ],
+  "cats": [
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Jian Zhou"
+   ],
+   "topics": [
+    "Frobenius manifold",
+    "Givental",
+    "topological recursion"
+   ]
+  },
+  "id": "2610.24985",
+  "link": "https://arxiv.org/abs/2610.24985",
+  "matched": [
+   "Frobenius manifold",
+   "Givental",
+   "Jian Zhou",
+   "topological recursion"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "We construct connected spectral curves for semisimple conformal Frobenius manifolds with flat unit, using the periods of the second structure equation. Eynard-Orantin topological recursion on these curves reproduces the stable ancestor correlators of Givental-Teleman reconstruction. The spectral curves are defined on simply connected domains in the complex plane. We apply the construction to the quantum cohomology of $\\mathbb P^n$ for $n\\ge2$ at a point, obtaining explicit spectral curve data in terms of Hecke triangle groups and hypergeometric functions. Finally, for $\\mathbb P^2$ and $\\mathbb P^3$, we express the complete spectral curve data, including the bidifferentials, in classical modular and quasimodular forms.",
+  "title": "Spectral Curves for Semisimple Conformal Frobenius Manifolds"
+ },
+ "2610.26037": {
+  "announce": "new",
+  "authors": [
+   "Vladimiro Benedetti (LJAD)",
+   "Simone Billi (CMLS)",
+   "Nicolas Perrin (CMLS)"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Nicolas Perrin"
+   ]
+  },
+  "id": "2610.26037",
+  "link": "https://arxiv.org/abs/2610.26037",
+  "matched": [
+   "Nicolas Perrin"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "We study the monodromy representation of general hyperplane sections of (co)adjoint varieties. We apply this result to reduce the generic semisemplicity of the big quantum cohomology to its ambient part, and to prove that the big quantum cohomology of general hyperplane sections of IGr(2, 6) is generically semisimple and satisfies Dubrovin's conjecture.",
+  "title": "MONODROMY AND BIG QUANTUM COHOMOLOGY OF HYPERPLANE SECTIONS OF (CO)ADJOINT VARIETIES"
+ },
+ "2610.26186": {
+  "announce": "new",
+  "authors": [
+   "Tsung-Ju Lee"
+  ],
+  "cats": [
+   "math.AG",
+   "math.CV"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.26186",
+  "link": "https://arxiv.org/abs/2610.26186",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "We prove the hyperplane conjecture, proposed by Hosono, Lian, and Yau in arXiv:alg-geom/9511001 and its generalization to orbifolds. Consequently, this establishes the expected equivalence between the \\(A\\) model (genus-zero Gromov--Witten invariants with ambient insertions) of \\(X\\) and the \\(B\\) model (period integrals corresponding to vanishing cohomology) of \\(X^{\\vee}\\) for Batyrev's mirror pair of Calabi--Yau hypersurfaces. As an application of our method, we also identify the residue of the Gauss--Manin connection and the cup product morphism on the \\(A\\)-side.",
+  "title": "On the hyperplane conjecture"
+ },
+ "2610.26704": {
+  "announce": "new",
+  "authors": [
+   "M. A. Povarnin"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.26704",
+  "link": "https://arxiv.org/abs/2610.26704",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-20T10:58:21.474866+00:00",
+  "summary": "For $d>3$ we construct the product of the bosonic on-shell higher-spin algebra directly on the AdS-traceless representatives. We find the traceless projector in closed form, determine all linear relations among the trace-producing operators, and prove that every class modulo the $\\mathfrak{sp}(2)$ ideal has a unique traceless representative. The resulting product is an explicit differential operator, which we test on the $\\mathfrak{so}(d-1,2)$ generators. A toy model shows how the factorisation lifts from bilinear products to trilinear ones in minimal $A_\\infty$-algebras.",
+  "title": "An explicit product for the on-shell higher-spin algebra in $AdS_d$-space"
  }
 }

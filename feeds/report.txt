@@ -1,9 +1,19 @@
-Last run: 2026-10-19 22:01 UTC
-Announcements downloaded: 184 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-20 10:58 UTC
+Announcements downloaded: 371 (0 category feeds failed)
+New papers stored this run: 8
 
-ag             |   15 items |   1 new this run
+ag             |   16 items |   1 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   27 items |   1 new this run
-mathphys       |    9 items |   0 new this run
-topics         |   45 items |   2 new this run
+broad          |   28 items |   1 new this run
+mathphys       |   11 items |   2 new this run
+topics         |   51 items |   6 new this run
+
+Matched this run:
+  Nicolas Perrin                           | MONODROMY AND BIG QUANTUM COHOMOLOGY OF HYPERPLANE SECTIONS OF (CO)ADJ
+  Gromov-Witten                            | On the hyperplane conjecture
+  Givental, Jian Zhou, topological recursion | Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraint
+  Frobenius manifold, Givental, Jian Zhou, topological recursion | Spectral Curves for Semisimple Conformal Frobenius Manifolds
+  r-spin                                   | QRecoupling.jl: numerical and exact computation of classical and quant
+  r-spin                                   | On the Positivity of de Sitter Group Averaging
+  r-spin                                   | Gravity as Large Scale Structure: Families of CFTs and the Higher-Spin
+  r-spin                                   | An explicit product for the on-shell higher-spin algebra in $AdS_d$-sp

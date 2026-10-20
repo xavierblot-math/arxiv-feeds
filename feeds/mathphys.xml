@@ -4,7 +4,23 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:58:46 +0000</lastBuildDate>
+    <item>
+      <title>Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs</title>
+      <link>https://arxiv.org/abs/2610.24980</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24980</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Jian Zhou · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We use Virasoro constraints to prove Eynard&amp;#x27;s intersection-number formula for Eynard-Orantin topological recursion with several simple ramification points. The key construction couples the higher Weil-Petersson partition functions associated with the individual ramification points through a quadratic differential operator determined by the Bergman kernel. We identify this operator with the quadratic part of Givental&amp;#x27;s quantized $R$-matrix, thereby obtaining a Virasoro-theoretic proof of the DOSS identification of topological recursion with Givental&amp;#x27;s formula for semisimple cohomological field theories. Furthermore, while the DOSS identification fixes the distinguished $y$-function, we keep the Bergman kernel/$R$-matrix fixed and allow $y$ to vary, showing that this amounts to shifting the evaluation point of the corresponding ancestor potential.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24980"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spectral Curves for Semisimple Conformal Frobenius Manifolds</title>
+      <link>https://arxiv.org/abs/2610.24985</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24985</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Jian Zhou · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct connected spectral curves for semisimple conformal Frobenius manifolds with flat unit, using the periods of the second structure equation. Eynard-Orantin topological recursion on these curves reproduces the stable ancestor correlators of Givental-Teleman reconstruction. The spectral curves are defined on simply connected domains in the complex plane. We apply the construction to the quantum cohomology of $\mathbb P^n$ for $n\ge2$ at a point, obtaining explicit spectral curve data in terms of Hecke triangle groups and hypergeometric functions. Finally, for $\mathbb P^2$ and $\mathbb P^3$, we express the complete spectral curve data, including the bidifferentials, in classical modular and quasimodular forms.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24985"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Augmentation curve for torus knots</title>
       <link>https://arxiv.org/abs/2610.21585</link>

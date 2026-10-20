@@ -4,7 +4,55 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:58:46 +0000</lastBuildDate>
+    <item>
+      <title>Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs</title>
+      <link>https://arxiv.org/abs/2610.24980</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24980</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Givental, topological recursion · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We use Virasoro constraints to prove Eynard&amp;#x27;s intersection-number formula for Eynard-Orantin topological recursion with several simple ramification points. The key construction couples the higher Weil-Petersson partition functions associated with the individual ramification points through a quadratic differential operator determined by the Bergman kernel. We identify this operator with the quadratic part of Givental&amp;#x27;s quantized $R$-matrix, thereby obtaining a Virasoro-theoretic proof of the DOSS identification of topological recursion with Givental&amp;#x27;s formula for semisimple cohomological field theories. Furthermore, while the DOSS identification fixes the distinguished $y$-function, we keep the Bergman kernel/$R$-matrix fixed and allow $y$ to vary, showing that this amounts to shifting the evaluation point of the corresponding ancestor potential.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24980"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spectral Curves for Semisimple Conformal Frobenius Manifolds</title>
+      <link>https://arxiv.org/abs/2610.24985</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24985</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Frobenius manifold, Givental, topological recursion · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct connected spectral curves for semisimple conformal Frobenius manifolds with flat unit, using the periods of the second structure equation. Eynard-Orantin topological recursion on these curves reproduces the stable ancestor correlators of Givental-Teleman reconstruction. The spectral curves are defined on simply connected domains in the complex plane. We apply the construction to the quantum cohomology of $\mathbb P^n$ for $n\ge2$ at a point, obtaining explicit spectral curve data in terms of Hecke triangle groups and hypergeometric functions. Finally, for $\mathbb P^2$ and $\mathbb P^3$, we express the complete spectral curve data, including the bidifferentials, in classical modular and quasimodular forms.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24985"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QRecoupling.jl: numerical and exact computation of classical and quantum recoupling coefficients</title>
+      <link>https://arxiv.org/abs/2610.24074</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24074</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Seth K. Asante</author>
+      <description>&lt;p&gt;&lt;b&gt;Seth K. Asante&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · cs.MS, gr-qc, math-ph, math.MP, physics.comp-ph · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;QRecoupling.jl is a Julia package for numerical, exact and symbolic evaluation of classical and quantum recoupling coefficients and generic finite sums of quantum factorials, with one interface across the classical limit, principal unitary levels and real or complex deformation. A compact factorial rule and its cyclotomic exponents expose factor cancellation, polynomial structure and level support. The package covers quantum Clebsch-Gordan coefficients, 3j and 6j symbols and user-defined sums. Its adaptive numerical evaluation is combined with exact decisions for sums that cancel to zero. Classical 3j and 6j symbols are evaluated at a speed comparable to that of WIGXJPF, which is based on prime factorization tables, at the smallest spins, and about 6 and 10 times faster at spin cutoff 500. Under real, root-of-unity and complex deformation, the largest relative error measured against independent high-precision references is $3.5 \times 10^{-14}$ for spins up to 400. Fusion matrices with 401 channels are computed about 100 times faster than by loops over their entries.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24074"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Positivity of de Sitter Group Averaging</title>
+      <link>https://arxiv.org/abs/2610.24073</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24073</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Donald Marolf, Xuyang Yu</author>
+      <description>&lt;p&gt;&lt;b&gt;Donald Marolf, Xuyang Yu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, gr-qc · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Perturbative quantum gravity about a global de Sitter (dS$_d$) background involves constraints that restrict the state of the linearized theory but which appear only at higher orders in perturbation theory. In particular, for familiar gravitational theories with $d&amp;gt;2$ these constraints require all charges defined by continuous de Sitter isometries to vanish in the linearized state. While standard Fock spaces have the property that the only normalizable state satisfying these constraints is the vacuum, Higuchi suggested that this lack of allowed states should be remedied by instead using the so-called group-averaging inner product. This inner product satisfies important uniqueness conditions, but its positivity has to date remained an open question. For $d &amp;gt; 2$, we establish this positivity here for all such states with $N$ particles (including particles of arbitrary spin) in standard global dS${}_d$ modes where the particle-weights $\Delta_i$ satisfy the condition ${\rm Re} \, \sum_{i=1}^N \Delta_i &amp;gt; d-1$, which is the criterion for group averaging to converge absolutely for arbitrary finite linear combinations of such states. We also treat the case of bosonic and fermionic (integer and half-integer spin) particles in dS$_2$ as a toy model for the more general case. However, we can identify certain classes of states for which group averaging continues to converge absolutely for smaller weights. Interestingly, in some cases these smaller-weight states turn out to have {\it negative} group-averaging norms. We thus also discuss the implications of this observation for perturbative de Sitter quantum gravity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24073"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gravity as Large Scale Structure: Families of CFTs and the Higher-Spin Gap</title>
+      <link>https://arxiv.org/abs/2610.24496</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.24496</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Eric Perlmutter</author>
+      <description>&lt;p&gt;&lt;b&gt;Eric Perlmutter&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We observe an apparently universal behavior in large $N$ conformal field theory (CFT) in $d\geq 2$ dimensions: the single-trace, higher-spin gap obeys the parametric bound $\Delta_{\rm gap} \lesssim (\delta c)^{1/d}$, where $\delta c$ is the central charge increment between successive theories. The origin of this bound is explained heuristically, using a generalized notion of branes that interpolate between conformal points in theory space. Seeking a more precise framework for this picture leads to the central concept of families of CFTs, which tacitly underlies various features and puzzles of AdS/CFT. We develop a working definition of families, with inspiration from families of $L$-functions in number theory, and formulate a family-level version of the gap bound. Interpreted holographically for families of AdS$_{d+1}$ vacua, this bound, when applicable, rules out Planckian scale separation, constrains the size and number of extra dimensions, and explains simple scaling patterns in string/M-theory. It also accounts for why all known large $N$ vector models have a bounded gap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.24496"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An explicit product for the on-shell higher-spin algebra in $AdS_d$-space</title>
+      <link>https://arxiv.org/abs/2610.26704</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26704</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>M. A. Povarnin</author>
+      <description>&lt;p&gt;&lt;b&gt;M. A. Povarnin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For $d&amp;gt;3$ we construct the product of the bosonic on-shell higher-spin algebra directly on the AdS-traceless representatives. We find the traceless projector in closed form, determine all linear relations among the trace-producing operators, and prove that every class modulo the $\mathfrak{sp}(2)$ ideal has a unique traceless representative. The resulting product is an explicit differential operator, which we test on the $\mathfrak{so}(d-1,2)$ generators. A toy model shows how the factorisation lifts from bilinear products to trilinear ones in minimal $A_\infty$-algebras.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.26704"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Asymptotic evaluation of multidimensional oscillatory integrals</title>
       <link>https://arxiv.org/abs/2610.22767</link>

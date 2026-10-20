@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:58:46 +0000</lastBuildDate>
+    <item>
+      <title>On the hyperplane conjecture</title>
+      <link>https://arxiv.org/abs/2610.26186</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26186</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Tsung-Ju Lee</author>
+      <description>&lt;p&gt;&lt;b&gt;Tsung-Ju Lee&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.CV · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the hyperplane conjecture, proposed by Hosono, Lian, and Yau in arXiv:alg-geom/9511001 and its generalization to orbifolds. Consequently, this establishes the expected equivalence between the \(A\) model (genus-zero Gromov--Witten invariants with ambient insertions) of \(X\) and the \(B\) model (period integrals corresponding to vanishing cohomology) of \(X^{\vee}\) for Batyrev&amp;#x27;s mirror pair of Calabi--Yau hypersurfaces. As an application of our method, we also identify the residue of the Gauss--Manin connection and the cup product morphism on the \(A\)-side.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.26186"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Realization of several related $(2+1)$-dimensional integrable systems via an anti-self-dual Yang--Mills reduction</title>
       <link>https://arxiv.org/abs/2610.22753</link>

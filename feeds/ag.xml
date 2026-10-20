@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:58:46 +0000</lastBuildDate>
+    <item>
+      <title>MONODROMY AND BIG QUANTUM COHOMOLOGY OF HYPERPLANE SECTIONS OF (CO)ADJOINT VARIETIES</title>
+      <link>https://arxiv.org/abs/2610.26037</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26037</guid>
+      <pubDate>Tue, 20 Oct 2026 10:58:21 +0000</pubDate>
+      <author>Vladimiro Benedetti (LJAD), Simone Billi (CMLS), Nicolas Perrin (CMLS)</author>
+      <description>&lt;p&gt;&lt;b&gt;Vladimiro Benedetti (LJAD), Simone Billi (CMLS), Nicolas Perrin (CMLS)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Nicolas Perrin · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the monodromy representation of general hyperplane sections of (co)adjoint varieties. We apply this result to reduce the generic semisemplicity of the big quantum cohomology to its ambient part, and to prove that the big quantum cohomology of general hyperplane sections of IGr(2, 6) is generically semisimple and satisfies Dubrovin&amp;#x27;s conjecture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.26037"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Deligne--Faltings Logarithmic Derived Geometry with a View towards Logarithmic GLSM</title>
       <link>https://arxiv.org/abs/2610.23803</link>
