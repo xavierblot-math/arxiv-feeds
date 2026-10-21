@@ -4,7 +4,39 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 20 Oct 2026 21:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:15:10 +0000</lastBuildDate>
+    <item>
+      <title>Exact spectral integrability of a finite-channel random Schr\"odinger operator: from fermionization of the Dyson--Riccati gas to Kontsevich integral</title>
+      <link>https://arxiv.org/abs/2610.27154</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.27154</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
+      <author>Yan V. Fyodorov, Pierre Le Doussal</author>
+      <description>&lt;p&gt;&lt;b&gt;Yan V. Fyodorov, Pierre Le Doussal&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · cond-mat.dis-nn, cond-mat.stat-mech, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We solve exactly, for arbitrary finite channel number $N$, the Riccati dynamics of a quasi-one-dimensional random matrix Schr\&amp;quot;odinger operator with Hermitian white-noise potential in the $\beta=2$ unitary symmetry class. The associated Dyson--Riccati eigenvalue gas admits an exact free-fermion representation at any sample length $L$, which in the limit $L\to \infty$ expresses the density of states and the total Lyapunov growth rate exactly through a single Airy Hankel $\tau$-function providing multichannel generalization of $N=1$ Halperin--Thouless formulas. The $\tau-$function further admits an outgoing-contour Kontsevich matrix Airy integral representation. Its saddle-point and double-scaling analyses give, in a unified way, the finite-channel density Lifshitz tail, and the large-$N$ spectral edge. In particular, for $N\gg 1$ the sharp $N=\infty$ edge is softened within an $N^{-4/5}$ spectral window, with its profile governed by the tritronqu\&amp;#x27;ee solution of Painlev\&amp;#x27;e I. We conjecture universality of this quasi-one-dimensional scaling edge profile for a broad class of $\beta=2$ random band matrices.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.27154"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Painlev\'e II connection problem revisited</title>
+      <link>https://arxiv.org/abs/2610.28227</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28227</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
+      <author>Nikolai Iorgov, Oleg Lisovyy, Noam Tamarin, Yurii Zhuravlov</author>
+      <description>&lt;p&gt;&lt;b&gt;Nikolai Iorgov, Oleg Lisovyy, Noam Tamarin, Yurii Zhuravlov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the inhomogeneous Painlev\&amp;#x27;e II equation for generic monodromy data. Using Kapaev&amp;#x27;s asymptotic formulas, the parameters of Zak transform representations of the Painlev\&amp;#x27;e II tau function on six special rays $\arg t=\frac{\pi p}{3}$ ($p=0,\ldots,5$) in the complex time plane are expressed in terms of Stokes parameters of the associated linear system. We then solve the connection problem for the tau function between these special rays, and provide analytical and numerical checks of our result.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.28227"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toda chain solves large BKP</title>
+      <link>https://arxiv.org/abs/2610.28492</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28492</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
+      <author>Anton Zabrodin</author>
+      <description>&lt;p&gt;&lt;b&gt;Anton Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that any solution of the Toda chain hierarchy (the 1D reduction of the 2D Toda lattice) is a solution of the large BKP hierarchy. This is a difference analogue of Alexandrov&amp;#x27;s result that KdV solves (small) BKP.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.28492"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Classical solitons in anti-self-dual Yang-Mills theory</title>
+      <link>https://arxiv.org/abs/2610.27074</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.27074</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
+      <author>Tristan McLoughlin</author>
+      <description>&lt;p&gt;&lt;b&gt;Tristan McLoughlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study classical soliton solutions in split-signature anti-self-dual Yang-Mills theory. Using Zakharov&amp;#x27;s dressing method, we construct rational lump solitons, which are localised near two-dimensional surfaces, and wall solitons, which have codimension one. We further describe multi-phase solutions which have multiple walls meeting at trivalent junctions and form four-dimensional foam-like structures. Two-pole solutions describe soliton interactions and we find non-trivial colour-dressed phase shifts for wall interactions. We consider the four-dimensional analogue of Ward&amp;#x27;s lump scattering for the restricted kinematics of coincident poles and show that there are non-trivial interactions in the collinear limit. Finally, we show that the determinant of the soliton matrix provides a $\tau$-function which acts as a potential for gauge-invariant scalar quantities such as the Yang-Mills Lagrangian density.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.27074"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On the hyperplane conjecture</title>
       <link>https://arxiv.org/abs/2610.26186</link>

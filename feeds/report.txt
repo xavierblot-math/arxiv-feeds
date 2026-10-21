@@ -1,9 +1,17 @@
-Last run: 2026-10-20 21:17 UTC
-Announcements downloaded: 371 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-21 11:14 UTC
+Announcements downloaded: 231 (0 category feeds failed)
+New papers stored this run: 6
 
-ag             |   16 items |   1 new this run
+ag             |   16 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   28 items |   1 new this run
-mathphys       |   11 items |   2 new this run
-topics         |   51 items |   6 new this run
+broad          |   32 items |   4 new this run
+mathphys       |   11 items |   0 new this run
+topics         |   53 items |   2 new this run
+
+Matched this run:
+  star product                             | The stacky approach to de Rham-Witt cohomology
+  tau function                             | Exact spectral integrability of a finite-channel random Schr\"odinger 
+  r-spin                                   | Learning the open string spectrum with neural networks
+  tau function                             | Painlev\'e II connection problem revisited
+  KdV                                      | Toda chain solves large BKP
+  tau function                             | Classical solitons in anti-self-dual Yang-Mills theory
