@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:18:02 +0000</lastBuildDate>
+    <item>
+      <title>Classical solitons in anti-self-dual Yang-Mills theory</title>
+      <link>https://arxiv.org/abs/2610.27074</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.27074</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
+      <author>Tristan McLoughlin</author>
+      <description>&lt;p&gt;&lt;b&gt;Tristan McLoughlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study classical soliton solutions in split-signature anti-self-dual Yang-Mills theory. Using Zakharov&amp;#x27;s dressing method, we construct rational lump solitons, which are localised near two-dimensional surfaces, and wall solitons, which have codimension one. We further describe multi-phase solutions which have multiple walls meeting at trivalent junctions and form four-dimensional foam-like structures. Two-pole solutions describe soliton interactions and we find non-trivial colour-dressed phase shifts for wall interactions. We consider the four-dimensional analogue of Ward&amp;#x27;s lump scattering for the restricted kinematics of coincident poles and show that there are non-trivial interactions in the collinear limit. Finally, we show that the determinant of the soliton matrix provides a $\tau$-function which acts as a potential for gauge-invariant scalar quantities such as the Yang-Mills Lagrangian density.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.27074"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Exact spectral integrability of a finite-channel random Schr\"odinger operator: from fermionization of the Dyson--Riccati gas to Kontsevich integral</title>
       <link>https://arxiv.org/abs/2610.27154</link>
@@ -28,14 +36,6 @@
       <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
       <author>Anton Zabrodin</author>
       <description>&lt;p&gt;&lt;b&gt;Anton Zabrodin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that any solution of the Toda chain hierarchy (the 1D reduction of the 2D Toda lattice) is a solution of the large BKP hierarchy. This is a difference analogue of Alexandrov&amp;#x27;s result that KdV solves (small) BKP.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.28492"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Classical solitons in anti-self-dual Yang-Mills theory</title>
-      <link>https://arxiv.org/abs/2610.27074</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.27074</guid>
-      <pubDate>Wed, 21 Oct 2026 11:14:45 +0000</pubDate>
-      <author>Tristan McLoughlin</author>
-      <description>&lt;p&gt;&lt;b&gt;Tristan McLoughlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study classical soliton solutions in split-signature anti-self-dual Yang-Mills theory. Using Zakharov&amp;#x27;s dressing method, we construct rational lump solitons, which are localised near two-dimensional surfaces, and wall solitons, which have codimension one. We further describe multi-phase solutions which have multiple walls meeting at trivalent junctions and form four-dimensional foam-like structures. Two-pole solutions describe soliton interactions and we find non-trivial colour-dressed phase shifts for wall interactions. We consider the four-dimensional analogue of Ward&amp;#x27;s lump scattering for the restricted kinematics of coincident poles and show that there are non-trivial interactions in the collinear limit. Finally, we show that the determinant of the soliton matrix provides a $\tau$-function which acts as a potential for gauge-invariant scalar quantities such as the Yang-Mills Lagrangian density.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.27074"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>On the hyperplane conjecture</title>
