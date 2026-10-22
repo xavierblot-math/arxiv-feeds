@@ -1,9 +1,14 @@
-Last run: 2026-10-21 21:17 UTC
-Announcements downloaded: 231 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-22 11:13 UTC
+Announcements downloaded: 176 (0 category feeds failed)
+New papers stored this run: 3
 
 ag             |   16 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   32 items |   4 new this run
-mathphys       |   11 items |   0 new this run
-topics         |   53 items |   2 new this run
+broad          |   33 items |   2 new this run
+mathphys       |   12 items |   1 new this run
+topics         |   54 items |   1 new this run
+
+Matched this run:
+  Gromov-Witten                            | Alternative moduli of twisted curves
+  r-spin                                   | A spinor-adapted geometric approach to nonlinear Dirac systems on the 
+  Victor Kac                               | On unitary vertex operator algebras

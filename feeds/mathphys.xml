@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:14:10 +0000</lastBuildDate>
+    <item>
+      <title>On unitary vertex operator algebras</title>
+      <link>https://arxiv.org/abs/2610.29878</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.29878</guid>
+      <pubDate>Thu, 22 Oct 2026 11:13:45 +0000</pubDate>
+      <author>Victor G. Kac, Pierluigi M\"oseneder Frajria, Paolo Papi</author>
+      <description>&lt;p&gt;&lt;b&gt;Victor G. Kac, Pierluigi M\&amp;quot;oseneder Frajria, Paolo Papi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Victor Kac · math.RT, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that a conformal vertex algebra with a non-zero invariant Hermitian form is unitary as soon as it admits a non-zero positive energy module with a positive definite invariant Hermitian form. Using free field realizations, we deduce that the principal simple $W$-algebra $W_k(\mathfrak g)$ of a simple Lie algebra $\mathfrak g$ is unitary for central charge $c\ge rank(\mathfrak g)+24\bigl((\rho|\rho^\vee)+\|\rho\|\,\|\rho^\vee\|\bigr)$, and, if $\mathfrak g$ is simply laced, for all $c\ge rank(\mathfrak g)$. Among basic Lie superalgebras which are not Lie algebras, the free field argument applies to $osp(1|2n)$ and $osp(2|2n)$. It shows that $W_k(osp(1|2n))$ is unitary for $c\ge n+\frac12$ and gives an explicit bound for $osp(2|2n)$. Next, we prove that if $\mathfrak s$ is an even $sl_2$-subalgebra of a simple Lie algebra $\mathfrak g$ whose centralizer is not abelian, then the simple $W$-algebra $W_k(\mathfrak g,\mathfrak s)$ is unitary for at most finitely many $k$. We illustrate this on the $W$-algebras of $sl_{qm}$ attached to the nilpotents of Jordan type $q^m$: unitarity is possible only at two levels, and for $q=2$ it does occur at both. For instance, the $W$-algebra of $sl_4$ attached to the partition $2+2$ is unitary only for $k=-2$ and $k=-\frac32$. This fails for Lie superalgebras, as minimal $W$-algebras show, but still holds under stronger assumptions. Finally, we prove that a simple $W$-algebra $W_k(\mathfrak g,\mathfrak s)$ can be unitary for only finitely many $k$ if $\mathfrak g$ is a simple Lie algebra and $\mathfrak s$ is not a distinguished $sl_2$ subalgebra.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.29878"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs</title>
       <link>https://arxiv.org/abs/2610.24980</link>

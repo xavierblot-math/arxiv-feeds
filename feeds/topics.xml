@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:14:10 +0000</lastBuildDate>
+    <item>
+      <title>A spinor-adapted geometric approach to nonlinear Dirac systems on the Schwarzschild black hole background</title>
+      <link>https://arxiv.org/abs/2610.29406</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.29406</guid>
+      <pubDate>Thu, 22 Oct 2026 11:13:45 +0000</pubDate>
+      <author>Seokchang Hong</author>
+      <description>&lt;p&gt;&lt;b&gt;Seokchang Hong&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.AP, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Building on our previous work, we extend the spinor-adapted geometric method for nonlinear Dirac systems from small perturbations of Minkowski spacetime to the Schwarzschild background. As a linear foundation, we establish integrated local energy decay estimates and an \(r^p\)-weighted energy hierarchy for spinor fields, adapting the physical-space approach of Dafermos and Rodnianski to the Dirac setting. The main focus of the paper is nonlinear. We consider a semilinear tensorial wave--Dirac model motivated by the wave-gauge reduction of the Einstein--Dirac system and prove global small-data stability. A principal difficulty is the apparent loss of derivatives arising from the coupling between the first-order Dirac equation and the second-order tensorial wave equation. We overcome this difficulty through a spinor-adapted energy hierarchy that exploits the complementary roles of the Dirac-current energy and the spinorial wave energy. In particular, the nonlinear estimates are closed without requiring the top-order Dirac-current estimate. The nonlinear analysis demonstrates that the spinorial structures remain essential on the black-hole background. The combination of Dirac-current energy, spinorial wave energy, Kosmann Lie derivatives, and the Clifford-algebraic null structure enables us to close the nonlinear estimates without imposing an independent null condition on the tensorial wave equation. Thus, the nonlinear closure relies fundamentally on structures intrinsic to the Dirac equation. A second main result is the global small-data stability of the Maxwell--Dirac system in the Lorenz gauge on the Schwarzschild background, under a vanishing-charge assumption. This extends the nonlinear stability theory to a genuine gauge-coupled Dirac system and demonstrates the applicability of the spinor-adapted physical-space approach beyond the tensorial wave--Dirac model.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.29406"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learning the open string spectrum with neural networks</title>
       <link>https://arxiv.org/abs/2610.27667</link>

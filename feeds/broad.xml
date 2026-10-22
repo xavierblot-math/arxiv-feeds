@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:14:10 +0000</lastBuildDate>
+    <item>
+      <title>Alternative moduli of twisted curves</title>
+      <link>https://arxiv.org/abs/2610.30069</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.30069</guid>
+      <pubDate>Thu, 22 Oct 2026 11:13:45 +0000</pubDate>
+      <author>Daniel Halpern-Leistner, Andres Fernandez Herrero, Giovanni Inchiostro, Sara Stephens</author>
+      <description>&lt;p&gt;&lt;b&gt;Daniel Halpern-Leistner, Andres Fernandez Herrero, Giovanni Inchiostro, Sara Stephens&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We define new Artin stack compactifications of the moduli of smooth curves, which parameterize &amp;quot;relatively polarized curves&amp;quot; consisting of stacky semistable curves equipped with line bundles that are trivialized away from the rational bridges. Using techniques from birational geometry, we prove that stacks of relatively polarized curves admit the classical coarse space $\overline{M}_g$ of stable curves as a good moduli space. One of our main motivations is a companion paper where we construct a proper moduli space of $\mathrm{SL}_N$-bundles on relatively polarized curves. This suggests the hypothesis that relatively polarized curves are suitable sources for defining Gromov-Witten theory for Artin stack targets.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.30069"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Classical solitons in anti-self-dual Yang-Mills theory</title>
       <link>https://arxiv.org/abs/2610.27074</link>
