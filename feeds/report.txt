@@ -1,9 +1,17 @@
-Last run: 2026-10-22 21:13 UTC
-Announcements downloaded: 176 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-23 11:04 UTC
+Announcements downloaded: 227 (0 category feeds failed)
+New papers stored this run: 6
 
 ag             |   16 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   33 items |   2 new this run
-mathphys       |   12 items |   1 new this run
-topics         |   54 items |   1 new this run
+broad          |   33 items |   0 new this run
+mathphys       |   13 items |   1 new this run
+topics         |   59 items |   5 new this run
+
+Matched this run:
+  Hodge integral                           | Denominators of Hodge integrals and Minkowski numbers
+  r-spin                                   | From Quaternions to Pentarnions I: Algebra, geometry, and a spin model
+  r-spin                                   | String Amplitudes on Integer Rectangles
+  r-spin                                   | Large $N$ hadron scattering bootstrap: massive pions and glueballs
+  r-spin                                   | On Born-Infeld-type higher-spin interactions and supersymmetry
+  Ran Tessler                              | Plabic promotions beyond cluster: quantum cluster structures and the d

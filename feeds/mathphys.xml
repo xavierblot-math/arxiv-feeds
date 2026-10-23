@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:05:15 +0000</lastBuildDate>
+    <item>
+      <title>Plabic promotions beyond cluster: quantum cluster structures and the dual canonical basis</title>
+      <link>https://arxiv.org/abs/2610.31655</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31655</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Jian-Rong Li, Michael Oren Perlstein, Ran J. Tessler</author>
+      <description>&lt;p&gt;&lt;b&gt;Jian-Rong Li, Michael Oren Perlstein, Ran J. Tessler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Ran Tessler · math.RT, hep-th, math.QA · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Plabic tangles define geometric promotion maps between configurations and, after choosing a lift, between Grassmannians. The main conjecture in \cite{Tangles} is that when the tangle is dominant and solvable the induced algebraic promotion is cluster quasi-homomorphism. This work extends the cluster perspective in two directions. First, we initiate the study of quantum promotions. We conjecture that all promotions defined from dominant solvable tangles are naturally lifted to a \emph{quantum cluster quasi homomorphism}, and prove for all cases in the literature that the were shown to be (classical) cluster quasi-homomorphisms. Secondly, we define the notion of cluster-Lusztig quasi-homomorphisms, which are cluster quasi homomorphisms that take Lustig&amp;#x27;s dual canonical basis elements to dual canonical basis element, up to a Laurent monomial in frozen variables, with clearing and normalization chosen uniformly on each content component. We prove the unexpected result that the classical and quantum $m$-unary star promotions fall into this category, and conjecture that all promotions coming from dominant solvable tangles share the same property. We then consider promotions via non solvable cores of intersection number higher than one. We use it to study facets of amplituhedron cells, and to show that some of them do not lie in zero loci of dual canonical basis elements, disproving a conjecture by T. Lam \cite{LamGP}.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31655"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On unitary vertex operator algebras</title>
       <link>https://arxiv.org/abs/2610.29878</link>

@@ -4,7 +4,47 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:05:15 +0000</lastBuildDate>
+    <item>
+      <title>Denominators of Hodge integrals and Minkowski numbers</title>
+      <link>https://arxiv.org/abs/2610.30274</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.30274</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Daniel Holmes</author>
+      <description>&lt;p&gt;&lt;b&gt;Daniel Holmes&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hodge integral · math.AG, math.NT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that the least common denominator of all genus $g$ Hodge integrals is the Minkowski number $T_{2g}$ or, equivalently, the Bhargava factorial $(2g+1)!_{\mathbb{P}}$ associated to the set of primes $\mathbb{P}\subset\mathbb{N}$. As a corollary, we prove a conjecture of Liu-Xu on the multiplicity of $3$ in the least common denominators of certain descendant integrals, and generalise their result on a conjecture of Itzykson-Zuber to Hodge integrals with $\lambda$ classes. Namely, the order of the automorphism group of any pointed stable curve of genus $g&amp;#x27;\le g$ divides the least common denominator of all genus $g$ Hodge integrals. We also comment on the use of generative AI via IMProofBench, which played a fruitful part in the development of this (entirely human-written) paper.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.30274"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Quaternions to Pentarnions I: Algebra, geometry, and a spin model</title>
+      <link>https://arxiv.org/abs/2610.31485</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31485</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Alireza Poshtkohi, Susanne Pumpluen</author>
+      <description>&lt;p&gt;&lt;b&gt;Alireza Poshtkohi, Susanne Pumpluen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.RA, math-ph, math.DS, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a family of five-dimensional non-flexible quadratic real algebras $\{\mathcal A_\gamma\}_{0\leq\gamma\leq1}$ with canonical basis $1,i,j,k,\ell$, in which $\gamma$ changes the multiplication but not their norm, and study how this change affects geometry and dynamics. The algebras are pairwise non-isomorphic, $\mathcal A_0$ contains Hamilton&amp;#x27;s quaternion algebra, and $\mathcal A_1$ is the Pentarnion algebra. The alternating part of the trilinear form $\langle u\times_\gamma v,w\rangle$ induced by the multiplication of $\mathcal{A}_\gamma$ defines a three-dimensional subspace $H_\gamma\subset\operatorname{span}_{\mathbb R}\{i,j,k,\ell\}$, tilted by the angle $\arctan(\gamma/\sqrt3)$, whose rotation group $G_\gamma\cong\mathrm{SO}(3)$ contains the automorphism group of $\mathcal A_\gamma$. For $\gamma_1\ne\gamma_2$ the groups $G_{\gamma_1}$ and $G_{\gamma_2}$ generate $\mathrm{SO}(V)\cong\mathrm{SO}(4)$. For the six ways of ordering and bracketing the product of $i,p,p$ in $\mathcal A_\gamma$, two map the unit circle in ${\rm span}\{j,k\}$ to a point and, for $\gamma&amp;gt;0$, four map it to ellipses. As an application, we derive a Hamiltonian model of a classical spin on $H_\gamma$ whose multiplication-induced quadratic energy is isotropic for $\gamma=0$ and anisotropic for $\gamma&amp;gt;0$. It conserves spin length and, for fixed $\gamma$, energy, and satisfies an exact work identity when $\gamma$ varies in time. Numerical experiments with periodically varying $\gamma$ indicate both regular and irregular spin dynamics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31485"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>String Amplitudes on Integer Rectangles</title>
+      <link>https://arxiv.org/abs/2610.31197</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31197</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Song He, Yong Zhang, Fan Zhu, Pengfei Zhu</author>
+      <description>&lt;p&gt;&lt;b&gt;Song He, Yong Zhang, Fan Zhu, Pengfei Zhu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Hidden zeros of tree-level string amplitudes of colored scalars lie on loci specified by integer-valued dimensionless momentum contractions arranged in rectangles on the kinematic mesh. We study the same kinematic loci for open-string amplitudes with gluons, fermions and higher-spin states at arbitrary finite mass levels. Disk monodromy relations yield $\textit{zero-locus factorization}$: at regular points where the monodromy system is invertible, the amplitude is a weighted sum of physical three-point amplitudes sewn to complete on-shell $(n-1)$-point amplitudes. Hidden zeros follow when the external wavefunctions annihilate all contributing three-point couplings. In the low-energy limit, the massless zero-integer branch recovers the corresponding field-theory factorization. For closed strings, including gravitons, persistent cubic zeros in both chiral sectors remove the disk poles, allowing the Kawai--Lewellen--Tye momentum-kernel zero to imply amplitude zeros. The operator product expansions of external vertices give a common worldsheet origin for these conditions across spins and mass levels.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31197"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Large $N$ hadron scattering bootstrap: massive pions and glueballs</title>
+      <link>https://arxiv.org/abs/2610.31578</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31578</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Sebastiano Bocchia, Andrea Guerrieri</author>
+      <description>&lt;p&gt;&lt;b&gt;Sebastiano Bocchia, Andrea Guerrieri&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We extend the large $N$ bootstrap of pion scattering to nonzero pion mass, and apply the same formalism to glueball scattering. Our bounds apply to Taylor coefficients and on-shell couplings of the exact planar amplitude. They do not rely on a truncated chiral expansion, so we can follow them as the quark mass varies, and apply them to glueballs, for which no low-energy effective theory exists. For pions, we bound the $O(p^4)$ coefficients and the $\pi\pi f_2$ coupling. As in the chiral limit, the bound on the $\pi\pi f_2$ coupling features a kink, where the extracted spectrum closely resembles the real-world meson spectrum. For glueballs, we bound the couplings of the lightest scalar glueball to heavier glueballs of higher spin, using the large $N$ lattice spectrum as input, and find extremal solutions with linear Regge trajectories.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31578"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Born-Infeld-type higher-spin interactions and supersymmetry</title>
+      <link>https://arxiv.org/abs/2610.31652</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31652</guid>
+      <pubDate>Fri, 23 Oct 2026 11:04:50 +0000</pubDate>
+      <author>Nikita Zaigraev</author>
+      <description>&lt;p&gt;&lt;b&gt;Nikita Zaigraev&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a simple Lorentz-covariant construction of the Born--Infeld-type cubic interactions $(s, s_1, s_2)$ of massless higher-spin fields with $s + s_1 + s_2$ derivatives in four-dimensiona flat space. For arbitrary spins $s \ge s_1 \ge s_2$, the vertex is formulated in terms of a conserved higher-spin current and its trace. In contrast to the famous Berends--Burgers--van Dam currents, these currents are constructed from higher-spin Weyl tensors of a single chirality, schematically $J \sim \partial C \partial C$. Starting with a general ansatz, we derive recurrence relations fixing the current coefficients, identify the unique non-trivial conserved current after eliminating trivial (fake) vertices, and show that in the range $s \le s_1 + s_2$ the interaction admits a manifestly gauge-invariant representation in terms of higher-spin Weyl tensors. The construction is then extended to $\mathcal{N}=1$ and $\mathcal{N}=2$ supersymmetry using the corresponding off-shell superfield formalisms. In the $\mathcal{N}=1$ case, we obtain the general conserved integer superspin $s$ supercurrent with manifest supersymmetry, which is bilinear in the Weyl supertensors of superspins $Y_1$ and $Y_2$. For identical superfields, $Y_1 = Y_2$, this supercurrent vanishes for odd $s$ and is in agreement with earlier results by Gates and Koutrolikos. In the $\mathcal{N}=2$ case, using harmonic superspace, we construct the principal higher-spin supercurrent whose coefficients are uniquely fixed by the conservation equations. In contrast to the $\mathcal{N}=0,1$ cases, for identical $\mathcal{N}=2$ superfields, the corresponding vertex does not vanish. The results provide a systematic framework for Born--Infeld-type higher-spin interactions and their supersymmetric extensions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31652"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A spinor-adapted geometric approach to nonlinear Dirac systems on the Schwarzschild black hole background</title>
       <link>https://arxiv.org/abs/2610.29406</link>
