@@ -1,14 +1,9 @@
-Last run: 2026-10-26 12:19 UTC
+Last run: 2026-10-26 22:20 UTC
 Announcements downloaded: 166 (0 category feeds failed)
-New papers stored this run: 3
+New papers stored this run: 0
 
 ag             |   16 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   35 items |   3 new this run
 mathphys       |   13 items |   0 new this run
 topics         |   60 items |   1 new this run
-
-Matched this run:
-  r-spin                                   | Discontinuity at the Pole
-  Gromov-Witten, integrable hierarch       | Defects in Topological Symmetric Orbifolds and their String Dual
-  KdV, Korteweg-de Vries                   | Integrable turbulence and statistical properties of chaotic wave field
