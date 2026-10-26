@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 25 Oct 2026 20:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:19:58 +0000</lastBuildDate>
+    <item>
+      <title>Discontinuity at the Pole</title>
+      <link>https://arxiv.org/abs/2610.31759</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31759</guid>
+      <pubDate>Mon, 26 Oct 2026 12:19:33 +0000</pubDate>
+      <author>Dominik Haslehner, Elena Kaiser, Javi Serra, Andreas Weiler</author>
+      <description>&lt;p&gt;&lt;b&gt;Dominik Haslehner, Elena Kaiser, Javi Serra, Andreas Weiler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, hep-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The exchange of a particle whose mass is taken to zero need not reproduce the exchange of a particle that is strictly massless from the outset. We derive a general on-shell diagnostic of the well-known discontinuity between the exchange of a massless particle and the massless limit of a massive-particle exchange, valid for a mediator of arbitrary integer spin S. Our main observation is that this discontinuity can be identified directly at the level of the pole residue. We find that, in four dimensions, the residue is governed by a Chebyshev polynomial in the massless case and by a Legendre polynomial in the massless limit of the massive case. For S = 2, this reproduces the van Dam-Veltman-Zakharov discontinuity. For general S, it provides a simple and compact higher-spin analogue from on-shell factorisation. The discontinuity is probed, in principle, by the leading post-Newtonian correction to the non-relativistic potential between two massive scalar bodies.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.31759"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Denominators of Hodge integrals and Minkowski numbers</title>
       <link>https://arxiv.org/abs/2610.30274</link>

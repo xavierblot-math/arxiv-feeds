@@ -2713,5 +2713,82 @@
   "seen": "2026-10-23T11:04:50.817482+00:00",
   "summary": "Plabic tangles define geometric promotion maps between configurations and, after choosing a lift, between Grassmannians. The main conjecture in \\cite{Tangles} is that when the tangle is dominant and solvable the induced algebraic promotion is cluster quasi-homomorphism. This work extends the cluster perspective in two directions. First, we initiate the study of quantum promotions. We conjecture that all promotions defined from dominant solvable tangles are naturally lifted to a \\emph{quantum cluster quasi homomorphism}, and prove for all cases in the literature that the were shown to be (classical) cluster quasi-homomorphisms. Secondly, we define the notion of cluster-Lusztig quasi-homomorphisms, which are cluster quasi homomorphisms that take Lustig's dual canonical basis elements to dual canonical basis element, up to a Laurent monomial in frozen variables, with clearing and normalization chosen uniformly on each content component. We prove the unexpected result that the classical and quantum $m$-unary star promotions fall into this category, and conjecture that all promotions coming from dominant solvable tangles share the same property. We then consider promotions via non solvable cores of intersection number higher than one. We use it to study facets of amplituhedron cells, and to show that some of them do not lie in zero loci of dual canonical basis elements, disproving a conjecture by T. Lam \\cite{LamGP}.",
   "title": "Plabic promotions beyond cluster: quantum cluster structures and the dual canonical basis"
+ },
+ "2610.31759": {
+  "announce": "new",
+  "authors": [
+   "Dominik Haslehner",
+   "Elena Kaiser",
+   "Javi Serra",
+   "Andreas Weiler"
+  ],
+  "cats": [
+   "hep-th",
+   "hep-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.31759",
+  "link": "https://arxiv.org/abs/2610.31759",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-26T12:19:33.385517+00:00",
+  "summary": "The exchange of a particle whose mass is taken to zero need not reproduce the exchange of a particle that is strictly massless from the outset. We derive a general on-shell diagnostic of the well-known discontinuity between the exchange of a massless particle and the massless limit of a massive-particle exchange, valid for a mediator of arbitrary integer spin S. Our main observation is that this discontinuity can be identified directly at the level of the pole residue. We find that, in four dimensions, the residue is governed by a Chebyshev polynomial in the massless case and by a Legendre polynomial in the massless limit of the massive case. For S = 2, this reproduces the van Dam-Veltman-Zakharov discontinuity. For general S, it provides a simple and compact higher-spin analogue from on-shell factorisation. The discontinuity is probed, in principle, by the leading post-Newtonian correction to the non-relativistic potential between two massive scalar bodies.",
+  "title": "Discontinuity at the Pole"
+ },
+ "2610.32397": {
+  "announce": "new",
+  "authors": [
+   "Ya-Xin Luo",
+   "Xiao-Wang Lan",
+   "Wei-Qi Peng"
+  ],
+  "cats": [
+   "nlin.SI",
+   "nlin.PS"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2610.32397",
+  "link": "https://arxiv.org/abs/2610.32397",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-10-26T12:19:33.385517+00:00",
+  "summary": "This paper investigates integrable turbulence and the mechanism for generating rogue waves in the complex modified Korteweg--de Vries (mKdV) equation through numerical simulations and statistical analysis. We solve the Lax pair eigenvalue problem using the Fourier collocation method and establish a correspondence among solitons, breathers, and rogue waves on the spectral plane. We generate chaotic wave fields by simulating the complex mKdV equation using the split-step Fourier method, starting from a plane wave with superimposed random noise. We analyze the effects of the standard deviation \\(\\mu\\) and the correlation length \\(L_c\\). The results show that increasing \\(\\mu\\) drives a transition from breather turbulence to soliton turbulence, increasing the probability of rogue-wave generation.In contrast, \\(L_c\\) primarily influences the spatial scale of the structures. As the constant background of the complex mKdV equation is modulationally stable, its integrable turbulence does not depend on modulational instability. Compared with the nonlinear Schr\\\"odinger (NLS) equation under identical initial conditions, the complex mKdV equation attains comparable amplitudes under strong perturbations, but exhibits a higher spatial gradient. This suggests that third-order dispersion and derivative nonlinearity alter the excitation mechanism and steepen the waveform.",
+  "title": "Integrable turbulence and statistical properties of chaotic wave fields in the complex modified Korteweg-de Vries equation"
+ },
+ "2610.32654": {
+  "announce": "new",
+  "authors": [
+   "Jan Troost"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten",
+    "integrable hierarch"
+   ]
+  },
+  "id": "2610.32654",
+  "link": "https://arxiv.org/abs/2610.32654",
+  "matched": [
+   "Gromov-Witten",
+   "integrable hierarch"
+  ],
+  "seen": "2026-10-26T12:19:33.385517+00:00",
+  "summary": "We review defect topological field theories with finite gauge groups. We then concentrate on restriction and induction defects between symmetric orbifold theories and recall that the defects form an algebra. This requires identifying the features of restriction and induction defects that are independent of the order of the symmetric group, which is natural in a grand canonical framework. The construction leads to Khovanov's categorification of the Heisenberg algebra. The bulk algebra of partial permutations corresponds to the endomorphisms of the identity defect in the category. We also interpret the Hurwitz theory defects in the dual Gromov-Witten theory. This gives a defect descendant interpretation to higher level operators that arise in the integrable hierarchy of the Gromov-Witten theory of curves. In further applications, we relate known defects to our symmetric group theoretic description. For seamed surfaces, we determine the boundary operator algebra for higher values of the covering degree n and provide asymptotics for the large n growth of the number of boundary operators.",
+  "title": "Defects in Topological Symmetric Orbifolds and their String Dual"
  }
 }

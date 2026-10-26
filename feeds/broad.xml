@@ -4,7 +4,23 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 25 Oct 2026 20:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:19:58 +0000</lastBuildDate>
+    <item>
+      <title>Defects in Topological Symmetric Orbifolds and their String Dual</title>
+      <link>https://arxiv.org/abs/2610.32654</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.32654</guid>
+      <pubDate>Mon, 26 Oct 2026 12:19:33 +0000</pubDate>
+      <author>Jan Troost</author>
+      <description>&lt;p&gt;&lt;b&gt;Jan Troost&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten, integrable hierarch · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We review defect topological field theories with finite gauge groups. We then concentrate on restriction and induction defects between symmetric orbifold theories and recall that the defects form an algebra. This requires identifying the features of restriction and induction defects that are independent of the order of the symmetric group, which is natural in a grand canonical framework. The construction leads to Khovanov&amp;#x27;s categorification of the Heisenberg algebra. The bulk algebra of partial permutations corresponds to the endomorphisms of the identity defect in the category. We also interpret the Hurwitz theory defects in the dual Gromov-Witten theory. This gives a defect descendant interpretation to higher level operators that arise in the integrable hierarchy of the Gromov-Witten theory of curves. In further applications, we relate known defects to our symmetric group theoretic description. For seamed surfaces, we determine the boundary operator algebra for higher values of the covering degree n and provide asymptotics for the large n growth of the number of boundary operators.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.32654"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrable turbulence and statistical properties of chaotic wave fields in the complex modified Korteweg-de Vries equation</title>
+      <link>https://arxiv.org/abs/2610.32397</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.32397</guid>
+      <pubDate>Mon, 26 Oct 2026 12:19:33 +0000</pubDate>
+      <author>Ya-Xin Luo, Xiao-Wang Lan, Wei-Qi Peng</author>
+      <description>&lt;p&gt;&lt;b&gt;Ya-Xin Luo, Xiao-Wang Lan, Wei-Qi Peng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · nlin.SI, nlin.PS · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This paper investigates integrable turbulence and the mechanism for generating rogue waves in the complex modified Korteweg--de Vries (mKdV) equation through numerical simulations and statistical analysis. We solve the Lax pair eigenvalue problem using the Fourier collocation method and establish a correspondence among solitons, breathers, and rogue waves on the spectral plane. We generate chaotic wave fields by simulating the complex mKdV equation using the split-step Fourier method, starting from a plane wave with superimposed random noise. We analyze the effects of the standard deviation \(\mu\) and the correlation length \(L_c\). The results show that increasing \(\mu\) drives a transition from breather turbulence to soliton turbulence, increasing the probability of rogue-wave generation.In contrast, \(L_c\) primarily influences the spatial scale of the structures. As the constant background of the complex mKdV equation is modulationally stable, its integrable turbulence does not depend on modulational instability. Compared with the nonlinear Schr\&amp;quot;odinger (NLS) equation under identical initial conditions, the complex mKdV equation attains comparable amplitudes under strong perturbations, but exhibits a higher spatial gradient. This suggests that third-order dispersion and derivative nonlinearity alter the excitation mechanism and steepen the waveform.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.32397"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Alternative moduli of twisted curves</title>
       <link>https://arxiv.org/abs/2610.30069</link>
