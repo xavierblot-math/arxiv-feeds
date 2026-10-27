@@ -4,7 +4,23 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:40:09 +0000</lastBuildDate>
+    <item>
+      <title>Uniform asymptotics and the Weil--Petersson constant</title>
+      <link>https://arxiv.org/abs/2610.33752</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33752</guid>
+      <pubDate>Tue, 27 Oct 2026 11:39:44 +0000</pubDate>
+      <author>Kefeng Liu, Hao Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Hao Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In their celebrated work on the large-genus asymptotic expansion of Weil--Petersson volumes, Mirzakhani and Zograf left open the question of whether the Weil--Petersson constant satisfies $C_{\mathrm{WP}}=\pi^{-1/2}$. We resolve the conjecture affirmatively. Our strategy is to consider a family of spectral curves interpolating between $y=z-4z^3$ and $y=\sin(2\pi z)/(2\pi)$. For each fixed number $n\geq2$ of marked points, we normalize the cusp coefficients using the action integral and the derivative at its first positive zero. We prove that the logarithmic derivatives of these normalized coefficients with respect to the family parameter are $O_n(g^{-1})$, uniformly along the family. The proof combines the descendant recursion, positivity, the dilaton equation, KdV, and coefficient asymptotics for the Painlev\&amp;#x27;e I equation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.33752"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Universal polynomials for Gromov-Witten invariants on toric surfaces</title>
+      <link>https://arxiv.org/abs/2610.35122</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35122</guid>
+      <pubDate>Tue, 27 Oct 2026 11:39:44 +0000</pubDate>
+      <author>Yanqiao Ding, Dadi Ni</author>
+      <description>&lt;p&gt;&lt;b&gt;Yanqiao Ding, Dadi Ni&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $\Delta(\mathbf{c},\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\mathbf{c}$ and length vector $\mathbf{d}$ of the $h$-transverse lattice polygon $\Delta(\mathbf{c},\mathbf{d})$ are sufficiently large and spread out. In particular, when the normal fan of the $h$-transverse lattice polygon $\Delta(\mathbf{c},\mathbf{d})$ is smooth and its edges satisfy a length condition, we show that the combined Gromov-Witten invariants are equal to a universal node polynomial. We also show that the higher genus Block-G\&amp;quot;ottsche polynomials of smooth toric surfaces corresponding to these $h$-transverse lattice polygons, including toric blowups beyond Hirzebruch and toric del Pezzo surfaces, are equal to a generating function of higher genus Gromov-Witten invariants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.35122"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Integrable turbulence and statistical properties of chaotic wave fields in the complex modified Korteweg-de Vries equation</title>
       <link>https://arxiv.org/abs/2610.32397</link>

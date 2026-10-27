@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:40:09 +0000</lastBuildDate>
+    <item>
+      <title>Partial Airy ideals and coloured blobbed topological recursion</title>
+      <link>https://arxiv.org/abs/2610.33232</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33232</guid>
+      <pubDate>Tue, 27 Oct 2026 11:39:44 +0000</pubDate>
+      <author>Ga\"etan Borot, Vincent Bouchard, Swagata S. Datta</author>
+      <description>&lt;p&gt;&lt;b&gt;Ga\&amp;quot;etan Borot, Vincent Bouchard, Swagata S. Datta&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Vincent Bouchard · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We define and study the notion of partial Airy ideals, which are certain linear systems of PDEs that may contain less equations than variables. We show that they admit a unique solution of exponential type (the partition function) modulo a choice of initial condition. We construct a large class of examples of partial Airy ideals attached to spectral curves using twisted free-field representations of $\mathcal{W}(\mathfrak{gl}_r)$-algebras at self-dual level. This generalizes the results of Bouchard- Borot-Chidambaram-Creutzig-Noshchenko by significantly enlarging the set of admissible spectral curves, provided they come with additional data that we call colour. We show that the differential constraints on the partition function are equivalent to a set of equations on the associated correlators, which we call coloured loop equations. We find a recursive residue formulation for the solutions of those equations, the coloured blobbed topological recursion}, which is a generalization of the currently known forms of topological recursion. It includes the blobbed topological recursion of Borot-Shadrin as a special case, giving it a natural interpretation within the formalism of partial Airy ideals.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.33232"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Plabic promotions beyond cluster: quantum cluster structures and the dual canonical basis</title>
       <link>https://arxiv.org/abs/2610.31655</link>

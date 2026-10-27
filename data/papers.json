@@ -2790,5 +2790,134 @@
   "seen": "2026-10-26T12:19:33.385517+00:00",
   "summary": "We review defect topological field theories with finite gauge groups. We then concentrate on restriction and induction defects between symmetric orbifold theories and recall that the defects form an algebra. This requires identifying the features of restriction and induction defects that are independent of the order of the symmetric group, which is natural in a grand canonical framework. The construction leads to Khovanov's categorification of the Heisenberg algebra. The bulk algebra of partial permutations corresponds to the endomorphisms of the identity defect in the category. We also interpret the Hurwitz theory defects in the dual Gromov-Witten theory. This gives a defect descendant interpretation to higher level operators that arise in the integrable hierarchy of the Gromov-Witten theory of curves. In further applications, we relate known defects to our symmetric group theoretic description. For seamed surfaces, we determine the boundary operator algebra for higher values of the covering degree n and provide asymptotics for the large n growth of the number of boundary operators.",
   "title": "Defects in Topological Symmetric Orbifolds and their String Dual"
+ },
+ "2610.33232": {
+  "announce": "new",
+  "authors": [
+   "Ga\\\"etan Borot",
+   "Vincent Bouchard",
+   "Swagata S. Datta"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Vincent Bouchard"
+   ],
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2610.33232",
+  "link": "https://arxiv.org/abs/2610.33232",
+  "matched": [
+   "Vincent Bouchard",
+   "topological recursion"
+  ],
+  "seen": "2026-10-27T11:39:44.753296+00:00",
+  "summary": "We define and study the notion of partial Airy ideals, which are certain linear systems of PDEs that may contain less equations than variables. We show that they admit a unique solution of exponential type (the partition function) modulo a choice of initial condition. We construct a large class of examples of partial Airy ideals attached to spectral curves using twisted free-field representations of $\\mathcal{W}(\\mathfrak{gl}_r)$-algebras at self-dual level. This generalizes the results of Bouchard- Borot-Chidambaram-Creutzig-Noshchenko by significantly enlarging the set of admissible spectral curves, provided they come with additional data that we call colour. We show that the differential constraints on the partition function are equivalent to a set of equations on the associated correlators, which we call coloured loop equations. We find a recursive residue formulation for the solutions of those equations, the coloured blobbed topological recursion}, which is a generalization of the currently known forms of topological recursion. It includes the blobbed topological recursion of Borot-Shadrin as a special case, giving it a natural interpretation within the formalism of partial Airy ideals.",
+  "title": "Partial Airy ideals and coloured blobbed topological recursion"
+ },
+ "2610.33752": {
+  "announce": "new",
+  "authors": [
+   "Kefeng Liu",
+   "Hao Xu"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ],
+   "broad": [
+    "KdV"
+   ]
+  },
+  "id": "2610.33752",
+  "link": "https://arxiv.org/abs/2610.33752",
+  "matched": [
+   "KdV",
+   "Kefeng Liu"
+  ],
+  "seen": "2026-10-27T11:39:44.753296+00:00",
+  "summary": "In their celebrated work on the large-genus asymptotic expansion of Weil--Petersson volumes, Mirzakhani and Zograf left open the question of whether the Weil--Petersson constant satisfies $C_{\\mathrm{WP}}=\\pi^{-1/2}$. We resolve the conjecture affirmatively. Our strategy is to consider a family of spectral curves interpolating between $y=z-4z^3$ and $y=\\sin(2\\pi z)/(2\\pi)$. For each fixed number $n\\geq2$ of marked points, we normalize the cusp coefficients using the action integral and the derivative at its first positive zero. We prove that the logarithmic derivatives of these normalized coefficients with respect to the family parameter are $O_n(g^{-1})$, uniformly along the family. The proof combines the descendant recursion, positivity, the dilaton equation, KdV, and coefficient asymptotics for the Painlev\\'e I equation.",
+  "title": "Uniform asymptotics and the Weil--Petersson constant"
+ },
+ "2610.34475": {
+  "announce": "new",
+  "authors": [
+   "O. A. Gelfond",
+   "M. A. Vasiliev"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.34475",
+  "link": "https://arxiv.org/abs/2610.34475",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-10-27T11:39:44.753296+00:00",
+  "summary": "Four versions of the higher-spin gauge theory compatible with $O(4,1)$ de Sitter geometry in presence of fermions are proposed. Two of them exhibit the structure of $\\mathbb{Z}_2\\times \\mathbb{Z}_2$ Lie superalgebra proposed originally by one of the authors for the description of de Sitter supergravity \\cite{Vasiliev:1985vtv}. Two of the proposed models are unitary in the bosonic sectors in analogy with the recent proposal by Lang and Neiman \\cite{Lang:2026inn} and admit a pseudo involution in presence of fermions suggesting possible (anti)unitarity associated either with the time reversal in $dS_4$ or with the space-time doubling.",
+  "title": "Nonlinear Higher-Spin Theory in $O(4,1)$ de Sitter Space"
+ },
+ "2610.35122": {
+  "announce": "new",
+  "authors": [
+   "Yanqiao Ding",
+   "Dadi Ni"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2610.35122",
+  "link": "https://arxiv.org/abs/2610.35122",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-10-27T11:39:44.753296+00:00",
+  "summary": "We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $\\Delta(\\mathbf{c},\\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\\mathbf{c}$ and length vector $\\mathbf{d}$ of the $h$-transverse lattice polygon $\\Delta(\\mathbf{c},\\mathbf{d})$ are sufficiently large and spread out. In particular, when the normal fan of the $h$-transverse lattice polygon $\\Delta(\\mathbf{c},\\mathbf{d})$ is smooth and its edges satisfy a length condition, we show that the combined Gromov-Witten invariants are equal to a universal node polynomial. We also show that the higher genus Block-G\\\"ottsche polynomials of smooth toric surfaces corresponding to these $h$-transverse lattice polygons, including toric blowups beyond Hirzebruch and toric del Pezzo surfaces, are equal to a generating function of higher genus Gromov-Witten invariants.",
+  "title": "Universal polynomials for Gromov-Witten invariants on toric surfaces"
+ },
+ "2610.35350": {
+  "announce": "cross",
+  "authors": [
+   "A Guillin (LMBP)",
+   "W Liu (LMBP)",
+   "B Nectoux (LMBP)",
+   "L Wu (LMBP)"
+  ],
+  "cats": [
+   "math.FA",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "ag": [
+    "Longting Wu"
+   ]
+  },
+  "id": "2610.35350",
+  "link": "https://arxiv.org/abs/2610.35350",
+  "matched": [
+   "Longting Wu"
+  ],
+  "seen": "2026-10-27T11:39:44.753296+00:00",
+  "summary": "We study how a functional inequality satisfied by the one-particle conditional distributions of a Gibbs measure, with a constant independent of the positions of the other particles, can be propagated to the whole N -particle system, with a constant independent of N , when the interaction is singular. Our model is the Coulomb gas on the torus T 3 in the mean-field regime. We distinguish two mechanisms. The first one is a dependent tensorization, governed by Dobrushin-Wu interdependence coefficients. It yields uniform Poincar{\\'e} and transport-information W 2 I inequalities with fully explicit constants. We explain why this mechanism does not extend to the log-Sobolev inequality: the Zegarlinski-type coefficients, which require pointwise bounds on the interaction, are infinite. The second mechanism is a tensorization with a defect. Using a uniform bound on the partition function due to Duerinckx and Jabin, it yields a uniform log-Sobolev inequality for the Coulomb gas on T 3 at small charge. We identify the assumptions on the interaction under which each mechanism applies. All the results are then extended to the two-dimensional Coulomb gas and to periodic Riesz gases 1/|x|^s , 0 < s $\\le$ 1. The extension to d $\\ge$ 4 is also discussed.",
+  "title": "From one particle to N particles: uniform transport-information and log-Sobolev inequalities for Coulomb gases on the torus"
  }
 }
