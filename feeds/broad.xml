@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:11:36 +0000</lastBuildDate>
+    <item>
+      <title>Effective Gromov-Witten computations for GKM spaces and a semisimple application</title>
+      <link>https://arxiv.org/abs/2610.37273</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37273</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>Daniel Holmes, Giosu\`e Muratore</author>
+      <description>&lt;p&gt;&lt;b&gt;Daniel Holmes, Giosu\`e Muratore&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math.SG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We report a major update to our original software GKMtools and record multiple improvements in the computation of Gromov--Witten invariants of GKM spaces. This includes a refined divisor equation that reduces the complexity from exponential to linear in the number of marked points, three tricks to accelerate the computation of curve class relations in the GKM graph, and an implementation of Mihalcea&amp;#x27;s algorithm for homogeneous varieties using the equivariant quantum Chevalley formula. As an application, we prove that the small quantum cohomology of the type-$E$ generalized Grassmannians $E_7/P_2,E_7/P_4,E_7/P_5,E_8/P_6$ is generically semisimple. These are precisely the remaining exceptional Grassmannians for which generic semisimplicity of small quantum cohomology was still unknown.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.37273"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Uniform asymptotics and the Weil--Petersson constant</title>
       <link>https://arxiv.org/abs/2610.33752</link>

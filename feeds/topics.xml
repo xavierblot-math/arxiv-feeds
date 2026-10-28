@@ -4,7 +4,31 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:11:36 +0000</lastBuildDate>
+    <item>
+      <title>Tropical spin Hurwitz numbers</title>
+      <link>https://arxiv.org/abs/2610.36390</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36390</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>Lou-Jean Leila Cobigo, Marvin Anas Hahn</author>
+      <description>&lt;p&gt;&lt;b&gt;Lou-Jean Leila Cobigo, Marvin Anas Hahn&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hurwitz number, r-spin · math.AG, math.CO · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a tropical framework for the study of spin Hurwitz numbers and their completed cycles analogues. We use degeneration techniques to obtain an interpretation of spin Hurwitz numbers via tropical covers. We employ the tropical methods to obtain new closed formulae for spin Hurwitz numbers in special cases. Moreover, we employ Fock space techniques to tropicalise completed cycles spin Hurwitz numbers. Using this, we prove that spin Hurwitz numbers admit a piecewise polynomial structure akin to their classical counterparts. We also derive wall--crossing formulae.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.36390"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection equations and Littlewood identities for spin Hall-Littlewood and $q$-Whittaker functions</title>
+      <link>https://arxiv.org/abs/2610.36644</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36644</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>Svetlana Gavrilova, Sergei Korotkikh</author>
+      <description>&lt;p&gt;&lt;b&gt;Svetlana Gavrilova, Sergei Korotkikh&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.CO, math-ph, math.MP, math.QA · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We describe two-parametric Littlewood identities for inhomogeneous stable spin Hall-Littlewood and inhomogeneous spin $q$-Whittaker symmetric functions. These identities generalize the Littlewood identity found by Warnaar (2006) for the ordinary Hall-Littlewood polynomials. However, instead of Rogers-Szeg\&amp;quot;o coefficients used by Warnaar, coefficients in our identities are given by products of Al-Salam-Chihara polynomials. Our proof relies on integrable lattice models. A key step includes three new solutions to the reflection and boundary equations for the fully fused six-vertex model. To find these solutions we use isomorphisms between tensor products of evaluation $U_q(L\mathfrak{sl}_2)$-modules, as well as covectors stable under a $q$-Onsager coideal subalgebra.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.36644"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scattering amplitudes from geometry of kernel-free functionals on piecewise random null paths with memory</title>
+      <link>https://arxiv.org/abs/2610.37064</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37064</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>Hiren Kakkad, Piotr Kotko</author>
+      <description>&lt;p&gt;&lt;b&gt;Hiren Kakkad, Piotr Kotko&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, hep-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a simple functional of algebra-valued fields with definite Lorentz properties that is kernel-free yet it encodes the structure of tree-level scattering amplitudes. The fields are evaluated at the points of a piece-wise straight paths in the anti-self-dual plane of complexified Minkowski space, with the directions of consecutive segments correlated so that the path has a velocity memory. We show that momentum-space reduction of the functional generates the cyclic Parke--Taylor factor, off shell in terms of light-front bilinears and on shell in terms of spinor brackets. The same reduction, organized differently, can be naturally promoted to twistor space without any twistor-space input: a closed cyclic chain of Penrose transforms on a twistor line, in which the Parke--Taylor denominators arise as boundary terms of the integrals along the paths. Finally we show that derivatives with respect to one of the path parameter generate numerators that together with the Parke-Taylor denominator build scattering amplitudes. Lorentz invariance fixes the spins of the inserted fields and the homogeneities of the corresponding twistor functions without any use of supersymmetry. The three-point outputs reproduce the kinematic forms of the light-cone cubic vertices of chiral higher-spin theory, and the derivative monomials of order four generate the components of the $\overline{\rm MHV}$ supermultiplet of $\mathcal N=4$ super Yang--Mills theory, off shell and on shell.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.37064"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Partial Airy ideals and coloured blobbed topological recursion</title>
       <link>https://arxiv.org/abs/2610.33232</link>

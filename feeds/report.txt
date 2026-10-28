@@ -1,9 +1,16 @@
-Last run: 2026-10-27 21:50 UTC
-Announcements downloaded: 386 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-28 12:11 UTC
+Announcements downloaded: 280 (0 category feeds failed)
+New papers stored this run: 5
 
-ag             |   18 items |   2 new this run
+ag             |   18 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   37 items |   2 new this run
-mathphys       |   14 items |   1 new this run
-topics         |   62 items |   2 new this run
+broad          |   38 items |   1 new this run
+mathphys       |   16 items |   2 new this run
+topics         |   65 items |   3 new this run
+
+Matched this run:
+  Di Yang                                  | Geometric priors for single-patch neural Calabi--Yau metrics on the qu
+  Hurwitz number, Marvin Anas Hahn, r-spin | Tropical spin Hurwitz numbers
+  Gromov-Witten                            | Effective Gromov-Witten computations for GKM spaces and a semisimple a
+  r-spin                                   | Reflection equations and Littlewood identities for spin Hall-Littlewoo
+  r-spin                                   | Scattering amplitudes from geometry of kernel-free functionals on piec

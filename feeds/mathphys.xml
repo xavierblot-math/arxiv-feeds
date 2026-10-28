@@ -4,7 +4,23 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:11:36 +0000</lastBuildDate>
+    <item>
+      <title>Geometric priors for single-patch neural Calabi--Yau metrics on the quintic: a conservative fixed-$\psi$ Ablation study</title>
+      <link>https://arxiv.org/abs/2610.35920</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35920</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>D Yang Eng</author>
+      <description>&lt;p&gt;&lt;b&gt;D Yang Eng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Di Yang · math.AG, cs.LG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We investigate how geometric priors shape neural approximations of the complex Monge--Amp`ere equation on the quintic Calabi--Yau threefold. This fixed-$\psi$ diagnostic compares four single-patch ans&amp;quot;atze: a coordinate SIREN potential model, a direct-metric Cholesky baseline, an algebraic section ansatz, and a section-plus-neural hybrid. In a 96-run learning-rate and frequency archive, section-based models reach validation $\sigma=4.14$--$4.16%$, whereas SIREN and Cholesky remain at $41.29%$ and $44.27%$. Multi-seed controls use a shared affine-$\eta$ evaluator and five fresh validation clouds. Stable section settings give $3.84$--$4.77%$, compared with $28.46$--$30.59%$ for Cholesky and $34.73$--$38.13%$ for SIREN. Hybrid projective features do not improve best-case accuracy, but they stabilise the stressed regime. They limit $\sigma$ to $4.26$--$4.41%$, versus $4.45$--$205.45%$ for raw coordinates. Within this protocol, section-based geometric structure is the main driver of accuracy; coordinate-only models plateau at substantially higher error, and raw hybrid flexibility can amplify instability. We provide a projective-scaling derivation, document protocol asymmetries, and identify projectively consistent hybrid corrections as the next step.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.35920"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tropical spin Hurwitz numbers</title>
+      <link>https://arxiv.org/abs/2610.36390</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36390</guid>
+      <pubDate>Wed, 28 Oct 2026 12:11:11 +0000</pubDate>
+      <author>Lou-Jean Leila Cobigo, Marvin Anas Hahn</author>
+      <description>&lt;p&gt;&lt;b&gt;Lou-Jean Leila Cobigo, Marvin Anas Hahn&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Marvin Anas Hahn · math.AG, math.CO · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We introduce a tropical framework for the study of spin Hurwitz numbers and their completed cycles analogues. We use degeneration techniques to obtain an interpretation of spin Hurwitz numbers via tropical covers. We employ the tropical methods to obtain new closed formulae for spin Hurwitz numbers in special cases. Moreover, we employ Fock space techniques to tropicalise completed cycles spin Hurwitz numbers. Using this, we prove that spin Hurwitz numbers admit a piecewise polynomial structure akin to their classical counterparts. We also derive wall--crossing formulae.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.36390"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Partial Airy ideals and coloured blobbed topological recursion</title>
       <link>https://arxiv.org/abs/2610.33232</link>
