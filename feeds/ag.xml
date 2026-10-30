@@ -4,7 +4,39 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:13:11 +0000</lastBuildDate>
+    <item>
+      <title>Pointed Hurwitz--Brill--Noether theory</title>
+      <link>https://arxiv.org/abs/2610.38023</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.38023</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Andrei Bud, Richard Haburcak</author>
+      <description>&lt;p&gt;&lt;b&gt;Andrei Bud, Richard Haburcak&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Andrei Bud · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the geometry of Hurwitz--Brill--Noether spaces with vanishing conditions at a totally ramified point. Degeneration to a curve with an elliptic tail simplifies the combinatorics of Larson, Larson--Larson--Vogt, and Aggarwal, giving inductive proofs of Aggarwal&amp;#x27;s results in the one-point setting, and yields an efficient recursion for the algebraic Euler characteristics. Finally, when the expected dimension is negative, we give a numerical criterion ensuring the universal Hurwitz--Brill--Noether locus admits a component of expected relative dimension, generically finite over its image in the Hurwitz space, analogous to the existing results of Pflueger and Teixidor i Bigas for classical Brill--Noether loci.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.38023"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transverse rational curves and the homogeneity of contact Fano manifolds</title>
+      <link>https://arxiv.org/abs/2610.38736</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.38736</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Zhengyu Hu, Kefeng Liu, Xueyuan Wan</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhengyu Hu, Kefeng Liu, Xueyuan Wan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove that every smooth complex projective contact Fano manifold is homogeneous under its connected contact automorphism group. The argument extends and simplifies the incidence method of our earlier proof of the LeBrun--Salamon conjecture. After the classical reductions, balanced transverse rational maps through every point yield tangent sections extending across the nodal boundary. These establish irreducibility and nonlinearity of the general variety of minimal rational tangents associated with contact lines, enabling Hwang&amp;#x27;s descent theorem to produce global vector fields generating the tangent bundle. Consequences include very ampleness of the contact line bundle, embeddedness of every balanced rational map, K\&amp;quot;ahler--Einstein existence, K-polystability, and the LeBrun--Salamon conjecture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.38736"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The inverse local-relative correspondence and the Nekrasov--Shatashvili vanishing blowup equation</title>
+      <link>https://arxiv.org/abs/2610.39127</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39127</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Jianjun Fu, Shuai Guo, Qingsheng Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Jianjun Fu, Shuai Guo, Qingsheng Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Shuai Guo · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the Nekrasov--Shatashvili vanishing blowup equation for the local Gromov--Witten theory of smooth weak del Pezzo surfaces, by identifying its unique formal solution with the inverse of the local-relative correspondence. We construct this inverse through an associative set-partition convolution and establish the identification using Zagier&amp;#x27;s recursion for the Bloch--Okounkov $n$-point function. The proof applies in all genera and includes non-toric surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.39127"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Balancing tautological intersection numbers</title>
+      <link>https://arxiv.org/abs/2610.39462</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39462</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Kefeng Liu, Hao Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Hao Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the three balancing inequalities conjectured by the authors about 20 years ago: moving one unit from a larger index to a smaller one cannot decrease a mixed tautological intersection number, whether the two distinguished insertions are psi classes, kappa classes, or Hodge Chern classes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.39462"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Uniform asymptotics and the Weil--Petersson constant</title>
       <link>https://arxiv.org/abs/2610.33752</link>

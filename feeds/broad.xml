@@ -4,7 +4,23 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:13:11 +0000</lastBuildDate>
+    <item>
+      <title>The inverse local-relative correspondence and the Nekrasov--Shatashvili vanishing blowup equation</title>
+      <link>https://arxiv.org/abs/2610.39127</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39127</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Jianjun Fu, Shuai Guo, Qingsheng Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Jianjun Fu, Shuai Guo, Qingsheng Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the Nekrasov--Shatashvili vanishing blowup equation for the local Gromov--Witten theory of smooth weak del Pezzo surfaces, by identifying its unique formal solution with the inverse of the local-relative correspondence. We construct this inverse through an associative set-partition convolution and establish the identification using Zagier&amp;#x27;s recursion for the Bloch--Okounkov $n$-point function. The proof applies in all genera and includes non-toric surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.39127"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resurgence and Modularity in the First Painlev\'e Equation</title>
+      <link>https://arxiv.org/abs/2610.38584</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.38584</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Kohei Iwaki, Noam Tamarin</author>
+      <description>&lt;p&gt;&lt;b&gt;Kohei Iwaki, Noam Tamarin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For the first Painlev\&amp;#x27;e equation, we relate three nonlinear Stokes maps associated with a full turn around infinity to modular transformations of the two-parameter tau function through the identity $\boldsymbol S_\pi\circ\boldsymbol S_0\circ \boldsymbol S_{-\pi}=\mathsf S\circ\mathsf T$. Here the subscripts label Borel directions, while $\mathsf S$ and $\mathsf T$ denote the modular generators. Working under the analytic assumptions of the topological recursion and exact WKB constructions, we compare Stokes multipliers of the associated isomonodromy system while tracking the homology basis of its elliptic spectral curve under rotations of the independent variable. For the sectors considered, we identify the known parameter transformation induced by an $8\pi/5$ rotation with the modular $T$-action and derive a new explicit parameter relation realizing the $S$-action for a $2\pi/5$ rotation. We also determine the multiplicative factors in the corresponding tau-function relations, including their normalization constants. Together, these results give an explicit realization of single-valuedness after one full turn around infinity for both the Painlev\&amp;#x27;e transcendent and its tau function, with the tau-function prefactors cancelling by Abel&amp;#x27;s five-term identity for the Rogers dilogarithm.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.38584"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Effective Gromov-Witten computations for GKM spaces and a semisimple application</title>
       <link>https://arxiv.org/abs/2610.37273</link>

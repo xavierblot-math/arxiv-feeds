@@ -1,9 +1,31 @@
-Last run: 2026-10-29 22:28 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-10-30 12:12 UTC
+Announcements downloaded: 434 (0 category feeds failed)
+New papers stored this run: 20
 
-ag             |   18 items |   0 new this run
+ag             |   22 items |   4 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   38 items |   0 new this run
-mathphys       |   16 items |   0 new this run
-topics         |   65 items |   0 new this run
+broad          |   40 items |   2 new this run
+mathphys       |   17 items |   2 new this run
+topics         |   80 items |  16 new this run
+
+Matched this run:
+  Andrei Bud                               | Pointed Hurwitz--Brill--Noether theory
+  Kefeng Liu                               | Transverse rational curves and the homogeneity of contact Fano manifol
+  Gromov-Witten, Shuai Guo                 | The inverse local-relative correspondence and the Nekrasov--Shatashvil
+  Kefeng Liu                               | Balancing tautological intersection numbers
+  r-spin                                   | Twinor Theory: Field Equations from $(A)dS_4^{\mathbb C}$ Spin-Tractor
+  star product                             | The Geometry of Quantum Teleportation in Phase Space
+  resurgence, tau function, topological recursion | Resurgence and Modularity in the First Painlev\'e Equation
+  r-spin                                   | Generalized Symmetries of QED$_4$ on Non-Spin Manifolds
+  r-spin                                   | Irreducible representations of $SU(3)$ for nucleons in a oscillator sh
+  r-spin                                   | Going deep, reaching further: What can Boltzmann machines efficiently 
+  r-spin                                   | Transport in spinful non-Hermitian gauge lattices
+  Jan-Willem van Ittersum                  | Quasimodularity of $q$-series associated to root lattices
+  r-spin                                   | Holomorphic fermions in $\text{AdS}_{2}$
+  r-spin                                   | Near-horizon BF bounds for the $t^+$ KK tower on extremal AdS$_5$ blac
+  r-spin                                   | Bootstrapping Wilson lines in Critical Bosonic QED$_3$ Part 1: Large-$
+  r-spin                                   | On functional classes in higher-spin theory
+  quantum curve                            | Quantum curves of 6d SCFTs on a -3 curve
+  r-spin                                   | $\mathcal{N}=2$ conformal higher-spin actions in harmonic superspace
+  r-spin                                   | Gauge-parameter cancellation and finite form factors in one-loop quark
+  r-spin                                   | Heavy-Particle Effective Theory: from On-Shell Formalism to Gravitatio

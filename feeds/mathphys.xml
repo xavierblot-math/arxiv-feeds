@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:13:11 +0000</lastBuildDate>
+    <item>
+      <title>Quasimodularity of $q$-series associated to root lattices</title>
+      <link>https://arxiv.org/abs/2610.40034</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40034</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+      <author>Antun Milas, Jan-Willem M. van Ittersum</author>
+      <description>&lt;p&gt;&lt;b&gt;Antun Milas, Jan-Willem M. van Ittersum&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Jan-Willem van Ittersum · math.NT, math.CO, math.RT · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Motivated by conjectures arising in part from the study of class-$\mathcal{S}$ vertex algebras associated with four-dimensional supersymmetric field theories, we study multiple $q$-zeta functions attached to finite-dimensional simple Lie algebras. We prove their conjectured quasimodularity for all classical Lie algebras of types $A$, $B$, $C$, and $D$, as well as a more general Weyl-symmetrized version in which the exponents attached to the positive roots are allowed to vary, under a suitable parity condition. Our proof is based on a substantially more general result. We introduce new combinatorial objects, called sets of level one and pairs of level two, which generalize the configurations arising from classical root systems. To these we associate multivariable lattice sums and prove that, under a natural admissibility condition, they are Fourier expansions of polar quasi-Jacobi forms of level one and level two, respectively. Quasimodularity of the Lie-theoretic $q$-series follows by specialization of the elliptic variables. The positive roots of type $A$ form a set of level one, and those of types $B$, $C$, and $D$ are described by pairs of level two. The proof combines a structural analysis of these new combinatorial configurations with reduction procedures and induction on the rank. The resulting framework applies to a much wider class of lattice sums than those coming from root systems and supports more general quasimodularity conjectures for $q$-series associated with integral hyperplane arrangements.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.40034"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Geometric priors for single-patch neural Calabi--Yau metrics on the quintic: a conservative fixed-$\psi$ Ablation study</title>
       <link>https://arxiv.org/abs/2610.35920</link>
