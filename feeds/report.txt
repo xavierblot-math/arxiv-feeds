@@ -1,9 +1,9 @@
-Last run: 2026-10-30 21:57 UTC
-Announcements downloaded: 434 (0 category feeds failed)
+Last run: 2026-10-31 11:44 UTC
+Announcements downloaded: 0 (0 category feeds failed)
 New papers stored this run: 0
 
-ag             |   22 items |   4 new this run
+ag             |   22 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   40 items |   2 new this run
-mathphys       |   17 items |   2 new this run
-topics         |   80 items |  16 new this run
+broad          |   40 items |   0 new this run
+mathphys       |   17 items |   0 new this run
+topics         |   80 items |   0 new this run
