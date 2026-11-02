@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:52:33 +0000</lastBuildDate>
+    <item>
+      <title>Elliptic soliton solutions of lattice eigenfunction equations of the KdV type</title>
+      <link>https://arxiv.org/abs/2610.41088</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.41088</guid>
+      <pubDate>Mon, 02 Nov 2026 14:52:08 +0000</pubDate>
+      <author>Xing Li, Ying Shi, Da-jun Zhang, Ruixiao Zhu</author>
+      <description>&lt;p&gt;&lt;b&gt;Xing Li, Ying Shi, Da-jun Zhang, Ruixiao Zhu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · nlin.SI · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;It is known that some integrable lattice equations can be formulated by the eigenfunctions of the Lax triplet of the lattice potential Korteweg-de Vries (lpKdV) equation; the eigenfunctions satisfy a discrete Abel formula in which the `integration&amp;#x27; constant defines the $\delta$ parameter in some equations in the Adler-Bobenko-Suris (ABS) classification. In this paper, we present a full Darboux transformation for the Lax triplet of the lpKdV equation, and eigenfunctions are formulated in terms of Casoratians. When the eigenfunctions take the elementary discrete Lam\&amp;#x27;e functions, we get the elliptic $N$-soliton solution for the lpKdV equation after $N$-fold Darboux transformation. We then determine the constant in the discrete Abel formula in this case. The eigenfunctions are used to formulate elliptic $N$-soliton solutions for various equations in the ABS list, such as H3($\delta$), $Q1(\Delta)$, Q2 and Q3($\Delta$) equations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.41088"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Resurgence and Modularity in the First Painlev\'e Equation</title>
       <link>https://arxiv.org/abs/2610.38584</link>

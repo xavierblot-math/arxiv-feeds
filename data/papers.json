@@ -3544,5 +3544,77 @@
   "seen": "2026-10-30T12:12:46.178835+00:00",
   "summary": "Twinor theory is formulated as a spacetime-based counterpart to twistor theory using holomorphic reductive Cartan geometry modelled on complexified $(A)dS_4$. The fundamental spin-tractor bundle defines Dirac twinors, its symmetric powers define ladder twinors, and their extremal Lorentz components define chiral twinors. The general \\textit{twinor field equation} is $D\\mathbf Y=\\mathbf J$. Its adjacent contractions and mixed divergence are constrained by source relations; no additional equation is imposed on its completely symmetric projection. On a flat torsion-free Lorentzian background, the adjacent equations with the mass-normalization source and vanishing additional contracted sources, together with vanishing mixed divergence, reproduce the massive \\textit{Dirac--Fierz--Pauli system}; the massless chiral realization gives the zero-rest-mass equations. Within the fixed mass normalization, the reality condition yielding a positive real mass squared is the \\textit{anti-de Sitter reality condition} on the particle scale, independently of the cosmological scale and background curvature. The mass-coupling phase is therefore present in the classical connection before quantization. Nonlinear gravity is formulated through the full adjoint curvature, with energy--momentum and spin currents specifying Einstein--Cartan dynamics without requiring an action. The adjoint Bianchi identity constrains source compatibility, while a BGG-type sequence organizes torsion-free infinitesimal deformations. Matter interactions enter through the coupled connection and contracted source relations, with curvature compatibility recorded by $D\\mathbf J=\\mathcal F_D\\mathbf Y$. Both chiralities are retained, and the additional consistency requirements for interacting higher-spin fields are distinguished from the underlying bundle construction.",
   "title": "Twinor Theory: Field Equations from $(A)dS_4^{\\mathbb C}$ Spin-Tractors: A Twin to Twistor Theory Modelled on $(A)dS_4^{\\mathbb C}$"
+ },
+ "2610.40878": {
+  "announce": "new",
+  "authors": [
+   "Kevin Nguyen"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.40878",
+  "link": "https://arxiv.org/abs/2610.40878",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-02T14:52:08.834958+00:00",
+  "summary": "Building on Part I of this series, where we described the emergence of massive scattering states, we demonstrate how unitary lowest-weight representations $\\mathcal D(\\Delta,s)$ of the conformal group with fixed dimension $\\Delta$ and arbitrary integer spin $s$ contract to massless Poincar\\'e particle representations. This requires combining the In\\\"on\\\"u--Wigner contraction $\\mathfrak{so}(2,3) \\to \\mathfrak{iso}(1,3)$ with an infinite boost, in which case massless scattering states naturally emerge in a carrollian basis. For $\\Delta>s+1$, we find that $\\mathcal D(\\Delta,s)$ contracts to the direct sum of massless particles of all spins $s'\\leq s$. At the unitarity bound, lower-spin states become null so that $\\mathcal D(s+1,s)$ contracts to a single massless particle representation carrying the two maximal helicities $J=\\pm s$. In both cases, the inner product converges to the Poincar\\'e-invariant one after a single helicity-independent rescaling, so that unitarity is preserved throughout the contraction.",
+  "title": "Hilbert space in the flat limit of AdS/CFT. II. Massless particles"
+ },
+ "2610.41088": {
+  "announce": "new",
+  "authors": [
+   "Xing Li",
+   "Ying Shi",
+   "Da-jun Zhang",
+   "Ruixiao Zhu"
+  ],
+  "cats": [
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2610.41088",
+  "link": "https://arxiv.org/abs/2610.41088",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-02T14:52:08.834958+00:00",
+  "summary": "It is known that some integrable lattice equations can be formulated by the eigenfunctions of the Lax triplet of the lattice potential Korteweg-de Vries (lpKdV) equation; the eigenfunctions satisfy a discrete Abel formula in which the `integration' constant defines the $\\delta$ parameter in some equations in the Adler-Bobenko-Suris (ABS) classification. In this paper, we present a full Darboux transformation for the Lax triplet of the lpKdV equation, and eigenfunctions are formulated in terms of Casoratians. When the eigenfunctions take the elementary discrete Lam\\'e functions, we get the elliptic $N$-soliton solution for the lpKdV equation after $N$-fold Darboux transformation. We then determine the constant in the discrete Abel formula in this case. The eigenfunctions are used to formulate elliptic $N$-soliton solutions for various equations in the ABS list, such as H3($\\delta$), $Q1(\\Delta)$, Q2 and Q3($\\Delta$) equations.",
+  "title": "Elliptic soliton solutions of lattice eigenfunction equations of the KdV type"
+ },
+ "2610.41344": {
+  "announce": "new",
+  "authors": [
+   "Genki Ouchi",
+   "Tomoki Yoshida"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2610.41344",
+  "link": "https://arxiv.org/abs/2610.41344",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-02T14:52:08.834958+00:00",
+  "summary": "This paper proves that the Bridgeland stability manifold $\\mathrm{Stab}(X)$ has infinitely many connected components for general quintic threefolds, other general complete intersection Calabi--Yau threefolds, certain odd-dimensional Calabi--Yau varieties, and certain rational weak Fano varieties. Moreover, we show that the geometric locus $\\mathrm{Stab}^{\\mathrm{geo}}(X)$ meets distinct connected components of $\\mathrm{Stab}(X)$ for general quintic threefolds and their products with varieties with finite Albanese morphisms, which gives examples in any dimension at least three. For the weak Fano examples, we also construct semiorthogonal decompositions in infinitely many braid group orbits. The proof is an extension of Nordskova's argument to families, using semilinear autoequivalences and absolute Galois actions on geometric generic fibers to permute mutually orthogonal spherical objects. Then, we specialize the separation to closed fibers. In our examples, the spherical objects are constructed from rigid rational curves or spinor bundles on quadrics.",
+  "title": "Disconnectedness of stability manifolds and their geometric loci, and separation of braid orbits of semiorthogonal decompositions"
  }
 }

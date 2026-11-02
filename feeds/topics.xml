@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:52:33 +0000</lastBuildDate>
+    <item>
+      <title>Disconnectedness of stability manifolds and their geometric loci, and separation of braid orbits of semiorthogonal decompositions</title>
+      <link>https://arxiv.org/abs/2610.41344</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.41344</guid>
+      <pubDate>Mon, 02 Nov 2026 14:52:08 +0000</pubDate>
+      <author>Genki Ouchi, Tomoki Yoshida</author>
+      <description>&lt;p&gt;&lt;b&gt;Genki Ouchi, Tomoki Yoshida&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This paper proves that the Bridgeland stability manifold $\mathrm{Stab}(X)$ has infinitely many connected components for general quintic threefolds, other general complete intersection Calabi--Yau threefolds, certain odd-dimensional Calabi--Yau varieties, and certain rational weak Fano varieties. Moreover, we show that the geometric locus $\mathrm{Stab}^{\mathrm{geo}}(X)$ meets distinct connected components of $\mathrm{Stab}(X)$ for general quintic threefolds and their products with varieties with finite Albanese morphisms, which gives examples in any dimension at least three. For the weak Fano examples, we also construct semiorthogonal decompositions in infinitely many braid group orbits. The proof is an extension of Nordskova&amp;#x27;s argument to families, using semilinear autoequivalences and absolute Galois actions on geometric generic fibers to permute mutually orthogonal spherical objects. Then, we specialize the separation to closed fibers. In our examples, the spherical objects are constructed from rigid rational curves or spinor bundles on quadrics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.41344"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hilbert space in the flat limit of AdS/CFT. II. Massless particles</title>
+      <link>https://arxiv.org/abs/2610.40878</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40878</guid>
+      <pubDate>Mon, 02 Nov 2026 14:52:08 +0000</pubDate>
+      <author>Kevin Nguyen</author>
+      <description>&lt;p&gt;&lt;b&gt;Kevin Nguyen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Building on Part I of this series, where we described the emergence of massive scattering states, we demonstrate how unitary lowest-weight representations $\mathcal D(\Delta,s)$ of the conformal group with fixed dimension $\Delta$ and arbitrary integer spin $s$ contract to massless Poincar\&amp;#x27;e particle representations. This requires combining the In\&amp;quot;on\&amp;quot;u--Wigner contraction $\mathfrak{so}(2,3) \to \mathfrak{iso}(1,3)$ with an infinite boost, in which case massless scattering states naturally emerge in a carrollian basis. For $\Delta&amp;gt;s+1$, we find that $\mathcal D(\Delta,s)$ contracts to the direct sum of massless particles of all spins $s&amp;#x27;\leq s$. At the unitarity bound, lower-spin states become null so that $\mathcal D(s+1,s)$ contracts to a single massless particle representation carrying the two maximal helicities $J=\pm s$. In both cases, the inner product converges to the Poincar\&amp;#x27;e-invariant one after a single helicity-independent rescaling, so that unitarity is preserved throughout the contraction.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2610.40878"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Holomorphic fermions in $\text{AdS}_{2}$</title>
       <link>https://arxiv.org/abs/2610.37762</link>

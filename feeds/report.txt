@@ -1,9 +1,14 @@
-Last run: 2026-11-01 21:43 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-02 14:52 UTC
+Announcements downloaded: 202 (0 category feeds failed)
+New papers stored this run: 3
 
 ag             |   22 items |   0 new this run
 amplituhedron  |    2 items |   0 new this run
-broad          |   40 items |   0 new this run
+broad          |   41 items |   1 new this run
 mathphys       |   17 items |   0 new this run
-topics         |   80 items |   0 new this run
+topics         |   82 items |   2 new this run
+
+Matched this run:
+  r-spin                                   | Disconnectedness of stability manifolds and their geometric loci, and 
+  r-spin                                   | Hilbert space in the flat limit of AdS/CFT. II. Massless particles
+  KdV, Korteweg-de Vries                   | Elliptic soliton solutions of lattice eigenfunction equations of the K
