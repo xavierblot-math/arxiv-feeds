@@ -1,22 +1,9 @@
-Last run: 2026-11-03 13:41 UTC
+Last run: 2026-11-03 22:56 UTC
 Announcements downloaded: 495 (0 category feeds failed)
-New papers stored this run: 11
+New papers stored this run: 0
 
 ag             |   27 items |   5 new this run
 amplituhedron  |    2 items |   0 new this run
 broad          |   44 items |   3 new this run
 mathphys       |   19 items |   2 new this run
 topics         |   89 items |   7 new this run
-
-Matched this run:
-  Givental, Gromov-Witten, Yannik Schuler  | Gromov-Witten theory of the local model of the standard flop
-  Samuel Grushevsky                        | The Coxeter-Todd abelian sixfold, Gamma00, and big Schottky
-  Gromov-Witten                            | Universal Curve Counting in Calabi-Yau 4-folds
-  Shuai Guo, quantum curve, topological recursion | Canonical quantum curve I
-  Jian Zhou, topological recursion         | Eynard-Orantin Topological Recursions for Higher Weil-Petersson Volume
-  Jian Zhou, Witten-Kontsevich, topological recursion | On Emergent Geometry of the Generalized BGW Theory
-  Hurwitz number, tau function             | Correlators of the Jacobi Unitary Ensemble on a General Interval and H
-  r-spin                                   | Free energy of 2-spin spherical vector spin glasses
-  Pierrick Bousseau                        | 5d SCFTs and Intersection Theory of Generalized Toric Threefolds
-  r-spin                                   | An Amplitudes Approach to Spinning Black Hole Scattering
-  Kefeng Liu                               | A proof of the spectral rigidity for complex projective space
