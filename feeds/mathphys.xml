@@ -4,7 +4,23 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:42:08 +0000</lastBuildDate>
+    <item>
+      <title>Eynard-Orantin Topological Recursions for Higher Weil-Petersson Volumes on Moduli Spaces of Super Riemann Surfaces</title>
+      <link>https://arxiv.org/abs/2611.01497</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.01497</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Jian Zhou · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive an Eynard-Orantin topological recursion for intersection numbers involving Norbury&amp;#x27;s $\Theta$-class together with $\psi$-classes and higher $\kappa$-classes. These intersection numbers encode higher Weil-Petersson volumes of moduli spaces of super Riemann surfaces. The resulting recursion is a higher-$\kappa$ deformation of the topological recursion associated with the Bessel curve, which encodes the Br\&amp;#x27;ezin-Gross-Witten model.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.01497"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Emergent Geometry of the Generalized BGW Theory</title>
+      <link>https://arxiv.org/abs/2611.01507</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.01507</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Dingkang Xiong, Jian Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Dingkang Xiong, Jian Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Jian Zhou · math-ph, hep-th, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We present a systematic study of the mathematical theory of the generalized Br\&amp;#x27;ezin-Gross-Witten (BGW) theory using methods from statistical physics. We prove the multidifferentials of the generalized BGW theory are given by the Eynard-Orantin topological recursion in a generic background with general coupling constants. Furthermore, we characterize the transition between the Witten-Kontsevich model and the generalized BGW theory. This approach yields a new proof of the Okuyama-Sakai conjecture, further elucidating the deep structural connections between these two fundamental models.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.01507"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quasimodularity of $q$-series associated to root lattices</title>
       <link>https://arxiv.org/abs/2610.40034</link>

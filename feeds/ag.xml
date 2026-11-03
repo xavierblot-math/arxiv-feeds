@@ -4,7 +4,47 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:42:08 +0000</lastBuildDate>
+    <item>
+      <title>Gromov-Witten theory of the local model of the standard flop</title>
+      <link>https://arxiv.org/abs/2611.01260</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.01260</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Alex D\"anzer, Yannik Schuler</author>
+      <description>&lt;p&gt;&lt;b&gt;Alex D\&amp;quot;anzer, Yannik Schuler&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Yannik Schuler · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We conjecture that the generating series of equivariant Gromov-Witten invariants of the local Calabi-Yau $(2n-1)$-fold $\operatorname{Tot} \mathcal{O}_{\mathbb{P}^{n-1}} (-1)^{\oplus n}$ at fixed genus can be presented as a linear combination of polylogarithms, generalising a well-known property of the resolved conifold. We prove this conjecture for two specialisations of the equivariant parameters. In the first, the parameters are specialised to roots of unity and the proof proceeds via Givental-Teleman reconstruction. In the second, we obtain a closed-form evaluation of the generating series from which the conjecture follows. For $n=3$, the resulting closed formula establishes a special case of a Gopakumar-Vafa-type conjecture for Calabi-Yau fivefolds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.01260"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Coxeter-Todd abelian sixfold, Gamma00, and big Schottky</title>
+      <link>https://arxiv.org/abs/2611.02013</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.02013</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Samuel Grushevsky</author>
+      <description>&lt;p&gt;&lt;b&gt;Samuel Grushevsky&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Samuel Grushevsky · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We recall the construction of the Coxeter-Todd principally polarized abelian sixfold, and study its special properties. We show that the base locus of the Gamma00 linear system on the Coxeter-Todd sixfold consists of 253 points, disproving the stronger version by Donagi and Beauville--Debarre of the Gamma00 conjecture of van Geemen and van der Geer. This also leads us to construct explicit indecomposable 7-dimensional principally polarized abelian varieties that are not Jacobians, but lie in the so-called Big Schottky locus, thus disproving the corresponding conjecture from the Schottky-Jung approach to the Schottky problem. We furthermore show that while no even theta constant vanishes for the Coxeter-Todd sixfold, its associated Scorza quartic is identically zero. Finally, we show that there exist two different theta level (2,4) structures on the Coxeter-Todd sixfold, for which the sets of second order theta constants are projectively equal. This disproves the expected injectivity of the second order theta constant map for all genera starting with 6.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.02013"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canonical quantum curve I</title>
+      <link>https://arxiv.org/abs/2611.00997</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00997</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Shuai Guo, Qingsheng Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Qingsheng Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Shuai Guo · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We formulate a canonical quantum curve conjecture $\widehat H\Psi_*=0$ for spectral curves of positive genus. Here $\Psi_*$ is the non-perturbative wave function associated with Eynard--Orantin topological recursion, specialized at the \emph{canonical vanishing point}, a distinguished zero of the closed non-perturbative partition function. The operator $\widehat H$ is obtained by Weyl quantization of $H(x,y)$, with $\widehat x=x\cdot$ and $\widehat y=\hbar\partial_x$, together with quantum corrections to its coefficients. These corrections depend only on closed moduli and $\hbar$ and vanish classically. Whenever a geometric definition is available, we conjecture that the corrected coefficients are suitably normalized Wilson-loop expectation values. When a corresponding refined theory exists, we conjecture a relation between the canonical vanishing point and the closed Nekrasov--Shatashvili free energy. We prove the quantum curve conjecture for Weierstrass curves and the mirror curves of canonical bundles of smooth projective toric weak del Pezzo surfaces, including local $\mathbb P^2$. For the local surfaces considered here, we relate the canonical vanishing point to a derivative of the closed NS free energy. For local $\mathbb P^2$, we also identify the corrected coefficient with a suitably normalized, geometrically defined NS Wilson-loop expectation value.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.00997"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5d SCFTs and Intersection Theory of Generalized Toric Threefolds</title>
+      <link>https://arxiv.org/abs/2611.00366</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00366</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>H\"ulya Arg\"uz, Antoine Bourget, Pierrick Bousseau, Julius F. Grimminger, Sakura Schafer-Nameki</author>
+      <description>&lt;p&gt;&lt;b&gt;H\&amp;quot;ulya Arg\&amp;quot;uz, Antoine Bourget, Pierrick Bousseau, Julius F. Grimminger, Sakura Schafer-Nameki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Pierrick Bousseau · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Five-dimensional superconformal field theories are intrinsically strongly coupled fixed points that can be realized as M-theory on local Calabi-Yau threefolds with canonical singularities. The low-energy effective theory on their extended Coulomb branch is governed by a cubic prepotential, determined by the triple intersection numbers of divisors in the resolved geometry. For toric threefolds, dual to 5-brane webs, these numbers are computed combinatorially from the toric polygon. However, no such description has been available for generalized toric polygons (GTPs), dual to 5-brane webs with 7-branes, since the corresponding generalized toric Calabi-Yau threefolds are generally non-toric. We show that the 7-brane data are encoded by additional lines in the GTP, which correspond to non-toric, non-compact divisors that we call exuberant divisors. Building on a local analysis of these divisors and on the associativity of the intersection product, we develop an algorithm that computes the triple intersection numbers, and hence the prepotential, directly from the combinatorial data of the GTP. We illustrate it in examples and provide a Mathematica code implementation of the intersection algorithm.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.00366"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A proof of the spectral rigidity for complex projective space</title>
+      <link>https://arxiv.org/abs/2611.03536</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.03536</guid>
+      <pubDate>Tue, 03 Nov 2026 13:41:43 +0000</pubDate>
+      <author>Kefeng Liu, Hao Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Hao Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give a proof of a folklore conjecture that a compact K\&amp;quot;ahler manifold with the same scalar Laplace spectrum as complex projective space equipped with the Fubini--Study metric is holomorphically isometric to it. More generally, we prove that the spectrum of the Hodge Laplacian in any one fixed degree $p$ determines $\CP^n$ up to holomorphic isometry among compact connected K\&amp;quot;ahler manifolds, for every fixed pair of integers $(p,n)$ with $0\leq p\leq n$. Equality of a single Hodge spectrum first forces periodic geodesic flow and the integral cohomology ring of complex projective space. The ordinary first heat coefficient then identifies the total scalar curvature except on a Pell sequence of pairs. For those pairs, a clean wave-trace argument, a Krawtchouk estimate, and a mod-two projective-bundle obstruction determine the geodesic return holonomy. A canonical K\&amp;quot;ahler involution recovers a weighted first heat coefficient which is nonzero throughout the exceptional sequence. The Kobayashi--Ochiai theorem and a fixed-class second-heat-coefficient calculation complete the argument.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.03536"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pointed Hurwitz--Brill--Noether theory</title>
       <link>https://arxiv.org/abs/2610.38023</link>
