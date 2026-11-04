@@ -1,22 +1,9 @@
-Last run: 2026-11-04 13:50 UTC
+Last run: 2026-11-04 23:15 UTC
 Announcements downloaded: 228 (0 category feeds failed)
-New papers stored this run: 11
+New papers stored this run: 0
 
 ag             |   29 items |   2 new this run
 amplituhedron  |    3 items |   1 new this run
 broad          |   50 items |   6 new this run
 mathphys       |   19 items |   0 new this run
 topics         |   91 items |   2 new this run
-
-Matched this run:
-  Kefeng Liu                               | Algebraicity, Hodge Gradings, and the Geometry of Period Images
-  Gromov-Witten                            | Enumerative geometry of conics and double covers on projective complet
-  Thomas Lam                               | Two examples in amplituhedron tilings
-  Korteweg-de Vries                        | Multiplicity and parity in Hirota's $N$-soliton conditions: the biline
-  KdV                                      | Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering 
-  KdV                                      | Modular properties of correlators in generalised Gibbs ensembles
-  r-spin                                   | Particle dynamics in rotating charged Bumblebee black holes: An analyt
-  r-spin                                   | Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hy
-  Gromov-Witten                            | Mapping-space Gromov--Witten classes and the Fano variety of lines
-  tau function                             | Pure Spinor Factorization of Belinski-Zakharov Solitons and Regular Gr
-  Kefeng Liu                               | Fibrewise Real-Analytic Landsberg Metrics in Dimension at Least Four A
