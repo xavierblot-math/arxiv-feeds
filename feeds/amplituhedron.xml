@@ -4,7 +4,15 @@
     <title>arXiv – Amplituhedron</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Two examples in amplituhedron tilings</title>
+      <link>https://arxiv.org/abs/2611.05216</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.05216</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Evgeniya Akhmedova, Thomas Lam, Calvin Yost-Wolff</author>
+      <description>&lt;p&gt;&lt;b&gt;Evgeniya Akhmedova, Thomas Lam, Calvin Yost-Wolff&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Thomas Lam · math.CO, hep-th, math.AG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give an example of a tiling of the $m=4$ amplituhedron that has fewer cells than that of the magic number conjecture. The tiling uses an injective degree two cell.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.05216"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Signed seeds and G-gradings on cluster algebras</title>
       <link>https://arxiv.org/abs/2610.03612</link>

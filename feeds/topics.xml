@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Particle dynamics in rotating charged Bumblebee black holes: An analytical correspondence with Kerr-Newman</title>
+      <link>https://arxiv.org/abs/2611.04750</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04750</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Deyou Chen, Chuang Yang</author>
+      <description>&lt;p&gt;&lt;b&gt;Deyou Chen, Chuang Yang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · gr-qc, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we establish an analytical correspondence between the equatorial dynamics of spinless and spinning test particles in a slowly rotating charged Einstein--Bumblebee black hole spacetime and those in an effective Kerr--Newman spacetime. For spinning particles, the correspondence is established within the Mathisson--Papapetrou--Dixon framework under appropriate parameter matching. We show that corresponding circular orbits have identical radii and coordinate angular velocities, while their radial dynamics and local instability rates exhibit a Lorentz-violation-dependent scaling. Nevertheless, the correspondence does not imply complete dynamical equivalence, as orbital trajectories and radial perturbation growth over an azimuthal period generally differ. These results delineate the scope and limitations of the effective Kerr--Newman correspondence by distinguishing the dynamical properties preserved under parameter matching from those modified by the Lorentz-violating radial deformation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04750"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hyperon Spin Correlations</title>
+      <link>https://arxiv.org/abs/2611.04970</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04970</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Guangyu Zheng, Zilin Yuan, Mei Huang, Guannan Xie</author>
+      <description>&lt;p&gt;&lt;b&gt;Guangyu Zheng, Zilin Yuan, Mei Huang, Guannan Xie&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-ph, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Topological fluctuations in the quark-gluon plasma can generate local chiral imbalances whose spatial coherence remains difficult to access with conventional charge-separation measurements. We propose differential hyperon-pair spin correlations as a probe of both the strength and spatial organization of these fluctuations. Fluctuations of the axial chemical potential $\mu_5$ can induce pair correlations even when the mean helicity polarization vanishes. Using the AMPT model, we find that the magnitude of the hyperon spin correlation probes the magnitude and spatial coherence scale of $\mu_5$, while the ratio of short- and long-range correlations varies strongly with the spatial coherence scale, but only weakly with $\mu_{5}$ over the range of explored parameters. These observables provide an experimentally testable strategy for constraining the spatial structure of chiral-imbalance fluctuations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04970"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Free energy of 2-spin spherical vector spin glasses</title>
       <link>https://arxiv.org/abs/2611.00747</link>

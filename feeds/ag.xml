@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Algebraicity, Hodge Gradings, and the Geometry of Period Images</title>
+      <link>https://arxiv.org/abs/2611.04471</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04471</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Kefeng Liu, Yang Shen</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Yang Shen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove the algebraicity of period images in arithmetic quotients without using o-minimality. The proof uses infinitesimal neighborhoods and formal algebraization to recover the images and the maps from their algebraic sources. Hodge positivity and an algebraic ampleness criterion yield the Griffiths polarization and quasi-projectivity. For lifted images, we construct Stein neighborhoods and holomorphic matrix realizations of the Hodge filtration. On closed horizontal subspaces, we bound canonical Bergman density below by the Hodge volume form. We compare the Bergman and Griffiths--Schmid metrics near one-parameter boundaries with nontrivial unipotent monodromy and nondegenerate graded period maps, and in all directions near general one- and two-node quintic threefolds. A period surface arising from abelian threefolds shows that the upper metric comparison fails in general.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04471"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fibrewise Real-Analytic Landsberg Metrics in Dimension at Least Four Are Berwald</title>
+      <link>https://arxiv.org/abs/2611.05067</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.05067</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Ming Li, Kefeng Liu</author>
+      <description>&lt;p&gt;&lt;b&gt;Ming Li, Kefeng Liu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $M$ be a smooth manifold of dimension $n\ge4$, and let $F$ be a smooth, strongly convex Landsberg metric, regular on the entire slit tangent bundle. We prove that $F$ is Berwald if, at each fixed base point, the Minkowski norm is real-analytic on the entire slit tangent space. The proof rests on two analytic rigidity theorems for a single Minkowski space. The first asserts that, in dimension at least $3$, a real-analytic Minkowski norm whose Hessian metric is flat is induced by an inner product. The second asserts that, in dimension at least $4$, the Hessian metric of a real-analytic Minkowski norm is flat if the entire indicatrix carries a nonzero smooth symmetric quartic form satisfying a twisted Codazzi equation. The quartic form need not be real-analytic, and the second theorem is proved independently of the first. Applying these results to the angular Berwald quartic form shows that the metric is Riemannian on the open set of base points on whose fibres the Berwald curvature is not identically zero. Since every Riemannian metric is Berwald, this set must be empty. No analytic structure, compactness or completeness of the base manifold is assumed, and the metric need not be reversible.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.05067"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>5d SCFTs and Intersection Theory of Generalized Toric Threefolds</title>
       <link>https://arxiv.org/abs/2611.00366</link>

@@ -3915,5 +3915,266 @@
   "seen": "2026-11-03T13:41:43.763362+00:00",
   "summary": "We give a proof of a folklore conjecture that a compact K\\\"ahler manifold with the same scalar Laplace spectrum as complex projective space equipped with the Fubini--Study metric is holomorphically isometric to it. More generally, we prove that the spectrum of the Hodge Laplacian in any one fixed degree $p$ determines $\\CP^n$ up to holomorphic isometry among compact connected K\\\"ahler manifolds, for every fixed pair of integers $(p,n)$ with $0\\leq p\\leq n$. Equality of a single Hodge spectrum first forces periodic geodesic flow and the integral cohomology ring of complex projective space. The ordinary first heat coefficient then identifies the total scalar curvature except on a Pell sequence of pairs. For those pairs, a clean wave-trace argument, a Krawtchouk estimate, and a mod-two projective-bundle obstruction determine the geodesic return holonomy. A canonical K\\\"ahler involution recovers a weighted first heat coefficient which is nonzero throughout the exceptional sequence. The Kobayashi--Ochiai theorem and a fixed-class second-heat-coefficient calculation complete the argument.",
   "title": "A proof of the spectral rigidity for complex projective space"
+ },
+ "2611.03750": {
+  "announce": "new",
+  "authors": [
+   "Steffen Aksteiner"
+  ],
+  "cats": [
+   "math.DG",
+   "gr-qc"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.03750",
+  "link": "https://arxiv.org/abs/2611.03750",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "We show that the Belinski-Zakharov soliton construction factorizes into signed Pfaffian tau-functions, revealing a pure-spinor description of the metric and its regularity conditions. We derive analytic restrictions on the integral rod data, prove uniqueness for the asymptotically flat balance problem at fixed rod structure and periods, and give a conditional criterion for global existence. Combining these results with exhaustive enumeration of the admissible data and rigorous existence certificates, we construct a catalogue of regular asymptotically flat solutions representing 356 rod-word classes through twelve turning points, and 52 isolated regular asymptotically locally flat solutions through eight turning points. Analytic positivity and smooth-completion results establish regularity beyond the finite numerical solve. Based on this catalogue, we investigate two organizations of the solution space: generalized rank-two root systems and compositions of simpler endpoint geometries. The endpoint composition rules reproduce exactly all retained asymptotically flat words through twelve turning points.",
+  "title": "Pure Spinor Factorization of Belinski-Zakharov Solitons and Regular Gravitational Instantons"
+ },
+ "2611.03857": {
+  "announce": "cross",
+  "authors": [
+   "Alberto Brollo"
+  ],
+  "cats": [
+   "cond-mat.stat-mech",
+   "math-ph",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ]
+  },
+  "id": "2611.03857",
+  "link": "https://arxiv.org/abs/2611.03857",
+  "matched": [
+   "KdV"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "The Thermodynamic Bethe Ansatz (TBA) procedure developed by Yang-Yang provides the free energy functional to be minimized via a variational problem. Their result not only gives the correct thermodynamics, but it also sets the framework for Generalized Hydrodynamics. Originally developed for quantum systems, this procedure has been recently successfully applied to (integrable) classical particle systems. However, this has never been done for classical field theories: no classical derivation has consistently accounted for solitons, breathers, radiation (dispersive modes), and their mutual interactions. We here derive the TBA equations for the Toda chain directly from its inverse scattering transform. This results in solitonic modes interacting with radiation, extending the soliton gas picture. We provide numerical verification of our equations against well established TBA equations in terms of particle modes. We expect the same procedure should apply to KdV, and pure radiative models as defocusing NLS and Sinh-Gordon, while we discuss current limitations in other models such as focusing NLS (and Ablowitz-Ladik) and Sine-Gordon.",
+  "title": "Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering transform"
+ },
+ "2611.04471": {
+  "announce": "new",
+  "authors": [
+   "Kefeng Liu",
+   "Yang Shen"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.04471",
+  "link": "https://arxiv.org/abs/2611.04471",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "We prove the algebraicity of period images in arithmetic quotients without using o-minimality. The proof uses infinitesimal neighborhoods and formal algebraization to recover the images and the maps from their algebraic sources. Hodge positivity and an algebraic ampleness criterion yield the Griffiths polarization and quasi-projectivity. For lifted images, we construct Stein neighborhoods and holomorphic matrix realizations of the Hodge filtration. On closed horizontal subspaces, we bound canonical Bergman density below by the Hodge volume form. We compare the Bergman and Griffiths--Schmid metrics near one-parameter boundaries with nontrivial unipotent monodromy and nondegenerate graded period maps, and in all directions near general one- and two-node quintic threefolds. A period surface arising from abelian threefolds shows that the upper metric comparison fails in general.",
+  "title": "Algebraicity, Hodge Gradings, and the Geometry of Period Images"
+ },
+ "2611.04636": {
+  "announce": "new",
+  "authors": [
+   "Tanmoy Sengupta"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ]
+  },
+  "id": "2611.04636",
+  "link": "https://arxiv.org/abs/2611.04636",
+  "matched": [
+   "KdV"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "We study the modular properties of torus correlators in a generalised Gibbs ensemble (GGE) of a two-dimensional conformal field theory. For the free fermion with KdV charges, we compute the exact two-point function and derive its modular $S$-transformation as a formal power series in the chemical potential. The transformed correlator admits a factorised description: an effective charge deforms the ensemble, while a local dressing operator acts on the external fields. Both are determined by nested operator product expansions involving the deforming current. Motivated by this result, we conjecture an analogous transformation law for $n$-point functions in rational chiral conformal field theories. Using Zhu's recursion, we establish the conjecture at the lowest explicit power of the modular parameter to all orders in the chemical potential, thereby determining the dressing operator. We also verify the full conjectured transformation through cubic order in the chemical potential, retaining all explicit powers of the modular parameter. These results extend the nested-OPE description of modular transformations of GGE partition functions to local correlation functions.",
+  "title": "Modular properties of correlators in generalised Gibbs ensembles"
+ },
+ "2611.04750": {
+  "announce": "cross",
+  "authors": [
+   "Deyou Chen",
+   "Chuang Yang"
+  ],
+  "cats": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.04750",
+  "link": "https://arxiv.org/abs/2611.04750",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "In this paper, we establish an analytical correspondence between the equatorial dynamics of spinless and spinning test particles in a slowly rotating charged Einstein--Bumblebee black hole spacetime and those in an effective Kerr--Newman spacetime. For spinning particles, the correspondence is established within the Mathisson--Papapetrou--Dixon framework under appropriate parameter matching. We show that corresponding circular orbits have identical radii and coordinate angular velocities, while their radial dynamics and local instability rates exhibit a Lorentz-violation-dependent scaling. Nevertheless, the correspondence does not imply complete dynamical equivalence, as orbital trajectories and radial perturbation growth over an azimuthal period generally differ. These results delineate the scope and limitations of the effective Kerr--Newman correspondence by distinguishing the dynamical properties preserved under parameter matching from those modified by the Lorentz-violating radial deformation.",
+  "title": "Particle dynamics in rotating charged Bumblebee black holes: An analytical correspondence with Kerr-Newman"
+ },
+ "2611.04837": {
+  "announce": "new",
+  "authors": [
+   "Dang Tuan Hiep",
+   "Ha Thi Thao Tram"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.04837",
+  "link": "https://arxiv.org/abs/2611.04837",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "We compare genus zero degree two Gromov--Witten invariants with the number of embedded conics on general projective complete intersections whose conic space has expected dimension zero. Their difference comes from double covers of lines. We compute this contribution as an integral of Chern classes over the Fano scheme of lines, using an explicit obstruction bundle on the compactified space of double covers.",
+  "title": "Enumerative geometry of conics and double covers on projective complete intersections"
+ },
+ "2611.04953": {
+  "announce": "new",
+  "authors": [
+   "Shi Zhenhua"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2611.04953",
+  "link": "https://arxiv.org/abs/2611.04953",
+  "matched": [
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "Hirota's three-soliton condition is the standard test for the integrability of a bilinear equation $P(D)f\\cdot f=0$, and the folklore implication ``three-soliton condition $\\Rightarrow$ $N$-soliton solutions for all $N$'' underlies the classifications of Hietarinta. We study this implication in two directions. The first is the family $L\\,(D_x^3+\\Lambda)^{2n+1}f\\cdot f=0$ with $L$, $\\Lambda$ linear forms in the Hirota operators, which for $n=0$ contains the Korteweg--de Vries, Ito and Boiti--Leon--Manna--Pempinelli equations and for $L=D_x$ is the family of G\\\"urses and Pekcan. On the principal component of the dispersion variety the $N$-soliton condition reduces to a sign sum of two bialternants; counting odd exponents shows that for $n=0$ the class is Hirota integrable and that for $n\\ge1$ the three-soliton condition holds for every $L$, and an explicit formula for the four-soliton residual proves the G\\\"urses--Pekcan conjecture that the four-soliton condition fails for every $n\\ge1$. The formula yields sum-of-squares certificates excluding four-soliton solutions at every real configuration for the G\\\"urses--Pekcan and Ito equations, classifies the real members of the class, and determines maximal numbers of nondegenerate solitons: exactly four or five for $n=1$ according as $L$ lies in the span of $D_x,\\Lambda$ or not, five for $n=2$ and $L=D_x$, and finite for every $n\\ge1$ and every $L$. The second direction is a reformulation of the implication for a single non-hyperplane component of multiplicity one, which we prove, with complete classifications, for all graph-type dispersions $L(q(D)+D_t)$, for every irreducible even quadric component in any dimension and with an arbitrary cofactor, for parabolic components, for the dispersions $F(\\ell)+Q$ containing the Kadomtsev--Petviashvili surface, and, with a prescribed one-parameter phase family, for the cubic graph.",
+  "title": "Multiplicity and parity in Hirota's $N$-soliton conditions: the bilinear families $L\\,(D_x^{3}+\\Lambda)^{2n+1}$"
+ },
+ "2611.04970": {
+  "announce": "cross",
+  "authors": [
+   "Guangyu Zheng",
+   "Zilin Yuan",
+   "Mei Huang",
+   "Guannan Xie"
+  ],
+  "cats": [
+   "hep-ph",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.04970",
+  "link": "https://arxiv.org/abs/2611.04970",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "Topological fluctuations in the quark-gluon plasma can generate local chiral imbalances whose spatial coherence remains difficult to access with conventional charge-separation measurements. We propose differential hyperon-pair spin correlations as a probe of both the strength and spatial organization of these fluctuations. Fluctuations of the axial chemical potential $\\mu_5$ can induce pair correlations even when the mean helicity polarization vanishes. Using the AMPT model, we find that the magnitude of the hyperon spin correlation probes the magnitude and spatial coherence scale of $\\mu_5$, while the ratio of short- and long-range correlations varies strongly with the spatial coherence scale, but only weakly with $\\mu_{5}$ over the range of explored parameters. These observables provide an experimentally testable strategy for constraining the spatial structure of chiral-imbalance fluctuations.",
+  "title": "Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hyperon Spin Correlations"
+ },
+ "2611.05067": {
+  "announce": "new",
+  "authors": [
+   "Ming Li",
+   "Kefeng Liu"
+  ],
+  "cats": [
+   "math.DG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.05067",
+  "link": "https://arxiv.org/abs/2611.05067",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "Let $M$ be a smooth manifold of dimension $n\\ge4$, and let $F$ be a smooth, strongly convex Landsberg metric, regular on the entire slit tangent bundle. We prove that $F$ is Berwald if, at each fixed base point, the Minkowski norm is real-analytic on the entire slit tangent space. The proof rests on two analytic rigidity theorems for a single Minkowski space. The first asserts that, in dimension at least $3$, a real-analytic Minkowski norm whose Hessian metric is flat is induced by an inner product. The second asserts that, in dimension at least $4$, the Hessian metric of a real-analytic Minkowski norm is flat if the entire indicatrix carries a nonzero smooth symmetric quartic form satisfying a twisted Codazzi equation. The quartic form need not be real-analytic, and the second theorem is proved independently of the first. Applying these results to the angular Berwald quartic form shows that the metric is Riemannian on the open set of base points on whose fibres the Berwald curvature is not identically zero. Since every Riemannian metric is Berwald, this set must be empty. No analytic structure, compactness or completeness of the base manifold is assumed, and the metric need not be reversible.",
+  "title": "Fibrewise Real-Analytic Landsberg Metrics in Dimension at Least Four Are Berwald"
+ },
+ "2611.05216": {
+  "announce": "cross",
+  "authors": [
+   "Evgeniya Akhmedova",
+   "Thomas Lam",
+   "Calvin Yost-Wolff"
+  ],
+  "cats": [
+   "math.CO",
+   "hep-th",
+   "math.AG"
+  ],
+  "feeds": {
+   "amplituhedron": [
+    "Thomas Lam"
+   ]
+  },
+  "id": "2611.05216",
+  "link": "https://arxiv.org/abs/2611.05216",
+  "matched": [
+   "Thomas Lam"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "We give an example of a tiling of the $m=4$ amplituhedron that has fewer cells than that of the magic number conjecture. The tiling uses an injective degree two cell.",
+  "title": "Two examples in amplituhedron tilings"
+ },
+ "2611.05324": {
+  "announce": "new",
+  "authors": [
+   "Ivan Smith",
+   "Abigail Ward"
+  ],
+  "cats": [
+   "math.SG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.05324",
+  "link": "https://arxiv.org/abs/2611.05324",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-04T13:50:29.612692+00:00",
+  "summary": "Let $Y$ be a smooth cubic 3-fold. We show that $S^2 \\times Y$ admits an infinite sequence of cohomologous symplectic forms which are all deformation equivalent but pairwise non-isotopic; McDuff showed the corresponding result on $(S^2)^2 \\times T^2$, but these appear to be the first simply-connected and monotone examples. The results are obtained from McDuff's bordism-flavoured Gromov--Witten invariant, re-interpreted cohomologically in terms of an evaluation map valued in the space of maps from the 2-sphere to a symplectic target. The application then relies on classical properties of the Fano space of lines on $Y$. We also discuss higher-dimensional generalisations.",
+  "title": "Mapping-space Gromov--Witten classes and the Fano variety of lines"
  }
 }

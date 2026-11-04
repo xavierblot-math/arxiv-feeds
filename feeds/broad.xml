@@ -4,7 +4,55 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Enumerative geometry of conics and double covers on projective complete intersections</title>
+      <link>https://arxiv.org/abs/2611.04837</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04837</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Dang Tuan Hiep, Ha Thi Thao Tram</author>
+      <description>&lt;p&gt;&lt;b&gt;Dang Tuan Hiep, Ha Thi Thao Tram&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We compare genus zero degree two Gromov--Witten invariants with the number of embedded conics on general projective complete intersections whose conic space has expected dimension zero. Their difference comes from double covers of lines. We compute this contribution as an integral of Chern classes over the Fano scheme of lines, using an explicit obstruction bundle on the compactified space of double covers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04837"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multiplicity and parity in Hirota's $N$-soliton conditions: the bilinear families $L\,(D_x^{3}+\Lambda)^{2n+1}$</title>
+      <link>https://arxiv.org/abs/2611.04953</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04953</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Shi Zhenhua</author>
+      <description>&lt;p&gt;&lt;b&gt;Shi Zhenhua&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Korteweg-de Vries · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Hirota&amp;#x27;s three-soliton condition is the standard test for the integrability of a bilinear equation $P(D)f\cdot f=0$, and the folklore implication ``three-soliton condition $\Rightarrow$ $N$-soliton solutions for all $N$&amp;#x27;&amp;#x27; underlies the classifications of Hietarinta. We study this implication in two directions. The first is the family $L\,(D_x^3+\Lambda)^{2n+1}f\cdot f=0$ with $L$, $\Lambda$ linear forms in the Hirota operators, which for $n=0$ contains the Korteweg--de Vries, Ito and Boiti--Leon--Manna--Pempinelli equations and for $L=D_x$ is the family of G\&amp;quot;urses and Pekcan. On the principal component of the dispersion variety the $N$-soliton condition reduces to a sign sum of two bialternants; counting odd exponents shows that for $n=0$ the class is Hirota integrable and that for $n\ge1$ the three-soliton condition holds for every $L$, and an explicit formula for the four-soliton residual proves the G\&amp;quot;urses--Pekcan conjecture that the four-soliton condition fails for every $n\ge1$. The formula yields sum-of-squares certificates excluding four-soliton solutions at every real configuration for the G\&amp;quot;urses--Pekcan and Ito equations, classifies the real members of the class, and determines maximal numbers of nondegenerate solitons: exactly four or five for $n=1$ according as $L$ lies in the span of $D_x,\Lambda$ or not, five for $n=2$ and $L=D_x$, and finite for every $n\ge1$ and every $L$. The second direction is a reformulation of the implication for a single non-hyperplane component of multiplicity one, which we prove, with complete classifications, for all graph-type dispersions $L(q(D)+D_t)$, for every irreducible even quadric component in any dimension and with an arbitrary cofactor, for parabolic components, for the dispersions $F(\ell)+Q$ containing the Kadomtsev--Petviashvili surface, and, with a prescribed one-parameter phase family, for the cubic graph.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04953"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering transform</title>
+      <link>https://arxiv.org/abs/2611.03857</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.03857</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Alberto Brollo</author>
+      <description>&lt;p&gt;&lt;b&gt;Alberto Brollo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · cond-mat.stat-mech, math-ph, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The Thermodynamic Bethe Ansatz (TBA) procedure developed by Yang-Yang provides the free energy functional to be minimized via a variational problem. Their result not only gives the correct thermodynamics, but it also sets the framework for Generalized Hydrodynamics. Originally developed for quantum systems, this procedure has been recently successfully applied to (integrable) classical particle systems. However, this has never been done for classical field theories: no classical derivation has consistently accounted for solitons, breathers, radiation (dispersive modes), and their mutual interactions. We here derive the TBA equations for the Toda chain directly from its inverse scattering transform. This results in solitonic modes interacting with radiation, extending the soliton gas picture. We provide numerical verification of our equations against well established TBA equations in terms of particle modes. We expect the same procedure should apply to KdV, and pure radiative models as defocusing NLS and Sinh-Gordon, while we discuss current limitations in other models such as focusing NLS (and Ablowitz-Ladik) and Sine-Gordon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.03857"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modular properties of correlators in generalised Gibbs ensembles</title>
+      <link>https://arxiv.org/abs/2611.04636</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04636</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Tanmoy Sengupta</author>
+      <description>&lt;p&gt;&lt;b&gt;Tanmoy Sengupta&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the modular properties of torus correlators in a generalised Gibbs ensemble (GGE) of a two-dimensional conformal field theory. For the free fermion with KdV charges, we compute the exact two-point function and derive its modular $S$-transformation as a formal power series in the chemical potential. The transformed correlator admits a factorised description: an effective charge deforms the ensemble, while a local dressing operator acts on the external fields. Both are determined by nested operator product expansions involving the deforming current. Motivated by this result, we conjecture an analogous transformation law for $n$-point functions in rational chiral conformal field theories. Using Zhu&amp;#x27;s recursion, we establish the conjecture at the lowest explicit power of the modular parameter to all orders in the chemical potential, thereby determining the dressing operator. We also verify the full conjectured transformation through cubic order in the chemical potential, retaining all explicit powers of the modular parameter. These results extend the nested-OPE description of modular transformations of GGE partition functions to local correlation functions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.04636"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mapping-space Gromov--Witten classes and the Fano variety of lines</title>
+      <link>https://arxiv.org/abs/2611.05324</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.05324</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Ivan Smith, Abigail Ward</author>
+      <description>&lt;p&gt;&lt;b&gt;Ivan Smith, Abigail Ward&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $Y$ be a smooth cubic 3-fold. We show that $S^2 \times Y$ admits an infinite sequence of cohomologous symplectic forms which are all deformation equivalent but pairwise non-isotopic; McDuff showed the corresponding result on $(S^2)^2 \times T^2$, but these appear to be the first simply-connected and monotone examples. The results are obtained from McDuff&amp;#x27;s bordism-flavoured Gromov--Witten invariant, re-interpreted cohomologically in terms of an evaluation map valued in the space of maps from the 2-sphere to a symplectic target. The application then relies on classical properties of the Fano space of lines on $Y$. We also discuss higher-dimensional generalisations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.05324"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pure Spinor Factorization of Belinski-Zakharov Solitons and Regular Gravitational Instantons</title>
+      <link>https://arxiv.org/abs/2611.03750</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.03750</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:29 +0000</pubDate>
+      <author>Steffen Aksteiner</author>
+      <description>&lt;p&gt;&lt;b&gt;Steffen Aksteiner&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · math.DG, gr-qc · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the Belinski-Zakharov soliton construction factorizes into signed Pfaffian tau-functions, revealing a pure-spinor description of the metric and its regularity conditions. We derive analytic restrictions on the integral rod data, prove uniqueness for the asymptotically flat balance problem at fixed rod structure and periods, and give a conditional criterion for global existence. Combining these results with exhaustive enumeration of the admissible data and rigorous existence certificates, we construct a catalogue of regular asymptotically flat solutions representing 356 rod-word classes through twelve turning points, and 52 isolated regular asymptotically locally flat solutions through eight turning points. Analytic positivity and smooth-completion results establish regularity beyond the finite numerical solve. Based on this catalogue, we investigate two organizations of the solution space: generalized rank-two root systems and compositions of simpler endpoint geometries. The endpoint composition rules reproduce exactly all retained asymptotically flat words through twelve turning points.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.03750"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gromov-Witten theory of the local model of the standard flop</title>
       <link>https://arxiv.org/abs/2611.01260</link>
