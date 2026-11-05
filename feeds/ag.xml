@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:03:58 +0000</lastBuildDate>
+    <item>
+      <title>On rational curves relative to a divisor</title>
+      <link>https://arxiv.org/abs/2611.05809</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.05809</guid>
+      <pubDate>Thu, 05 Nov 2026 14:03:33 +0000</pubDate>
+      <author>Jiun-Cheng Chen, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Jiun-Cheng Chen, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hsian-Hua Tseng · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $X$ be a smooth complex projective variety and $D$ a reduced simple normal crossings divisor. We prove that, given a complete curve of negative $(K_X+D)$-degree, through its general points there is a rational curve whose normalization meets $D$ in at most one point. The proof uses ordinary weighted jets of a smooth family constructed from $(X,D)$, a positive parameter line bundle, and an intersection calculation on a ruled surface. We obtain an explicit degree bound depending on a projective embedding. We apply this construction to a cyclic cover compactification associated with a smooth Campana orbifold $(X,\sum_i(1-1/m_i)D_i)$. If its anticanonical divisor is big, we show that there is a covering family of free divisible Campana rational curves with fixed numerical class and contact data. In Picard number one case, the orbifold is Campana rationally connected.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.05809"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The super Weil-Petersson asymptotic expansion and the coefficients</title>
+      <link>https://arxiv.org/abs/2611.06621</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.06621</guid>
+      <pubDate>Thu, 05 Nov 2026 14:03:33 +0000</pubDate>
+      <author>Xuanyu Huang, Kefeng Liu, Hao Xu</author>
+      <description>&lt;p&gt;&lt;b&gt;Xuanyu Huang, Kefeng Liu, Hao Xu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG, math-ph, math.DG, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We determine the universal constant in the large-genus asymptotic expansion of super Weil-Petersson volumes. The argument adopts the uniform-transport strategy for shifted theta intersection numbers. The uniform large-genus theorem for normalized BGW numbers of Guo-Norbury-Yang-Zagier determines the amplitude at a simpler endpoint. The result is $C=\pi^{-9/2}$. We give a proof of the Griguolo-Papalini-Russo-Seminara conjecture for fixed boundary lengths and fixed descendant degrees. The boundary formula is uniform when the sum of the lengths is $o(\sqrt g)$, and we exhibit an obstruction at the $\sqrt g$ scale. We also compute the first four inverse-genus coefficients by two exact recursive methods and derive general polynomial structure results. Finally, we show that, for each fixed genus, the super Weil-Petersson volume divided by $n!$ is a polynomial in the number $n$ of marked points.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.06621"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Algebraicity, Hodge Gradings, and the Geometry of Period Images</title>
       <link>https://arxiv.org/abs/2611.04471</link>

@@ -4105,6 +4105,30 @@
   "summary": "Topological fluctuations in the quark-gluon plasma can generate local chiral imbalances whose spatial coherence remains difficult to access with conventional charge-separation measurements. We propose differential hyperon-pair spin correlations as a probe of both the strength and spatial organization of these fluctuations. Fluctuations of the axial chemical potential $\\mu_5$ can induce pair correlations even when the mean helicity polarization vanishes. Using the AMPT model, we find that the magnitude of the hyperon spin correlation probes the magnitude and spatial coherence scale of $\\mu_5$, while the ratio of short- and long-range correlations varies strongly with the spatial coherence scale, but only weakly with $\\mu_{5}$ over the range of explored parameters. These observables provide an experimentally testable strategy for constraining the spatial structure of chiral-imbalance fluctuations.",
   "title": "Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hyperon Spin Correlations"
  },
+ "2611.05051": {
+  "announce": "cross",
+  "authors": [
+   "Edward Witten"
+  ],
+  "cats": [
+   "hep-lat",
+   "hep-ph",
+   "hep-th"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Edward Witten"
+   ]
+  },
+  "id": "2611.05051",
+  "link": "https://arxiv.org/abs/2611.05051",
+  "matched": [
+   "Edward Witten"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "Because of the fermion doubling problem, it has been a longstanding challenge to describe a lattice algorithm for studying four-dimensional gauge theories coupled to chiral fermions. Recently, an algorithm to do so has been described by Craig, extending partial results in the previous literature. Here we describe a variant of this algorithm, based on interpolating a lattice gauge field over the continuum (as in Craig's work) and coupling the interpolated gauge field to continuum chiral fermions. The same variant was also proposed recently by Hsu. In any dimension and for any anomaly-free representation, this approach can be implemented on a computer in principle, but not in practice by Monte Carlo methods because the chiral fermion path integral is not positive.",
+  "title": "A Note On Lattice Definition of Gauge Theories With Chiral Fermions"
+ },
  "2611.05067": {
   "announce": "new",
   "authors": [
@@ -4176,5 +4200,231 @@
   "seen": "2026-11-04T13:50:29.612692+00:00",
   "summary": "Let $Y$ be a smooth cubic 3-fold. We show that $S^2 \\times Y$ admits an infinite sequence of cohomologous symplectic forms which are all deformation equivalent but pairwise non-isotopic; McDuff showed the corresponding result on $(S^2)^2 \\times T^2$, but these appear to be the first simply-connected and monotone examples. The results are obtained from McDuff's bordism-flavoured Gromov--Witten invariant, re-interpreted cohomologically in terms of an evaluation map valued in the space of maps from the 2-sphere to a symplectic target. The application then relies on classical properties of the Fano space of lines on $Y$. We also discuss higher-dimensional generalisations.",
   "title": "Mapping-space Gromov--Witten classes and the Fano variety of lines"
+ },
+ "2611.05452": {
+  "announce": "new",
+  "authors": [
+   "Duo Li"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.05452",
+  "link": "https://arxiv.org/abs/2611.05452",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "We prove Fujita's advanced generalized Mukai conjecture for smooth complex Fano varieties. Our starting point is the existence of independent two-point Gromov--Witten correspondences. We show that there are finitely many unsplit families of rational curves whose chains connect $X$. We use these families to bound the anticanonical degrees throughout the successive minimal horizontal construction, so every family in that construction is unsplit. Fujita's contraction theorem and inductive classification then give the required list of varieties.",
+  "title": "On Fujita's Advanced Generalized Mukai Conjecture"
+ },
+ "2611.05466": {
+  "announce": "cross",
+  "authors": [
+   "Michael J. Landry",
+   "Yongqiang Cheng",
+   "Daniel Pajerowski",
+   "Joshua J. Turner",
+   "Mingda Li"
+  ],
+  "cats": [
+   "quant-ph",
+   "cond-mat.mtrl-sci",
+   "hep-th",
+   "nucl-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.05466",
+  "link": "https://arxiv.org/abs/2611.05466",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "Neutron scattering is a central probe of quantum materials, yet what quantum information can, in principle, be extracted from a scattering experiment remains unclear. Here we formulate neutron scattering as a quantum measurement, with the scattering amplitudes acting as Kraus operators on the material state. This provides a unified description of conventional intensity, coherent scattering, interferometric measurements, and entanglement witnesses, including those based on quantum Fisher information. We then ask how far this connection can be extended to nonlinear properties of a quantum state. For two independently prepared samples, we derive the general structure of probe-mediated measurement probabilities and show that, for spin-projection-conserving dynamics, low-order scattering cannot resolve certain many-body coherences required to determine purity. Conversely, an idealized single-spin protocol shows how probe-mediated exchange can access purity when the appropriate two-copy operation is realized. Our results establish a quantum-information description of neutron scattering and delineate the information accessible through conventional and interferometric measurements.",
+  "title": "Toward a Quantum Information Foundation for Neutron Scattering"
+ },
+ "2611.05809": {
+  "announce": "new",
+  "authors": [
+   "Jiun-Cheng Chen",
+   "Hsian-Hua Tseng"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Hsian-Hua Tseng"
+   ]
+  },
+  "id": "2611.05809",
+  "link": "https://arxiv.org/abs/2611.05809",
+  "matched": [
+   "Hsian-Hua Tseng"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "Let $X$ be a smooth complex projective variety and $D$ a reduced simple normal crossings divisor. We prove that, given a complete curve of negative $(K_X+D)$-degree, through its general points there is a rational curve whose normalization meets $D$ in at most one point. The proof uses ordinary weighted jets of a smooth family constructed from $(X,D)$, a positive parameter line bundle, and an intersection calculation on a ruled surface. We obtain an explicit degree bound depending on a projective embedding. We apply this construction to a cyclic cover compactification associated with a smooth Campana orbifold $(X,\\sum_i(1-1/m_i)D_i)$. If its anticanonical divisor is big, we show that there is a covering family of free divisible Campana rational curves with fixed numerical class and contact data. In Picard number one case, the orbifold is Campana rationally connected.",
+  "title": "On rational curves relative to a divisor"
+ },
+ "2611.06031": {
+  "announce": "cross",
+  "authors": [
+   "Wenda Fang",
+   "Noriaki Ikeda"
+  ],
+  "cats": [
+   "math.QA",
+   "math-ph",
+   "math.MP",
+   "math.SG"
+  ],
+  "feeds": {
+   "broad": [
+    "integrable hierarch"
+   ]
+  },
+  "id": "2611.06031",
+  "link": "https://arxiv.org/abs/2611.06031",
+  "matched": [
+   "integrable hierarch"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "We study the chiralization of Poisson--Lie theory through graded symplectic geometry. We compare Courant deformations and classical $r$- and $R$-matrix constructions, obtaining integrable hierarchies and free field realizations. We give a variational description of the obstruction to Lie conformal bialgebra compatibility and recover Liberati's obstruction in the Virasoro case. We also introduce a vertex bialgebra analogue of quantized universal enveloping algebras and construct explicit quantizations to all orders of Cartan type Lie conformal bialgebra structures on $\\operatorname{Cur}(\\mathfrak{sl}_2)$. These results contribute to the first author's broader programme of developing shifted symplectic chiralization as a geometric method for constructing chiral analogues of Poisson-Lie structures via $n$-shifted symplectic geometry, and exploring its connections with AKSZ theory and quantization.",
+  "title": "Toward Shifted symplectic Chiralization: Deformation of Courant Algebroids"
+ },
+ "2611.06301": {
+  "announce": "cross",
+  "authors": [
+   "Jan-Willem M. van Ittersum"
+  ],
+  "cats": [
+   "math.NT",
+   "math.CO"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Jan-Willem van Ittersum"
+   ]
+  },
+  "id": "2611.06301",
+  "link": "https://arxiv.org/abs/2611.06301",
+  "matched": [
+   "Jan-Willem van Ittersum"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "Writing multiple $q$-zeta values as sums over partitions, a conjecture of Bachmann, proved by Hirose, Maesaka and Watanabe by means of a recursion, says that polynomials in the parts and multiplicities can be replaced by polynomials in the multiplicities alone. We make this replacement explicit, derive from it bounds on weight and depth that make Bachmann's conjecture effective, and provide a closed formula for the Drop1 operator of Hirose, Maesaka, Seki and Watanabe.",
+  "title": "Multiple $q$-zeta values as polynomials in partition multiplicities"
+ },
+ "2611.06621": {
+  "announce": "cross",
+  "authors": [
+   "Xuanyu Huang",
+   "Kefeng Liu",
+   "Hao Xu"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.DG",
+   "math.MP"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.06621",
+  "link": "https://arxiv.org/abs/2611.06621",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "We determine the universal constant in the large-genus asymptotic expansion of super Weil-Petersson volumes. The argument adopts the uniform-transport strategy for shifted theta intersection numbers. The uniform large-genus theorem for normalized BGW numbers of Guo-Norbury-Yang-Zagier determines the amplitude at a simpler endpoint. The result is $C=\\pi^{-9/2}$. We give a proof of the Griguolo-Papalini-Russo-Seminara conjecture for fixed boundary lengths and fixed descendant degrees. The boundary formula is uniform when the sum of the lengths is $o(\\sqrt g)$, and we exhibit an obstruction at the $\\sqrt g$ scale. We also compute the first four inverse-genus coefficients by two exact recursive methods and derive general polynomial structure results. Finally, we show that, for each fixed genus, the super Weil-Petersson volume divided by $n!$ is a polynomial in the number $n$ of marked points.",
+  "title": "The super Weil-Petersson asymptotic expansion and the coefficients"
+ },
+ "2611.06675": {
+  "announce": "new",
+  "authors": [
+   "Chenglang Yang",
+   "Xuhui Zhang"
+  ],
+  "cats": [
+   "math-ph",
+   "math.AG",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.06675",
+  "link": "https://arxiv.org/abs/2611.06675",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "In this paper, we study the generalized Br\\'ezin--Gross--Witten model using its BKP integrability. By virtue of the formula for connected $n$-point functions of tau-functions of the BKP hierarchy obtained by Wang and the first-named author, we prove that the normalized generalized BGW correlators are strictly concave for fixed genus and fixed total degree. As applications, we establish the strict Schur-concavity and derive upper and lower bounds for these correlators. We also prove the strict monotonicity of normalized ordinary BGW correlators, which resolves a conjecture by Guo--Norbury--Yang--Zagier.",
+  "title": "Concavity of Normalized Generalized Br\\'ezin--Gross--Witten Correlators and Its Applications"
+ },
+ "2611.06767": {
+  "announce": "new",
+  "authors": [
+   "Hongbo Zhao"
+  ],
+  "cats": [
+   "math.QA"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "quantum KdV"
+   ]
+  },
+  "id": "2611.06767",
+  "link": "https://arxiv.org/abs/2611.06767",
+  "matched": [
+   "KdV",
+   "quantum KdV"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "We give an explicit formula for elements $H_{2k}$ of conformal weight $2k$, $k\\ge1$, in the universal Virasoro vertex operator algebra $V$ at every central charge, such that $H_{2k}(0)H_{2l}\\in TV$ for all $k,l\\ge1$. Modulo translation, the kernel of $H_4(0)$ is generated by $[H_{2k}]$ in each positive even weight and is zero in positive odd weights. The formula uses a realization on differential polynomials by possibly infinite-order differential operators in a completion of the Weyl algebra, together with the inverse of the identity plus a nilpotent operator on each weight space. A Koszul-type exactness argument for the classical KdV flows proves conservation; uniqueness and the Jacobi identity give commutativity. The classical limit recovers the normalized Gelfand--Dickey densities. Explicit low-weight elements and exact symbolic verifications illustrate the construction.",
+  "title": "An Explicit Construction of Commuting Quantum KdV Hamiltonians in the Universal Virasoro Vertex Algebra"
+ },
+ "2611.06862": {
+  "announce": "cross",
+  "authors": [
+   "Giordano Cotti"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.CO",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Giordano Cotti"
+   ]
+  },
+  "id": "2611.06862",
+  "link": "https://arxiv.org/abs/2611.06862",
+  "matched": [
+   "Giordano Cotti"
+  ],
+  "seen": "2026-11-05T14:03:33.975017+00:00",
+  "summary": "In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations. The Burnside-Lefschetz formula allows us to compute the resulting contributions, taking into account graph symmetries and their fixed loci. The calculation in genus two illustrates the method explicitly and, in the Deligne-Mumford case, recovers the generating function of G. Bini, G. Gaiffi, and M. Polito (arXiv:math/9806048), with the corrections of G. Bini and J. Harer (arXiv:math/0506083), providing a check on the construction. We also carry out the calculation in genus three in an appendix. Together with an elementary genus-one calculation based on collision partitions and rational necklaces, these formulas yield complete asymptotic expansions as the number of labeled markings tends to infinity. The passage from all-light to ordinary Euler characteristics is governed by the universal change of variables $\\Phi(z)=(2-z)e^z-2$, which we derive by a direct wall-crossing argument. For arbitrary fixed genus $g\\ge2$, the same framework identifies the leading contribution of rational trivalent graphs and gives the ordinary asymptotic scale $n!(e-2)^{-n}n^{(3g-5)/2}$. The leading constants are the symmetry weights of these graphs; we derive their generating function, recurrence, and large-genus behavior. We also determine the asymptotic ratio of all-light to ordinary Euler characteristics, answering a question of S. Kannan, S. Serpente, and C. H. Yun (arXiv:2207.02800).",
+  "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics"
  }
 }
