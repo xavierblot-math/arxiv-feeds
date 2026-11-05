@@ -1,21 +1,9 @@
-Last run: 2026-11-05 14:03 UTC
+Last run: 2026-11-05 23:17 UTC
 Announcements downloaded: 197 (0 category feeds failed)
-New papers stored this run: 10
+New papers stored this run: 0
 
 ag             |   31 items |   2 new this run
 amplituhedron  |    3 items |   0 new this run
 broad          |   54 items |   4 new this run
 mathphys       |   22 items |   3 new this run
 topics         |   93 items |   2 new this run
-
-Matched this run:
-  Gromov-Witten                            | On Fujita's Advanced Generalized Mukai Conjecture
-  Hsian-Hua Tseng                          | On rational curves relative to a divisor
-  Kefeng Liu                               | The super Weil-Petersson asymptotic expansion and the coefficients
-  Giordano Cotti                           | Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of
-  tau function                             | Concavity of Normalized Generalized Br\'ezin--Gross--Witten Correlator
-  integrable hierarch                      | Toward Shifted symplectic Chiralization: Deformation of Courant Algebr
-  Jan-Willem van Ittersum                  | Multiple $q$-zeta values as polynomials in partition multiplicities
-  Edward Witten                            | A Note On Lattice Definition of Gauge Theories With Chiral Fermions
-  r-spin                                   | Toward a Quantum Information Foundation for Neutron Scattering
-  KdV, quantum KdV                         | An Explicit Construction of Commuting Quantum KdV Hamiltonians in the 

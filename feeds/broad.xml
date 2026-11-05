@@ -4,7 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 05 Nov 2026 14:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:17:54 +0000</lastBuildDate>
     <item>
       <title>On Fujita's Advanced Generalized Mukai Conjecture</title>
       <link>https://arxiv.org/abs/2611.05452</link>
@@ -14,20 +14,20 @@
       <description>&lt;p&gt;&lt;b&gt;Duo Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove Fujita&amp;#x27;s advanced generalized Mukai conjecture for smooth complex Fano varieties. Our starting point is the existence of independent two-point Gromov--Witten correspondences. We show that there are finitely many unsplit families of rational curves whose chains connect $X$. We use these families to bound the anticanonical degrees throughout the successive minimal horizontal construction, so every family in that construction is unsplit. Fujita&amp;#x27;s contraction theorem and inductive classification then give the required list of varieties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.05452"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Concavity of Normalized Generalized Br\'ezin--Gross--Witten Correlators and Its Applications</title>
-      <link>https://arxiv.org/abs/2611.06675</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06675</guid>
-      <pubDate>Thu, 05 Nov 2026 14:03:33 +0000</pubDate>
-      <author>Chenglang Yang, Xuhui Zhang</author>
-      <description>&lt;p&gt;&lt;b&gt;Chenglang Yang, Xuhui Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we study the generalized Br\&amp;#x27;ezin--Gross--Witten model using its BKP integrability. By virtue of the formula for connected $n$-point functions of tau-functions of the BKP hierarchy obtained by Wang and the first-named author, we prove that the normalized generalized BGW correlators are strictly concave for fixed genus and fixed total degree. As applications, we establish the strict Schur-concavity and derive upper and lower bounds for these correlators. We also prove the strict monotonicity of normalized ordinary BGW correlators, which resolves a conjecture by Guo--Norbury--Yang--Zagier.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.06675"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Toward Shifted symplectic Chiralization: Deformation of Courant Algebroids</title>
       <link>https://arxiv.org/abs/2611.06031</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.06031</guid>
       <pubDate>Thu, 05 Nov 2026 14:03:33 +0000</pubDate>
       <author>Wenda Fang, Noriaki Ikeda</author>
       <description>&lt;p&gt;&lt;b&gt;Wenda Fang, Noriaki Ikeda&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: integrable hierarch · math.QA, math-ph, math.MP, math.SG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the chiralization of Poisson--Lie theory through graded symplectic geometry. We compare Courant deformations and classical $r$- and $R$-matrix constructions, obtaining integrable hierarchies and free field realizations. We give a variational description of the obstruction to Lie conformal bialgebra compatibility and recover Liberati&amp;#x27;s obstruction in the Virasoro case. We also introduce a vertex bialgebra analogue of quantized universal enveloping algebras and construct explicit quantizations to all orders of Cartan type Lie conformal bialgebra structures on $\operatorname{Cur}(\mathfrak{sl}_2)$. These results contribute to the first author&amp;#x27;s broader programme of developing shifted symplectic chiralization as a geometric method for constructing chiral analogues of Poisson-Lie structures via $n$-shifted symplectic geometry, and exploring its connections with AKSZ theory and quantization.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.06031"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Concavity of Normalized Generalized Br\'ezin--Gross--Witten Correlators and Its Applications</title>
+      <link>https://arxiv.org/abs/2611.06675</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.06675</guid>
+      <pubDate>Thu, 05 Nov 2026 14:03:33 +0000</pubDate>
+      <author>Chenglang Yang, Xuhui Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Chenglang Yang, Xuhui Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · math-ph, math.AG, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In this paper, we study the generalized Br\&amp;#x27;ezin--Gross--Witten model using its BKP integrability. By virtue of the formula for connected $n$-point functions of tau-functions of the BKP hierarchy obtained by Wang and the first-named author, we prove that the normalized generalized BGW correlators are strictly concave for fixed genus and fixed total degree. As applications, we establish the strict Schur-concavity and derive upper and lower bounds for these correlators. We also prove the strict monotonicity of normalized ordinary BGW correlators, which resolves a conjecture by Guo--Norbury--Yang--Zagier.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.06675"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Explicit Construction of Commuting Quantum KdV Hamiltonians in the Universal Virasoro Vertex Algebra</title>
