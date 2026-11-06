@@ -1,9 +1,16 @@
-Last run: 2026-11-05 23:17 UTC
-Announcements downloaded: 197 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-06 13:47 UTC
+Announcements downloaded: 234 (0 category feeds failed)
+New papers stored this run: 5
 
-ag             |   31 items |   2 new this run
+ag             |   32 items |   1 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   54 items |   4 new this run
-mathphys       |   22 items |   3 new this run
-topics         |   93 items |   2 new this run
+broad          |   54 items |   0 new this run
+mathphys       |   23 items |   1 new this run
+topics         |   96 items |   3 new this run
+
+Matched this run:
+  Si-Qi Liu                                | Local Homological Mirror Symmetry
+  Dawei Chen                               | The residual map as a stratified fibration over the resonance arrangem
+  topological recursion                    | Universal $x$-$y$ duality in equivariant topological recursion and qua
+  star product                             | A Wigner-Lindblad phase space model for open quantum dynamics
+  r-spin                                   | Minimal massive completions of partially broken higher-spin models

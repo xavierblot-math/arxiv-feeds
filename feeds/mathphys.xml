@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 05 Nov 2026 23:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:47:45 +0000</lastBuildDate>
+    <item>
+      <title>Local Homological Mirror Symmetry</title>
+      <link>https://arxiv.org/abs/2611.07202</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.07202</guid>
+      <pubDate>Fri, 06 Nov 2026 13:47:20 +0000</pubDate>
+      <author>Si-Yang Liu, Kyungmin Rho</author>
+      <description>&lt;p&gt;&lt;b&gt;Si-Yang Liu, Kyungmin Rho&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Si-Qi Liu · math.SG, math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Local mirror symmetry, originated from the work of Chiang-Klemm-Yau-Zaslow arXiv:9903053, indicated a potential relation between mirrors to a vector bundle and mirrors to its zero section. In this paper, we constructed a homological mirror to these local varieties and proved the corresponding Homological Mirror Symmetry statement. As an application, we constructed infinite families of exotic Weinstein sectors as mirrors to Hirzebruch surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.07202"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Note On Lattice Definition of Gauge Theories With Chiral Fermions</title>
       <link>https://arxiv.org/abs/2611.05051</link>

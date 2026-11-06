@@ -4426,5 +4426,129 @@
   "seen": "2026-11-05T14:03:33.975017+00:00",
   "summary": "In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations. The Burnside-Lefschetz formula allows us to compute the resulting contributions, taking into account graph symmetries and their fixed loci. The calculation in genus two illustrates the method explicitly and, in the Deligne-Mumford case, recovers the generating function of G. Bini, G. Gaiffi, and M. Polito (arXiv:math/9806048), with the corrections of G. Bini and J. Harer (arXiv:math/0506083), providing a check on the construction. We also carry out the calculation in genus three in an appendix. Together with an elementary genus-one calculation based on collision partitions and rational necklaces, these formulas yield complete asymptotic expansions as the number of labeled markings tends to infinity. The passage from all-light to ordinary Euler characteristics is governed by the universal change of variables $\\Phi(z)=(2-z)e^z-2$, which we derive by a direct wall-crossing argument. For arbitrary fixed genus $g\\ge2$, the same framework identifies the leading contribution of rational trivalent graphs and gives the ordinary asymptotic scale $n!(e-2)^{-n}n^{(3g-5)/2}$. The leading constants are the symmetry weights of these graphs; we derive their generating function, recurrence, and large-genus behavior. We also determine the asymptotic ratio of all-light to ordinary Euler characteristics, answering a question of S. Kannan, S. Serpente, and C. H. Yun (arXiv:2207.02800).",
   "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics"
+ },
+ "2611.07057": {
+  "announce": "new",
+  "authors": [
+   "E. L. Mendon\\c{c}a",
+   "M. I. C. Mau\\'es"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.07057",
+  "link": "https://arxiv.org/abs/2611.07057",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-06T13:47:20.849918+00:00",
+  "summary": "The partially broken Fronsdal (PBF) model describes massless particles of arbitrary integer spin $s$ with a gauge symmetry smaller than Fronsdal's, and differs from it only by the coefficient $c$ of the term $(\\p\\cdot h')^2$. We ask whether it admits a genuinely new massive completion. Adding a mass term and the most general local auxiliary sector with at most two derivatives, and demanding that all lower-spin sectors be non-dynamical, we show that for $s=3$ a single auxiliary scalar is never enough, while two scalars give a solution unique up to field redefinitions: one scalar is algebraic and its elimination exactly undoes the deformation, while the other is the auxiliary scalar of the Aragone--Deser--Yang (ADY) model. The same mechanism, with an algebraic vector, appears for $s=4$ and extends to arbitrary spin, and we conjecture that the resulting auxiliary content is minimal. In this minimal completion $c$ does not survive the mass: the correlation functions of $h$ coincide with those of the ADY model. For the Skvortsov--Vasiliev (SV) model, which belongs to the same family, we construct a massive version in which the Weyl-like symmetry survives the mass, and show that its auxiliary sector is fixed by the absence of lower-spin modes, within a general ansatz for $s=3$ and within a restricted one for $s=4$. For the partially broken SV model we obtain instead a massive completion which requires no auxiliary field beyond those of the massive SV model, and in which $c$ survives the mass through the same contact term as in the massless theory.",
+  "title": "Minimal massive completions of partially broken higher-spin models"
+ },
+ "2611.07202": {
+  "announce": "new",
+  "authors": [
+   "Si-Yang Liu",
+   "Kyungmin Rho"
+  ],
+  "cats": [
+   "math.SG",
+   "math.AG"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Si-Qi Liu"
+   ]
+  },
+  "id": "2611.07202",
+  "link": "https://arxiv.org/abs/2611.07202",
+  "matched": [
+   "Si-Qi Liu"
+  ],
+  "seen": "2026-11-06T13:47:20.849918+00:00",
+  "summary": "Local mirror symmetry, originated from the work of Chiang-Klemm-Yau-Zaslow arXiv:9903053, indicated a potential relation between mirrors to a vector bundle and mirrors to its zero section. In this paper, we constructed a homological mirror to these local varieties and proved the corresponding Homological Mirror Symmetry statement. As an application, we constructed infinite families of exotic Weinstein sectors as mirrors to Hirzebruch surfaces.",
+  "title": "Local Homological Mirror Symmetry"
+ },
+ "2611.07499": {
+  "announce": "cross",
+  "authors": [
+   "Dawei Chen",
+   "Scott Mullane",
+   "Nick Salter",
+   "Guillaume Tahar"
+  ],
+  "cats": [
+   "math.GT",
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Dawei Chen"
+   ]
+  },
+  "id": "2611.07499",
+  "link": "https://arxiv.org/abs/2611.07499",
+  "matched": [
+   "Dawei Chen"
+  ],
+  "seen": "2026-11-06T13:47:20.849918+00:00",
+  "summary": "Given a stratum $\\mathcal{H}(\\mu)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement. To give an algebro-geometric proof of this result, we introduce a refined compactification of the projectivized stratum $\\mathbb{P}\\mathcal{H}(\\mu)$, namely the moduli space of residue-aligned multi-scale differentials $\\operatorname{RAMS}(\\mu)$. We prove that the projectivized residual map extends to $\\operatorname{RAMS}(\\mu)$ as a stratified fibration over the projectivized resonance arrangement, thereby yielding a resolution of the projectivized residual map. This approach naturally extends to the analogue of the residual map for strata of $k$-differentials. Complementing the algebro-geometric approach, we also develop a flat-geometric point of view. In genus zero, each isoresidual fiber carries a canonical higher-dimensional analogue of a translation structure. These fibers admit a metric completion whose boundary has a modular interpretation in terms of the WYSIWYG compactification, for which we provide explicit local models. Isoresidual fibers admit a polyhedral cell decomposition whose geometry varies linearly with the underlying configuration of residues in period coordinates. Degenerations of these cells occur precisely when resonance conditions are satisfied, providing a geometric proof that the residual map is a stratified fibration. Finally, certain isoresidual fibers admit natural interpretations as Hurwitz spaces of branched covers, yielding unexpected homeomorphisms between moduli spaces of covers with prescribed ramification profiles.",
+  "title": "The residual map as a stratified fibration over the resonance arrangement"
+ },
+ "2611.07608": {
+  "announce": "new",
+  "authors": [
+   "O. Morandi"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "star product"
+   ]
+  },
+  "id": "2611.07608",
+  "link": "https://arxiv.org/abs/2611.07608",
+  "matched": [
+   "star product"
+  ],
+  "seen": "2026-11-06T13:47:20.849918+00:00",
+  "summary": "We investigate the collisional quantum dynamics of an open system in contact with a thermal bath. We propose a particle-bath interaction model based on the Weyl quantization principle and the Wigner phase space description of quantum evolution. By factorizing the reduced Hamiltonian of the open system via supersymmetric quantum mechanics techniques, we construct system-dependent creation and annihilation operators for arbitrary potential landscapes. This allows us to extend the classical Fokker--Planck relaxation mechanism to incorporate Lindblad quantum stochastic jumps within the Wigner phase-space formalism. Through a semiclassical expansion of the Moyal star product to second order, we obtain a generalized Wigner--Lindblad kinetic model featuring position-dependent friction and diffusion terms. We establish the mathematical well-posedness of the Lindblad problem and we validate our approach through numerical simulations. Our model resolves unphysical long-time artifacts of standard quantum Fokker--Planck models in quartic double-well traps, accurately captures dissipative quantum state localization in 2D molecular potentials (4D phase space), and effectively evaluates electron transport and trapping times in InAs/InP resonant tunneling diodes.",
+  "title": "A Wigner-Lindblad phase space model for open quantum dynamics"
+ },
+ "2611.08018": {
+  "announce": "cross",
+  "authors": [
+   "Alexander Hock",
+   "Jakob Lindner",
+   "Raimar Wulkenhaar"
+  ],
+  "cats": [
+   "math-ph",
+   "math.AG",
+   "math.CO",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2611.08018",
+  "link": "https://arxiv.org/abs/2611.08018",
+  "matched": [
+   "topological recursion"
+  ],
+  "seen": "2026-11-06T13:47:20.849918+00:00",
+  "summary": "Topological recursion is a universal procedure that generates an infinite family of multi-differentials with different interpretations in various areas of mathematics. Recently, a new understanding of topological recursion has emerged from $x$-$y$ duality, which relates two such families through explicit formulae. We study $x$-$y$ duality, its parametrised version, and symplectic duality in the setting of equivariant topological recursion. We explicitly analyse the pole structure of the resulting dual families and provide recursive formulae for the different types of polar parts. In contrast to classical topological recursion, the dual family has additional poles at fixed points of the group action, and at anti-diagonals determined by the group action. We show that the partition function $Z_P(E)=\\int_{H_N} e^{-N\\,\\mathrm{Tr}(E\\Phi^2+P(\\Phi))}d\\Phi$ of the Kontsevich matrix model with arbitrary potential $P$, where $d\\Phi$ is the Lebesgue measure on Hermitian $N\\times N$ matrices and $E$ a positive matrix, admits a Fock space realisation related to the character expansion of the IZHC integral. The Fock space framework provides two mutually $X$-$Y$ dual families of multi-differentials relative to an implicitly defined spectral curve $(X,Y)$. The solution $Y(X)$ succeeds for the quartic Kontsevich model with potential $P(\\Phi)=\\frac{\\lambda}{4}\\Phi^4$. We identify a network of duality transformations and symplectic shifts which relate the quartic Kontsevich model with the $\\mathbb{Z}/2\\mathbb{Z}$-equivariant spectral curve. The proposed construction yields a conjectural all-genus solution to the quartic Kontsevich model, which reproduces recursive structures previously established for genus $g\\leq 1$.",
+  "title": "Universal $x$-$y$ duality in equivariant topological recursion and quartic Kontsevich model"
  }
 }

@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 05 Nov 2026 23:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:47:45 +0000</lastBuildDate>
+    <item>
+      <title>The residual map as a stratified fibration over the resonance arrangement</title>
+      <link>https://arxiv.org/abs/2611.07499</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.07499</guid>
+      <pubDate>Fri, 06 Nov 2026 13:47:20 +0000</pubDate>
+      <author>Dawei Chen, Scott Mullane, Nick Salter, Guillaume Tahar</author>
+      <description>&lt;p&gt;&lt;b&gt;Dawei Chen, Scott Mullane, Nick Salter, Guillaume Tahar&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Dawei Chen · math.GT, math.AG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a stratum $\mathcal{H}(\mu)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement. To give an algebro-geometric proof of this result, we introduce a refined compactification of the projectivized stratum $\mathbb{P}\mathcal{H}(\mu)$, namely the moduli space of residue-aligned multi-scale differentials $\operatorname{RAMS}(\mu)$. We prove that the projectivized residual map extends to $\operatorname{RAMS}(\mu)$ as a stratified fibration over the projectivized resonance arrangement, thereby yielding a resolution of the projectivized residual map. This approach naturally extends to the analogue of the residual map for strata of $k$-differentials. Complementing the algebro-geometric approach, we also develop a flat-geometric point of view. In genus zero, each isoresidual fiber carries a canonical higher-dimensional analogue of a translation structure. These fibers admit a metric completion whose boundary has a modular interpretation in terms of the WYSIWYG compactification, for which we provide explicit local models. Isoresidual fibers admit a polyhedral cell decomposition whose geometry varies linearly with the underlying configuration of residues in period coordinates. Degenerations of these cells occur precisely when resonance conditions are satisfied, providing a geometric proof that the residual map is a stratified fibration. Finally, certain isoresidual fibers admit natural interpretations as Hurwitz spaces of branched covers, yielding unexpected homeomorphisms between moduli spaces of covers with prescribed ramification profiles.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.07499"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On rational curves relative to a divisor</title>
       <link>https://arxiv.org/abs/2611.05809</link>
