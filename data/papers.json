@@ -4550,5 +4550,116 @@
   "seen": "2026-11-06T13:47:20.849918+00:00",
   "summary": "Topological recursion is a universal procedure that generates an infinite family of multi-differentials with different interpretations in various areas of mathematics. Recently, a new understanding of topological recursion has emerged from $x$-$y$ duality, which relates two such families through explicit formulae. We study $x$-$y$ duality, its parametrised version, and symplectic duality in the setting of equivariant topological recursion. We explicitly analyse the pole structure of the resulting dual families and provide recursive formulae for the different types of polar parts. In contrast to classical topological recursion, the dual family has additional poles at fixed points of the group action, and at anti-diagonals determined by the group action. We show that the partition function $Z_P(E)=\\int_{H_N} e^{-N\\,\\mathrm{Tr}(E\\Phi^2+P(\\Phi))}d\\Phi$ of the Kontsevich matrix model with arbitrary potential $P$, where $d\\Phi$ is the Lebesgue measure on Hermitian $N\\times N$ matrices and $E$ a positive matrix, admits a Fock space realisation related to the character expansion of the IZHC integral. The Fock space framework provides two mutually $X$-$Y$ dual families of multi-differentials relative to an implicitly defined spectral curve $(X,Y)$. The solution $Y(X)$ succeeds for the quartic Kontsevich model with potential $P(\\Phi)=\\frac{\\lambda}{4}\\Phi^4$. We identify a network of duality transformations and symplectic shifts which relate the quartic Kontsevich model with the $\\mathbb{Z}/2\\mathbb{Z}$-equivariant spectral curve. The proposed construction yields a conjectural all-genus solution to the quartic Kontsevich model, which reproduces recursive structures previously established for genus $g\\leq 1$.",
   "title": "Universal $x$-$y$ duality in equivariant topological recursion and quartic Kontsevich model"
+ },
+ "2611.08584": {
+  "announce": "new",
+  "authors": [
+   "Francesco Bertucci"
+  ],
+  "cats": [
+   "hep-th",
+   "gr-qc"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.08584",
+  "link": "https://arxiv.org/abs/2611.08584",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-09T15:18:53.690641+00:00",
+  "summary": "We work out the Kaluza--Klein (KK) compactification on a general product spacetime for free spin-1/2 and spin-3/2 fields in arbitrary dimension. The analysis is performed at the level of the action, and the resulting lower-dimensional theory describes infinite towers of massive particles whose masses are related to the eigenvalues of the Dirac and Rarita--Schwinger operators on the internal space. A Hodge-like decomposition is used to write down a KK ansatz for spin-3/2 fields, and the fate of gauge invariance is discussed.",
+  "title": "Fermionic Kaluza-Klein Reductions"
+ },
+ "2611.08796": {
+  "announce": "cross",
+  "authors": [
+   "Erik Brodsky",
+   "Leonid O Chekhov",
+   "Quanyu Tang"
+  ],
+  "cats": [
+   "math-ph",
+   "hep-th",
+   "math.MP",
+   "math.QA"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Leonid Chekhov"
+   ]
+  },
+  "id": "2611.08796",
+  "link": "https://arxiv.org/abs/2611.08796",
+  "matched": [
+   "Leonid Chekhov"
+  ],
+  "seen": "2026-11-09T15:18:53.690641+00:00",
+  "summary": "We explore the quantum reflection equation in the case of a full-dimensional $n\\times n$ matrix $\\mathbb A$. Using the technique of $q$-determinants, we find closed expressions for the quantum Pfaffian (in the case of even $n$) and for new quantum Casimirs that are ratios of special quantum (Sklyanin) minors of $\\mathbb A$. Special attention is paid to the self-adjointness property of the newly constructed Casimirs. We put forward a conjecture that, adopting a natural ansatz for a quantum deformation of a Casimir of a classical algebra, self-adjointness implies commutativity. We also explore the relationship to networks of quantum cluster variables.",
+  "title": "Constructing Casimirs for the quantum reflection equation"
+ },
+ "2611.09757": {
+  "announce": "cross",
+  "authors": [
+   "Marcela C\\'ardenas",
+   "Benjam\\'in Cuevas-Tapia",
+   "Jessica Trespalacios"
+  ],
+  "cats": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "KdV hierarchy"
+   ]
+  },
+  "id": "2611.09757",
+  "link": "https://arxiv.org/abs/2611.09757",
+  "matched": [
+   "KdV",
+   "KdV hierarchy"
+  ],
+  "seen": "2026-11-09T15:18:53.690641+00:00",
+  "summary": "We derive the generalized Schwarzian thermodynamics of near-extremal Kerr directly from four-dimensional gravitational perturbations of the near-horizon geometry. We construct two families of exact linear perturbations of the near-NHEK background: a non-normalizable mode that deforms the asymptotic boundary, and a normalizable mode supported near the horizon. Both perturbations are smooth solutions of the vacuum Einstein equations reduced to the Jackiw--Teitelboim equation for the dual scalar, without conical singularities. We study their asymptotic symmetries and show that they generate an algebra of time reparametrizations; requiring the gauge parameters to depend on the Schwarzian mode, the isometry condition selects the stationary KdV hierarchy. The same hierarchy is independently enforced by the vacuum Einstein equations on the perturbation coefficient. In the Euclidean regime, we evaluate the Hamiltonian action and show that each mode independently generates a tower of odd-power corrections to the near-extremal entropy.",
+  "title": "Generalized Schwarzian thermodynamics from gravitational perturbations of near-extremal Kerr"
+ },
+ "2611.09833": {
+  "announce": "new",
+  "authors": [
+   "Sidney Holden",
+   "Keaton J. Burns",
+   "Daniel Lecoanet",
+   "Jeffrey S. Oishi",
+   "Benjamin P. Brown",
+   "Geoffrey M. Vasil"
+  ],
+  "cats": [
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "r-KdV"
+   ]
+  },
+  "id": "2611.09833",
+  "link": "https://arxiv.org/abs/2611.09833",
+  "matched": [
+   "KdV",
+   "r-KdV"
+  ],
+  "seen": "2026-11-09T15:18:53.690641+00:00",
+  "summary": "Transport, reaction and wave propagation on physical networks depend on dynamics along edges and interactions at junctions. We present a flexible framework for modeling physical networks at scale. A network calculus expresses edge dynamics and vertex contributions as fields over the whole network. Differential operators satisfy integration by parts-identities that connect local dynamics to global conservation laws, and explicit vertex constraints allow a variety of physical junction conditions. We implement this formalism using the open-source Dedalus spectral framework. This accommodates heterogeneous edge lengths, material properties and spectral resolutions. Initial-value, boundary-value and eigenvalue problems share a parallel solution method that eliminates internal unknowns independently on subgraphs and couples their solutions through shared boundary vertex interfaces. We verify numerical convergence and demonstrate strong and weak scaling on networks with millions of edges. We present applications to localized optical resonances in photonic networks, preferential channel formation during mineral replacement in evolving pore networks, and nonlinear dispersive waves for KdV on a periodic network.",
+  "title": "A scalable computational framework for PDEs on physical networks"
  }
 }

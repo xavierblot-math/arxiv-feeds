@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 08 Nov 2026 21:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:19:18 +0000</lastBuildDate>
+    <item>
+      <title>Constructing Casimirs for the quantum reflection equation</title>
+      <link>https://arxiv.org/abs/2611.08796</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08796</guid>
+      <pubDate>Mon, 09 Nov 2026 15:18:53 +0000</pubDate>
+      <author>Erik Brodsky, Leonid O Chekhov, Quanyu Tang</author>
+      <description>&lt;p&gt;&lt;b&gt;Erik Brodsky, Leonid O Chekhov, Quanyu Tang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Leonid Chekhov · math-ph, hep-th, math.MP, math.QA · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We explore the quantum reflection equation in the case of a full-dimensional $n\times n$ matrix $\mathbb A$. Using the technique of $q$-determinants, we find closed expressions for the quantum Pfaffian (in the case of even $n$) and for new quantum Casimirs that are ratios of special quantum (Sklyanin) minors of $\mathbb A$. Special attention is paid to the self-adjointness property of the newly constructed Casimirs. We put forward a conjecture that, adopting a natural ansatz for a quantum deformation of a Casimir of a classical algebra, self-adjointness implies commutativity. We also explore the relationship to networks of quantum cluster variables.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.08796"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Local Homological Mirror Symmetry</title>
       <link>https://arxiv.org/abs/2611.07202</link>
