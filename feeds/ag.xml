@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 01:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:25:13 +0000</lastBuildDate>
+    <item>
+      <title>$\lambda_g$-Integrals on triple, one-part admissible covers</title>
+      <link>https://arxiv.org/abs/2611.12450</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12450</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Renzo Cavalieri, David Klompenhouwer, Paolo Rossi</author>
+      <description>&lt;p&gt;&lt;b&gt;Renzo Cavalieri, David Klompenhouwer, Paolo Rossi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Renzo Cavalieri · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We effectively compute all intersection numbers of the form $\lambda_g\psi^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.12450"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semiampleness of Hodge line bundles and b-semiampleness of the moduli part</title>
+      <link>https://arxiv.org/abs/2611.12744</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12744</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Zhengyu Hu, Kefeng Liu, Yang Shen</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhengyu Hu, Kefeng Liu, Yang Shen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give proofs of Hodge semiampleness and b-semiampleness without using o-minimality. We establish a geometric semiampleness criterion for line bundles on proper algebraic spaces. Let $(X,D)$ be a log smooth pair with $X$ a proper algebraic space. For an integral polarizable pure variation of Calabi--Yau type on $X\setminus D$ with unipotent local monodromy, let $L$ be its extended highest Hodge line. If $L$ is numerically integrable and has torsion combinatorial monodromy, then $L$ is semiample. We also prove semiampleness of extended Griffiths lines. We construct normal projective period compactifications on which a positive power of the Griffiths line extends to an ample line bundle. As an application, we prove that the moduli b-divisor $\mathbf{M}$ of a projective lc-trivial fibration over a normal algebraic variety is b-semiample, provided that the generic boundary is effective. Suppose further that the geometric generic pair is klt and its boundary is big, with nonzero coefficients in a fixed finite set $I\subset(0,1)\cap\mathbb{Q}$. Then $c\mathbf{M}$ is b-Cartier and b-free for an integer $c&amp;gt;0$ depending only on the relative dimension and $I$. We extend b-semiampleness to analogous projective fibrations over normal complex analytic bases, assuming a global relative polarization and an invertible log pluricanonical sheaf pulled back from the base.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.12744"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The residual map as a stratified fibration over the resonance arrangement</title>
       <link>https://arxiv.org/abs/2611.07499</link>

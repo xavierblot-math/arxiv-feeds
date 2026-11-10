@@ -4,7 +4,31 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 01:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:25:13 +0000</lastBuildDate>
+    <item>
+      <title>All-genus mirror symmetry for the type-$D$ minimal resolution Calabi-Yau threefold</title>
+      <link>https://arxiv.org/abs/2611.11300</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.11300</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Bohan Fang, Zhuoming Lan</author>
+      <description>&lt;p&gt;&lt;b&gt;Bohan Fang, Zhuoming Lan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $Y$ be the product of a minimal resolution of a binary dihedral surface singularity with an equivariant line, with volume-preserving scalar action. We identify its stable equivariant descendant Gromov--Witten theory and its free energies in genus at least two with the sign-sector topological recursion of the degenerate type-$D$ relativistic Toda spectral curve. The $R-$matrix calibration is determined at a partial large-radius limit, where the trivalent exceptional curve retains a nonzero K\&amp;quot;ahler parameter, while the remaining parameters vanish. The limiting theory on the mirror side is a sum of twisted point theories and the local $(-2,0)$ curve theory. Moreover, we identify the equivariant K-group supported on the surface zero section with an integral relative homology group of the mirror. Explicit cycles for the dual tautological bundles realize their Gamma central charges and all stable Gamma-framed descendants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.11300"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>$\lambda_g$-Integrals on triple, one-part admissible covers</title>
+      <link>https://arxiv.org/abs/2611.12450</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12450</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Renzo Cavalieri, David Klompenhouwer, Paolo Rossi</author>
+      <description>&lt;p&gt;&lt;b&gt;Renzo Cavalieri, David Klompenhouwer, Paolo Rossi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We effectively compute all intersection numbers of the form $\lambda_g\psi^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.12450"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$</title>
+      <link>https://arxiv.org/abs/2611.10580</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.10580</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Michio Jimbo, Takeo Kojima</author>
+      <description>&lt;p&gt;&lt;b&gt;Michio Jimbo, Takeo Kojima&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math.QA, hep-th, math-ph, math.MP, nlin.SI, quant-ph · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The deformed $W$-algebra $W_{q,t}(D_l)$ of type $D_l$ possesses an infinite family of commuting elements that can be viewed as a two-parameter deformation of the classical Hamiltonians for the KdV hierarchy of type $D_l$; these conserved charges are termed local integrals of motion (IMs). Concurrently, the quantum toroidal algebra $U_q(D_l^{&amp;quot;})$ of type $D_l$ admits four distinct representations via free field realizations, each corresponding to one of the four end nodes of the affine Dynkin diagram. Utilizing these representations, we associate an infinite set of commuting operators with each node, which we define as non-local integrals of motion. Both local and non-local integrals of motion act simultaneously on a shared Fock space consisting of $l+1$ free fields. We provide a direct, computational proof demonstrating that these local and non-local integrals of motion mutually commute.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.10580"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Generalized Schwarzian thermodynamics from gravitational perturbations of near-extremal Kerr</title>
       <link>https://arxiv.org/abs/2611.09757</link>

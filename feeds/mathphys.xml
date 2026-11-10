@@ -4,7 +4,23 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 01:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:25:13 +0000</lastBuildDate>
+    <item>
+      <title>$\lambda_g$-Integrals on triple, one-part admissible covers</title>
+      <link>https://arxiv.org/abs/2611.12450</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12450</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Renzo Cavalieri, David Klompenhouwer, Paolo Rossi</author>
+      <description>&lt;p&gt;&lt;b&gt;Renzo Cavalieri, David Klompenhouwer, Paolo Rossi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: David Klompenhouwer, Paolo Rossi · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We effectively compute all intersection numbers of the form $\lambda_g\psi^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.12450"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cylinder spectral curve and 1-cut Matrix model</title>
+      <link>https://arxiv.org/abs/2611.11015</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.11015</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Bertrand Eynard</author>
+      <description>&lt;p&gt;&lt;b&gt;Bertrand Eynard&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Bertrand Eynard · math-ph, hep-th, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For a random matrix, with eigenvalues in a one-body potential $V(x)$ and a 2-body interaction $R(x,x&amp;#x27;)$, it is known that the resolvent converges in the large $N$ limit to an analytic function in the complex plane minus cuts, called the spectral curve. In the 1-cut case, a two-sheeted neighborhood of the cut is a cylinder with two simple ramification points. We describe these spectral curve data by boundary integral operators and generalized cycles. Vice-versa, given a 2-branchpoints spectral curve in a cylinder, there exists a formal random matrix model that corresponds to it. The goal of this article is to show the method to recover a formal random matrix model, with its potential and 2-body interaction, from the geometry of the spectral curve.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.11015"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Constructing Casimirs for the quantum reflection equation</title>
       <link>https://arxiv.org/abs/2611.08796</link>

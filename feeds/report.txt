@@ -1,9 +1,17 @@
-Last run: 2026-11-10 01:12 UTC
-Announcements downloaded: 160 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-10 14:24 UTC
+Announcements downloaded: 389 (0 category feeds failed)
+New papers stored this run: 6
 
-ag             |   32 items |   0 new this run
+ag             |   34 items |   2 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   56 items |   2 new this run
-mathphys       |   24 items |   1 new this run
-topics         |   99 items |   3 new this run
+broad          |   59 items |   3 new this run
+mathphys       |   26 items |   2 new this run
+topics         |  103 items |   4 new this run
+
+Matched this run:
+  Gromov-Witten, topological recursion     | All-genus mirror symmetry for the type-$D$ minimal resolution Calabi-Y
+  David Klompenhouwer, KdV, KdV hierarchy, Paolo Rossi, Renzo Cavalieri | $\lambda_g$-Integrals on triple, one-part admissible covers
+  Kefeng Liu                               | Semiampleness of Hodge line bundles and b-semiampleness of the moduli 
+  Bertrand Eynard                          | Cylinder spectral curve and 1-cut Matrix model
+  resurgence                               | Real-Time Path Integral Resurgence: Which Classical Path Contributes?
+  KdV, KdV hierarchy                       | Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$

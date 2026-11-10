@@ -4661,5 +4661,179 @@
   "seen": "2026-11-09T15:18:53.690641+00:00",
   "summary": "Transport, reaction and wave propagation on physical networks depend on dynamics along edges and interactions at junctions. We present a flexible framework for modeling physical networks at scale. A network calculus expresses edge dynamics and vertex contributions as fields over the whole network. Differential operators satisfy integration by parts-identities that connect local dynamics to global conservation laws, and explicit vertex constraints allow a variety of physical junction conditions. We implement this formalism using the open-source Dedalus spectral framework. This accommodates heterogeneous edge lengths, material properties and spectral resolutions. Initial-value, boundary-value and eigenvalue problems share a parallel solution method that eliminates internal unknowns independently on subgraphs and couples their solutions through shared boundary vertex interfaces. We verify numerical convergence and demonstrate strong and weak scaling on networks with millions of edges. We present applications to localized optical resonances in photonic networks, preferential channel formation during mineral replacement in evolving pore networks, and nonlinear dispersive waves for KdV on a periodic network.",
   "title": "A scalable computational framework for PDEs on physical networks"
+ },
+ "2611.10580": {
+  "announce": "cross",
+  "authors": [
+   "Michio Jimbo",
+   "Takeo Kojima"
+  ],
+  "cats": [
+   "math.QA",
+   "hep-th",
+   "math-ph",
+   "math.MP",
+   "nlin.SI",
+   "quant-ph"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "KdV hierarchy"
+   ]
+  },
+  "id": "2611.10580",
+  "link": "https://arxiv.org/abs/2611.10580",
+  "matched": [
+   "KdV",
+   "KdV hierarchy"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "The deformed $W$-algebra $W_{q,t}(D_l)$ of type $D_l$ possesses an infinite family of commuting elements that can be viewed as a two-parameter deformation of the classical Hamiltonians for the KdV hierarchy of type $D_l$; these conserved charges are termed local integrals of motion (IMs). Concurrently, the quantum toroidal algebra $U_q(D_l^{\"})$ of type $D_l$ admits four distinct representations via free field realizations, each corresponding to one of the four end nodes of the affine Dynkin diagram. Utilizing these representations, we associate an infinite set of commuting operators with each node, which we define as non-local integrals of motion. Both local and non-local integrals of motion act simultaneously on a shared Fock space consisting of $l+1$ free fields. We provide a direct, computational proof demonstrating that these local and non-local integrals of motion mutually commute.",
+  "title": "Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$"
+ },
+ "2611.11015": {
+  "announce": "cross",
+  "authors": [
+   "Bertrand Eynard"
+  ],
+  "cats": [
+   "math-ph",
+   "hep-th",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Bertrand Eynard"
+   ]
+  },
+  "id": "2611.11015",
+  "link": "https://arxiv.org/abs/2611.11015",
+  "matched": [
+   "Bertrand Eynard"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "For a random matrix, with eigenvalues in a one-body potential $V(x)$ and a 2-body interaction $R(x,x')$, it is known that the resolvent converges in the large $N$ limit to an analytic function in the complex plane minus cuts, called the spectral curve. In the 1-cut case, a two-sheeted neighborhood of the cut is a cylinder with two simple ramification points. We describe these spectral curve data by boundary integral operators and generalized cycles. Vice-versa, given a 2-branchpoints spectral curve in a cylinder, there exists a formal random matrix model that corresponds to it. The goal of this article is to show the method to recover a formal random matrix model, with its potential and 2-body interaction, from the geometry of the spectral curve.",
+  "title": "Cylinder spectral curve and 1-cut Matrix model"
+ },
+ "2611.11300": {
+  "announce": "cross",
+  "authors": [
+   "Bohan Fang",
+   "Zhuoming Lan"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ],
+   "topics": [
+    "topological recursion"
+   ]
+  },
+  "id": "2611.11300",
+  "link": "https://arxiv.org/abs/2611.11300",
+  "matched": [
+   "Gromov-Witten",
+   "topological recursion"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "Let $Y$ be the product of a minimal resolution of a binary dihedral surface singularity with an equivariant line, with volume-preserving scalar action. We identify its stable equivariant descendant Gromov--Witten theory and its free energies in genus at least two with the sign-sector topological recursion of the degenerate type-$D$ relativistic Toda spectral curve. The $R-$matrix calibration is determined at a partial large-radius limit, where the trivalent exceptional curve retains a nonzero K\\\"ahler parameter, while the remaining parameters vanish. The limiting theory on the mirror side is a sum of twisted point theories and the local $(-2,0)$ curve theory. Moreover, we identify the equivariant K-group supported on the surface zero section with an integral relative homology group of the mirror. Explicit cycles for the dual tautological bundles realize their Gamma central charges and all stable Gamma-framed descendants.",
+  "title": "All-genus mirror symmetry for the type-$D$ minimal resolution Calabi-Yau threefold"
+ },
+ "2611.12450": {
+  "announce": "cross",
+  "authors": [
+   "Renzo Cavalieri",
+   "David Klompenhouwer",
+   "Paolo Rossi"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "ag": [
+    "Renzo Cavalieri"
+   ],
+   "broad": [
+    "KdV"
+   ],
+   "mathphys": [
+    "David Klompenhouwer",
+    "Paolo Rossi"
+   ],
+   "topics": [
+    "KdV hierarchy"
+   ]
+  },
+  "id": "2611.12450",
+  "link": "https://arxiv.org/abs/2611.12450",
+  "matched": [
+   "David Klompenhouwer",
+   "KdV",
+   "KdV hierarchy",
+   "Paolo Rossi",
+   "Renzo Cavalieri"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "We effectively compute all intersection numbers of the form $\\lambda_g\\psi^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.",
+  "title": "$\\lambda_g$-Integrals on triple, one-part admissible covers"
+ },
+ "2611.12510": {
+  "announce": "cross",
+  "authors": [
+   "Job Feldbrugge"
+  ],
+  "cats": [
+   "math-ph",
+   "gr-qc",
+   "hep-th",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "resurgence"
+   ]
+  },
+  "id": "2611.12510",
+  "link": "https://arxiv.org/abs/2611.12510",
+  "matched": [
+   "resurgence"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "Which complex classical paths contribute to a real-time Feynman path integral? Picard-Lefschetz theory answers this question with the intersection numbers of the thimbles, which are notoriously hard to compute in infinite dimensions. We show that resurgence provides a practical alternative. We compute the asymptotic series of the real and complex classical paths to high order, with Feynman diagrams and with a transport recursion for the cumulants, and read off the adjacency of the classical paths from the divergent tails of the series with Borel-Pad\\'e methods. The South-East rule then turns adjacency into relevance. For a particle meeting a Rosen-Morse barrier, we identify the relevant complex classical paths in front of and behind the barrier, including the complex path that carries quantum tunnelling, follow ordinary and higher-order Stokes phenomena as the final point moves, and verify the predictions with the exact propagator. The resummed series reproduce the propagator with exponential accuracy. Finally, we outline how the expansion extends to relativistic path integrals governed by a Hamiltonian constraint.",
+  "title": "Real-Time Path Integral Resurgence: Which Classical Path Contributes?"
+ },
+ "2611.12744": {
+  "announce": "new",
+  "authors": [
+   "Zhengyu Hu",
+   "Kefeng Liu",
+   "Yang Shen"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.12744",
+  "link": "https://arxiv.org/abs/2611.12744",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-10T14:24:47.875481+00:00",
+  "summary": "We give proofs of Hodge semiampleness and b-semiampleness without using o-minimality. We establish a geometric semiampleness criterion for line bundles on proper algebraic spaces. Let $(X,D)$ be a log smooth pair with $X$ a proper algebraic space. For an integral polarizable pure variation of Calabi--Yau type on $X\\setminus D$ with unipotent local monodromy, let $L$ be its extended highest Hodge line. If $L$ is numerically integrable and has torsion combinatorial monodromy, then $L$ is semiample. We also prove semiampleness of extended Griffiths lines. We construct normal projective period compactifications on which a positive power of the Griffiths line extends to an ample line bundle. As an application, we prove that the moduli b-divisor $\\mathbf{M}$ of a projective lc-trivial fibration over a normal algebraic variety is b-semiample, provided that the generic boundary is effective. Suppose further that the geometric generic pair is klt and its boundary is big, with nonzero coefficients in a fixed finite set $I\\subset(0,1)\\cap\\mathbb{Q}$. Then $c\\mathbf{M}$ is b-Cartier and b-free for an integer $c>0$ depending only on the relative dimension and $I$. We extend b-semiampleness to analogous projective fibrations over normal complex analytic bases, assuming a global relative polarization and an invertible log pluricanonical sheaf pulled back from the base.",
+  "title": "Semiampleness of Hodge line bundles and b-semiampleness of the moduli part"
  }
 }
