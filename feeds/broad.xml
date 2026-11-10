@@ -4,15 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Mon, 09 Nov 2026 15:19:18 +0000</lastBuildDate>
-    <item>
-      <title>A scalable computational framework for PDEs on physical networks</title>
-      <link>https://arxiv.org/abs/2611.09833</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.09833</guid>
-      <pubDate>Mon, 09 Nov 2026 15:18:53 +0000</pubDate>
-      <author>Sidney Holden, Keaton J. Burns, Daniel Lecoanet, Jeffrey S. Oishi, Benjamin P. Brown, Geoffrey M. Vasil</author>
-      <description>&lt;p&gt;&lt;b&gt;Sidney Holden, Keaton J. Burns, Daniel Lecoanet, Jeffrey S. Oishi, Benjamin P. Brown, Geoffrey M. Vasil&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Transport, reaction and wave propagation on physical networks depend on dynamics along edges and interactions at junctions. We present a flexible framework for modeling physical networks at scale. A network calculus expresses edge dynamics and vertex contributions as fields over the whole network. Differential operators satisfy integration by parts-identities that connect local dynamics to global conservation laws, and explicit vertex constraints allow a variety of physical junction conditions. We implement this formalism using the open-source Dedalus spectral framework. This accommodates heterogeneous edge lengths, material properties and spectral resolutions. Initial-value, boundary-value and eigenvalue problems share a parallel solution method that eliminates internal unknowns independently on subgraphs and couples their solutions through shared boundary vertex interfaces. We verify numerical convergence and demonstrate strong and weak scaling on networks with millions of edges. We present applications to localized optical resonances in photonic networks, preferential channel formation during mineral replacement in evolving pore networks, and nonlinear dispersive waves for KdV on a periodic network.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.09833"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 01:13:15 +0000</lastBuildDate>
     <item>
       <title>Generalized Schwarzian thermodynamics from gravitational perturbations of near-extremal Kerr</title>
       <link>https://arxiv.org/abs/2611.09757</link>
@@ -20,6 +12,14 @@
       <pubDate>Mon, 09 Nov 2026 15:18:53 +0000</pubDate>
       <author>Marcela C\'ardenas, Benjam\'in Cuevas-Tapia, Jessica Trespalacios</author>
       <description>&lt;p&gt;&lt;b&gt;Marcela C\&amp;#x27;ardenas, Benjam\&amp;#x27;in Cuevas-Tapia, Jessica Trespalacios&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · gr-qc, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We derive the generalized Schwarzian thermodynamics of near-extremal Kerr directly from four-dimensional gravitational perturbations of the near-horizon geometry. We construct two families of exact linear perturbations of the near-NHEK background: a non-normalizable mode that deforms the asymptotic boundary, and a normalizable mode supported near the horizon. Both perturbations are smooth solutions of the vacuum Einstein equations reduced to the Jackiw--Teitelboim equation for the dual scalar, without conical singularities. We study their asymptotic symmetries and show that they generate an algebra of time reparametrizations; requiring the gauge parameters to depend on the Schwarzian mode, the isometry condition selects the stationary KdV hierarchy. The same hierarchy is independently enforced by the vacuum Einstein equations on the perturbation coefficient. In the Euclidean regime, we evaluate the Hamiltonian action and show that each mode independently generates a tower of odd-power corrections to the near-extremal entropy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.09757"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A scalable computational framework for PDEs on physical networks</title>
+      <link>https://arxiv.org/abs/2611.09833</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.09833</guid>
+      <pubDate>Mon, 09 Nov 2026 15:18:53 +0000</pubDate>
+      <author>Sidney Holden, Keaton J. Burns, Daniel Lecoanet, Jeffrey S. Oishi, Benjamin P. Brown, Geoffrey M. Vasil</author>
+      <description>&lt;p&gt;&lt;b&gt;Sidney Holden, Keaton J. Burns, Daniel Lecoanet, Jeffrey S. Oishi, Benjamin P. Brown, Geoffrey M. Vasil&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Transport, reaction and wave propagation on physical networks depend on dynamics along edges and interactions at junctions. We present a flexible framework for modeling physical networks at scale. A network calculus expresses edge dynamics and vertex contributions as fields over the whole network. Differential operators satisfy integration by parts-identities that connect local dynamics to global conservation laws, and explicit vertex constraints allow a variety of physical junction conditions. We implement this formalism using the open-source Dedalus spectral framework. This accommodates heterogeneous edge lengths, material properties and spectral resolutions. Initial-value, boundary-value and eigenvalue problems share a parallel solution method that eliminates internal unknowns independently on subgraphs and couples their solutions through shared boundary vertex interfaces. We verify numerical convergence and demonstrate strong and weak scaling on networks with millions of edges. We present applications to localized optical resonances in photonic networks, preferential channel formation during mineral replacement in evolving pore networks, and nonlinear dispersive waves for KdV on a periodic network.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.09833"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Fujita's Advanced Generalized Mukai Conjecture</title>
