@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 14:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:52:58 +0000</lastBuildDate>
+    <item>
+      <title>Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$</title>
+      <link>https://arxiv.org/abs/2611.10580</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.10580</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
+      <author>Michio Jimbo, Takeo Kojima</author>
+      <description>&lt;p&gt;&lt;b&gt;Michio Jimbo, Takeo Kojima&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV hierarchy · math.QA, hep-th, math-ph, math.MP, nlin.SI, quant-ph · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The deformed $W$-algebra $W_{q,t}(D_l)$ of type $D_l$ possesses an infinite family of commuting elements that can be viewed as a two-parameter deformation of the classical Hamiltonians for the KdV hierarchy of type $D_l$; these conserved charges are termed local integrals of motion (IMs). Concurrently, the quantum toroidal algebra $U_q(D_l^{&amp;quot;})$ of type $D_l$ admits four distinct representations via free field realizations, each corresponding to one of the four end nodes of the affine Dynkin diagram. Utilizing these representations, we associate an infinite set of commuting operators with each node, which we define as non-local integrals of motion. Both local and non-local integrals of motion act simultaneously on a shared Fock space consisting of $l+1$ free fields. We provide a direct, computational proof demonstrating that these local and non-local integrals of motion mutually commute.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.10580"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>All-genus mirror symmetry for the type-$D$ minimal resolution Calabi-Yau threefold</title>
       <link>https://arxiv.org/abs/2611.11300</link>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
       <author>Job Feldbrugge</author>
       <description>&lt;p&gt;&lt;b&gt;Job Feldbrugge&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: resurgence · math-ph, gr-qc, hep-th, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Which complex classical paths contribute to a real-time Feynman path integral? Picard-Lefschetz theory answers this question with the intersection numbers of the thimbles, which are notoriously hard to compute in infinite dimensions. We show that resurgence provides a practical alternative. We compute the asymptotic series of the real and complex classical paths to high order, with Feynman diagrams and with a transport recursion for the cumulants, and read off the adjacency of the classical paths from the divergent tails of the series with Borel-Pad\&amp;#x27;e methods. The South-East rule then turns adjacency into relevance. For a particle meeting a Rosen-Morse barrier, we identify the relevant complex classical paths in front of and behind the barrier, including the complex path that carries quantum tunnelling, follow ordinary and higher-order Stokes phenomena as the final point moves, and verify the predictions with the exact propagator. The resummed series reproduce the propagator with exponential accuracy. Finally, we outline how the expansion extends to relativistic path integrals governed by a Hamiltonian constraint.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.12510"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$</title>
-      <link>https://arxiv.org/abs/2611.10580</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.10580</guid>
-      <pubDate>Tue, 10 Nov 2026 14:24:47 +0000</pubDate>
-      <author>Michio Jimbo, Takeo Kojima</author>
-      <description>&lt;p&gt;&lt;b&gt;Michio Jimbo, Takeo Kojima&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV hierarchy · math.QA, hep-th, math-ph, math.MP, nlin.SI, quant-ph · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The deformed $W$-algebra $W_{q,t}(D_l)$ of type $D_l$ possesses an infinite family of commuting elements that can be viewed as a two-parameter deformation of the classical Hamiltonians for the KdV hierarchy of type $D_l$; these conserved charges are termed local integrals of motion (IMs). Concurrently, the quantum toroidal algebra $U_q(D_l^{&amp;quot;})$ of type $D_l$ admits four distinct representations via free field realizations, each corresponding to one of the four end nodes of the affine Dynkin diagram. Utilizing these representations, we associate an infinite set of commuting operators with each node, which we define as non-local integrals of motion. Both local and non-local integrals of motion act simultaneously on a shared Fock space consisting of $l+1$ free fields. We provide a direct, computational proof demonstrating that these local and non-local integrals of motion mutually commute.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.10580"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fermionic Kaluza-Klein Reductions</title>
