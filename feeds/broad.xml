@@ -4,7 +4,39 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 22:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:38:33 +0000</lastBuildDate>
+    <item>
+      <title>Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invariants, and instanton counts via quantum Serre duality</title>
+      <link>https://arxiv.org/abs/2611.13126</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.13126</guid>
+      <pubDate>Wed, 11 Nov 2026 13:38:08 +0000</pubDate>
+      <author>Irit Huq-Kuruvilla, Michael T. Schultz</author>
+      <description>&lt;p&gt;&lt;b&gt;Irit Huq-Kuruvilla, Michael T. Schultz&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study mirror map derivatives as a means of relating the genus zero Gromov-Witten theories of an anticanonical Calabi-Yau hypersurface in a smooth, almost minimal Fano variety and the local Calabi-Yau formed from the total space of the Fano&amp;#x27;s canonical bundle with the euler-twisted theory of the ambient Fano. A precise relationship between reciprocal mirror map derivatives is obtained from the non-equivariant limit of quantum Serre duality for the euler-twisted theory of the ambient Fano as formulated by Iritani, Mann, &amp;amp; Mignon. This allows us to express the generating series of 3-point euler-twisted invariants as the derivative of the local mirror map with respect to the closed one. In low dimensions, this series is shown to be a modular form of Eisenstein type which has arisen before in this area. We prove integrality of the twisted invariants from this identification. The regularized small quantum $D$-module of the Fano is reducible, and we show it is equivalent to an inhomogeneous Picard-Fuchs equation governed by this generating series. The reciprocal mirror map derivative is then shown to be a generating function of local 3-point invariants, which recovers some known results for local Calabi-Yau threefolds and proves a conjecture of the second named author and A. Malmendier in previous work on local fourfolds. Explicit calculations for $\mathbb{P}^2,\mathbb{P}^3$ and $\mathbb{P}^4$ illustrate these relationships, which includes the vanishing of positive-degree ordinary genus-zero invariants for anticanonical elliptic curves and K3 surfaces, the recovery of the quintic threefold&amp;#x27;s instanton numbers, and finally some formulas for genus-zero invariants of local projective spaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.13126"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties</title>
+      <link>https://arxiv.org/abs/2611.13422</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.13422</guid>
+      <pubDate>Wed, 11 Nov 2026 13:38:08 +0000</pubDate>
+      <author>Nathan Tausik</author>
+      <description>&lt;p&gt;&lt;b&gt;Nathan Tausik&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\langle A, A, \ldots\rangle_{0, n,\beta}^X$ as a consequence of Iritani&amp;#x27;s work on the big quantum cohomology ring of $X$. This implies Koll\&amp;#x27;ar&amp;#x27;s conjecture on the symplectic deformation invariance of rational connectedness in the case where $X$ is toric. If $X$ is moreover Fano and $B$ is also nonzero in the cohomology ring, we prove the existence of a nonzero Gromov-Witten invariant of the form $\langle A,B,*\rangle_{0,3,\beta}^X$ using Batyrev&amp;#x27;s presentation of the small quantum cohomology ring of $X$. We conclude with a few consequences of this nonvanishing result.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.13422"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hamiltonian GKM spaces via Gromov-Witten theory</title>
+      <link>https://arxiv.org/abs/2611.14020</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14020</guid>
+      <pubDate>Wed, 11 Nov 2026 13:38:08 +0000</pubDate>
+      <author>Daniel Holmes</author>
+      <description>&lt;p&gt;&lt;b&gt;Daniel Holmes&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We use equivariant Gromov-Witten theory to prove the generalised symplectic Mukai inequality for Hamiltonian GKM spaces with large pseudoindex or a special vertex, including smooth Schubert varieties. We also classify all Hamiltonian GKM graphs when the pseudoindex is at least the complex dimension, obtaining a Hamiltonian GKM analogue of the classical Kobayashi-Ochiai classification of complex projective space and complex quadrics. Of independent interest are our connectivity theorem for a low-magnitude subgraph of the GKM graph (reminiscent of Campana and Koll\&amp;#x27;ar-Miyaoka-Mori&amp;#x27;s rational chain connectedness of Fano manifolds), and a local Mukai-type theorem that applies at each vertex. We obtain corollaries on reflexive Delzant polytopes that are purely combinatorial in nature.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.14020"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-quadratic equations associated with KdV-type equations</title>
+      <link>https://arxiv.org/abs/2611.14361</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14361</guid>
+      <pubDate>Wed, 11 Nov 2026 13:38:08 +0000</pubDate>
+      <author>M. P. Kolesnikov</author>
+      <description>&lt;p&gt;&lt;b&gt;M. P. Kolesnikov&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV · nlin.SI · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The potential KdV equation admits dpKdV as a full discretization. Similarly, most KdV-type equations admit multi-quadratic quad equations as algebraic condition on B\&amp;quot;acklund transformation. These quad equations also yield three-point discrete symmetries and ensure the commutativity of two symmetries corresponding to different lattice directions. In each case, the quad equation is either an ABS equation or a multi-quadratic equation of the Atkinson--Nieszporski class. For KdV, mKdV, potential Gardner and exponential Calogero--Degasperis, these are the equations $H2^*$, $A1^*$, $Q1^*$ and $A2^*$, respectively, and for the elliptic Calogero--Degasperis equation it is the primary model $Q4^*$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.14361"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Integrals of motion for the deformed $W$-algebra $W_{q,t}(D_l)$</title>
       <link>https://arxiv.org/abs/2611.10580</link>

@@ -4835,5 +4835,231 @@
   "seen": "2026-11-10T14:24:47.875481+00:00",
   "summary": "We give proofs of Hodge semiampleness and b-semiampleness without using o-minimality. We establish a geometric semiampleness criterion for line bundles on proper algebraic spaces. Let $(X,D)$ be a log smooth pair with $X$ a proper algebraic space. For an integral polarizable pure variation of Calabi--Yau type on $X\\setminus D$ with unipotent local monodromy, let $L$ be its extended highest Hodge line. If $L$ is numerically integrable and has torsion combinatorial monodromy, then $L$ is semiample. We also prove semiampleness of extended Griffiths lines. We construct normal projective period compactifications on which a positive power of the Griffiths line extends to an ample line bundle. As an application, we prove that the moduli b-divisor $\\mathbf{M}$ of a projective lc-trivial fibration over a normal algebraic variety is b-semiample, provided that the generic boundary is effective. Suppose further that the geometric generic pair is klt and its boundary is big, with nonzero coefficients in a fixed finite set $I\\subset(0,1)\\cap\\mathbb{Q}$. Then $c\\mathbf{M}$ is b-Cartier and b-free for an integer $c>0$ depending only on the relative dimension and $I$. We extend b-semiampleness to analogous projective fibrations over normal complex analytic bases, assuming a global relative polarization and an invertible log pluricanonical sheaf pulled back from the base.",
   "title": "Semiampleness of Hodge line bundles and b-semiampleness of the moduli part"
+ },
+ "2611.13102": {
+  "announce": "new",
+  "authors": [
+   "Alessio Caddeo",
+   "Oscar Henriksson",
+   "Carlos Hoyos",
+   "Mikel Sanchez-Garitaonandia",
+   "Pedro Taranc\\'on-\\'Alvarez"
+  ],
+  "cats": [
+   "hep-th",
+   "gr-qc",
+   "hep-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.13102",
+  "link": "https://arxiv.org/abs/2611.13102",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "We formulate an improved scalar-fluid effective description of first-order phase transitions in relativistic theories, and test it against a microscopic calculation in a holographic model. The effective theory shows that the nature of the spinodal instability is linked to thermodynamic stability, determined by the sign of the specific heat. When the specific heat is positive, the sound modes are stable and there is a non-hydrodynamic instability. When it is negative, a sound mode becomes unstable instead. The holographic calculation confirms the validity of the effective description at long wavelengths, improving on the purely hydrodynamic description. We also identify a friction coefficient that governs the bubble wall velocity and can be extracted from a holographic correlator.",
+  "title": "Effective scalar-fluid description of thermal first-order phase transitions and their spinodal instabilities"
+ },
+ "2611.13108": {
+  "announce": "new",
+  "authors": [
+   "Krishna Hanumanthu",
+   "Jack Huizenga",
+   "Jake Kettinger",
+   "Lukasz Merta",
+   "Tomasz Szemberg",
+   "Justyna Szpond"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "topics": [
+    "resurgence"
+   ]
+  },
+  "id": "2611.13108",
+  "link": "https://arxiv.org/abs/2611.13108",
+  "matched": [
+   "resurgence"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "We compute the Waldschmidt constants of the point configurations dual to the reflection arrangements of the exceptional complex reflection groups $G_{29}$, $G_{31}$ and $G_{32}$. They equal $3$ for the forty points of $G_{29}$, $36/11$ for the sixty-point Klein configuration, and $10/3$ for the forty-point Penrose configuration. Together with the known cases $W(F_4)$ and $W(H_4)$, this completes the computation for all exceptional irreducible complex reflection groups of rank four. An invariant dodecic and its sixfold orbit product give extremal surfaces for the first two configurations, and we identify the six dodecics as pullbacks of the coordinate hyperplane sections of the Segre cubic under the Igusa-Segre duality. The matching lower bounds follow from restriction to quadrics and distinguished planes, including a weighted B\\'ezout estimate arising from two related Hesse arrangements. As a consequence, we determine the asymptotic resurgences of the three ideals.",
+  "title": "Waldschmidt constants and invariant geometry for exceptional rank-four complex reflection groups"
+ },
+ "2611.13126": {
+  "announce": "cross",
+  "authors": [
+   "Irit Huq-Kuruvilla",
+   "Michael T. Schultz"
+  ],
+  "cats": [
+   "math.AG",
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.13126",
+  "link": "https://arxiv.org/abs/2611.13126",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "We study mirror map derivatives as a means of relating the genus zero Gromov-Witten theories of an anticanonical Calabi-Yau hypersurface in a smooth, almost minimal Fano variety and the local Calabi-Yau formed from the total space of the Fano's canonical bundle with the euler-twisted theory of the ambient Fano. A precise relationship between reciprocal mirror map derivatives is obtained from the non-equivariant limit of quantum Serre duality for the euler-twisted theory of the ambient Fano as formulated by Iritani, Mann, & Mignon. This allows us to express the generating series of 3-point euler-twisted invariants as the derivative of the local mirror map with respect to the closed one. In low dimensions, this series is shown to be a modular form of Eisenstein type which has arisen before in this area. We prove integrality of the twisted invariants from this identification. The regularized small quantum $D$-module of the Fano is reducible, and we show it is equivalent to an inhomogeneous Picard-Fuchs equation governed by this generating series. The reciprocal mirror map derivative is then shown to be a generating function of local 3-point invariants, which recovers some known results for local Calabi-Yau threefolds and proves a conjecture of the second named author and A. Malmendier in previous work on local fourfolds. Explicit calculations for $\\mathbb{P}^2,\\mathbb{P}^3$ and $\\mathbb{P}^4$ illustrate these relationships, which includes the vanishing of positive-degree ordinary genus-zero invariants for anticanonical elliptic curves and K3 surfaces, the recovery of the quintic threefold's instanton numbers, and finally some formulas for genus-zero invariants of local projective spaces.",
+  "title": "Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invariants, and instanton counts via quantum Serre duality"
+ },
+ "2611.13422": {
+  "announce": "new",
+  "authors": [
+   "Nathan Tausik"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.13422",
+  "link": "https://arxiv.org/abs/2611.13422",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\\langle A, A, \\ldots\\rangle_{0, n,\\beta}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$. This implies Koll\\'ar's conjecture on the symplectic deformation invariance of rational connectedness in the case where $X$ is toric. If $X$ is moreover Fano and $B$ is also nonzero in the cohomology ring, we prove the existence of a nonzero Gromov-Witten invariant of the form $\\langle A,B,*\\rangle_{0,3,\\beta}^X$ using Batyrev's presentation of the small quantum cohomology ring of $X$. We conclude with a few consequences of this nonvanishing result.",
+  "title": "Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties"
+ },
+ "2611.13484": {
+  "announce": "new",
+  "authors": [
+   "Yu Nakayama",
+   "Tadashi Okazaki"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.13484",
+  "link": "https://arxiv.org/abs/2611.13484",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "We propose that a Neumann-type boundary condition of the 3d $\\mathcal{N}=2$ $USp(2n)$ Chern-Simons theory at the level $-(n+\\frac32)$ with a fundamental chiral multiplet is dual to a Dirichlet-type boundary condition of an Abelian rank-$0$ theory. In a topological twist we propose that it supports the affine vertex operator algebra (VOA) $L_n(\\mathfrak{osp}(1|2))$. With the corresponding specialization of the fugacities, the line defect half-indices of the antisymmetric Wilson lines give, up to monomials, the supercharacters of all its modules, which coincide up to signs with the characters of the Virasoro minimal model $M(2,2n+3)$. We extend the duality to the level $-(n+\\ell+\\frac12)$ and propose that the boundary VOA is $L_n(\\mathfrak{osp}(1|2\\ell))$. Together with the Giveon-Kutasov type duality and the mirror symmetry, the proposed dualities form a web of dualities of the boundary conditions and the line operators. For other gauge groups with real matter we propose that the boundary VOA in the holomorphic twist is the commutant of the gauge currents in free real fermions, which is the Ising model for $Spin(7)$ with the spinor and the $\\mathcal N=1$ superconformal minimal model $SM(3,5)$ for $G_2$ with $\\mathbf7$.",
+  "title": "Boundary dualities of symplectic Chern-Simons theories and minimal models"
+ },
+ "2611.13918": {
+  "announce": "new",
+  "authors": [
+   "Andre Bedell",
+   "Misha Feigin",
+   "Leo Kaminski",
+   "Alessandro Proserpio",
+   "Ian A. B. Strachan"
+  ],
+  "cats": [
+   "math.DG",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "topics": [
+    "Frobenius manifold"
+   ]
+  },
+  "id": "2611.13918",
+  "link": "https://arxiv.org/abs/2611.13918",
+  "matched": [
+   "Frobenius manifold"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "A theory of symmetries of generalized Frobenius manifolds is developed. This is used to study the solution space of all generalized Frobenius manifolds that are \"above\" a specific Frobenius manifold. Since all (semi-simple) Frobenius manifolds in 2-dimensions are known, by constructing all homogeneous Legendre fields associated to these manifolds we classify all 2-dimensional generalized Frobenius manifolds. With this description, the known examples of generalized Frobenius manifolds correspond to distinguished points in this solution space. For Hurwitz-Frobenius manifolds the action of a Legendre transformation on Hurwitz space data, and in particular the primary differential, is given.",
+  "title": "Generalized Frobenius manifolds: symmetries and their classification in 2-dimensions"
+ },
+ "2611.14020": {
+  "announce": "new",
+  "authors": [
+   "Daniel Holmes"
+  ],
+  "cats": [
+   "math.SG",
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.14020",
+  "link": "https://arxiv.org/abs/2611.14020",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "We use equivariant Gromov-Witten theory to prove the generalised symplectic Mukai inequality for Hamiltonian GKM spaces with large pseudoindex or a special vertex, including smooth Schubert varieties. We also classify all Hamiltonian GKM graphs when the pseudoindex is at least the complex dimension, obtaining a Hamiltonian GKM analogue of the classical Kobayashi-Ochiai classification of complex projective space and complex quadrics. Of independent interest are our connectivity theorem for a low-magnitude subgraph of the GKM graph (reminiscent of Campana and Koll\\'ar-Miyaoka-Mori's rational chain connectedness of Fano manifolds), and a local Mukai-type theorem that applies at each vertex. We obtain corollaries on reflexive Delzant polytopes that are purely combinatorial in nature.",
+  "title": "Hamiltonian GKM spaces via Gromov-Witten theory"
+ },
+ "2611.14109": {
+  "announce": "cross",
+  "authors": [
+   "Manaka Okuyama",
+   "Masayuki Ohzeki",
+   "Hidetoshi Nishimori"
+  ],
+  "cats": [
+   "cond-mat.dis-nn",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.14109",
+  "link": "https://arxiv.org/abs/2611.14109",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "The XY gauge-glass model is believed to exhibit a spin-glass phase in dimensions $d\\geq 3$. In this paper, we prove that, in dimensions $d\\leq 4$ and at any finite temperature, a magnetic field applied in a fixed direction, with amplitudes that fluctuate from site to site according to the Rayleigh distribution, must either induce magnetic-field chaos in the spin-glass phase or destroy spin-glass order altogether, whenever a spin-glass phase exists at zero field. In particular, if a spin-glass phase persists under such a field, as predicted by the replica-symmetry-breaking (RSB) picture, it must exhibit magnetic-field chaos. This conclusion follows from our proof that, for any fixed nonzero field strength, the disorder average of the squared overlap between equilibrium spin configurations at zero field and those at nonzero field vanishes in the thermodynamic limit. By gauge transformations, the overlap statistics are identical to the magnetization statistics of an XY gauge glass with correlated bond disorder in a Gaussian random field. Our proof combines this exact identity with quantitative estimates on the suppression of ferromagnetic order by random fields in continuous-spin systems, due to Dario, Harel, and Peled [Commun. Math. Phys. 405, 212 (2024)] and building on the work of Imry and Ma [Phys. Rev. Lett. 35, 1399 (1975)] and of Aizenman and Wehr [Phys. Rev. Lett. 62, 2503 (1989); Commun. Math. Phys. 130, 489 (1990)]. We extend these estimates to bond-dependent interactions. Although our result provides a rare rigorous constraint on the nature of spin-glass phases in finite-dimensional systems, it does not determine whether spin-glass order survives in a field, and therefore does not distinguish between the droplet and RSB pictures. The case of a strictly uniform field remains open.",
+  "title": "Spin-glass order in a field requires magnetic-field chaos in XY gauge glasses for $d\\leq 4$"
+ },
+ "2611.14361": {
+  "announce": "new",
+  "authors": [
+   "M. P. Kolesnikov"
+  ],
+  "cats": [
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "r-KdV"
+   ]
+  },
+  "id": "2611.14361",
+  "link": "https://arxiv.org/abs/2611.14361",
+  "matched": [
+   "KdV",
+   "r-KdV"
+  ],
+  "seen": "2026-11-11T13:38:08.630691+00:00",
+  "summary": "The potential KdV equation admits dpKdV as a full discretization. Similarly, most KdV-type equations admit multi-quadratic quad equations as algebraic condition on B\\\"acklund transformation. These quad equations also yield three-point discrete symmetries and ensure the commutativity of two symmetries corresponding to different lattice directions. In each case, the quad equation is either an ABS equation or a multi-quadratic equation of the Atkinson--Nieszporski class. For KdV, mKdV, potential Gardner and exponential Calogero--Degasperis, these are the equations $H2^*$, $A1^*$, $Q1^*$ and $A2^*$, respectively, and for the elliptic Calogero--Degasperis equation it is the primary model $Q4^*$.",
+  "title": "Multi-quadratic equations associated with KdV-type equations"
  }
 }
