@@ -1,20 +1,9 @@
-Last run: 2026-11-11 13:38 UTC
+Last run: 2026-11-12 00:05 UTC
 Announcements downloaded: 243 (0 category feeds failed)
-New papers stored this run: 9
+New papers stored this run: 0
 
 ag             |   34 items |   0 new this run
 amplituhedron  |    3 items |   0 new this run
 broad          |   63 items |   4 new this run
 mathphys       |   26 items |   0 new this run
 topics         |  109 items |   6 new this run
-
-Matched this run:
-  resurgence                               | Waldschmidt constants and invariant geometry for exceptional rank-four
-  Gromov-Witten                            | Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invaria
-  Gromov-Witten                            | Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Variet
-  Gromov-Witten                            | Hamiltonian GKM spaces via Gromov-Witten theory
-  r-spin                                   | Spin-glass order in a field requires magnetic-field chaos in XY gauge 
-  r-spin                                   | Effective scalar-fluid description of thermal first-order phase transi
-  r-spin                                   | Boundary dualities of symplectic Chern-Simons theories and minimal mod
-  KdV, r-KdV                               | Multi-quadratic equations associated with KdV-type equations
-  Frobenius manifold                       | Generalized Frobenius manifolds: symmetries and their classification i
