@@ -1,9 +1,22 @@
-Last run: 2026-11-12 23:14 UTC
-Announcements downloaded: 0 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-13 13:58 UTC
+Announcements downloaded: 433 (0 category feeds failed)
+New papers stored this run: 11
 
-ag             |   34 items |   0 new this run
+ag             |   36 items |   2 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   63 items |   0 new this run
+broad          |   67 items |   4 new this run
 mathphys       |   26 items |   0 new this run
-topics         |  109 items |   0 new this run
+topics         |  114 items |   5 new this run
+
+Matched this run:
+  Hsian-Hua Tseng                          | Smooth weak log Fano orbifolds are Campana rationally connected
+  Gromov-Witten                            | Critical L-values and genus-zero Gromov--Witten invariants
+  Gromov-Witten                            | On the atomic decomposition of complete intersections in toric varieti
+  r-spin                                   | On Tunnel Fusion and Yangian $R$-matrices
+  tau function                             | Solitons of the intermediate long wave equation with residue source
+  resurgence                               | BPS invariants from resurgent topological string
+  r-spin                                   | Harmonic superspace and Kaluza-Klein reduction
+  r-spin                                   | Anti-periodic Gravitino and Dirac Effective Operators
+  r-spin                                   | Maximally Chiral Eigenstate from Inverse Thermodynamic Bethe Ansatz
+  KdV                                      | Painlev\'e XXXIV asymptotics for the defocusing Hirota equation with s
+  Kefeng Liu                               | Polynomial approximations to Calabi--Yau metrics on quartic K3 surface

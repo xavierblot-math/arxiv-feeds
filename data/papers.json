@@ -5061,5 +5061,274 @@
   "seen": "2026-11-11T13:38:08.630691+00:00",
   "summary": "The potential KdV equation admits dpKdV as a full discretization. Similarly, most KdV-type equations admit multi-quadratic quad equations as algebraic condition on B\\\"acklund transformation. These quad equations also yield three-point discrete symmetries and ensure the commutativity of two symmetries corresponding to different lattice directions. In each case, the quad equation is either an ABS equation or a multi-quadratic equation of the Atkinson--Nieszporski class. For KdV, mKdV, potential Gardner and exponential Calogero--Degasperis, these are the equations $H2^*$, $A1^*$, $Q1^*$ and $A2^*$, respectively, and for the elliptic Calogero--Degasperis equation it is the primary model $Q4^*$.",
   "title": "Multi-quadratic equations associated with KdV-type equations"
+ },
+ "2611.14793": {
+  "announce": "cross",
+  "authors": [
+   "Dmitry Galakhov"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.AG",
+   "math.MP",
+   "math.QA",
+   "math.RT"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.14793",
+  "link": "https://arxiv.org/abs/2611.14793",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "XXX spin-chain Hamiltonians can be derived within the $R$-matrix formalism. For a simple Lie algebra $\\mathfrak{g}$, the rational $R$-matrix $R$ intertwines the coproduct $\\Delta$ in the Yangian $\\mathsf{Y}(\\mathfrak{g})$. $R$ admits a particular Gauss decomposition $R=LDU$, where the upper-triangular matrix $U$ can be obtained from the lower-triangular matrix $L$. We treat $U$ in three ways. Algebraically, $U$ is known as a factorization twist. It plays the role of a ``universalizer'': it conjugates a non-universal pseudo-coproduct $\\mathscr{D}$ in the molten crystal chain basis to the true Yangian coproduct $\\Delta=U^{-1}\\mathscr{D} U$. Physically, $U$ can be obtained as a Berry phase in SUSY quiver QFT for a quiver associated with the Dynkin diagram of $\\mathfrak{g}$. In this case, $U$ is calculated as a sum over tunneling amplitudes. Geometrically, $U$ can be interpreted as a renormalized Maulik-Okounkov stable envelope localized at a fixed point. In the physical setting, the Yang-Baxter equation (YBE), which ensures integrability, follows from the flatness of the Berry connection, which in turn follows from supersymmetry. However, the YBE imposes subtle constraints on the tunneling amplitudes, which we examine here. We construct recursion relations that allow higher collective amplitudes to be obtained from more elementary ones. We observe that different tunneling channels are in fact intertwined, leading to finer cancellations among amplitudes and to wall-crossing phenomena: depending on the parameters, the same amplitude is represented as a sum over different channels. We focus on $\\mathsf{Y}(\\mathfrak{sl}_2)$ with higher-spin and non-evaluation representations, as well as on the fundamental representation of $\\mathsf{Y}(\\mathfrak{sl}_{n+1})$.",
+  "title": "On Tunnel Fusion and Yangian $R$-matrices"
+ },
+ "2611.15072": {
+  "announce": "cross",
+  "authors": [
+   "Yuto Ishii",
+   "Atsushi Nakamula",
+   "Soma Yoshida"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.15072",
+  "link": "https://arxiv.org/abs/2611.15072",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We revisit the bilinear formulation of the intermediate long-wave (ILW) equation by interpreting its principal-value integrals in the framework of Sato hyperfunctions. When the tau-functions have no zeros inside the relevant contours, the conventional source-free ILW equation is recovered. When zeros enter the contours, their residue contributions must instead be retained, leading naturally to a residue-extended ILW system with self-consistent sources determined by the tau-functions themselves. We introduce a residue index that counts the zeros enclosed in each analytic strip and use it to classify the resulting soliton sectors. The conventional elevation-soliton belongs to the zero-residue sector, whereas depression-solitons and higher elevation branches generally carry non-zero residue indices. Exact one- and multisoliton tau-functions are constructed, including mixed elevation--depression configurations with factorised two-body interactions. Their residue indices are additive and remain invariant during collisions, provided that no zero crosses a contour boundary. A Fourier-space analysis shows that the soliton spectra decay exponentially at large wavenumbers, with a decay rate determined by the distance of the nearest complex singularity from the real axis. This rate vanishes as an odd-multiple boundary between adjacent residue sectors is approached, providing a direct spectral signature of the transition between them.",
+  "title": "Solitons of the intermediate long wave equation with residue source"
+ },
+ "2611.15081": {
+  "announce": "cross",
+  "authors": [
+   "Tigran A. Sedrakyan"
+  ],
+  "cats": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.15081",
+  "link": "https://arxiv.org/abs/2611.15081",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We show that an ordered quantum state can support waves with a finite speed in one direction and exponentially small energies in the other. We prescribe this spectrum for a spin-$1/2$ Heisenberg eigenstate and reconstruct a nonlocal Hamiltonian. The thermodynamic construction selects the ordered, current-carrying state as a ground state. Its magnetic moment remains finite while its response to a weak field has a divergent slope. The entropy per spin vanishes only inversely with a logarithm of temperature, with an exact coefficient containing the golden ratio. Our spin-response calculations reveal a bound pair whose energy can be tuned without changing its intensity. Added exchange and smoother mode selection restore quadratic excitations at the lowest energies. These results connect the design of interactions to directional dynamics and unusual thermodynamics. We propose momentum-resolved spin spectroscopy, weak-field magnetometry, and low-temperature entropy measurements to probe these counterintuitive signatures.",
+  "title": "Maximally Chiral Eigenstate from Inverse Thermodynamic Bethe Ansatz"
+ },
+ "2611.15191": {
+  "announce": "new",
+  "authors": [
+   "Jiun-Cheng Chen",
+   "Hsian-Hua Tseng"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Hsian-Hua Tseng"
+   ]
+  },
+  "id": "2611.15191",
+  "link": "https://arxiv.org/abs/2611.15191",
+  "matched": [
+   "Hsian-Hua Tseng"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "Let \\(X\\) be a smooth projective complex variety with a boundary divisor \\(\\Delta=\\sum_{i=1}^s(1-1/m_i)D_i\\) of simple normal crossings support and integers $m_i$. We prove that, if \\(-(K_X+\\Delta)\\) is nef and big, then \\((X,\\Delta)\\) is Campana rationally connected. We do this by constructing a free Campana rational curve whose class lies in the interior of the nef cone of curve classes and whose contacts with \\(D_i\\) have order \\(m_i\\) and avoid deeper strata. We construct such a curve from a free Campana curve by attaching to it free rational curves which intersect positively with divisors that span the cone of effective divisors, and smooth the resulting comb.",
+  "title": "Smooth weak log Fano orbifolds are Campana rationally connected"
+ },
+ "2611.15264": {
+  "announce": "new",
+  "authors": [
+   "Wenhao Liu",
+   "Yufeng Zhang",
+   "Zhenbo Wang"
+  ],
+  "cats": [
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ]
+  },
+  "id": "2611.15264",
+  "link": "https://arxiv.org/abs/2611.15264",
+  "matched": [
+   "KdV"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We study the long-time asymptotics of the solution of the Cauchy problem for the defocusing Hirota equation with real step-like initial data. Because of the term $\\alpha(q_{xx}-2|q|^2q)$, the backgrounds rotate in time, and the symmetry $k\\mapsto-k$ of the associated Riemann--Hilbert problem is lost. As a consequence, the branch points $\\pm c_l$ and $\\pm c_r$ become soft edges along different critical lines. We consider the two transition regions in which the edge $-c_r$, respectively $c_l$, becomes soft, namely the $t^{-2/3}$-neighbourhoods of the lines $x/t=-6\\beta c_r^2+2\\alpha c_r$ and $x/t=-6\\beta c_l^2-2\\alpha c_l$. By the Deift--Zhou nonlinear steepest descent method, we show that in both regions the leading correction to the rotating background is of order $t^{-1/3}$ and is a phase correction, in contrast with the order $t^{-2/3}$ known for the defocusing mKdV equation. In the first region, the correction is given by an integral of a solution of the Painlev\\'e XXXIV equation. In the second region, the relevant Painlev\\'e XXXIV model problem reduces to Airy functions, and the correction is a phase shift which is quadratic in $x/t$ and independent of the initial data; in addition, a stationary point of the phase function produces a contribution of order $t^{-1/2}$, which is expressed through parabolic cylinder functions.",
+  "title": "Painlev\\'e XXXIV asymptotics for the defocusing Hirota equation with step-like initial data in transition regions"
+ },
+ "2611.15319": {
+  "announce": "new",
+  "authors": [
+   "Kefeng Liu",
+   "Liangdi Zhang"
+  ],
+  "cats": [
+   "math.DG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.15319",
+  "link": "https://arxiv.org/abs/2611.15319",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "On the Fermat quartic K3 surface and the Fermat quintic threefold, we construct K\\\"ahler metrics from explicit rational polynomial potentials and bound their differences from the Ricci-flat metrics in integral tensor norms. For specified compact families of smooth quartic and quintic hypersurfaces near the Fermat hypersurfaces, we give a terminating algorithm that constructs polynomial K\\\"ahler metrics with prescribed pointwise bounds on their differences from the Ricci-flat metrics and on their Ricci forms. The resulting metrics converge to the Ricci-flat metrics in every $C^r$ norm, uniformly in the parameter.",
+  "title": "Polynomial approximations to Calabi--Yau metrics on quartic K3 surfaces and quintic threefolds"
+ },
+ "2611.15480": {
+  "announce": "new",
+  "authors": [
+   "Jie Gu"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "resurgence"
+   ]
+  },
+  "id": "2611.15480",
+  "link": "https://arxiv.org/abs/2611.15480",
+  "matched": [
+   "resurgence"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We review recent progress on the conjectural relation between the resurgent structure of topological string free energies and BPS invariants of type II string theory compactified on the same Calabi-Yau threefold. In this picture, Borel singularities are located at integral periods associated with central charges of stable D-brane bound states, while Stokes constants encode their BPS indices, or generalized DT invariants. After introducing resurgence and perturbative topological strings, we explain how trans-series solutions of the holomorphic anomaly equations determine non-perturbative amplitudes and illustrate the proposed correspondence in local and compact geometries. We discuss the behavior under changes of polarization and moduli, and review supporting arguments based on exact WKB analysis, blowup equations, the Stokes automorphisms of flat coordinates and dual partition functions, and Kontsevich-Soibelman wall-crossing. We conclude with open questions concerning a general proof, the interpretation of non-perturbative amplitudes, and the construction of non-perturbative completions.",
+  "title": "BPS invariants from resurgent topological string"
+ },
+ "2611.15696": {
+  "announce": "cross",
+  "authors": [
+   "Wu-yen Chuang",
+   "Yi-Jing Tseng"
+  ],
+  "cats": [
+   "math.AG",
+   "hep-th",
+   "math.NT"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.15696",
+  "link": "https://arxiv.org/abs/2611.15696",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We establish a period comparison for a two-dimensional rational Hodge summand of type $(3,0)+(0,3)$ in a smooth projective threefold over $\\mathbb Q$ with $h^{3,0}=1$. Given an algebraic projector onto the summand and a correspondence whose action on the motive of a rational weight-four newform is nonzero after projection to the summand, restriction to the holomorphic de Rham lines identifies motivic morphisms with maps between these lines. Fixing rational generators of the holomorphic de Rham lines determines a unique isomorphism of homological motives. Its Betti realization then yields an exact relation between geometric periods and two critical modular $L$-values. For the Fermat sextic, we construct the correspondence over $\\mathbb Q$ and compute its Betti and de Rham actions, determining the scale from algebraic traces and cup-product pairings. Critical-value evaluations and, under mirror comparison and explicit continuation hypotheses, a continued genus-zero Gromov--Witten partition identity follow as corollaries.",
+  "title": "Critical L-values and genus-zero Gromov--Witten invariants"
+ },
+ "2611.15782": {
+  "announce": "new",
+  "authors": [
+   "Nikita Zaigraev"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.15782",
+  "link": "https://arxiv.org/abs/2611.15782",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "We extend the Kaluza-Klein reduction procedure to the framework of harmonic superspace and apply it to the construction of off-shell superfield formulations of supersymmetric gauge multiplets. The reduction is implemented by a deformation of the harmonic derivatives by mass terms, while ensuring that manifest off-shell supersymmetry and Grassmann analyticity are preserved at all stages. As a first application, we reduce the free \\(5D,\\mathcal{N}=1\\) Maxwell theory and obtain an off-shell superfield description of the BPS \\(4D,\\mathcal{N}=2\\) massive vector supermultiplet. The resulting formulation naturally incorporates an analytic St\\\"uckelberg-type gauge symmetry. We then reduce linearized \\(5D,\\mathcal{N}=1\\) Poincar\\'e supergravity and derive the unconstrained harmonic-superspace action for the BPS \\(4D,\\mathcal{N}=2\\) massive supergravity multiplet. The technical simplicity of the procedure stems from the structure of gauge theories in harmonic superspace, where the gauge symmetry is naturally encoded in analytic prepotentials and harmonic derivatives. The approach presented in this paper opens a direct route to gauge-invariant off-shell superfield formulations of massive higher-spin $4D,\\mathcal{N}=2$ BPS multiplets. Furthermore, the resulting theories can be reformulated in $4D,\\mathcal{N}=1$ superspace, opening the way to gauge-invariant off-shell descriptions of $4D,\\mathcal{N}=1$ massive higher-spin theories.",
+  "title": "Harmonic superspace and Kaluza-Klein reduction"
+ },
+ "2611.16047": {
+  "announce": "new",
+  "authors": [
+   "Karim Benakli"
+  ],
+  "cats": [
+   "hep-th",
+   "hep-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.16047",
+  "link": "https://arxiv.org/abs/2611.16047",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "Introducing a preserved $U(1)_R$ symmetry forbids gravitini Majorana masses while allowing a Dirac mass. We investigate how a Dirac mass for gravitini can be described by an effective operator in $N=1$ superspace, in analogy with the well-known Dirac gaugino mass. We find that the corresponding spin-$3/2$ bilinear operator can be expressed in terms of gauge-invariant gravitino curvature superfields coupled through a nonlocal kernel involving an inverse d'Alembertian. We study this construction in minimal five-dimensional supergravity compactified on $S^1/\\mathbb Z_2$. The gravitino satisfies anti-periodic boundary conditions induced by a Scherk-Schwarz twist. The physical Kaluza-Klein Dirac masses then appear as poles in the two-point functions of the curvature superfields associated with sources localized at the endpoints. Separation of physical and gauge modes relates these propagators to a quadratic fermionic kernel represented by a $16\\times16$ matrix. Its elements match the fermionic components of two invariants written in $N=1$ superspace, including their spinor contractions and normalization. This matching is carried out on a fixed background with a nonzero radion auxiliary field.",
+  "title": "Anti-periodic Gravitino and Dirac Effective Operators"
+ },
+ "2611.16068": {
+  "announce": "cross",
+  "authors": [
+   "Milena Brockhof",
+   "Giovane Galindo",
+   "Ludmil Katzarkov",
+   "Pedro Antonio Muniz Martins"
+  ],
+  "cats": [
+   "math.AG",
+   "math.DG",
+   "math.SG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.16068",
+  "link": "https://arxiv.org/abs/2611.16068",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-13T13:58:33.582090+00:00",
+  "summary": "Building on Liu's and Liu--Sheshmani's systematized description of Kontsevich's localization methods in toric varieties, we develop a computational framework for genus-zero Gromov--Witten invariants of smooth projective toric varieties and their smooth complete intersections. This is grounded in equivariant localization and the combinatorial structure of toric fans. We describe how the geometric data required by the localization formulas can be recovered directly from the fan and extend the existing software for flag varieties to compute the small quantum multiplication by the first Chern class. The implementation also incorporates cyclic determinants and regularized-exponent multisets, providing computational tools for investigating the atomic decomposition of quantum cohomology. Using this framework, we obtain the nonrationality of every smooth complete intersection of a quadric and a cubic in $\\mathbb{P}^5$. Also applying new methods to study Hodge atoms in Fano fivefolds, we recover the nonrationality of every smooth complete intersection of a quadric and a cubic in $\\mathbb{P}^7$, due to Cavenaghi--Katzarkov--Kontsevich, and we prove the nonrationality of every smooth quartic double fivefold and every smooth quartic fivefold.",
+  "title": "On the atomic decomposition of complete intersections in toric varieties"
  }
 }

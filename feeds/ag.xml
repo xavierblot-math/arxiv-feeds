@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 12 Nov 2026 23:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:58:58 +0000</lastBuildDate>
+    <item>
+      <title>Smooth weak log Fano orbifolds are Campana rationally connected</title>
+      <link>https://arxiv.org/abs/2611.15191</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.15191</guid>
+      <pubDate>Fri, 13 Nov 2026 13:58:33 +0000</pubDate>
+      <author>Jiun-Cheng Chen, Hsian-Hua Tseng</author>
+      <description>&lt;p&gt;&lt;b&gt;Jiun-Cheng Chen, Hsian-Hua Tseng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Hsian-Hua Tseng · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let \(X\) be a smooth projective complex variety with a boundary divisor \(\Delta=\sum_{i=1}^s(1-1/m_i)D_i\) of simple normal crossings support and integers $m_i$. We prove that, if \(-(K_X+\Delta)\) is nef and big, then \((X,\Delta)\) is Campana rationally connected. We do this by constructing a free Campana rational curve whose class lies in the interior of the nef cone of curve classes and whose contacts with \(D_i\) have order \(m_i\) and avoid deeper strata. We construct such a curve from a free Campana curve by attaching to it free rational curves which intersect positively with divisors that span the cone of effective divisors, and smooth the resulting comb.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.15191"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Polynomial approximations to Calabi--Yau metrics on quartic K3 surfaces and quintic threefolds</title>
+      <link>https://arxiv.org/abs/2611.15319</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.15319</guid>
+      <pubDate>Fri, 13 Nov 2026 13:58:33 +0000</pubDate>
+      <author>Kefeng Liu, Liangdi Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Liangdi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;On the Fermat quartic K3 surface and the Fermat quintic threefold, we construct K\&amp;quot;ahler metrics from explicit rational polynomial potentials and bound their differences from the Ricci-flat metrics in integral tensor norms. For specified compact families of smooth quartic and quintic hypersurfaces near the Fermat hypersurfaces, we give a terminating algorithm that constructs polynomial K\&amp;quot;ahler metrics with prescribed pointwise bounds on their differences from the Ricci-flat metrics and on their Ricci forms. The resulting metrics converge to the Ricci-flat metrics in every $C^r$ norm, uniformly in the parameter.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.15319"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>$\lambda_g$-Integrals on triple, one-part admissible covers</title>
       <link>https://arxiv.org/abs/2611.12450</link>
