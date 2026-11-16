@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 15 Nov 2026 22:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:54:44 +0000</lastBuildDate>
+    <item>
+      <title>A new tautological relation on $\overline{\mathcal{M}}_{2,14}$ in cohomology</title>
+      <link>https://arxiv.org/abs/2611.17536</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17536</guid>
+      <pubDate>Mon, 16 Nov 2026 14:54:19 +0000</pubDate>
+      <author>Samir Canning, Bochao Kong, Rahul Pandharipande, Dan Petersen, Aaron Pixton, Johannes Schmitt</author>
+      <description>&lt;p&gt;&lt;b&gt;Samir Canning, Bochao Kong, Rahul Pandharipande, Dan Petersen, Aaron Pixton, Johannes Schmitt&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Aaron Pixton, Johannes Schmitt, Rahul Pandharipande, Samir Canning · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct a relation $\mathsf{Q}$ in the cohomological tautological ring $\mathsf{RH}^*(\overline{\mathcal{M}}_{2,14})$ which lies outside the space of $3$-spin relations. $\mathsf{Q}$ is a simple linear combination of pure boundary strata classes of codimension 9 supported on the divisor $\Delta_0 \subset \overline{\mathcal{M}}_{2,14}$ of irreducible nodal curves, and transforms according to the irreducible representation of $\Sigma_{14}$ associated to the partition $(2^7)$. The result shows that the set of $3$-spin relations cannot be complete in cohomology. Motivic conjectures relating algebraic cycles to special values of $L$-functions suggest that $\mathsf{Q}$ is nonzero in Chow. More precisely, we prove that the Chow nonvanishing of $\mathsf{Q}$ follows from a conjecture of Harder concerning the failure of the Manin--Drinfeld principle in genus 2. We prove that $\mathsf{Q}$ vanishes in cohomology by pairing with generators of the tautological ring. To prove $\mathsf{Q}$ is not in the set of $3$-spin relations requires an argument involving the $\Sigma_{14}$-representation-theoretic properties of the $3$-spin relations and the cohomology of local systems on $\mathcal{A}_2$ and $\mathcal{M}_2$. Parallel constructions for other moduli spaces $\overline{\mathcal{M}}_{g,n}$ are discussed in the paper. There are many open questions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.17536"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Smooth weak log Fano orbifolds are Campana rationally connected</title>
       <link>https://arxiv.org/abs/2611.15191</link>

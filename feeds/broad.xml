@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 15 Nov 2026 22:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:54:44 +0000</lastBuildDate>
+    <item>
+      <title>Group classification of a class of generalized Korteweg-de Vries equations</title>
+      <link>https://arxiv.org/abs/2611.18247</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.18247</guid>
+      <pubDate>Mon, 16 Nov 2026 14:54:19 +0000</pubDate>
+      <author>Oleksandra O. Vinnichenko</author>
+      <description>&lt;p&gt;&lt;b&gt;Oleksandra O. Vinnichenko&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Korteweg-de Vries · math-ph, math.AP, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Applying the method of furcate splitting, we carry out the complete group classification of a class of generalized Korteweg-de Vries equations. This class includes the Korteweg-de Vries, modified Korteweg-de Vries and Harry Dym equations, as well as the Rosenau-Hyman compacton equations. The equivalence group of the class is computed in two independent ways, by the advanced version of the direct method and by the megaideal-based version of the algebraic method. As a by-product, we construct the automorphism group of the equivalence algebra and all its megaideals, whose number is infinite. We also find all additional point equivalences between the classification cases. The maximal Lie invariance algebras of equations from the class are of dimensions from two to five, and all the corresponding Lie-symmetry extensions are regular except those for the equations similar to the Harry Dym equation, which are singular and are the only ones of the maximal dimension five. Finally, we classify the conservation laws of equations from the class with characteristics of nonpositive order.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.18247"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Solitons of the intermediate long wave equation with residue source</title>
       <link>https://arxiv.org/abs/2611.15072</link>
