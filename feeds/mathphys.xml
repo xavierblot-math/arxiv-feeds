@@ -4,7 +4,23 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 17 Nov 2026 01:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:33:32 +0000</lastBuildDate>
+    <item>
+      <title>Counting real meromorphic differentials on $\mathbb{CP}^1$</title>
+      <link>https://arxiv.org/abs/2611.19450</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.19450</guid>
+      <pubDate>Tue, 17 Nov 2026 15:33:07 +0000</pubDate>
+      <author>Alexandr Buryak, Guillaume Tahar</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexandr Buryak, Guillaume Tahar&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Alexandr Buryak · math.AG, math-ph, math.DG, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The counting problem for meromorphic differentials on $\mathbb{CP}^1$ with fixed orders of zeros and poles and vanishing residues at some specific poles, up to the action of $\mathrm{PGL}_2(\mathbb{C})$ and the multiplication by a nonzero constant, was completely solved before by several authors. In all the cases when there are finitely many such meromorphic differentials, an explicit formula for their number was found and also, in the case of residueless meromorphic differentials with two zeros, a link to the WDVV equations and the KP hierarchy was established. We consider a real analog of these counting problems by requiring that a meromorphic differential is preserved by a real structure on $\mathbb{CP}^1$. Our real counting problems admit refinements, obtained for example by specifying the orders of poles and zeros that are fixed by the antiholomorphic involution. We obtain explicit formulas for all our real counting problems and also, in the case of real meromorphic differentials with two complex conjugate zeros and residueless poles, establish a link to the open WDVV equations and the system of equations for the wave function of the KP hierarchy. An application to real Hurwitz numbers is also presented.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.19450"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures</title>
+      <link>https://arxiv.org/abs/2611.21569</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21569</guid>
+      <pubDate>Tue, 17 Nov 2026 15:33:07 +0000</pubDate>
+      <author>Giordano Cotti</author>
+      <description>&lt;p&gt;&lt;b&gt;Giordano Cotti&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Giordano Cotti · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number of markings tends to infinity. A motivic wall-crossing argument gives a universal change of variables between the two generating series, depending only on the value of the Lefschetz class. For an arbitrary motivic measure, we use stabilization graphs and support patterns to express the all-light series in terms of universal chain factors and finite residual quotient families. This formal decomposition isolates the rational trivalent contribution without requiring a fixed-locus formula for finite quotients. To pass from formal identities to asymptotics, we formulate analytic hypotheses (the $\mathrm{H}_g$-hypotheses) for scalar realizations with positive real Lefschetz value. We introduce vertex tameness and residual-quotient tameness, whose conjunction, graph tameness, provides geometric sufficient conditions for the $\mathrm{H}_g$-hypotheses. In genus at least two, this yields explicit leading asymptotics in both chambers, depending only on the genus and the Lefschetz value; genera zero and one are treated separately. As an application, we prove graph tameness for Hodge-Deligne evaluations and deduce fixed-product universality and asymptotic concentration of Hodge numbers on the diagonal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.21569"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cylinder spectral curve and 1-cut Matrix model</title>
       <link>https://arxiv.org/abs/2611.11015</link>

@@ -5470,5 +5470,303 @@
   "seen": "2026-11-16T14:54:19.851934+00:00",
   "summary": "Applying the method of furcate splitting, we carry out the complete group classification of a class of generalized Korteweg-de Vries equations. This class includes the Korteweg-de Vries, modified Korteweg-de Vries and Harry Dym equations, as well as the Rosenau-Hyman compacton equations. The equivalence group of the class is computed in two independent ways, by the advanced version of the direct method and by the megaideal-based version of the algebraic method. As a by-product, we construct the automorphism group of the equivalence algebra and all its megaideals, whose number is infinite. We also find all additional point equivalences between the classification cases. The maximal Lie invariance algebras of equations from the class are of dimensions from two to five, and all the corresponding Lie-symmetry extensions are regular except those for the equations similar to the Harry Dym equation, which are singular and are the only ones of the maximal dimension five. Finally, we classify the conservation laws of equations from the class with characteristics of nonpositive order.",
   "title": "Group classification of a class of generalized Korteweg-de Vries equations"
+ },
+ "2611.18922": {
+  "announce": "cross",
+  "authors": [
+   "Marcela C\\'ardenas",
+   "Benjam\\'in Cuevas-Tapia",
+   "Claudio Mu\\~noz",
+   "Jessica Trespalacios",
+   "Hanne Van Den Bosch"
+  ],
+  "cats": [
+   "gr-qc",
+   "hep-th",
+   "math-ph",
+   "math.AP",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2611.18922",
+  "link": "https://arxiv.org/abs/2611.18922",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "We study the asymptotic stability of axisymmetric gravitational perturbations of the near-horizon geometries of (near-)extremal Kerr black holes and consider the family of backgrounds in which the AdS$_{2}$ factor of NHEK is deformed by a Schwarzian mode. Requiring the Killing parameter to be local in the background makes the Gelfand--Dikii polynomials natural solutions of the Killing equation, and that locality requirement brings stationary solutions of the Korteweg-de Vries equation. The hierarchy selects a family of backgrounds, which remain $\\mathfrak{sl}(2,\\mathbb{R})\\times \\mathfrak{u}(1)$ throughout them: the first level gives NHEK and near-NHEK, the second, solitons that depart from one of these geometries and return to it. We linearize Einstein's equations around this family, where the axisymmetric sector reduces to a wave equation on the nearly-AdS$_{2}$ base, and analyze this equation by energy and virial methods. For NHEK we obtain a conserved energy, an integrated local energy estimate and asymptotic stability in a weighted norm; for a nonconstant Schwarzian the energy becomes a Lyapunov functional whose monotonicity is dictated by the sign of its derivative, yielding uniform bounds for integrable ones, and mild local decay along the KdV soliton. We also find a monotone horizon-localized norm, which is not of Aretakis type, showing that stability properties are directly sensitive to the near-horizon structure encoded in the Schwarzian background. We compute the associated Regge--Teitelboim charges at a late-time corner of the throat using a radial ADM foliation of the spacetime.",
+  "title": "Asymptotic stability of axisymmetric perturbations of near-horizon extremal Kerr with a Schwarzian-deformed throat"
+ },
+ "2611.19162": {
+  "announce": "cross",
+  "authors": [
+   "Ali Demirci",
+   "Haldun Taha Uzunoglu"
+  ],
+  "cats": [
+   "nlin.PS",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2611.19162",
+  "link": "https://arxiv.org/abs/2611.19162",
+  "matched": [
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "The propagation of nonlinear long extensional waves in a compressible hyperelastic layer with irregular free surfaces is studied within the framework of finite elasticity. The free surfaces are traction-free and symmetric with respect to the middle plane, and their irregularity changes the local thickness of the layer by a finite amount over distances long compared with the wavelength. In a distinguished limit in which weak nonlinearity, dispersion and the irregularity of the free surfaces appear at the same order, a multiple-scales analysis of the two-dimensional boundary-value problem leads to a Korteweg--de Vries equation with variable coefficients for the longitudinal strain. The irregularity acts on the wave only through the traction-free boundary conditions and changes the balance between nonlinearity and dispersion along the layer. After normalisation, the combined effect of the material and of the geometry is carried by a single variable nonlinear coefficient, whose sign decides whether compressive or tensile solitary waves exist. For special choices of the surface irregularity, the evolution equation reduces to forms known to be integrable, namely the Korteweg--de Vries and cylindrical Korteweg--de Vries equations. For periodically irregular layers of iron and copper and for model materials, numerical solutions show that a localized pulse propagates as a solitary wave, splits into a train of solitary waves or disperses into an oscillatory wave train, depending on the material, while the irregularity of the free surfaces redistributes the amplitudes of the emerging solitary waves.",
+  "title": "Nonlinear long extensional waves in an elastic layer with irregular free surfaces"
+ },
+ "2611.19186": {
+  "announce": "cross",
+  "authors": [
+   "Kefeng Liu",
+   "Liangdi Zhang"
+  ],
+  "cats": [
+   "math.SP",
+   "math.DG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.19186",
+  "link": "https://arxiv.org/abs/2611.19186",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "We construct thin planar domains on which the Dirichlet and the Neumann P\\'olya inequalities both hold strictly. For the neighborhoods of a given finite connected embedded polygonal graph (branches and cycles are allowed) there is a single radius threshold below which both inequalities hold for every eigenvalue index. We also show that every nonempty bounded connected open set in the plane can be approximated, in measure and in the Hausdorff distance, by smooth simply connected domains satisfying both inequalities. Along the same sequence, the first Dirichlet eigenvalue tends to infinity, while each Neumann eigenvalue of fixed positive index tends to zero. In the special case of rectangular frames our estimates lead to explicit sufficient conditions, with no restriction on the aspect ratio.",
+  "title": "P\\'olya inequalities on thin planar networks"
+ },
+ "2611.19450": {
+  "announce": "cross",
+  "authors": [
+   "Alexandr Buryak",
+   "Guillaume Tahar"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.DG",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Alexandr Buryak"
+   ],
+   "topics": [
+    "Hurwitz number"
+   ]
+  },
+  "id": "2611.19450",
+  "link": "https://arxiv.org/abs/2611.19450",
+  "matched": [
+   "Alexandr Buryak",
+   "Hurwitz number"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "The counting problem for meromorphic differentials on $\\mathbb{CP}^1$ with fixed orders of zeros and poles and vanishing residues at some specific poles, up to the action of $\\mathrm{PGL}_2(\\mathbb{C})$ and the multiplication by a nonzero constant, was completely solved before by several authors. In all the cases when there are finitely many such meromorphic differentials, an explicit formula for their number was found and also, in the case of residueless meromorphic differentials with two zeros, a link to the WDVV equations and the KP hierarchy was established. We consider a real analog of these counting problems by requiring that a meromorphic differential is preserved by a real structure on $\\mathbb{CP}^1$. Our real counting problems admit refinements, obtained for example by specifying the orders of poles and zeros that are fixed by the antiholomorphic involution. We obtain explicit formulas for all our real counting problems and also, in the case of real meromorphic differentials with two complex conjugate zeros and residueless poles, establish a link to the open WDVV equations and the system of equations for the wave function of the KP hierarchy. An application to real Hurwitz numbers is also presented.",
+  "title": "Counting real meromorphic differentials on $\\mathbb{CP}^1$"
+ },
+ "2611.19617": {
+  "announce": "new",
+  "authors": [
+   "Tsz-Kiu Aaron Chow"
+  ],
+  "cats": [
+   "math.DG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.19617",
+  "link": "https://arxiv.org/abs/2611.19617",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "We prove sharp fill-in inequalities for compact spin initial data sets satisfying the dominant energy condition. The inequalities relate the spacetime mean curvature of the boundary to its hyperspherical radius and stable one-systole. Equality characterizes spacelike graphs of constant boundary height over round Euclidean balls and, in the systolic case after passing to the universal cover, over products of a round disk with Euclidean space. We also prove rigidity under comparison with strictly convex Euclidean domains, using normalized boundary metrics. The proofs use a modified Dirac operator with a chiral boundary condition.",
+  "title": "Sharp fill-in inequalities and rigidity for spin initial data sets"
+ },
+ "2611.19929": {
+  "announce": "cross",
+  "authors": [
+   "D. Souza"
+  ],
+  "cats": [
+   "cond-mat.str-el",
+   "cond-mat.quant-gas",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.19929",
+  "link": "https://arxiv.org/abs/2611.19929",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "At strong on-site repulsion, the lowest band of $n$ lattice fermions is the spectrum of the hopping projected onto configurations without double occupancy, $H_\\infty=P_0H_tP_0$. We study its moments, for few fermions in the square-lattice Hubbard model and, where the arguments allow, on any finite graph. (1) For spin-independent Hermitian hopping (no on-site terms) on any $N\\geq2$-site graph, $\\mu_2=\\frac{n(N-n)}{N(N-1)}\\sum_{i\\neq j}|t_{ij}|^2$, for any spin composition. (2) On any finite graph, $\\mu_4$ is exactly linear in the same-spin pair count, as four hops permute particles by at most a transposition or 3-cycle; for uniform hopping on a simple graph with $N\\geq4$ the slope is $\\alpha(N,n)=-8C_4(N-n)(8N-11n-2)/[N(N-1)(N-2)(N-3)]$, fixed by the number $C_4$ of 4-cycles. (3) At large finite $U$, the second-order Schrieffer-Wolff correction is Hilbert-Schmidt orthogonal to $H_\\infty$ on every triangle-free graph, so the band variance has no $1/U$ term; its $U^{-2}$ coefficient, an exact trace checked by exact diagonalization, is negative at the low fillings computed. (4) Under a Peierls flux, the exchange slope $\\alpha(N,2,\\Phi)=-\\frac{64}{N-1}\\cos\\Phi_\\square$ ($L\\times L$ tori, $L=3$ or $L\\geq5$) carries the ordinary charge-$e$ harmonic, while the doublon (bound-pair) hopping acquires a doubled phase, $t_de^{2iA_{ij}}$: the second-order single-doublon Hamiltonian is exactly $\\pi$-periodic ($h/2e$) under a boundary twist, and the exact two-electron U-band follows numerically, up to $O((2\\lambda)^L/U^{L-1})$. Result (1), the permutation bound, the orthogonality in (3) and the doubled phase are machine-checked in Lean 4. Repulsive binding and the pair charge $2e$ are known; new are the exact moment structure and the derivation of the doubled phase. We make no claim about many-pair phase stiffness, off-diagonal long-range order or superconductivity.",
+  "title": "Spectral Moments of the Projected Hubbard Configuration Graph: Connectivity, Exchange, and Virtual Doublons"
+ },
+ "2611.20760": {
+  "announce": "new",
+  "authors": [
+   "Conan Naichung Leung",
+   "YuTung Yau",
+   "Zhenyu Ye"
+  ],
+  "cats": [
+   "math.DG",
+   "math-ph",
+   "math.MP",
+   "math.SG"
+  ],
+  "feeds": {
+   "topics": [
+    "star product"
+   ]
+  },
+  "id": "2611.20760",
+  "link": "https://arxiv.org/abs/2611.20760",
+  "matched": [
+   "star product"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "Motivated by the Gukov--Witten proposal that the endomorphism algebra of a coisotropic A-brane should be described by a deformation quantization of its transverse holomorphic symplectic geometry at the perturbative level, we study deformation quantization on transverse holomorphic symplectic manifolds $(M,\\Omega)$. Extending the approach of Nest--Tsygan to this setting, we show that, under an admissibility condition, equivalence classes of deformation quantizations are in bijection with \\[ \\hbar H^2\\bigl(\\operatorname{F}_1\\Omega^\\bullet(M,\\mathbb C),d\\bigr) [[\\hbar]], \\] where $\\operatorname{F}_1\\Omega^\\bullet(M,\\mathbb C)$ is the differential ideal generated by transverse $(1,0)$-forms. We further illustrate this framework through examples arising from mapping tori, $T$-duality, and coisotropic lifts in cotangent bundles. These examples clarify the roles of admissibility and the transverse Atiyah class, as well as the distinction between deformation quantizations and global star products. Finally, for a coisotropic A-brane $M$ induced from a transverse complex manifold $Q$, we use transverse jets and the Fock representation to construct a perturbative level action $End(M)\\curvearrowright Hom(M,Q)$ under suitable compatibility assumptions, providing a geometric realization of the brane quantization philosophy.",
+  "title": "Deformation Quantization of Coisotropic A-branes"
+ },
+ "2611.21043": {
+  "announce": "cross",
+  "authors": [
+   "Noah Alberca (Departament de Matem\\`atiques",
+   "Universitat Aut\\`onoma de Barcelona",
+   "Institute of Space Sciences)",
+   "Michele Lenzi (Physique Th\\'eorique et Math\\'ematique",
+   "Universit\\'e Libre de Bruxelles)",
+   "Carlos F. Sopuerta (Institute of Space Sciences",
+   "Institute of Space Studies of Catalonia)"
+  ],
+  "cats": [
+   "gr-qc",
+   "astro-ph.HE",
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ],
+   "topics": [
+    "KdV hierarchy"
+   ]
+  },
+  "id": "2611.21043",
+  "link": "https://arxiv.org/abs/2611.21043",
+  "matched": [
+   "KdV",
+   "KdV hierarchy",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "The dynamics of perturbed non-rotating black holes (BHs) can be described by master wave equations with a potential barrier. Recent work has shown that these equations possess an infinite number of symmetries generated by the Korteweg-de Vries (KdV) hierarchy, leading to conserved quantities (KdV integrals) that fully determine the BH greybody factors via a moment problem. In this paper, we introduce and validate a new method to solve this moment problem using the maximum entropy principle. The method reconstructs, at each order of truncation, the least-biased transmission probability compatible with a finite set of KdV integrals, guaranteeing positivity by construction. We first validate the technique against the exactly solvable P\\\"oschl-Teller potential. We then apply it to the Regge-Wheeler potential governing axial perturbations of a Schwarzschild BH, where no exact solution is available; the resulting reconstruction agrees closely with the fourth-order Wentzel-Kramers-Brillouin (WKB) approximation across several multipoles. This is the first application of the maximum entropy method to the reconstruction of BH greybody factors, demonstrating that a modest number of KdV integrals is sufficient to recover them accurately.",
+  "title": "Maximum entropy reconstruction of the black hole greybody factors from its Korteweg-de Vries integrals"
+ },
+ "2611.21173": {
+  "announce": "new",
+  "authors": [
+   "Hsian-Hua Tseng",
+   "Xiaohan Yan"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "ag": [
+    "Hsian-Hua Tseng"
+   ],
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.21173",
+  "link": "https://arxiv.org/abs/2611.21173",
+  "matched": [
+   "Gromov-Witten",
+   "Hsian-Hua Tseng"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "We calculate the genus $1$ Gromov-Witten invariants with one tautological divisor insertion of the moduli space $\\mathcal{M}(r,n)$ of rank-$r$, $c_2=n$ torsion-free sheaves on $\\mathbb{P}^2$ framed along the infinity divisor. As rational functions of the framing parameters, we determine the polar parts of these invariants by exploring the equivariant geometry of the Gieseker-Uhlenbeck map $\\mathcal{M}(r,n)\\to\\mathcal{M}_0(r,n)$. We determine the polynomial part of these invariants by relating their large framing limits to the results \\cite{ILPT} for the rank $1$ case, namely $\\mathrm{Hilb}^n(\\mathbb{C}^2)$. The degree-$0$ invariants with one divisor insertion are evaluated by studying the combinatorics of multi-partitions. We also prove reconstruction results for invariants with multiple insertions. Under the assumption that the eigenvalues of the divisor operator are linearly independent as functions of the Novikov variable, these results determine the full genus $1$ theory from the one-divisor series and the genus $0$ divisor operator.",
+  "title": "Elliptic Gromov-Witten Invariants of Instanton Moduli"
+ },
+ "2611.21197": {
+  "announce": "new",
+  "authors": [
+   "Marian Aprodu",
+   "Gavril Farkas",
+   "Jinhyung Park"
+  ],
+  "cats": [
+   "math.AG",
+   "math.AC"
+  ],
+  "feeds": {
+   "ag": [
+    "Gavril Farkas"
+   ]
+  },
+  "id": "2611.21197",
+  "link": "https://arxiv.org/abs/2611.21197",
+  "matched": [
+   "Gavril Farkas"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "We show that curves of genus 10 which are W(E_6)-covers of the projective line provide counterexamples to Green's Conjecture on syzygies of canonical curves. This leads to a 9-dimensional family of explicit counterexamples to Green's Conjecture. We also show that the same curves provide counterexamples to the Green-Lazarsfeld Secant Conjecture. Both Green's Conjecture and the Secant Conjecture are know to be true in the generic case, as well as in many other situations.",
+  "title": "Counterexamples to Green's Conjecture via E_6-covers"
+ },
+ "2611.21569": {
+  "announce": "cross",
+  "authors": [
+   "Giordano Cotti"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Giordano Cotti"
+   ]
+  },
+  "id": "2611.21569",
+  "link": "https://arxiv.org/abs/2611.21569",
+  "matched": [
+   "Giordano Cotti"
+  ],
+  "seen": "2026-11-17T15:33:07.975153+00:00",
+  "summary": "This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number of markings tends to infinity. A motivic wall-crossing argument gives a universal change of variables between the two generating series, depending only on the value of the Lefschetz class. For an arbitrary motivic measure, we use stabilization graphs and support patterns to express the all-light series in terms of universal chain factors and finite residual quotient families. This formal decomposition isolates the rational trivalent contribution without requiring a fixed-locus formula for finite quotients. To pass from formal identities to asymptotics, we formulate analytic hypotheses (the $\\mathrm{H}_g$-hypotheses) for scalar realizations with positive real Lefschetz value. We introduce vertex tameness and residual-quotient tameness, whose conjunction, graph tameness, provides geometric sufficient conditions for the $\\mathrm{H}_g$-hypotheses. In genus at least two, this yields explicit leading asymptotics in both chambers, depending only on the genus and the Lefschetz value; genera zero and one are treated separately. As an application, we prove graph tameness for Hodge-Deligne evaluations and deduce fixed-product universality and asymptotic concentration of Hodge numbers on the diagonal.",
+  "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures"
  }
 }

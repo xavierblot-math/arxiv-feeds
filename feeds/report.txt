@@ -1,9 +1,22 @@
-Last run: 2026-11-17 01:37 UTC
-Announcements downloaded: 197 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-17 15:33 UTC
+Announcements downloaded: 406 (0 category feeds failed)
+New papers stored this run: 11
 
-ag             |   37 items |   1 new this run
+ag             |   40 items |   3 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   68 items |   1 new this run
-mathphys       |   26 items |   0 new this run
-topics         |  118 items |   4 new this run
+broad          |   72 items |   4 new this run
+mathphys       |   28 items |   2 new this run
+topics         |  123 items |   5 new this run
+
+Matched this run:
+  Alexandr Buryak, Hurwitz number          | Counting real meromorphic differentials on $\mathbb{CP}^1$
+  Gromov-Witten, Hsian-Hua Tseng           | Elliptic Gromov-Witten Invariants of Instanton Moduli
+  Gavril Farkas                            | Counterexamples to Green's Conjecture via E_6-covers
+  Giordano Cotti                           | Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of
+  KdV, Korteweg-de Vries                   | Asymptotic stability of axisymmetric perturbations of near-horizon ext
+  r-spin                                   | Sharp fill-in inequalities and rigidity for spin initial data sets
+  r-spin                                   | Spectral Moments of the Projected Hubbard Configuration Graph: Connect
+  star product                             | Deformation Quantization of Coisotropic A-branes
+  KdV, KdV hierarchy, Korteweg-de Vries    | Maximum entropy reconstruction of the black hole greybody factors from
+  Korteweg-de Vries                        | Nonlinear long extensional waves in an elastic layer with irregular fr
+  Kefeng Liu                               | P\'olya inequalities on thin planar networks
