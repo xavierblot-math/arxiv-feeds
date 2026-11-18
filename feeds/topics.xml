@@ -4,7 +4,7 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:55:28 +0000</lastBuildDate>
     <item>
       <title>Obstructions to Hadamard Deformations of Fourier Matrices</title>
       <link>https://arxiv.org/abs/2611.21871</link>
@@ -12,6 +12,14 @@
       <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
       <author>Shuler Hopkins, Remus Nicoara</author>
       <description>&lt;p&gt;&lt;b&gt;Shuler Hopkins, Remus Nicoara&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.OA, math.CO · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study deformations of the Fourier spin model commuting square in the space of commuting squares, or equivalently deformations of the matrix $\sqrt nF_n$, where $F_n$ denotes the Fourier matrix, by complex Hadamard matrices. If $n$ is neither a prime power nor twice a prime, we show that there exist unit vectors in the enveloping tangent space that cannot be realized as directions of convergence of sequential deformations. Consequently, the derivative of any differentiable Hadamard family through $\sqrt nF_n$ has rank strictly smaller than the dimension of the enveloping tangent space at $\sqrt nF_n$ (i.e., the defect of $F_n$). This is particularly surprising because for every $n$ there exist enough one-parameter analytic families to provide a basis of directions in the enveloping tangent space. We obtain cubic obstructions when $n$ has at least three distinct prime divisors, quartic obstructions when it has exactly two and a repeated factor, and quintic obstructions when it is the product of two distinct odd primes. These results extend our order $30$ result from \cite{HN}.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.21871"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iBraid group symmetries of iquantum groups via star product</title>
+      <link>https://arxiv.org/abs/2611.22344</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.22344</guid>
+      <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
+      <author>Ming Lu, Xujie Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Ming Lu, Xujie Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: star product · math.QA, math.RT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish ibraid group symmetries on universal iquantum groups of symmetrizable Kac-Moody type, proving a conjecture of Wang and Zhang. Building on the star product realization of quantum symmetric pairs $(\widetilde{\mathbf U},\widetilde{\mathbf U}^{\imath})$, we relate these symmetries to Lusztig&amp;#x27;s braid group symmetries, extending the compatibility previously obtained via iHopf algebras in the quasi-split setting. Via the Letzter map $\psi$ from the iquantum group $\widetilde{\mathbf U}^{\imath}$ to the horospherical algebra $\mathcal A\subset \widetilde{\mathbf U}$, we show that the ibraid group symmetry $\widetilde{\mathbf T}&amp;#x27;_{i,-1}$ of $\widetilde{\mathbf U}^{\imath}$ transported to $\mathcal A$ coincides with Lusztig&amp;#x27;s braid group symmetry $\widetilde T_{\mathbf r_i}^{-1}$ on the subalgebra $\mathcal R_{\bullet,i}^{-,r}$. Finally, a mixed product formula, together with a parabolic decomposition, yields an explicit formula for the transported action on the entire horospherical algebra $\mathcal A$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.22344"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Higher Spin Lagrangians for Black Holes in Arbitrary Dimension</title>
@@ -36,14 +44,6 @@
       <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
       <author>Davide Ciattaglia, Adrien Kuntz, Enrico Barausse</author>
       <description>&lt;p&gt;&lt;b&gt;Davide Ciattaglia, Adrien Kuntz, Enrico Barausse&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · gr-qc, astro-ph.CO, astro-ph.HE, hep-th · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Black-hole ringdown is usually modeled as a linear superposition of quasinormal modes, and fits to gravitational-wave observations increasingly include high overtones. However, the overtone sum does not necessarily converge: overtones are more strongly damped and thus decay faster in time, but their amplitudes in the Green function (the signal at an observer produced by an impulse at a source point) grow, so the mode description may break down before a finite time. We show that for a rotating (Kerr) black hole this time has a clear geometric meaning. For highly damped modes, the amplitudes grow exponentially with the optical distance from the source and the observer to a characteristic &amp;quot;bounce&amp;quot; radius close to the black hole, defined as the location where the mode amplitude is smallest. For one family of modes, the amplitudes are also suppressed the farther the source and observer sit from the equatorial plane. Rotation therefore makes the onset of convergence depend on direction as well as distance, extending the geometric picture from bounce radii to bounce surfaces. Combining these effects gives a sufficient condition for absolute convergence. For spin $a/M = 0.7$, we map how this time varies with source and observer position, and amplitudes computed numerically reproduce the predicted spatial dependence to better than one percent. These results set geometric limits on when the quasinormal-mode sums converge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.23110"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>iBraid group symmetries of iquantum groups via star product</title>
-      <link>https://arxiv.org/abs/2611.22344</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.22344</guid>
-      <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
-      <author>Ming Lu, Xujie Zhou</author>
-      <description>&lt;p&gt;&lt;b&gt;Ming Lu, Xujie Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: star product · math.QA, math.RT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We establish ibraid group symmetries on universal iquantum groups of symmetrizable Kac-Moody type, proving a conjecture of Wang and Zhang. Building on the star product realization of quantum symmetric pairs $(\widetilde{\mathbf U},\widetilde{\mathbf U}^{\imath})$, we relate these symmetries to Lusztig&amp;#x27;s braid group symmetries, extending the compatibility previously obtained via iHopf algebras in the quasi-split setting. Via the Letzter map $\psi$ from the iquantum group $\widetilde{\mathbf U}^{\imath}$ to the horospherical algebra $\mathcal A\subset \widetilde{\mathbf U}$, we show that the ibraid group symmetry $\widetilde{\mathbf T}&amp;#x27;_{i,-1}$ of $\widetilde{\mathbf U}^{\imath}$ transported to $\mathcal A$ coincides with Lusztig&amp;#x27;s braid group symmetry $\widetilde T_{\mathbf r_i}^{-1}$ on the subalgebra $\mathcal R_{\bullet,i}^{-,r}$. Finally, a mixed product formula, together with a parabolic decomposition, yields an explicit formula for the transported action on the entire horospherical algebra $\mathcal A$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.22344"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Counting real meromorphic differentials on $\mathbb{CP}^1$</title>
