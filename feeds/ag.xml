@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 17 Nov 2026 15:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:35:35 +0000</lastBuildDate>
+    <item>
+      <title>P\'olya inequalities on thin planar networks</title>
+      <link>https://arxiv.org/abs/2611.19186</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.19186</guid>
+      <pubDate>Tue, 17 Nov 2026 15:33:07 +0000</pubDate>
+      <author>Kefeng Liu, Liangdi Zhang</author>
+      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Liangdi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.SP, math.DG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct thin planar domains on which the Dirichlet and the Neumann P\&amp;#x27;olya inequalities both hold strictly. For the neighborhoods of a given finite connected embedded polygonal graph (branches and cycles are allowed) there is a single radius threshold below which both inequalities hold for every eigenvalue index. We also show that every nonempty bounded connected open set in the plane can be approximated, in measure and in the Hausdorff distance, by smooth simply connected domains satisfying both inequalities. Along the same sequence, the first Dirichlet eigenvalue tends to infinity, while each Neumann eigenvalue of fixed positive index tends to zero. In the special case of rectangular frames our estimates lead to explicit sufficient conditions, with no restriction on the aspect ratio.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.19186"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Elliptic Gromov-Witten Invariants of Instanton Moduli</title>
       <link>https://arxiv.org/abs/2611.21173</link>
@@ -20,14 +28,6 @@
       <pubDate>Tue, 17 Nov 2026 15:33:07 +0000</pubDate>
       <author>Marian Aprodu, Gavril Farkas, Jinhyung Park</author>
       <description>&lt;p&gt;&lt;b&gt;Marian Aprodu, Gavril Farkas, Jinhyung Park&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gavril Farkas · math.AG, math.AC · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that curves of genus 10 which are W(E_6)-covers of the projective line provide counterexamples to Green&amp;#x27;s Conjecture on syzygies of canonical curves. This leads to a 9-dimensional family of explicit counterexamples to Green&amp;#x27;s Conjecture. We also show that the same curves provide counterexamples to the Green-Lazarsfeld Secant Conjecture. Both Green&amp;#x27;s Conjecture and the Secant Conjecture are know to be true in the generic case, as well as in many other situations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.21197"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>P\'olya inequalities on thin planar networks</title>
-      <link>https://arxiv.org/abs/2611.19186</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.19186</guid>
-      <pubDate>Tue, 17 Nov 2026 15:33:07 +0000</pubDate>
-      <author>Kefeng Liu, Liangdi Zhang</author>
-      <description>&lt;p&gt;&lt;b&gt;Kefeng Liu, Liangdi Zhang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.SP, math.DG · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct thin planar domains on which the Dirichlet and the Neumann P\&amp;#x27;olya inequalities both hold strictly. For the neighborhoods of a given finite connected embedded polygonal graph (branches and cycles are allowed) there is a single radius threshold below which both inequalities hold for every eigenvalue index. We also show that every nonempty bounded connected open set in the plane can be approximated, in measure and in the Hausdorff distance, by smooth simply connected domains satisfying both inequalities. Along the same sequence, the first Dirichlet eigenvalue tends to infinity, while each Neumann eigenvalue of fixed positive index tends to zero. In the special case of rectangular frames our estimates lead to explicit sufficient conditions, with no restriction on the aspect ratio.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.19186"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A new tautological relation on $\overline{\mathcal{M}}_{2,14}$ in cohomology</title>
