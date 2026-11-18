@@ -4,7 +4,23 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 18 Nov 2026 00:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:10:54 +0000</lastBuildDate>
+    <item>
+      <title>Orbital Stability and Instability of Slow and Fast Solitary Waves of gILW</title>
+      <link>https://arxiv.org/abs/2611.21989</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21989</guid>
+      <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
+      <author>Diego Yupanqui</author>
+      <description>&lt;p&gt;&lt;b&gt;Diego Yupanqui&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · math.AP, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the solitary waves of the generalized Intermediate Long Wave equation (gILW), for a power-type nonlinearity of order $p\geq1$. Using concentration-compactness and symmetric rearrangement, we prove existence of suitable (even, strictly positive and radially decreasing) solitary waves of gILW for every $p\geq1$, and show that, as the depth parameter tends to infinity, they converge in the energy space and in $L^q$, $q\in[2,\infty]$, to the solitary waves of the generalized Benjamin-Ono equation (gBO), while, as the depth parameter tends to zero, after a suitable rescaling, they converge in $L^q$, $q\in[2,\infty]$, to the solitary waves of the generalized Korteweg-de Vries equation (gKdV). Our main results concern the orbital stability of slow and fast solitary waves of gILW, that is, of those for which the product $\delta c$ of the depth parameter and the velocity is small or large, respectively. For slow waves we obtain stability for $p=1,2,3$ and instability for $p\geq5$ (the same threshold as for gKdV), while for fast waves we obtain stability for $p=1$ and instability for $p\geq3$ (the same threshold as for gBO). In particular, for $p=3$ the stability of the solitary waves changes from one regime to the other. These results extend to $p&amp;gt;1$ the classical result of Albert, Bona and Henry for the Intermediate Long Wave equation ($p=1$). The proof proceeds by perturbation theory, transferring spectral information from gKdV and gBO to gILW through the convergence of the corresponding solitary-wave operators, and in particular avoids any use of an explicit formula for the solitary wave profile, none being available for $p&amp;gt;1$.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.21989"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Construction and regularity of lump solutions of the modified KP-I equation</title>
+      <link>https://arxiv.org/abs/2611.22745</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.22745</guid>
+      <pubDate>Wed, 18 Nov 2026 15:10:29 +0000</pubDate>
+      <author>Tianwei Qiu, Zhen Wang</author>
+      <description>&lt;p&gt;&lt;b&gt;Tianwei Qiu, Zhen Wang&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · nlin.SI, math-ph, math.MP, nlin.PS · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We express the $\tau$-functions of standard and higher-order lump solutions of the modified Kadomtsev--Petviashvili-I (mKP-I) equation as Gram determinants in integral form. Unlike the KP-I equation, the mKP-I $\tau$-function is complex-valued, and its nonvanishing does not follow from the positive definiteness of a Hermitian Gram matrix. We derive explicit spectral conditions for the regularity of these solutions; for higher-order lumps, the sharp condition depends only on the spectral parameter and the largest entry of the index vector. We also prove that the lump solutions and all their spatial derivatives decay algebraically in every spatial direction, uniformly on compact time intervals.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.22745"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Asymptotic stability of axisymmetric perturbations of near-horizon extremal Kerr with a Schwarzian-deformed throat</title>
       <link>https://arxiv.org/abs/2611.18922</link>

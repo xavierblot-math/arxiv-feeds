@@ -1,9 +1,18 @@
-Last run: 2026-11-18 00:35 UTC
-Announcements downloaded: 406 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-18 15:10 UTC
+Announcements downloaded: 220 (0 category feeds failed)
+New papers stored this run: 7
 
-ag             |   40 items |   3 new this run
+ag             |   40 items |   0 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   72 items |   4 new this run
-mathphys       |   28 items |   2 new this run
-topics         |  123 items |   5 new this run
+broad          |   74 items |   2 new this run
+mathphys       |   28 items |   0 new this run
+topics         |  128 items |   5 new this run
+
+Matched this run:
+  KdV, Korteweg-de Vries                   | Orbital Stability and Instability of Slow and Fast Solitary Waves of g
+  tau function                             | Construction and regularity of lump solutions of the modified KP-I equ
+  r-spin                                   | Obstructions to Hadamard Deformations of Fourier Matrices
+  r-spin                                   | Higher Spin Lagrangians for Black Holes in Arbitrary Dimension
+  r-spin                                   | Lie-Poisson Formulation of Dissipative Spin Hydrodynamics
+  r-spin                                   | Convergence of the quasinormal-mode expansion of the Kerr Green functi
+  star product                             | iBraid group symmetries of iquantum groups via star product

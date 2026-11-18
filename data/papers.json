@@ -5768,5 +5768,179 @@
   "seen": "2026-11-17T15:33:07.975153+00:00",
   "summary": "This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number of markings tends to infinity. A motivic wall-crossing argument gives a universal change of variables between the two generating series, depending only on the value of the Lefschetz class. For an arbitrary motivic measure, we use stabilization graphs and support patterns to express the all-light series in terms of universal chain factors and finite residual quotient families. This formal decomposition isolates the rational trivalent contribution without requiring a fixed-locus formula for finite quotients. To pass from formal identities to asymptotics, we formulate analytic hypotheses (the $\\mathrm{H}_g$-hypotheses) for scalar realizations with positive real Lefschetz value. We introduce vertex tameness and residual-quotient tameness, whose conjunction, graph tameness, provides geometric sufficient conditions for the $\\mathrm{H}_g$-hypotheses. In genus at least two, this yields explicit leading asymptotics in both chambers, depending only on the genus and the Lefschetz value; genera zero and one are treated separately. As an application, we prove graph tameness for Hodge-Deligne evaluations and deduce fixed-product universality and asymptotic concentration of Hodge numbers on the diagonal.",
   "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures"
+ },
+ "2611.21871": {
+  "announce": "cross",
+  "authors": [
+   "Shuler Hopkins",
+   "Remus Nicoara"
+  ],
+  "cats": [
+   "math.OA",
+   "math.CO"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.21871",
+  "link": "https://arxiv.org/abs/2611.21871",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "We study deformations of the Fourier spin model commuting square in the space of commuting squares, or equivalently deformations of the matrix $\\sqrt nF_n$, where $F_n$ denotes the Fourier matrix, by complex Hadamard matrices. If $n$ is neither a prime power nor twice a prime, we show that there exist unit vectors in the enveloping tangent space that cannot be realized as directions of convergence of sequential deformations. Consequently, the derivative of any differentiable Hadamard family through $\\sqrt nF_n$ has rank strictly smaller than the dimension of the enveloping tangent space at $\\sqrt nF_n$ (i.e., the defect of $F_n$). This is particularly surprising because for every $n$ there exist enough one-parameter analytic families to provide a basis of directions in the enveloping tangent space. We obtain cubic obstructions when $n$ has at least three distinct prime divisors, quartic obstructions when it has exactly two and a repeated factor, and quintic obstructions when it is the product of two distinct odd primes. These results extend our order $30$ result from \\cite{HN}.",
+  "title": "Obstructions to Hadamard Deformations of Fourier Matrices"
+ },
+ "2611.21989": {
+  "announce": "cross",
+  "authors": [
+   "Diego Yupanqui"
+  ],
+  "cats": [
+   "math.AP",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2611.21989",
+  "link": "https://arxiv.org/abs/2611.21989",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "We study the solitary waves of the generalized Intermediate Long Wave equation (gILW), for a power-type nonlinearity of order $p\\geq1$. Using concentration-compactness and symmetric rearrangement, we prove existence of suitable (even, strictly positive and radially decreasing) solitary waves of gILW for every $p\\geq1$, and show that, as the depth parameter tends to infinity, they converge in the energy space and in $L^q$, $q\\in[2,\\infty]$, to the solitary waves of the generalized Benjamin-Ono equation (gBO), while, as the depth parameter tends to zero, after a suitable rescaling, they converge in $L^q$, $q\\in[2,\\infty]$, to the solitary waves of the generalized Korteweg-de Vries equation (gKdV). Our main results concern the orbital stability of slow and fast solitary waves of gILW, that is, of those for which the product $\\delta c$ of the depth parameter and the velocity is small or large, respectively. For slow waves we obtain stability for $p=1,2,3$ and instability for $p\\geq5$ (the same threshold as for gKdV), while for fast waves we obtain stability for $p=1$ and instability for $p\\geq3$ (the same threshold as for gBO). In particular, for $p=3$ the stability of the solitary waves changes from one regime to the other. These results extend to $p>1$ the classical result of Albert, Bona and Henry for the Intermediate Long Wave equation ($p=1$). The proof proceeds by perturbation theory, transferring spectral information from gKdV and gBO to gILW through the convergence of the corresponding solitary-wave operators, and in particular avoids any use of an explicit formula for the solitary wave profile, none being available for $p>1$.",
+  "title": "Orbital Stability and Instability of Slow and Fast Solitary Waves of gILW"
+ },
+ "2611.22344": {
+  "announce": "new",
+  "authors": [
+   "Ming Lu",
+   "Xujie Zhou"
+  ],
+  "cats": [
+   "math.QA",
+   "math.RT"
+  ],
+  "feeds": {
+   "topics": [
+    "star product"
+   ]
+  },
+  "id": "2611.22344",
+  "link": "https://arxiv.org/abs/2611.22344",
+  "matched": [
+   "star product"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "We establish ibraid group symmetries on universal iquantum groups of symmetrizable Kac-Moody type, proving a conjecture of Wang and Zhang. Building on the star product realization of quantum symmetric pairs $(\\widetilde{\\mathbf U},\\widetilde{\\mathbf U}^{\\imath})$, we relate these symmetries to Lusztig's braid group symmetries, extending the compatibility previously obtained via iHopf algebras in the quasi-split setting. Via the Letzter map $\\psi$ from the iquantum group $\\widetilde{\\mathbf U}^{\\imath}$ to the horospherical algebra $\\mathcal A\\subset \\widetilde{\\mathbf U}$, we show that the ibraid group symmetry $\\widetilde{\\mathbf T}'_{i,-1}$ of $\\widetilde{\\mathbf U}^{\\imath}$ transported to $\\mathcal A$ coincides with Lusztig's braid group symmetry $\\widetilde T_{\\mathbf r_i}^{-1}$ on the subalgebra $\\mathcal R_{\\bullet,i}^{-,r}$. Finally, a mixed product formula, together with a parabolic decomposition, yields an explicit formula for the transported action on the entire horospherical algebra $\\mathcal A$.",
+  "title": "iBraid group symmetries of iquantum groups via star product"
+ },
+ "2611.22594": {
+  "announce": "new",
+  "authors": [
+   "Francesco Campanella"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.22594",
+  "link": "https://arxiv.org/abs/2611.22594",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "In this paper, we investigate the classical gravitational multipolar structure of rotating objects studying higher-spin Lagrangians coupled to gravity in arbitrary dimensions $D=d+1$. We first consider fields described by totally symmetric tensors with $s$ indices. At finite spin, the minimal coupling depends on both the spin and spacetime dimension. We show that, in the high-spin limit $s\\gg 1$, the minimal multipolar expansion becomes dimension independent and it corresponds to the one which reproduces the Kerr solution in four dimensions. Furthermore, we identify a dimension independent relation among the non-minimal coupling coefficients that allows us to reproduce the Myers-Perry multipolar structure in arbitrary dimensions. We then extend our analysis to Lagrangians involving fields with different Young representations, which are allowed in higher dimensions.",
+  "title": "Higher Spin Lagrangians for Black Holes in Arbitrary Dimension"
+ },
+ "2611.22615": {
+  "announce": "new",
+  "authors": [
+   "Zi-Hao Liu",
+   "Mei Huang"
+  ],
+  "cats": [
+   "hep-th",
+   "cond-mat.soft",
+   "hep-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.22615",
+  "link": "https://arxiv.org/abs/2611.22615",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "Covariance and the second law cannot fix how fluid flow couples to spin, since reversible couplings produce no entropy. We show that the spin commutation relations and the Poincar\\'e algebra fix these couplings. Reversibly, a flow exerts no torque on the spin: its magnitude per particle is conserved, its direction is Fermi--Walker transported, and spin--shear couplings reflect a deforming triad. The magnitude changes only through higher multipoles, as in spinor condensates, or dissipation, whose first-order spin--shear coupling reorients the spin away from the vorticity above a critical shear rate.",
+  "title": "Lie-Poisson Formulation of Dissipative Spin Hydrodynamics"
+ },
+ "2611.22745": {
+  "announce": "new",
+  "authors": [
+   "Tianwei Qiu",
+   "Zhen Wang"
+  ],
+  "cats": [
+   "nlin.SI",
+   "math-ph",
+   "math.MP",
+   "nlin.PS"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.22745",
+  "link": "https://arxiv.org/abs/2611.22745",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "We express the $\\tau$-functions of standard and higher-order lump solutions of the modified Kadomtsev--Petviashvili-I (mKP-I) equation as Gram determinants in integral form. Unlike the KP-I equation, the mKP-I $\\tau$-function is complex-valued, and its nonvanishing does not follow from the positive definiteness of a Hermitian Gram matrix. We derive explicit spectral conditions for the regularity of these solutions; for higher-order lumps, the sharp condition depends only on the spectral parameter and the largest entry of the index vector. We also prove that the lump solutions and all their spatial derivatives decay algebraically in every spatial direction, uniformly on compact time intervals.",
+  "title": "Construction and regularity of lump solutions of the modified KP-I equation"
+ },
+ "2611.23110": {
+  "announce": "cross",
+  "authors": [
+   "Davide Ciattaglia",
+   "Adrien Kuntz",
+   "Enrico Barausse"
+  ],
+  "cats": [
+   "gr-qc",
+   "astro-ph.CO",
+   "astro-ph.HE",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.23110",
+  "link": "https://arxiv.org/abs/2611.23110",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-18T15:10:29.877498+00:00",
+  "summary": "Black-hole ringdown is usually modeled as a linear superposition of quasinormal modes, and fits to gravitational-wave observations increasingly include high overtones. However, the overtone sum does not necessarily converge: overtones are more strongly damped and thus decay faster in time, but their amplitudes in the Green function (the signal at an observer produced by an impulse at a source point) grow, so the mode description may break down before a finite time. We show that for a rotating (Kerr) black hole this time has a clear geometric meaning. For highly damped modes, the amplitudes grow exponentially with the optical distance from the source and the observer to a characteristic \"bounce\" radius close to the black hole, defined as the location where the mode amplitude is smallest. For one family of modes, the amplitudes are also suppressed the farther the source and observer sit from the equatorial plane. Rotation therefore makes the onset of convergence depend on direction as well as distance, extending the geometric picture from bounce radii to bounce surfaces. Combining these effects gives a sufficient condition for absolute convergence. For spin $a/M = 0.7$, we map how this time varies with source and observer position, and amplitudes computed numerically reproduce the predicted spatial dependence to better than one percent. These results set geometric limits on when the quasinormal-mode sums converge.",
+  "title": "Convergence of the quasinormal-mode expansion of the Kerr Green function"
  }
 }
