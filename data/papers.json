@@ -5942,5 +5942,79 @@
   "seen": "2026-11-18T15:10:29.877498+00:00",
   "summary": "Black-hole ringdown is usually modeled as a linear superposition of quasinormal modes, and fits to gravitational-wave observations increasingly include high overtones. However, the overtone sum does not necessarily converge: overtones are more strongly damped and thus decay faster in time, but their amplitudes in the Green function (the signal at an observer produced by an impulse at a source point) grow, so the mode description may break down before a finite time. We show that for a rotating (Kerr) black hole this time has a clear geometric meaning. For highly damped modes, the amplitudes grow exponentially with the optical distance from the source and the observer to a characteristic \"bounce\" radius close to the black hole, defined as the location where the mode amplitude is smallest. For one family of modes, the amplitudes are also suppressed the farther the source and observer sit from the equatorial plane. Rotation therefore makes the onset of convergence depend on direction as well as distance, extending the geometric picture from bounce radii to bounce surfaces. Combining these effects gives a sufficient condition for absolute convergence. For spin $a/M = 0.7$, we map how this time varies with source and observer position, and amplitudes computed numerically reproduce the predicted spatial dependence to better than one percent. These results set geometric limits on when the quasinormal-mode sums converge.",
   "title": "Convergence of the quasinormal-mode expansion of the Kerr Green function"
+ },
+ "2611.23237": {
+  "announce": "cross",
+  "authors": [
+   "Evgueniy Vitchev"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP",
+   "math.QA",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV"
+   ],
+   "topics": [
+    "quantum KdV"
+   ]
+  },
+  "id": "2611.23237",
+  "link": "https://arxiv.org/abs/2611.23237",
+  "matched": [
+   "KdV",
+   "quantum KdV"
+  ],
+  "seen": "2026-11-19T15:18:36.132078+00:00",
+  "summary": "We revisit the commuting local integrals of motion for free bosonic CFTs constructed in hep-th/0404195 as input data for integrable boundary states, using exact-arithmetic operator-product engines. A bootstrap lemma reduces its overdetermined bilinear commutativity systems to a distinguished odd charge D plus linear kernel problems -- conditionally on even-spin vacancy, a machine-verified but finite-range input. For the Z_2 x Z_2 \"paperclip\" family we publish the spin-7 density P_8, prove [I_3,I_5]=[I_3,I_7]=[I_5,I_7]=0 identically in n, and verify the Lukyanov-Vitchev-Zamolodchikov four-screening characterization at spins 7 and 9 at sampled n. For the A_2^(2) family we give an exact Coulomb-gas dictionary to the dual Phi_{1,2}/Phi_{2,1} perturbations (that identification itself being classical, Zamolodchikov; Smirnov), whence the infinite hierarchy at all spins 6n+-1 follows by the Feigin-Frenkel affine-Toda theorem; our contribution is the certified dictionary, not a new all-spin construction. At c=1 the tower's defining charges are exactly quantum KdV at c_{1,4}=-25/2 -- the all-odd sector of the Freeman-Hornfeck-West family: the hierarchy embeds at every odd spin, equality verified through spin 15, all-spin multiplicity one open. We exclude or disfavor the named non-KdV candidates at the tested loci and identify the self-dual degeneracy as L(1,0). Through spin 11, the generic centralizer of I_3 is, for all three Z_2 x O(N) \"cylindrical\" families, one-dimensional at odd and zero at even spins, with Q(t)-symbolic charges at spins 7, 9, 11 and an explained fiber jump at N=-2. We certify the published 2004 low-spin formulas and record five corrections (one presumed). All-spin statements are made only where proved, finite-range otherwise. We close with a corank-character conjecture linking the rank deficiencies of the bilinear systems to characters of screening kernels.",
+  "title": "Commuting integrals of motion for free bosonic CFTs revisited: certified densities, spectral rigidity, and an exact identification at the c=1 branch point"
+ },
+ "2611.23650": {
+  "announce": "new",
+  "authors": [
+   "Todor Milanov"
+  ],
+  "cats": [
+   "math.AG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.23650",
+  "link": "https://arxiv.org/abs/2611.23650",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-19T15:18:36.132078+00:00",
+  "summary": "The genus-$0$ equivariant Gromov--Witten (GW) invariants of a GKM manifold can be computed recursively by a recursion discovered by Brown and studied further by Coates--Corti--Iritani--Tseng. In this paper, we prove a slightly modified version of this result by realizing the J-function as a solution to a fixed-point problem. As an application, we prove that both the equivariant and the non-equivariant quantum cohomologies of a GKM manifold are convergent. We also show that the equivariant central charges have no poles in the spectral parameter, compute their monodromy and their asymptotics at $z=0$, and formulate an equivariant mirror symmetry conjecture for GKM manifolds.",
+  "title": "Convergence of the big J-function of a GKM manifold"
+ },
+ "2611.23833": {
+  "announce": "new",
+  "authors": [
+   "Zhengyi Zhou"
+  ],
+  "cats": [
+   "math.SG"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.23833",
+  "link": "https://arxiv.org/abs/2611.23833",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-19T15:18:36.132078+00:00",
+  "summary": "We prove that a symplectic manifold $X$ admitting a pseudo-holomorphic line through two generic points, formulated as the non-vanishing of a genus zero Gromov--Witten invariant, is (rationally) homotopy equivalent to $\\mathbb{CP}^n$, with identical first Chern class and quantum cohomology. Together with generalizations of this result to pseudo-holomorphic lines with tangency constraints, they provide a new mechanism for establishing the topological uniqueness of Liouville fillings of certain contact manifolds. We obtain filling rigidity for the ideal boundary of a class of affine varieties that admit $\\mathbb{CP}^n$ as a compactification; notable examples include the ideal boundary of the complement of any hyperplane arrangement and $ST^*\\mathbb{RP}^n$ for $n\\ge 3$. The proofs are based on Rabinowitz Floer homology and its variants.",
+  "title": "Symplectic $\\mathbb{CP}^n$ recognition and filling rigidity via Rabinowitz Floer homology"
  }
 }

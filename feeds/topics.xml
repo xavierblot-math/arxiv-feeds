@@ -4,7 +4,15 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 18 Nov 2026 23:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:19:01 +0000</lastBuildDate>
+    <item>
+      <title>Commuting integrals of motion for free bosonic CFTs revisited: certified densities, spectral rigidity, and an exact identification at the c=1 branch point</title>
+      <link>https://arxiv.org/abs/2611.23237</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.23237</guid>
+      <pubDate>Thu, 19 Nov 2026 15:18:36 +0000</pubDate>
+      <author>Evgueniy Vitchev</author>
+      <description>&lt;p&gt;&lt;b&gt;Evgueniy Vitchev&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: quantum KdV · hep-th, math-ph, math.MP, math.QA, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We revisit the commuting local integrals of motion for free bosonic CFTs constructed in hep-th/0404195 as input data for integrable boundary states, using exact-arithmetic operator-product engines. A bootstrap lemma reduces its overdetermined bilinear commutativity systems to a distinguished odd charge D plus linear kernel problems -- conditionally on even-spin vacancy, a machine-verified but finite-range input. For the Z_2 x Z_2 &amp;quot;paperclip&amp;quot; family we publish the spin-7 density P_8, prove [I_3,I_5]=[I_3,I_7]=[I_5,I_7]=0 identically in n, and verify the Lukyanov-Vitchev-Zamolodchikov four-screening characterization at spins 7 and 9 at sampled n. For the A_2^(2) family we give an exact Coulomb-gas dictionary to the dual Phi_{1,2}/Phi_{2,1} perturbations (that identification itself being classical, Zamolodchikov; Smirnov), whence the infinite hierarchy at all spins 6n+-1 follows by the Feigin-Frenkel affine-Toda theorem; our contribution is the certified dictionary, not a new all-spin construction. At c=1 the tower&amp;#x27;s defining charges are exactly quantum KdV at c_{1,4}=-25/2 -- the all-odd sector of the Freeman-Hornfeck-West family: the hierarchy embeds at every odd spin, equality verified through spin 15, all-spin multiplicity one open. We exclude or disfavor the named non-KdV candidates at the tested loci and identify the self-dual degeneracy as L(1,0). Through spin 11, the generic centralizer of I_3 is, for all three Z_2 x O(N) &amp;quot;cylindrical&amp;quot; families, one-dimensional at odd and zero at even spins, with Q(t)-symbolic charges at spins 7, 9, 11 and an explained fiber jump at N=-2. We certify the published 2004 low-spin formulas and record five corrections (one presumed). All-spin statements are made only where proved, finite-range otherwise. We close with a corank-character conjecture linking the rank deficiencies of the bilinear systems to characters of screening kernels.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.23237"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Obstructions to Hadamard Deformations of Fourier Matrices</title>
       <link>https://arxiv.org/abs/2611.21871</link>
