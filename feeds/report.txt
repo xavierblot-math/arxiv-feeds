@@ -1,14 +1,9 @@
-Last run: 2026-11-19 15:18 UTC
+Last run: 2026-11-20 00:20 UTC
 Announcements downloaded: 236 (0 category feeds failed)
-New papers stored this run: 3
+New papers stored this run: 0
 
 ag             |   40 items |   0 new this run
 amplituhedron  |    3 items |   0 new this run
 broad          |   77 items |   3 new this run
 mathphys       |   28 items |   0 new this run
 topics         |  129 items |   1 new this run
-
-Matched this run:
-  Gromov-Witten                            | Convergence of the big J-function of a GKM manifold
-  KdV, quantum KdV                         | Commuting integrals of motion for free bosonic CFTs revisited: certifi
-  Gromov-Witten                            | Symplectic $\mathbb{CP}^n$ recognition and filling rigidity via Rabino
