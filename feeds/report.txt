@@ -1,15 +1,9 @@
-Last run: 2026-11-20 14:56 UTC
+Last run: 2026-11-20 23:42 UTC
 Announcements downloaded: 237 (0 category feeds failed)
-New papers stored this run: 4
+New papers stored this run: 0
 
 ag             |   41 items |   1 new this run
 amplituhedron  |    3 items |   0 new this run
 broad          |   78 items |   1 new this run
 mathphys       |   28 items |   0 new this run
 topics         |  131 items |   2 new this run
-
-Matched this run:
-  Sam Payne                                | A Hopf algebra action on the cohomology of moduli of abelian varieties
-  r-spin                                   | Supersymmetric Hilbert complexes and Witten deformation on stratified 
-  KdV, Korteweg-de Vries, tau function     | Elliptic analogues of KP and BKP hierarchies and their tau functions
-  r-spin                                   | Equilibrium relativistic spin magnetohydrodynamics from chiral kinetic
