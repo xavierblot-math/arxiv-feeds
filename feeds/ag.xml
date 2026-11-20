@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:56:57 +0000</lastBuildDate>
+    <item>
+      <title>A Hopf algebra action on the cohomology of moduli of abelian varieties</title>
+      <link>https://arxiv.org/abs/2611.25187</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.25187</guid>
+      <pubDate>Fri, 20 Nov 2026 14:56:32 +0000</pubDate>
+      <author>Urshita Pal, Sam Payne</author>
+      <description>&lt;p&gt;&lt;b&gt;Urshita Pal, Sam Payne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Sam Payne · math.AG, math.AT, math.KT, math.NT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We show that the rational compactly supported cohomology of the moduli space $\mathcal{A} = \bigsqcup_{g \geq 0} \mathcal{A}_g$ of principally polarized abelian varieties is free as a bigraded module over the Hopf algebra formed by its weight-zero subspace. The action arises from a symplectic analog of the Waldhausen $S$-construction. This structure yields new lower bounds for Betti numbers and the dimensions of the graded pieces of the weight filtration on the cohomology of $\mathcal{A}_g$. In particular, $\dim H_c^{2g + k}(\mathcal{A}_g)$ grows at least exponentially with $g$ for every nonnegative $k \neq 1, 3$. We also give conjectural descriptions of the full mixed Hodge structures in genera four and five, and of mixed Tate subquotients of $H_c^{2g}(\mathcal{A}_g)$ associated with shuffle algebras and multiple zeta values in every genus.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.25187"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>P\'olya inequalities on thin planar networks</title>
       <link>https://arxiv.org/abs/2611.19186</link>

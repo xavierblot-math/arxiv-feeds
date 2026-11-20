@@ -6016,5 +6016,114 @@
   "seen": "2026-11-19T15:18:36.132078+00:00",
   "summary": "We prove that a symplectic manifold $X$ admitting a pseudo-holomorphic line through two generic points, formulated as the non-vanishing of a genus zero Gromov--Witten invariant, is (rationally) homotopy equivalent to $\\mathbb{CP}^n$, with identical first Chern class and quantum cohomology. Together with generalizations of this result to pseudo-holomorphic lines with tangency constraints, they provide a new mechanism for establishing the topological uniqueness of Liouville fillings of certain contact manifolds. We obtain filling rigidity for the ideal boundary of a class of affine varieties that admit $\\mathbb{CP}^n$ as a compactification; notable examples include the ideal boundary of the complement of any hyperplane arrangement and $ST^*\\mathbb{RP}^n$ for $n\\ge 3$. The proofs are based on Rabinowitz Floer homology and its variants.",
   "title": "Symplectic $\\mathbb{CP}^n$ recognition and filling rigidity via Rabinowitz Floer homology"
+ },
+ "2611.25187": {
+  "announce": "new",
+  "authors": [
+   "Urshita Pal",
+   "Sam Payne"
+  ],
+  "cats": [
+   "math.AG",
+   "math.AT",
+   "math.KT",
+   "math.NT"
+  ],
+  "feeds": {
+   "ag": [
+    "Sam Payne"
+   ]
+  },
+  "id": "2611.25187",
+  "link": "https://arxiv.org/abs/2611.25187",
+  "matched": [
+   "Sam Payne"
+  ],
+  "seen": "2026-11-20T14:56:32.547483+00:00",
+  "summary": "We show that the rational compactly supported cohomology of the moduli space $\\mathcal{A} = \\bigsqcup_{g \\geq 0} \\mathcal{A}_g$ of principally polarized abelian varieties is free as a bigraded module over the Hopf algebra formed by its weight-zero subspace. The action arises from a symplectic analog of the Waldhausen $S$-construction. This structure yields new lower bounds for Betti numbers and the dimensions of the graded pieces of the weight filtration on the cohomology of $\\mathcal{A}_g$. In particular, $\\dim H_c^{2g + k}(\\mathcal{A}_g)$ grows at least exponentially with $g$ for every nonnegative $k \\neq 1, 3$. We also give conjectural descriptions of the full mixed Hodge structures in genera four and five, and of mixed Tate subquotients of $H_c^{2g}(\\mathcal{A}_g)$ associated with shuffle algebras and multiple zeta values in every genus.",
+  "title": "A Hopf algebra action on the cohomology of moduli of abelian varieties"
+ },
+ "2611.25737": {
+  "announce": "new",
+  "authors": [
+   "Gayana Jayasinghe",
+   "Manousos Maridakis",
+   "Hadrian Quan",
+   "Alex R. Taylor",
+   "Xinran Yu"
+  ],
+  "cats": [
+   "math.DG",
+   "math-ph",
+   "math.MP",
+   "math.SP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.25737",
+  "link": "https://arxiv.org/abs/2611.25737",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-20T14:56:32.547483+00:00",
+  "summary": "We present a framework to study topics related to index theory and Dirac operators with N=1,2 supersymmetry (SUSY), extending it to stratified pseudomanifolds with wedge metrics (iterated conic metrics). We use this to construct Witten deformed subcomplexes of SUSY Hilbert complexes that categorify Morse polynomials and equivariant index formulae for a large class of operators. This allows us to prove equivariant index theorems for spin-c Dirac operators with Hamiltonian actions, and Holomorphic Morse inequalities in the K\\\"ahler case, in particular proving a new type of equivariant Riemann-Roch (ERR) theorem on singular spaces. We also improve on stratified Morse-Bott inequalities in the de Rham case, and review other applications including for the Kervaire semi-characteristic and the equivariant signature. We compute local cohomology groups for the Dolbeault complexes at both smooth and singular non-isolated fixed point sets which categorify the ERR numbers. In an Appendix joint with Alex R. Taylor, we give a broad overview of the relevance of SUSY to index theory on manifolds with boundaries and singularities, mainly focusing on the new insights and results related to N=2 SUSY that the authors have uncovered recently.",
+  "title": "Supersymmetric Hilbert complexes and Witten deformation on stratified pseudomanifolds"
+ },
+ "2611.26087": {
+  "announce": "new",
+  "authors": [
+   "Gopal Mistry",
+   "Amaresh Jaiswal"
+  ],
+  "cats": [
+   "hep-th",
+   "hep-ph",
+   "nucl-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.26087",
+  "link": "https://arxiv.org/abs/2611.26087",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-20T14:56:32.547483+00:00",
+  "summary": "We develop a microscopic and thermodynamically consistent framework for relativistic equilibrium spin magnetohydrodynamics of massless chiral fermions, directly from first-order chiral kinetic theory. Starting from the covariant Wigner function, we recast the chiral kinetic equation as a pure streaming equation on a magnetically shifted mass shell, incorporating both the magnetic-moment energy and the Berry-curvature phase-space measure. This formulation yields a kinetic $H$-theorem and an entropy current with vanishing divergence in global equilibrium. We construct the equilibrium distribution for an arbitrary spin frame and derive the associated currents, energy--momentum tensor, spin tensor, entropy current, and frame-independent spin polarization, including the magnetic splitting between particles and antiparticles. Thermodynamic consistency further determines the second-order magnetovortical responses, revealing a relativistic Barnett magnetization, a temperature- and chemical-potential-independent anomalous charge density, and rotation-induced density corrections that reproduce exact field-theory results. Our framework provides a unified microscopic foundation for relativistic equilibrium spin magnetohydrodynamics and establishes a direct link between quantum kinetic theory, spin polarization, magnetization, and anomalous transport.",
+  "title": "Equilibrium relativistic spin magnetohydrodynamics from chiral kinetic theory"
+ },
+ "2611.26354": {
+  "announce": "new",
+  "authors": [
+   "Changyan Shi",
+   "Bao-Feng Feng"
+  ],
+  "cats": [
+   "nlin.SI",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries",
+    "tau function"
+   ]
+  },
+  "id": "2611.26354",
+  "link": "https://arxiv.org/abs/2611.26354",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries",
+   "tau function"
+  ],
+  "seen": "2026-11-20T14:56:32.547483+00:00",
+  "summary": "We develop a tau-function framework for soliton solutions on elliptic backgrounds associated with the Kadomtsev--Petviashvili (KP) hierarchy and its B-type counterpart (BKP). Starting from discrete KP (dKP) and discrete BKP (dBKP) equations of elliptic type, we construct Casorati and Gram determinant tau functions for the elliptic dKP through Darboux and binary Darboux transformations, and elliptic Pfaffian tau functions for dBKP through the Moutard transformation. Moreover, the higher-order discrete KP and BKP hierarchies together with their tau functions are constructed via Pfaffian identities. Then, through Miwa transformations, the continuous elliptic KP, modified KP, and BKP hierarchies and their tau functions are provided. Suitable constraints on spectral parameters or wave numbers yield reductions to the Korteweg--de Vries (KdV), focusing and defocusing modified Korteweg--de Vries (mKdV), and Sawada--Kotera (SK) equations, together with their solutions on elliptic backgrounds. We also construct KP line-soliton solutions and obtain lump solutions for the KP-I equation. For selected determinant families, we establish sufficient conditions for real-valuedness and global nonsingularity. The resulting framework provides a common approach to elliptic tau functions, their discrete and continuous bilinear identities, and the construction of solutions through reductions.",
+  "title": "Elliptic analogues of KP and BKP hierarchies and their tau functions"
  }
 }

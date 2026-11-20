@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:56:57 +0000</lastBuildDate>
+    <item>
+      <title>Supersymmetric Hilbert complexes and Witten deformation on stratified pseudomanifolds</title>
+      <link>https://arxiv.org/abs/2611.25737</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.25737</guid>
+      <pubDate>Fri, 20 Nov 2026 14:56:32 +0000</pubDate>
+      <author>Gayana Jayasinghe, Manousos Maridakis, Hadrian Quan, Alex R. Taylor, Xinran Yu</author>
+      <description>&lt;p&gt;&lt;b&gt;Gayana Jayasinghe, Manousos Maridakis, Hadrian Quan, Alex R. Taylor, Xinran Yu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.DG, math-ph, math.MP, math.SP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We present a framework to study topics related to index theory and Dirac operators with N=1,2 supersymmetry (SUSY), extending it to stratified pseudomanifolds with wedge metrics (iterated conic metrics). We use this to construct Witten deformed subcomplexes of SUSY Hilbert complexes that categorify Morse polynomials and equivariant index formulae for a large class of operators. This allows us to prove equivariant index theorems for spin-c Dirac operators with Hamiltonian actions, and Holomorphic Morse inequalities in the K\&amp;quot;ahler case, in particular proving a new type of equivariant Riemann-Roch (ERR) theorem on singular spaces. We also improve on stratified Morse-Bott inequalities in the de Rham case, and review other applications including for the Kervaire semi-characteristic and the equivariant signature. We compute local cohomology groups for the Dolbeault complexes at both smooth and singular non-isolated fixed point sets which categorify the ERR numbers. In an Appendix joint with Alex R. Taylor, we give a broad overview of the relevance of SUSY to index theory on manifolds with boundaries and singularities, mainly focusing on the new insights and results related to N=2 SUSY that the authors have uncovered recently.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.25737"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equilibrium relativistic spin magnetohydrodynamics from chiral kinetic theory</title>
+      <link>https://arxiv.org/abs/2611.26087</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26087</guid>
+      <pubDate>Fri, 20 Nov 2026 14:56:32 +0000</pubDate>
+      <author>Gopal Mistry, Amaresh Jaiswal</author>
+      <description>&lt;p&gt;&lt;b&gt;Gopal Mistry, Amaresh Jaiswal&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, hep-ph, nucl-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a microscopic and thermodynamically consistent framework for relativistic equilibrium spin magnetohydrodynamics of massless chiral fermions, directly from first-order chiral kinetic theory. Starting from the covariant Wigner function, we recast the chiral kinetic equation as a pure streaming equation on a magnetically shifted mass shell, incorporating both the magnetic-moment energy and the Berry-curvature phase-space measure. This formulation yields a kinetic $H$-theorem and an entropy current with vanishing divergence in global equilibrium. We construct the equilibrium distribution for an arbitrary spin frame and derive the associated currents, energy--momentum tensor, spin tensor, entropy current, and frame-independent spin polarization, including the magnetic splitting between particles and antiparticles. Thermodynamic consistency further determines the second-order magnetovortical responses, revealing a relativistic Barnett magnetization, a temperature- and chemical-potential-independent anomalous charge density, and rotation-induced density corrections that reproduce exact field-theory results. Our framework provides a unified microscopic foundation for relativistic equilibrium spin magnetohydrodynamics and establishes a direct link between quantum kinetic theory, spin polarization, magnetization, and anomalous transport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.26087"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Commuting integrals of motion for free bosonic CFTs revisited: certified densities, spectral rigidity, and an exact identification at the c=1 branch point</title>
       <link>https://arxiv.org/abs/2611.23237</link>

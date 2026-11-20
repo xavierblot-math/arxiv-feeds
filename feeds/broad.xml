@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:56:57 +0000</lastBuildDate>
+    <item>
+      <title>Elliptic analogues of KP and BKP hierarchies and their tau functions</title>
+      <link>https://arxiv.org/abs/2611.26354</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26354</guid>
+      <pubDate>Fri, 20 Nov 2026 14:56:32 +0000</pubDate>
+      <author>Changyan Shi, Bao-Feng Feng</author>
+      <description>&lt;p&gt;&lt;b&gt;Changyan Shi, Bao-Feng Feng&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries, tau function · nlin.SI, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We develop a tau-function framework for soliton solutions on elliptic backgrounds associated with the Kadomtsev--Petviashvili (KP) hierarchy and its B-type counterpart (BKP). Starting from discrete KP (dKP) and discrete BKP (dBKP) equations of elliptic type, we construct Casorati and Gram determinant tau functions for the elliptic dKP through Darboux and binary Darboux transformations, and elliptic Pfaffian tau functions for dBKP through the Moutard transformation. Moreover, the higher-order discrete KP and BKP hierarchies together with their tau functions are constructed via Pfaffian identities. Then, through Miwa transformations, the continuous elliptic KP, modified KP, and BKP hierarchies and their tau functions are provided. Suitable constraints on spectral parameters or wave numbers yield reductions to the Korteweg--de Vries (KdV), focusing and defocusing modified Korteweg--de Vries (mKdV), and Sawada--Kotera (SK) equations, together with their solutions on elliptic backgrounds. We also construct KP line-soliton solutions and obtain lump solutions for the KP-I equation. For selected determinant families, we establish sufficient conditions for real-valuedness and global nonsingularity. The resulting framework provides a common approach to elliptic tau functions, their discrete and continuous bilinear identities, and the construction of solutions through reductions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.26354"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Commuting integrals of motion for free bosonic CFTs revisited: certified densities, spectral rigidity, and an exact identification at the c=1 branch point</title>
       <link>https://arxiv.org/abs/2611.23237</link>
