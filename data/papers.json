@@ -6125,5 +6125,81 @@
   "seen": "2026-11-20T14:56:32.547483+00:00",
   "summary": "We develop a tau-function framework for soliton solutions on elliptic backgrounds associated with the Kadomtsev--Petviashvili (KP) hierarchy and its B-type counterpart (BKP). Starting from discrete KP (dKP) and discrete BKP (dBKP) equations of elliptic type, we construct Casorati and Gram determinant tau functions for the elliptic dKP through Darboux and binary Darboux transformations, and elliptic Pfaffian tau functions for dBKP through the Moutard transformation. Moreover, the higher-order discrete KP and BKP hierarchies together with their tau functions are constructed via Pfaffian identities. Then, through Miwa transformations, the continuous elliptic KP, modified KP, and BKP hierarchies and their tau functions are provided. Suitable constraints on spectral parameters or wave numbers yield reductions to the Korteweg--de Vries (KdV), focusing and defocusing modified Korteweg--de Vries (mKdV), and Sawada--Kotera (SK) equations, together with their solutions on elliptic backgrounds. We also construct KP line-soliton solutions and obtain lump solutions for the KP-I equation. For selected determinant families, we establish sufficient conditions for real-valuedness and global nonsingularity. The resulting framework provides a common approach to elliptic tau functions, their discrete and continuous bilinear identities, and the construction of solutions through reductions.",
   "title": "Elliptic analogues of KP and BKP hierarchies and their tau functions"
+ },
+ "2611.27295": {
+  "announce": "cross",
+  "authors": [
+   "Tianchun Zhou"
+  ],
+  "cats": [
+   "quant-ph",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.27295",
+  "link": "https://arxiv.org/abs/2611.27295",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-23T17:28:49.719162+00:00",
+  "summary": "Quite comprehensive iterative algorithms based on consecutive supersymmetric quantum mechanics (SUSYQM) have been constructed heuristically, for resolving the eigenspectra of the Legendre operator and its associates parametrized in various coordinates, \\emph{without receiving any input from traditional analytical methods}. On building these algorithms, the two symmetries \\text{--} supersymmetry and shape invariance symmetry \\text{--} hidden in these operators are brought to the fore as the only two governing principles, with the aids of the newly devised algebraic techniques such as the \\emph{active supersymmetrization transformations}, \\emph{momentum operator maps} as well as plain and \\emph{higher-order spin matrix maps}. In view of their algebraic simplicity and elegance, high efficiency, as well as independence of traditional methods, some of these algorithms become the promising candidates to supplant the popular power series approach to the eigenspectra of Legendre-type operators.",
+  "title": "Consecutive Supersymmetric Quantum Mechanical Algorithms for Resolving the Spectra of Legendre-type Differential Operators"
+ },
+ "2611.27378": {
+  "announce": "cross",
+  "authors": [
+   "Yoshiki Fukusumi",
+   "Yuma Furuta"
+  ],
+  "cats": [
+   "hep-th",
+   "cond-mat.str-el",
+   "math-ph",
+   "math.MP",
+   "math.QA"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.27378",
+  "link": "https://arxiv.org/abs/2611.27378",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-23T17:28:49.719162+00:00",
+  "summary": "We study the relationship between the pair creation mechanism in physics and the pairing ($\\boxtimes_{\\mathbf{A}_{\\text{ub}}}$) in mathematics, focusing on the modular and algebraic properties. We provide a way to couple two topologically ordered systems, $\\mathbf{A}$ and $\\mathbf{A'}$ sharing the common (non-group-like) structure $\\mathbf{A}_{\\text{ub}}=\\overline{\\mathbf{A'}_{\\text{ub}}}$, through the nonabelian anyon analog of the pair creation mechanism denoted as $\\mathbf{A}_{\\text{ub},\\boxtimes}=\\mathbf{A}_{\\text{ub}}\\boxtimes \\mathbf{A'}_{\\text{ub}}$. We identify $\\mathbf{A}_{\\text{ub},\\boxtimes}$ as the generalized version of electron operators in general topological orders or hidden current with (half-)integer spin involving the conformal embeddings. We provide a way to construct $\\mathbf{A}_{\\text{ub},\\boxtimes}$ as the hidden topological operator and identify $\\mathbf{A}\\boxtimes_{\\mathbf{A}_{\\text{ub}}}\\mathbf{A'}$, a general class of topoloical orders, as the $\\mathbf{A}_{\\text{ub},\\boxtimes}$-extended symmetry topological field theory. We also conjecture a series of underlying (unexplored) modular invariants, connecting the conformal embedding and the pairing.",
+  "title": "Pairing and modular: Generalized electrons and quasiholes inside the $\\boxtimes$ of topological orders"
+ },
+ "2611.27982": {
+  "announce": "cross",
+  "authors": [
+   "Debarghya Chakraborty",
+   "Dario Rosa"
+  ],
+  "cats": [
+   "cond-mat.str-el",
+   "hep-th",
+   "quant-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.27982",
+  "link": "https://arxiv.org/abs/2611.27982",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-23T17:28:49.719162+00:00",
+  "summary": "We present a general construction of approximate many-body scar states in two copies of a system using a bilocal size interaction that couples one site to its partner on the other copy. For an uncoupled two-sided Hamiltonian whose terms have fixed size in an operator basis, we identify polynomially many Krylov basis states that it annihilates and that, in the thermodynamic limit, become concentrated on a single size sector. The size operator splits them into a tower of equally spaced levels that gives rise to coherent revivals characterized by collective oscillations of energy across the two copies. We provide a concrete realization of this construction in two copies of a general $q$-body nearest-neighbor spin chain, and the SYK model.",
+  "title": "Quantum Many-Body Scars from Operator Size"
  }
 }

@@ -4,7 +4,31 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Sun, 22 Nov 2026 23:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:29:14 +0000</lastBuildDate>
+    <item>
+      <title>Consecutive Supersymmetric Quantum Mechanical Algorithms for Resolving the Spectra of Legendre-type Differential Operators</title>
+      <link>https://arxiv.org/abs/2611.27295</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.27295</guid>
+      <pubDate>Mon, 23 Nov 2026 17:28:49 +0000</pubDate>
+      <author>Tianchun Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Tianchun Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · quant-ph, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Quite comprehensive iterative algorithms based on consecutive supersymmetric quantum mechanics (SUSYQM) have been constructed heuristically, for resolving the eigenspectra of the Legendre operator and its associates parametrized in various coordinates, \emph{without receiving any input from traditional analytical methods}. On building these algorithms, the two symmetries \text{--} supersymmetry and shape invariance symmetry \text{--} hidden in these operators are brought to the fore as the only two governing principles, with the aids of the newly devised algebraic techniques such as the \emph{active supersymmetrization transformations}, \emph{momentum operator maps} as well as plain and \emph{higher-order spin matrix maps}. In view of their algebraic simplicity and elegance, high efficiency, as well as independence of traditional methods, some of these algorithms become the promising candidates to supplant the popular power series approach to the eigenspectra of Legendre-type operators.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.27295"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pairing and modular: Generalized electrons and quasiholes inside the $\boxtimes$ of topological orders</title>
+      <link>https://arxiv.org/abs/2611.27378</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.27378</guid>
+      <pubDate>Mon, 23 Nov 2026 17:28:49 +0000</pubDate>
+      <author>Yoshiki Fukusumi, Yuma Furuta</author>
+      <description>&lt;p&gt;&lt;b&gt;Yoshiki Fukusumi, Yuma Furuta&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, cond-mat.str-el, math-ph, math.MP, math.QA · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We study the relationship between the pair creation mechanism in physics and the pairing ($\boxtimes_{\mathbf{A}_{\text{ub}}}$) in mathematics, focusing on the modular and algebraic properties. We provide a way to couple two topologically ordered systems, $\mathbf{A}$ and $\mathbf{A&amp;#x27;}$ sharing the common (non-group-like) structure $\mathbf{A}_{\text{ub}}=\overline{\mathbf{A&amp;#x27;}_{\text{ub}}}$, through the nonabelian anyon analog of the pair creation mechanism denoted as $\mathbf{A}_{\text{ub},\boxtimes}=\mathbf{A}_{\text{ub}}\boxtimes \mathbf{A&amp;#x27;}_{\text{ub}}$. We identify $\mathbf{A}_{\text{ub},\boxtimes}$ as the generalized version of electron operators in general topological orders or hidden current with (half-)integer spin involving the conformal embeddings. We provide a way to construct $\mathbf{A}_{\text{ub},\boxtimes}$ as the hidden topological operator and identify $\mathbf{A}\boxtimes_{\mathbf{A}_{\text{ub}}}\mathbf{A&amp;#x27;}$, a general class of topoloical orders, as the $\mathbf{A}_{\text{ub},\boxtimes}$-extended symmetry topological field theory. We also conjecture a series of underlying (unexplored) modular invariants, connecting the conformal embedding and the pairing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.27378"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum Many-Body Scars from Operator Size</title>
+      <link>https://arxiv.org/abs/2611.27982</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.27982</guid>
+      <pubDate>Mon, 23 Nov 2026 17:28:49 +0000</pubDate>
+      <author>Debarghya Chakraborty, Dario Rosa</author>
+      <description>&lt;p&gt;&lt;b&gt;Debarghya Chakraborty, Dario Rosa&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · cond-mat.str-el, hep-th, quant-ph · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We present a general construction of approximate many-body scar states in two copies of a system using a bilocal size interaction that couples one site to its partner on the other copy. For an uncoupled two-sided Hamiltonian whose terms have fixed size in an operator basis, we identify polynomially many Krylov basis states that it annihilates and that, in the thermodynamic limit, become concentrated on a single size sector. The size operator splits them into a tower of equally spaced levels that gives rise to coherent revivals characterized by collective oscillations of energy across the two copies. We provide a concrete realization of this construction in two copies of a general $q$-body nearest-neighbor spin chain, and the SYK model.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.27982"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Supersymmetric Hilbert complexes and Witten deformation on stratified pseudomanifolds</title>
       <link>https://arxiv.org/abs/2611.25737</link>
