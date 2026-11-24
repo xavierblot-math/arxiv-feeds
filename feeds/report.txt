@@ -1,9 +1,19 @@
-Last run: 2026-11-24 03:50 UTC
-Announcements downloaded: 189 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-24 17:00 UTC
+Announcements downloaded: 422 (0 category feeds failed)
+New papers stored this run: 8
 
-ag             |   41 items |   0 new this run
+ag             |   43 items |   2 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   78 items |   0 new this run
-mathphys       |   28 items |   0 new this run
-topics         |  134 items |   3 new this run
+broad          |   82 items |   4 new this run
+mathphys       |   29 items |   1 new this run
+topics         |  137 items |   3 new this run
+
+Matched this run:
+  Gromov-Witten, Longting Wu, Shuai Guo    | Virasoro operators for relative Gromov--Witten theory
+  Frobenius manifold, Paolo Lorenzoni      | Superpotentials for F-manifolds and bi-flat F-structures on the orbit 
+  tau function                             | Darboux transformation for the ASDYM equations: Solitons and instanton
+  r-spin                                   | Tensionless M5-brane in light-cone gauge. The spinor moving frame meth
+  tau function                             | Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I
+  r-spin                                   | Imprints of perfect fluid dark matter distributions and topological de
+  Gromov-Witten                            | Equivariant Localization for $K(n)$-Local Gromov-Witten Invariants wit
+  Kefeng Liu                               | Families of regular non-Berwald Landsberg surfaces

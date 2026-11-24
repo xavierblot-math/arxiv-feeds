@@ -6201,5 +6201,208 @@
   "seen": "2026-11-23T17:28:49.719162+00:00",
   "summary": "We present a general construction of approximate many-body scar states in two copies of a system using a bilocal size interaction that couples one site to its partner on the other copy. For an uncoupled two-sided Hamiltonian whose terms have fixed size in an operator basis, we identify polynomially many Krylov basis states that it annihilates and that, in the thermodynamic limit, become concentrated on a single size sector. The size operator splits them into a tower of equally spaced levels that gives rise to coherent revivals characterized by collective oscillations of energy across the two copies. We provide a concrete realization of this construction in two copies of a general $q$-body nearest-neighbor spin chain, and the SYK model.",
   "title": "Quantum Many-Body Scars from Operator Size"
+ },
+ "2611.28143": {
+  "announce": "cross",
+  "authors": [
+   "Faizuddin Ahmed",
+   "Ahmad Al-Badawi",
+   "\\.{I}zzet Sakall{\\i}"
+  ],
+  "cats": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.28143",
+  "link": "https://arxiv.org/abs/2611.28143",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "We construct a static, spherically symmetric \\BI{} \\AdS{} \\BH{} that carries a topological defect, either a \\GM{} or a \\CS{}, and is immersed in \\PFDM{}. The metric function collects four independent deformations of the Schwarzschild geometry: a constant solid-angle deficit $(1-\\xi)$ from the defect, the nonlinear charge sector controlled by the \\BI{} scale $\\beta$, the logarithmic \\PFDM{} term set by the intensity $\\lambda$, and the \\AdS{} curvature $\\Lambda$. We verify that the solution reduces to the charged \\AdS{}--\\PFDM{} defect geometry as $\\beta \\to \\infty$ and to Schwarzschild when all deformations switch off. The horizon, photon sphere, and shadow all grow monotonically with the defect strength $\\xi$. We compute the innermost stable circular orbit and the epicyclic frequencies, read off the relativistic-precession predictions for twin-peak quasi-periodic oscillations, and confront them with five accreting sources through a Markov chain Monte Carlo fit. For spin-0 perturbations we obtain the scalar potential, the higher-order WKB \\QNM{} spectrum, and the \\GBF{}, all of which soften as $\\xi$ rises. The extended phase space analysis yields a \\VdW{}-type $P$--$V$ structure whose critical point shifts with the defect, the \\BI{} scale, and the halo intensity. Throughout, the four sectors leave distinct imprints on imaging, timing, ringdown, and thermal channels, {\\color{black} which we read as parameter sensitivities rather than as an observational separation of the four, a distinction a joint multichannel fit would be needed to settle}.",
+  "title": "Imprints of perfect fluid dark matter distributions and topological defects on Born--Infeld AdS black hole signatures"
+ },
+ "2611.29736": {
+  "announce": "new",
+  "authors": [
+   "Alessandro Arsie",
+   "Paolo Lorenzoni"
+  ],
+  "cats": [
+   "math.DG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "mathphys": [
+    "Paolo Lorenzoni"
+   ],
+   "topics": [
+    "Frobenius manifold"
+   ]
+  },
+  "id": "2611.29736",
+  "link": "https://arxiv.org/abs/2611.29736",
+  "matched": [
+   "Frobenius manifold",
+   "Paolo Lorenzoni"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "We extend Dubrovin's construction of a superpotential from Frobenius manifolds to biflat F-manifolds. The key step in this extension is choosing a flat coordinate of one of the connections studied in [11] and invert this coordinate with respect to the spectral parameter and the construction does not require an invariant metric. Suppose that the manifold has dimension n and that the superpotential admits a holomorphic continuation to n simple critical points with distinct critical values. These values give canonical coordinates, and the residue formulas recover both the product and the flat connection from the superpotential alone. Conversely, under suitable nondegeneracy conditions, a solution of the superpotential equations for a given product defines a biflat F-manifold. For $B_n$ and $G(m,1,n)$ we obtain the whole family of biflat structures from a polynomial superpotential by varying a twisted primary differential. For $G(m,m,n)$ we obtain the natural biflat structure from a Laurent superpotential. Keeping the Laurent polynomial fixed and varying the primary differential gives a new family of flat F-manifolds depending on one parameter. We use the superpotential and the poles of the dual product along the reflecting hyperplanes to prove the conjecture we formulated in [8] for irreducible Coxeter groups and in [10] for well generated complex reflection groups. The conjecture concerns biflat F-structures whose dual connection has the form studied by Dunkl and Kohno. When the reflecting hyperplanes form a single orbit, we identify the biflat structure associated with the flat structure of [24,25,27]. We obtain the remaining families from the polynomial construction for $G(m,1,n)$ and an explicit computation for $F_4$. In every case the first flat structure extends polynomially to the whole quotient, and the biflat structure is defined on the complement of the reflection discriminant.",
+  "title": "Superpotentials for F-manifolds and bi-flat F-structures on the orbit spaces of reflection groups"
+ },
+ "2611.30212": {
+  "announce": "new",
+  "authors": [
+   "Ming Li",
+   "Kefeng Liu"
+  ],
+  "cats": [
+   "math.DG"
+  ],
+  "feeds": {
+   "ag": [
+    "Kefeng Liu"
+   ]
+  },
+  "id": "2611.30212",
+  "link": "https://arxiv.org/abs/2611.30212",
+  "matched": [
+   "Kefeng Liu"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "We construct families of smooth, strongly convex, non-Berwald Landsberg metrics of zero flag curvature on open subsets of the plane. Each metric is regular in every nonzero tangent direction and is nonreversible. The indicatrices are obtained from the inverse differential of a periodically forced oscillator. The construction is indexed by smooth balanced periodic seeds satisfying a simple characteristic condition at a nonzero initial value. It includes single-frequency seeds of every even frequency at least four, mixtures of interacting frequencies, and seed neighborhoods of arbitrarily large finite dimension within the balanced class. A normalized profile of the canonical Cartan invariant distinguishes fixed seed orbits at sufficiently small amplitudes. In particular, the construction yields countably infinitely many pairwise locally nonhomothetic metrics. The analytic problem is to make the actual return map equal to the identity on an open set of nonzero initial values. We show that exact return on a fixed open set forces three balance equations on the seed. Under a positive drift condition a finite formal approximation gives an arbitrarily high prescribed power of a small amplitude in the return error. We normalize the complete two-branch linearized operator and reduce its scalar part to a real transport direction. A local inverse, followed by an exact correction of the full vector remainder, yields estimates with a fixed loss of derivatives. A smoothing iteration then eliminates the actual return error on a fixed open set of positive radius while retaining the seed as the leading nonlinearity.",
+  "title": "Families of regular non-Berwald Landsberg surfaces"
+ },
+ "2611.30433": {
+  "announce": "cross",
+  "authors": [
+   "Shangshuai Li"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.30433",
+  "link": "https://arxiv.org/abs/2611.30433",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "Using a one-fold Darboux transformation for the anti-self-dual Yang--Mills equations, we express the Yang--Mills Lagrangian density in terms of $\\tau$-functions. For solitons constructed from exponential functions, we show that the associated $\\tau$-functions admit a parametrization by arbitrary points in the Grassmannian Gr(N,M;$\\mathbb{C}$), and construct the corresponding Yang--Mills fields. For instantons arising from the Atiyah--Drinfeld--Hitchin--Manin (ADHM) construction, we reinterpret the ADHM construction in terms of a one-fold Darboux transformation, recover Osborn's formula for the Yang--Mills Lagrangian density, and obtain the corresponding gauge connection.",
+  "title": "Darboux transformation for the ASDYM equations: Solitons and instantons"
+ },
+ "2611.30566": {
+  "announce": "cross",
+  "authors": [
+   "Shuai Guo",
+   "Longting Wu",
+   "Lei You"
+  ],
+  "cats": [
+   "math.AG",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "ag": [
+    "Longting Wu",
+    "Shuai Guo"
+   ],
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.30566",
+  "link": "https://arxiv.org/abs/2611.30566",
+  "matched": [
+   "Gromov-Witten",
+   "Longting Wu",
+   "Shuai Guo"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "Let $D$ be a smooth divisor in a smooth projective variety $X$. We construct relative Virasoro operators acting on the relative descendant potential of $(X,D)$. Each operator is the logarithmic Virasoro operator of $(X,D)$ plus a boundary correction determined only by $D$ and its normal bundle in $X$. Assuming the Virasoro conjecture for $D$, we prove that the relative constraints are equivalent to the absolute constraints for $X$. Under the same assumption, we establish compatibility with the degeneration formula for two-component projective semistable degenerations satisfying a completeness condition. Consequently, the Virasoro conjecture for the two components and the gluing divisor implies the conjecture for the general fiber. As an application, we prove the Virasoro conjecture for Enriques surfaces in every integral curve class.",
+  "title": "Virasoro operators for relative Gromov--Witten theory"
+ },
+ "2611.30975": {
+  "announce": "new",
+  "authors": [
+   "Guangxi Yan"
+  ],
+  "cats": [
+   "math.SG",
+   "math.AT"
+  ],
+  "feeds": {
+   "broad": [
+    "Gromov-Witten"
+   ]
+  },
+  "id": "2611.30975",
+  "link": "https://arxiv.org/abs/2611.30975",
+  "matched": [
+   "Gromov-Witten"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "For certain complex-oriented $K(n)$-local cohomology theories, we establish equivariant localization formulas for global Kuranishi charts and a Riemann-Roch formula. We apply these formulas to compute the genus-zero Gromov-Witten invariants of $\\mathcal{O}_{\\mathbb{P}^1}(-1)\\oplus\\mathcal{O}_{\\mathbb{P}^1}(-1)$ at odd primes, obtaining a residue formula in terms of the formal group law of the chosen complex orientation. As an application, we derive a multiple-cover formula expressing the genus-zero Morava $K$-theoretic Gromov-Witten invariants of closed symplectic Calabi-Yau threefolds in terms of their Gopakumar-Vafa invariants.",
+  "title": "Equivariant Localization for $K(n)$-Local Gromov-Witten Invariants with Applications to Gopakumar-Vafa Invariants"
+ },
+ "2611.31189": {
+  "announce": "new",
+  "authors": [
+   "Igor Bandos"
+  ],
+  "cats": [
+   "hep-th",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.31189",
+  "link": "https://arxiv.org/abs/2611.31189",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "We perform the complete light-cone gauge fixing for the tensionless limit of the M-theory 5-brane the action for which was recently obtained in [1]. The problem of gauge fixing of local fermionic $\\kappa$-symmetry becomes quite nontrivial because the projector of that is constructed from the gauge field strength which in its turn is required to be nonvanaishing and nontrivial in this limit. To resolve this problem the spinor moving frame method has been adapted. The corresponding moving frame is constructed on a vector quadratic in the gauge field strength, which is required to be nonvanishing and nondegenerate in the tensionless limit, and the derivative of the PST (Pasti-Sorokin-Tonin) scalar. The symmetries of the gauge fixed action and equations of motion are briefly discussed. To make a comparison with the case of usual tensionless p-branes (null-p-branes), those which do not carry worldvolume gauge fields, we also elaborate their spinor moving frame formulation.",
+  "title": "Tensionless M5-brane in light-cone gauge. The spinor moving frame method is wanted"
+ },
+ "2611.31232": {
+  "announce": "new",
+  "authors": [
+   "Qianyu Hao"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "tau function"
+   ]
+  },
+  "id": "2611.31232",
+  "link": "https://arxiv.org/abs/2611.31232",
+  "matched": [
+   "tau function"
+  ],
+  "seen": "2026-11-24T17:00:20.234040+00:00",
+  "summary": "This work is inspired by the nonabelianization construction of Virasoro conformal blocks. We start the process of defining the nonabelianization map which expresses $c=2$ $W_3$-algebra conformal blocks on a Riemann surface $C$ from Heisenberg blocks on a branched triple cover $\\tilde{C}$ of $C$. This generalized nonabelianization map uses the datum of a $\\mathfrak{gl}_3$ spectral network on $C$ and we find that this map also depends on the soliton degeneracies corresponding to the spectral network even though the soliton data didn't show up explicitly in the Virasoro case. This nonabelianization construction defines new formulas for $W_3$-algebra conformal blocks on $C$ in terms of fermion correlation functions determined by the Heisenberg blocks on $\\tilde{C}$. We provide a check of the proposed construction associated to the more challenging $(123)$ type branch points which start to show up in three-fold covers. To be more precise, the simplest example that we focus on has only two of the $(123)$ type branch points and we show that in this example, our nonabelianization construction gives the desired two-point correlator and $\\tau$-function.",
+  "title": "Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I"
  }
 }

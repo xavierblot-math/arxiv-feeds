@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 24 Nov 2026 03:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:00:45 +0000</lastBuildDate>
+    <item>
+      <title>Superpotentials for F-manifolds and bi-flat F-structures on the orbit spaces of reflection groups</title>
+      <link>https://arxiv.org/abs/2611.29736</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.29736</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
+      <author>Alessandro Arsie, Paolo Lorenzoni</author>
+      <description>&lt;p&gt;&lt;b&gt;Alessandro Arsie, Paolo Lorenzoni&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Paolo Lorenzoni · math.DG, math-ph, math.MP · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We extend Dubrovin&amp;#x27;s construction of a superpotential from Frobenius manifolds to biflat F-manifolds. The key step in this extension is choosing a flat coordinate of one of the connections studied in [11] and invert this coordinate with respect to the spectral parameter and the construction does not require an invariant metric. Suppose that the manifold has dimension n and that the superpotential admits a holomorphic continuation to n simple critical points with distinct critical values. These values give canonical coordinates, and the residue formulas recover both the product and the flat connection from the superpotential alone. Conversely, under suitable nondegeneracy conditions, a solution of the superpotential equations for a given product defines a biflat F-manifold. For $B_n$ and $G(m,1,n)$ we obtain the whole family of biflat structures from a polynomial superpotential by varying a twisted primary differential. For $G(m,m,n)$ we obtain the natural biflat structure from a Laurent superpotential. Keeping the Laurent polynomial fixed and varying the primary differential gives a new family of flat F-manifolds depending on one parameter. We use the superpotential and the poles of the dual product along the reflecting hyperplanes to prove the conjecture we formulated in [8] for irreducible Coxeter groups and in [10] for well generated complex reflection groups. The conjecture concerns biflat F-structures whose dual connection has the form studied by Dunkl and Kohno. When the reflecting hyperplanes form a single orbit, we identify the biflat structure associated with the flat structure of [24,25,27]. We obtain the remaining families from the polynomial construction for $G(m,1,n)$ and an explicit computation for $F_4$. In every case the first flat structure extends polynomially to the whole quotient, and the biflat structure is defined on the complement of the reflection discriminant.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.29736"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Counting real meromorphic differentials on $\mathbb{CP}^1$</title>
       <link>https://arxiv.org/abs/2611.19450</link>

@@ -4,7 +4,23 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 24 Nov 2026 03:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:00:45 +0000</lastBuildDate>
+    <item>
+      <title>Virasoro operators for relative Gromov--Witten theory</title>
+      <link>https://arxiv.org/abs/2611.30566</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.30566</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
+      <author>Shuai Guo, Longting Wu, Lei You</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Longting Wu, Lei You&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Longting Wu, Shuai Guo · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $D$ be a smooth divisor in a smooth projective variety $X$. We construct relative Virasoro operators acting on the relative descendant potential of $(X,D)$. Each operator is the logarithmic Virasoro operator of $(X,D)$ plus a boundary correction determined only by $D$ and its normal bundle in $X$. Assuming the Virasoro conjecture for $D$, we prove that the relative constraints are equivalent to the absolute constraints for $X$. Under the same assumption, we establish compatibility with the degeneration formula for two-component projective semistable degenerations satisfying a completeness condition. Consequently, the Virasoro conjecture for the two components and the gluing divisor implies the conjecture for the general fiber. As an application, we prove the Virasoro conjecture for Enriques surfaces in every integral curve class.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30566"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Families of regular non-Berwald Landsberg surfaces</title>
+      <link>https://arxiv.org/abs/2611.30212</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.30212</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
+      <author>Ming Li, Kefeng Liu</author>
+      <description>&lt;p&gt;&lt;b&gt;Ming Li, Kefeng Liu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.DG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We construct families of smooth, strongly convex, non-Berwald Landsberg metrics of zero flag curvature on open subsets of the plane. Each metric is regular in every nonzero tangent direction and is nonreversible. The indicatrices are obtained from the inverse differential of a periodically forced oscillator. The construction is indexed by smooth balanced periodic seeds satisfying a simple characteristic condition at a nonzero initial value. It includes single-frequency seeds of every even frequency at least four, mixtures of interacting frequencies, and seed neighborhoods of arbitrarily large finite dimension within the balanced class. A normalized profile of the canonical Cartan invariant distinguishes fixed seed orbits at sufficiently small amplitudes. In particular, the construction yields countably infinitely many pairwise locally nonhomothetic metrics. The analytic problem is to make the actual return map equal to the identity on an open set of nonzero initial values. We show that exact return on a fixed open set forces three balance equations on the seed. Under a positive drift condition a finite formal approximation gives an arbitrarily high prescribed power of a small amplitude in the return error. We normalize the complete two-branch linearized operator and reduce its scalar part to a real transport direction. A local inverse, followed by an exact correction of the full vector remainder, yields estimates with a fixed loss of derivatives. A smoothing iteration then eliminates the actual return error on a fixed open set of positive radius while retaining the seed as the leading nonlinearity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30212"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Hopf algebra action on the cohomology of moduli of abelian varieties</title>
       <link>https://arxiv.org/abs/2611.25187</link>
