@@ -4,7 +4,39 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 25 Nov 2026 01:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:51:15 +0000</lastBuildDate>
+    <item>
+      <title>Entanglement between distant spins in a polarized magnet forms a $d$-wave clover</title>
+      <link>https://arxiv.org/abs/2611.32190</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.32190</guid>
+      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
+      <author>Alan Zhang, Ye Zhou</author>
+      <description>&lt;p&gt;&lt;b&gt;Alan Zhang, Ye Zhou&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · quant-ph, cond-mat.str-el, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Spin-orbit coupling makes a polarized magnet a source of virtual spin-flip pairs. These pairs entangle distant spins: the symmetry of the coupling fixes the angular pattern, and the flips they leave behind end it at a distance of order the inverse spin-orbit angle. For a spin-1/2 square-lattice ferromagnet we prove, at leading order, a d-wave inverse-square law, 1.376 times the spin-wave amplitude, a clover-shaped entangled region, exact without the Dzyaloshinskii-Moriya term, and that each spin&amp;#x27;s entanglement is entirely pairwise. Four qubits can test the d-wave signs at present error rates.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.32190"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI-assisted formal proofs for static and time-dependent density functional theory on lattices</title>
+      <link>https://arxiv.org/abs/2611.32370</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.32370</guid>
+      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
+      <author>Miguel A. L. Marques, Irene D'Amico, Stefano Pittalis</author>
+      <description>&lt;p&gt;&lt;b&gt;Miguel A. L. Marques, Irene D&amp;#x27;Amico, Stefano Pittalis&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · cond-mat.mtrl-sci, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The Hohenberg-Kohn theorem fails on lattices, where two potentials that differ by more than a constant can share a ground state. We prove that such potentials are exceptional. We consider spinless fermions on any connected lattice, at any filling other than empty or full, with hopping amplitudes of a common sign and any density-density interaction. The potentials whose ground state is shared with a potential differing by more than a constant lie in a closed, nowhere dense set of zero Lebesgue measure. The densities of non-degenerate shared ground states form a set of codimension at least two. The statement about the potentials also holds for the Kohn-Sham potential and for spin-density functional theory, where a uniform shift of the magnetic field is the only additional freedom. In time-dependent density functional theory on lattices, we show that not every ground state of a connected lattice can serve as the initial state of the density-potential map. A counterexample is the ground state of two fermions on a square that Penz and van Leeuwen found as a counterexample to the Hohenberg-Kohn theorem. For almost every static potential, however, every real ground state can serve as an initial state, also for spin-resolved densities. We also give formal proofs that the time-dependent Kohn-Sham potential exists, locally in time, for almost every static Kohn-Sham potential, and of known results: local existence and uniqueness of the time-dependent potential for an admissible initial state, continuation in time up to the boundary of the set of admissible states, and the convergence properties of a regularized Kohn-Sham iteration. All theorems and propositions are formalized in the proof assistant Lean 4 and checked by computer.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.32370"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anomalies and the Berry Phase: From $\pi^0\to\gamma\gamma$ to the geometry of the fermion vacuum</title>
+      <link>https://arxiv.org/abs/2611.33121</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33121</guid>
+      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
+      <author>Spenta R. Wadia</author>
+      <description>&lt;p&gt;&lt;b&gt;Spenta R. Wadia&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · hep-th, quant-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We review the chiral anomaly from a historical perspective, from the $\pi^0\to\gamma\gamma$ puzzle and the work of Adler, Bell and Jackiw, to the Wess-Zumino-Witten (WZW) term. We then describe how the WZW term was motivated from quantum chromodynamics in 1983-85. Integrating out the non-Abelian gauge fields, that have a gapped spectrum, gives a Nambu-Jona-Lasinio type theory of quarks, and integrating out the quarks, which are gapped by chiral symmetry breaking, gives the WZW model. The fermion determinant splits into a regulator-dependent modulus, which gives the dynamics of mesons, and a universal phase, which is fixed by the anomaly and is the WZW term. Restricted to the collective coordinates of the baryon soliton, the WZW term imposes a U(1) constraint that makes the baryon wave functions monopole harmonics and fixes their spin, statistics and flavour multiplets. We then explain that this phase is a Berry phase: the Schwinger terms of current algebra are the curvature of a U(1) connection on the space of chiral field configurations, and the WZW term is its holonomy, which we call a Berry-Wilson loop. In 1+1 dimensions we write the connection explicitly in terms of Euler angles, exhibiting a Dirac monopole whose quantised charge is the level of the current algebra.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.33121"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DEC Fill-ins, the Bartnik--Bray inner mass, and positive mass theorems with untrapped boundary</title>
+      <link>https://arxiv.org/abs/2611.33076</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33076</guid>
+      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
+      <author>Ahmed Ellithy, Vishnu Kakkat, Stephen McCormick</author>
+      <description>&lt;p&gt;&lt;b&gt;Ahmed Ellithy, Vishnu Kakkat, Stephen McCormick&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math.DG, gr-qc · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Given a closed $(n-1)$-dimensional manifold equipped with prescribed spacetime Bartnik data, we ask when this can be realised as the boundary of a compact $n$-dimensional initial data set satisfying the dominant energy condition (DEC). This is a natural generalisation of the problem of non-negative scalar curvature fill-ins, where the boundary metric and mean curvature are prescribed. We give conditions on the Bartnik data that suffice to prove the existence of such DEC fill-ins with inner MOTS boundary, and give some applications of these fill-ins. Our first application of these is a lower bound on the Bartnik--Bray inner mass, which we slightly reformulate here to be a genuine spacetime definition. Our other applications include proving a positive mass theorem for spin initial data with boundary that need not be trapped, and a spacetime Penrose-like inequality that gives a positive lower bound on the mass of an initial data set with boundary in terms of its boundary Bartnik data assuming the spacetime Penrose inequality holds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.33076"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Imprints of perfect fluid dark matter distributions and topological defects on Born--Infeld AdS black hole signatures</title>
       <link>https://arxiv.org/abs/2611.28143</link>

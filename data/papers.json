@@ -6404,5 +6404,157 @@
   "seen": "2026-11-24T17:00:20.234040+00:00",
   "summary": "This work is inspired by the nonabelianization construction of Virasoro conformal blocks. We start the process of defining the nonabelianization map which expresses $c=2$ $W_3$-algebra conformal blocks on a Riemann surface $C$ from Heisenberg blocks on a branched triple cover $\\tilde{C}$ of $C$. This generalized nonabelianization map uses the datum of a $\\mathfrak{gl}_3$ spectral network on $C$ and we find that this map also depends on the soliton degeneracies corresponding to the spectral network even though the soliton data didn't show up explicitly in the Virasoro case. This nonabelianization construction defines new formulas for $W_3$-algebra conformal blocks on $C$ in terms of fermion correlation functions determined by the Heisenberg blocks on $\\tilde{C}$. We provide a check of the proposed construction associated to the more challenging $(123)$ type branch points which start to show up in three-fold covers. To be more precise, the simplest example that we focus on has only two of the $(123)$ type branch points and we show that in this example, our nonabelianization construction gives the desired two-point correlator and $\\tau$-function.",
   "title": "Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I"
+ },
+ "2611.31500": {
+  "announce": "cross",
+  "authors": [
+   "Jeremy Quastel",
+   "C. Alexander Rodriguez"
+  ],
+  "cats": [
+   "math.AP",
+   "math.PR",
+   "nlin.SI"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "Korteweg-de Vries"
+   ]
+  },
+  "id": "2611.31500",
+  "link": "https://arxiv.org/abs/2611.31500",
+  "matched": [
+   "KdV",
+   "Korteweg-de Vries"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "We give a representation for solutions of the Kadomtsev-Petviashvili II (KP-II) equation as path integrals over the Airy line ensemble. The initial condition enters directly as a potential, bypassing the usual direct and inverse scattering constructions. We establish the representation for broad classes of signed initial data, prove uniqueness in specified solution classes, and derive a restart identity expressing solutions as Airy path integrals of their own earlier states. For arbitrary real $L^2$ initial data, a centered version of the Airy occupation represents the standard global KP-II flow. We show how the representation recovers the classical Marchenko determinant for Korteweg-de Vries (KdV), and identify a Brownian-path amplitude with the classical KP-II heat-scattering coefficient. We obtain explicit formulas for soliton solutions and derive KP from a Toda equation for nonintersecting Brownian bridges. Finally, we use the restart identity to characterize one-point distributions of the KPZ fixed point through their singular initial conditions, and derive sharp lower-tail asymptotics directly from KP.",
+  "title": "Airy Path Integral Representation for the Kadomtsev-Petviashvili Equation"
+ },
+ "2611.32150": {
+  "announce": "new",
+  "authors": [
+   "Wasif Ahmed",
+   "Joydeep Naskar"
+  ],
+  "cats": [
+   "hep-th"
+  ],
+  "feeds": {
+   "broad": [
+    "KdV",
+    "tau function"
+   ]
+  },
+  "id": "2611.32150",
+  "link": "https://arxiv.org/abs/2611.32150",
+  "matched": [
+   "KdV",
+   "tau function"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "Three-state Potts gravity and tetracritical Ising gravity have the same central charge and the same conformal spectral curve. What distinguishes their amplitudes once a handle or a boundary is added? We answer this question by extending Johnson's differential-equation approach, in the reconstruction form developed in Part I for the reduced KP hierarchies, to D-series minimal strings. Their spatial operator is a pseudo-differential pencil with a nonlocal Pfaffian term, and the classical energy acquires a second pole at zero momentum. Regularity at both poles fixes the quantum corrections uniquely, ordinary string equations supply them, and the ordinary D flows add boundaries in a way that matches the tau function. At genus one the closed free energy follows from the pencil as a sum of logarithms of critical-value velocities. The two theories differ through the origin of the curve, which the D theory counts as two canonical directions, and through the pairing of every point with its reflection. We follow the origin contribution through the free energies to genus three, the one-holed torus and the torus one-point amplitudes, and in the primary range the latter reproduce the formulas conjectured from worldsheet numerics for both series.",
+  "title": "Resolvent reconstruction of minimal strings beyond KdV II: D series models"
+ },
+ "2611.32190": {
+  "announce": "cross",
+  "authors": [
+   "Alan Zhang",
+   "Ye Zhou"
+  ],
+  "cats": [
+   "quant-ph",
+   "cond-mat.str-el",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.32190",
+  "link": "https://arxiv.org/abs/2611.32190",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "Spin-orbit coupling makes a polarized magnet a source of virtual spin-flip pairs. These pairs entangle distant spins: the symmetry of the coupling fixes the angular pattern, and the flips they leave behind end it at a distance of order the inverse spin-orbit angle. For a spin-1/2 square-lattice ferromagnet we prove, at leading order, a d-wave inverse-square law, 1.376 times the spin-wave amplitude, a clover-shaped entangled region, exact without the Dzyaloshinskii-Moriya term, and that each spin's entanglement is entirely pairwise. Four qubits can test the d-wave signs at present error rates.",
+  "title": "Entanglement between distant spins in a polarized magnet forms a $d$-wave clover"
+ },
+ "2611.32370": {
+  "announce": "cross",
+  "authors": [
+   "Miguel A. L. Marques",
+   "Irene D'Amico",
+   "Stefano Pittalis"
+  ],
+  "cats": [
+   "cond-mat.mtrl-sci",
+   "math-ph",
+   "math.MP"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.32370",
+  "link": "https://arxiv.org/abs/2611.32370",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "The Hohenberg-Kohn theorem fails on lattices, where two potentials that differ by more than a constant can share a ground state. We prove that such potentials are exceptional. We consider spinless fermions on any connected lattice, at any filling other than empty or full, with hopping amplitudes of a common sign and any density-density interaction. The potentials whose ground state is shared with a potential differing by more than a constant lie in a closed, nowhere dense set of zero Lebesgue measure. The densities of non-degenerate shared ground states form a set of codimension at least two. The statement about the potentials also holds for the Kohn-Sham potential and for spin-density functional theory, where a uniform shift of the magnetic field is the only additional freedom. In time-dependent density functional theory on lattices, we show that not every ground state of a connected lattice can serve as the initial state of the density-potential map. A counterexample is the ground state of two fermions on a square that Penz and van Leeuwen found as a counterexample to the Hohenberg-Kohn theorem. For almost every static potential, however, every real ground state can serve as an initial state, also for spin-resolved densities. We also give formal proofs that the time-dependent Kohn-Sham potential exists, locally in time, for almost every static Kohn-Sham potential, and of known results: local existence and uniqueness of the time-dependent potential for an admissible initial state, continuation in time up to the boundary of the set of admissible states, and the convergence properties of a regularized Kohn-Sham iteration. All theorems and propositions are formalized in the proof assistant Lean 4 and checked by computer.",
+  "title": "AI-assisted formal proofs for static and time-dependent density functional theory on lattices"
+ },
+ "2611.33076": {
+  "announce": "new",
+  "authors": [
+   "Ahmed Ellithy",
+   "Vishnu Kakkat",
+   "Stephen McCormick"
+  ],
+  "cats": [
+   "math.DG",
+   "gr-qc"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.33076",
+  "link": "https://arxiv.org/abs/2611.33076",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "Given a closed $(n-1)$-dimensional manifold equipped with prescribed spacetime Bartnik data, we ask when this can be realised as the boundary of a compact $n$-dimensional initial data set satisfying the dominant energy condition (DEC). This is a natural generalisation of the problem of non-negative scalar curvature fill-ins, where the boundary metric and mean curvature are prescribed. We give conditions on the Bartnik data that suffice to prove the existence of such DEC fill-ins with inner MOTS boundary, and give some applications of these fill-ins. Our first application of these is a lower bound on the Bartnik--Bray inner mass, which we slightly reformulate here to be a genuine spacetime definition. Our other applications include proving a positive mass theorem for spin initial data with boundary that need not be trapped, and a spacetime Penrose-like inequality that gives a positive lower bound on the mass of an initial data set with boundary in terms of its boundary Bartnik data assuming the spacetime Penrose inequality holds.",
+  "title": "DEC Fill-ins, the Bartnik--Bray inner mass, and positive mass theorems with untrapped boundary"
+ },
+ "2611.33121": {
+  "announce": "new",
+  "authors": [
+   "Spenta R. Wadia"
+  ],
+  "cats": [
+   "hep-th",
+   "quant-ph"
+  ],
+  "feeds": {
+   "topics": [
+    "r-spin"
+   ]
+  },
+  "id": "2611.33121",
+  "link": "https://arxiv.org/abs/2611.33121",
+  "matched": [
+   "r-spin"
+  ],
+  "seen": "2026-11-25T16:50:50.882403+00:00",
+  "summary": "We review the chiral anomaly from a historical perspective, from the $\\pi^0\\to\\gamma\\gamma$ puzzle and the work of Adler, Bell and Jackiw, to the Wess-Zumino-Witten (WZW) term. We then describe how the WZW term was motivated from quantum chromodynamics in 1983-85. Integrating out the non-Abelian gauge fields, that have a gapped spectrum, gives a Nambu-Jona-Lasinio type theory of quarks, and integrating out the quarks, which are gapped by chiral symmetry breaking, gives the WZW model. The fermion determinant splits into a regulator-dependent modulus, which gives the dynamics of mesons, and a universal phase, which is fixed by the anomaly and is the WZW term. Restricted to the collective coordinates of the baryon soliton, the WZW term imposes a U(1) constraint that makes the baryon wave functions monopole harmonics and fixes their spin, statistics and flavour multiplets. We then explain that this phase is a Berry phase: the Schwinger terms of current algebra are the curvature of a U(1) connection on the space of chiral field configurations, and the WZW term is its holonomy, which we call a Berry-Wilson loop. In 1+1 dimensions we write the connection explicitly in terms of Euler angles, exhibiting a Dirac monopole whose quantised charge is the level of the current algebra.",
+  "title": "Anomalies and the Berry Phase: From $\\pi^0\\to\\gamma\\gamma$ to the geometry of the fermion vacuum"
  }
 }

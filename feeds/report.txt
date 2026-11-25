@@ -1,9 +1,17 @@
-Last run: 2026-11-25 01:56 UTC
-Announcements downloaded: 422 (0 category feeds failed)
-New papers stored this run: 0
+Last run: 2026-11-25 16:50 UTC
+Announcements downloaded: 249 (0 category feeds failed)
+New papers stored this run: 6
 
-ag             |   43 items |   2 new this run
+ag             |   43 items |   0 new this run
 amplituhedron  |    3 items |   0 new this run
-broad          |   82 items |   4 new this run
-mathphys       |   29 items |   1 new this run
-topics         |  137 items |   3 new this run
+broad          |   84 items |   2 new this run
+mathphys       |   29 items |   0 new this run
+topics         |  141 items |   5 new this run
+
+Matched this run:
+  r-spin                                   | Entanglement between distant spins in a polarized magnet forms a $d$-w
+  r-spin                                   | AI-assisted formal proofs for static and time-dependent density functi
+  KdV, tau function                        | Resolvent reconstruction of minimal strings beyond KdV II: D series mo
+  r-spin                                   | Anomalies and the Berry Phase: From $\pi^0\to\gamma\gamma$ to the geom
+  KdV, Korteweg-de Vries                   | Airy Path Integral Representation for the Kadomtsev-Petviashvili Equat
+  r-spin                                   | DEC Fill-ins, the Bartnik--Bray inner mass, and positive mass theorems
