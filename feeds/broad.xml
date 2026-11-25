@@ -4,15 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:00:45 +0000</lastBuildDate>
-    <item>
-      <title>Virasoro operators for relative Gromov--Witten theory</title>
-      <link>https://arxiv.org/abs/2611.30566</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.30566</guid>
-      <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
-      <author>Shuai Guo, Longting Wu, Lei You</author>
-      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Longting Wu, Lei You&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $D$ be a smooth divisor in a smooth projective variety $X$. We construct relative Virasoro operators acting on the relative descendant potential of $(X,D)$. Each operator is the logarithmic Virasoro operator of $(X,D)$ plus a boundary correction determined only by $D$ and its normal bundle in $X$. Assuming the Virasoro conjecture for $D$, we prove that the relative constraints are equivalent to the absolute constraints for $X$. Under the same assumption, we establish compatibility with the degeneration formula for two-component projective semistable degenerations satisfying a completeness condition. Consequently, the Virasoro conjecture for the two components and the gluing divisor implies the conjecture for the general fiber. As an application, we prove the Virasoro conjecture for Enriques surfaces in every integral curve class.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30566"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 01:56:42 +0000</lastBuildDate>
     <item>
       <title>Darboux transformation for the ASDYM equations: Solitons and instantons</title>
       <link>https://arxiv.org/abs/2611.30433</link>
@@ -22,12 +14,12 @@
       <description>&lt;p&gt;&lt;b&gt;Shangshuai Li&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th, math-ph, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Using a one-fold Darboux transformation for the anti-self-dual Yang--Mills equations, we express the Yang--Mills Lagrangian density in terms of $\tau$-functions. For solitons constructed from exponential functions, we show that the associated $\tau$-functions admit a parametrization by arbitrary points in the Grassmannian Gr(N,M;$\mathbb{C}$), and construct the corresponding Yang--Mills fields. For instantons arising from the Atiyah--Drinfeld--Hitchin--Manin (ADHM) construction, we reinterpret the ADHM construction in terms of a one-fold Darboux transformation, recover Osborn&amp;#x27;s formula for the Yang--Mills Lagrangian density, and obtain the corresponding gauge connection.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30433"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I</title>
-      <link>https://arxiv.org/abs/2611.31232</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31232</guid>
+      <title>Virasoro operators for relative Gromov--Witten theory</title>
+      <link>https://arxiv.org/abs/2611.30566</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.30566</guid>
       <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
-      <author>Qianyu Hao</author>
-      <description>&lt;p&gt;&lt;b&gt;Qianyu Hao&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This work is inspired by the nonabelianization construction of Virasoro conformal blocks. We start the process of defining the nonabelianization map which expresses $c=2$ $W_3$-algebra conformal blocks on a Riemann surface $C$ from Heisenberg blocks on a branched triple cover $\tilde{C}$ of $C$. This generalized nonabelianization map uses the datum of a $\mathfrak{gl}_3$ spectral network on $C$ and we find that this map also depends on the soliton degeneracies corresponding to the spectral network even though the soliton data didn&amp;#x27;t show up explicitly in the Virasoro case. This nonabelianization construction defines new formulas for $W_3$-algebra conformal blocks on $C$ in terms of fermion correlation functions determined by the Heisenberg blocks on $\tilde{C}$. We provide a check of the proposed construction associated to the more challenging $(123)$ type branch points which start to show up in three-fold covers. To be more precise, the simplest example that we focus on has only two of the $(123)$ type branch points and we show that in this example, our nonabelianization construction gives the desired two-point correlator and $\tau$-function.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.31232"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Shuai Guo, Longting Wu, Lei You</author>
+      <description>&lt;p&gt;&lt;b&gt;Shuai Guo, Longting Wu, Lei You&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $D$ be a smooth divisor in a smooth projective variety $X$. We construct relative Virasoro operators acting on the relative descendant potential of $(X,D)$. Each operator is the logarithmic Virasoro operator of $(X,D)$ plus a boundary correction determined only by $D$ and its normal bundle in $X$. Assuming the Virasoro conjecture for $D$, we prove that the relative constraints are equivalent to the absolute constraints for $X$. Under the same assumption, we establish compatibility with the degeneration formula for two-component projective semistable degenerations satisfying a completeness condition. Consequently, the Virasoro conjecture for the two components and the gluing divisor implies the conjecture for the general fiber. As an application, we prove the Virasoro conjecture for Enriques surfaces in every integral curve class.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30566"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equivariant Localization for $K(n)$-Local Gromov-Witten Invariants with Applications to Gopakumar-Vafa Invariants</title>
@@ -36,6 +28,14 @@
       <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
       <author>Guangxi Yan</author>
       <description>&lt;p&gt;&lt;b&gt;Guangxi Yan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.SG, math.AT · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For certain complex-oriented $K(n)$-local cohomology theories, we establish equivariant localization formulas for global Kuranishi charts and a Riemann-Roch formula. We apply these formulas to compute the genus-zero Gromov-Witten invariants of $\mathcal{O}_{\mathbb{P}^1}(-1)\oplus\mathcal{O}_{\mathbb{P}^1}(-1)$ at odd primes, obtaining a residue formula in terms of the formal group law of the chosen complex orientation. As an application, we derive a multiple-cover formula expressing the genus-zero Morava $K$-theoretic Gromov-Witten invariants of closed symplectic Calabi-Yau threefolds in terms of their Gopakumar-Vafa invariants.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.30975"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nonabelianization map for the $W_{3,c=2}$ conformal blocks. Part I</title>
+      <link>https://arxiv.org/abs/2611.31232</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31232</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:20 +0000</pubDate>
+      <author>Qianyu Hao</author>
+      <description>&lt;p&gt;&lt;b&gt;Qianyu Hao&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;This work is inspired by the nonabelianization construction of Virasoro conformal blocks. We start the process of defining the nonabelianization map which expresses $c=2$ $W_3$-algebra conformal blocks on a Riemann surface $C$ from Heisenberg blocks on a branched triple cover $\tilde{C}$ of $C$. This generalized nonabelianization map uses the datum of a $\mathfrak{gl}_3$ spectral network on $C$ and we find that this map also depends on the soliton degeneracies corresponding to the spectral network even though the soliton data didn&amp;#x27;t show up explicitly in the Virasoro case. This nonabelianization construction defines new formulas for $W_3$-algebra conformal blocks on $C$ in terms of fermion correlation functions determined by the Heisenberg blocks on $\tilde{C}$. We provide a check of the proposed construction associated to the more challenging $(123)$ type branch points which start to show up in three-fold covers. To be more precise, the simplest example that we focus on has only two of the $(123)$ type branch points and we show that in this example, our nonabelianization construction gives the desired two-point correlator and $\tau$-function.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.31232"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elliptic analogues of KP and BKP hierarchies and their tau functions</title>
