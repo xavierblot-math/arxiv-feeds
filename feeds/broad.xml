@@ -4,15 +4,7 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Wed, 25 Nov 2026 16:51:15 +0000</lastBuildDate>
-    <item>
-      <title>Resolvent reconstruction of minimal strings beyond KdV II: D series models</title>
-      <link>https://arxiv.org/abs/2611.32150</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.32150</guid>
-      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
-      <author>Wasif Ahmed, Joydeep Naskar</author>
-      <description>&lt;p&gt;&lt;b&gt;Wasif Ahmed, Joydeep Naskar&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Three-state Potts gravity and tetracritical Ising gravity have the same central charge and the same conformal spectral curve. What distinguishes their amplitudes once a handle or a boundary is added? We answer this question by extending Johnson&amp;#x27;s differential-equation approach, in the reconstruction form developed in Part I for the reduced KP hierarchies, to D-series minimal strings. Their spatial operator is a pseudo-differential pencil with a nonlocal Pfaffian term, and the classical energy acquires a second pole at zero momentum. Regularity at both poles fixes the quantum corrections uniquely, ordinary string equations supply them, and the ordinary D flows add boundaries in a way that matches the tau function. At genus one the closed free energy follows from the pencil as a sum of logarithms of critical-value velocities. The two theories differ through the origin of the curve, which the D theory counts as two canonical directions, and through the pairing of every point with its reflection. We follow the origin contribution through the free energies to genus three, the one-holed torus and the torus one-point amplitudes, and in the primary range the latter reproduce the formulas conjectured from worldsheet numerics for both series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.32150"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 01:37:18 +0000</lastBuildDate>
     <item>
       <title>Airy Path Integral Representation for the Kadomtsev-Petviashvili Equation</title>
       <link>https://arxiv.org/abs/2611.31500</link>
@@ -20,6 +12,14 @@
       <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
       <author>Jeremy Quastel, C. Alexander Rodriguez</author>
       <description>&lt;p&gt;&lt;b&gt;Jeremy Quastel, C. Alexander Rodriguez&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, Korteweg-de Vries · math.AP, math.PR, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We give a representation for solutions of the Kadomtsev-Petviashvili II (KP-II) equation as path integrals over the Airy line ensemble. The initial condition enters directly as a potential, bypassing the usual direct and inverse scattering constructions. We establish the representation for broad classes of signed initial data, prove uniqueness in specified solution classes, and derive a restart identity expressing solutions as Airy path integrals of their own earlier states. For arbitrary real $L^2$ initial data, a centered version of the Airy occupation represents the standard global KP-II flow. We show how the representation recovers the classical Marchenko determinant for Korteweg-de Vries (KdV), and identify a Brownian-path amplitude with the classical KP-II heat-scattering coefficient. We obtain explicit formulas for soliton solutions and derive KP from a Toda equation for nonintersecting Brownian bridges. Finally, we use the restart identity to characterize one-point distributions of the KPZ fixed point through their singular initial conditions, and derive sharp lower-tail asymptotics directly from KP.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.31500"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resolvent reconstruction of minimal strings beyond KdV II: D series models</title>
+      <link>https://arxiv.org/abs/2611.32150</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.32150</guid>
+      <pubDate>Wed, 25 Nov 2026 16:50:50 +0000</pubDate>
+      <author>Wasif Ahmed, Joydeep Naskar</author>
+      <description>&lt;p&gt;&lt;b&gt;Wasif Ahmed, Joydeep Naskar&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: KdV, tau function · hep-th · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Three-state Potts gravity and tetracritical Ising gravity have the same central charge and the same conformal spectral curve. What distinguishes their amplitudes once a handle or a boundary is added? We answer this question by extending Johnson&amp;#x27;s differential-equation approach, in the reconstruction form developed in Part I for the reduced KP hierarchies, to D-series minimal strings. Their spatial operator is a pseudo-differential pencil with a nonlocal Pfaffian term, and the classical energy acquires a second pole at zero momentum. Regularity at both poles fixes the quantum corrections uniquely, ordinary string equations supply them, and the ordinary D flows add boundaries in a way that matches the tau function. At genus one the closed free energy follows from the pencil as a sum of logarithms of critical-value velocities. The two theories differ through the origin of the curve, which the D theory counts as two canonical directions, and through the pairing of every point with its reflection. We follow the origin contribution through the free energies to genus three, the one-holed torus and the torus one-point amplitudes, and in the primary range the latter reproduce the formulas conjectured from worldsheet numerics for both series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.32150"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Darboux transformation for the ASDYM equations: Solitons and instantons</title>
