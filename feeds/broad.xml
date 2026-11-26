@@ -4,7 +4,15 @@
     <title>arXiv – Broad</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Genus one mirror symmetry and surfaces with trivial first Chern class</title>
+      <link>https://arxiv.org/abs/2611.34594</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.34594</guid>
+      <pubDate>Thu, 26 Nov 2026 16:27:59 +0000</pubDate>
+      <author>Gabriel Ab\'anades-Joglar, Dennis Eriksson</author>
+      <description>&lt;p&gt;&lt;b&gt;Gabriel Ab\&amp;#x27;anades-Joglar, Dennis Eriksson&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Gromov-Witten · math.AG, math-ph, math.MP, math.SP · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The main goal of this paper is to study the extension of genus-one BCOV type mirror symmetry for smooth projective varieties with vanishing $c_1(X)$. We show that the naive generalization of the expectation that one can encode genus one Gromov-Witten invariants in the BCOV invariant of the mirror family cannot hold in this setup. We show this by completing the study of these invariants for surfaces. Progress had been made recently by Oberdieck&amp;#x27;s proof of the Klemm-Mari\~no conjecture for Enriques surfaces, which can be combined with computations of equivariant analytic torsion by Yoshikawa. We also perform the analogous study for bielliptic surfaces. Both of these cases present a sign issue not present in the known trivial canonical bundle cases, which we show implies that the mirror symmetry predictions cannot hold for varieties with torsion canonical bundle, even up to sign.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.34594"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Airy Path Integral Representation for the Kadomtsev-Petviashvili Equation</title>
       <link>https://arxiv.org/abs/2611.31500</link>

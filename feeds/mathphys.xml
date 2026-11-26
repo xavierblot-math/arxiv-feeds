@@ -4,7 +4,15 @@
     <title>arXiv – Mathematical Physics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Colored Jones polynomial of figure eight knot and non-perturbative topological recursion</title>
+      <link>https://arxiv.org/abs/2611.34110</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.34110</guid>
+      <pubDate>Thu, 26 Nov 2026 16:27:59 +0000</pubDate>
+      <author>Alexander Hock, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Hock, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Sergey Shadrin · math-ph, hep-th, math.AG, math.GT, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The asymptotic expansion of the colored Jones polynomial of the figure eight knot is proved to be connected with non-perturbative topological recursion on the underlying elliptic spectral curve, following the proposal of Borot and Eynard.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.34110"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Superpotentials for F-manifolds and bi-flat F-structures on the orbit spaces of reflection groups</title>
       <link>https://arxiv.org/abs/2611.29736</link>

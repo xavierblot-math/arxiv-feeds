@@ -4,7 +4,15 @@
     <title>arXiv – Algebraic Geometry</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Invariance of log plurigenera in families of compact K\"ahler manifolds</title>
+      <link>https://arxiv.org/abs/2611.34933</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.34933</guid>
+      <pubDate>Thu, 26 Nov 2026 16:27:59 +0000</pubDate>
+      <author>Zhengyu Hu, Kefeng Liu</author>
+      <description>&lt;p&gt;&lt;b&gt;Zhengyu Hu, Kefeng Liu&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: Kefeng Liu · math.AG · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Let $(X_t,B_t)$ be a smooth proper family of pairs with K\&amp;quot;ahler fibres, where the boundary has relative simple normal crossings and real coefficients in $[0,1)$. We show that for every $m\ge1$, every section of $mK_{X_t}+\lfloor mB_t\rfloor$ extends locally over the base. In particular, the log plurigenera are locally constant, and for $B_t=0$ we obtain the deformation invariance of the plurigenera $P_m(X_t)$. Since the total space need not be K\&amp;quot;ahler, we run the minimal model program on the central fibre, using the work of Hacon-Wang and Hacon-Xie, and extend its steps over a disc. The obstruction to lifting a jet vanishes along the fixed part determined by the final model, and so it is square-integrable for the weight in the extension theorem of Cao-P\u{a}un. As an application, if the adjoint is pseudoeffective on one fibre, then the pair has a relative good minimal model near each point of the base and a relative canonical model over the whole base.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.34933"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Families of regular non-Berwald Landsberg surfaces</title>
       <link>https://arxiv.org/abs/2611.30212</link>

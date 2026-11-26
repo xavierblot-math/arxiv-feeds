@@ -4,7 +4,23 @@
     <title>arXiv – Topics</title>
     <link>https://arxiv.org</link>
     <description>arXiv announcements (personal feed)</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Colored Jones polynomial of figure eight knot and non-perturbative topological recursion</title>
+      <link>https://arxiv.org/abs/2611.34110</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.34110</guid>
+      <pubDate>Thu, 26 Nov 2026 16:27:59 +0000</pubDate>
+      <author>Alexander Hock, Sergey Shadrin</author>
+      <description>&lt;p&gt;&lt;b&gt;Alexander Hock, Sergey Shadrin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: topological recursion · math-ph, hep-th, math.AG, math.GT, math.MP, nlin.SI · cross&lt;/i&gt;&lt;/p&gt;&lt;p&gt;The asymptotic expansion of the colored Jones polynomial of the figure eight knot is proved to be connected with non-perturbative topological recursion on the underlying elliptic spectral curve, following the proposal of Borot and Eynard.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.34110"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The transverse spin-gradient approximation in noncollinear spin density functional theory</title>
+      <link>https://arxiv.org/abs/2611.34301</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.34301</guid>
+      <pubDate>Thu, 26 Nov 2026 16:27:59 +0000</pubDate>
+      <author>Mih\'aly A. Csirik</author>
+      <description>&lt;p&gt;&lt;b&gt;Mih\&amp;#x27;aly A. Csirik&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Matched: r-spin · math-ph, cond-mat.mtrl-sci, cond-mat.quant-gas, cond-mat.stat-mech, math.MP, quant-ph · new&lt;/i&gt;&lt;/p&gt;&lt;p&gt;We prove a quantitative error bound for a fixed-axis variant of the transverse spin-gradient approximation (TSGA) in noncollinear spin density functional theory. Inspired by Eich and Gross, we use a spin-spiral wave (SSW) as the local reference for the grand-canonical Levy-Lieb energy with the Hartree term subtracted. We construct the thermodynamic limit of the electron gas with constant total density and a prescribed SSW magnetization. Its energy per unit volume $e_{\rm SSW}$ is evaluated at the local wavevector $\nabla\varphi$, where $\varphi$ is the spiral phase. When $\varphi$ is the azimuthal angle of the magnetization $\mathbf{m}=(m_1,m_2,m_3)$, the approximation reads \[ E(\rho,\mathbf{m})\approx\int_{\mathbb{R}^3}e_{\rm SSW}\big(\rho(\mathbf{x}),\mathbf{m}(\mathbf{x}),\nabla\varphi(\mathbf{x})\big)\,d \mathbf{x}. \] Here $\nabla\varphi$ measures the local rotation of $\mathbf{m}$ about the third axis. Wherever $m_1^2+m_2^2&amp;gt;0$, it equals $(m_1\nabla m_2-m_2\nabla m_1)/(m_1^2+m_2^2)$. The approximation thus depends only on the total density $\rho$, the magnetization and its first derivatives. When the spin-polarized density in the rotating frame and the local wavevector vary on the length scale $N^{1/3}$, with $N$ the mean number of particles, we obtain an error $O(N^{5/6})$ for an energy of order $N$. Setting the phase to zero gives the noncollinear local spin density approximation (LSDA) for arbitrary magnetization directions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/pdf/2611.34301"&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Entanglement between distant spins in a polarized magnet forms a $d$-wave clover</title>
       <link>https://arxiv.org/abs/2611.32190</link>
