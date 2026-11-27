@@ -1,15 +1,9 @@
-Last run: 2026-11-26 16:27 UTC
+Last run: 2026-11-27 01:30 UTC
 Announcements downloaded: 228 (0 category feeds failed)
-New papers stored this run: 4
+New papers stored this run: 0
 
 ag             |   44 items |   1 new this run
 amplituhedron  |    3 items |   0 new this run
 broad          |   85 items |   1 new this run
 mathphys       |   30 items |   1 new this run
 topics         |  143 items |   2 new this run
-
-Matched this run:
-  Gromov-Witten                            | Genus one mirror symmetry and surfaces with trivial first Chern class
-  Kefeng Liu                               | Invariance of log plurigenera in families of compact K\"ahler manifold
-  Sergey Shadrin, topological recursion    | Colored Jones polynomial of figure eight knot and non-perturbative top
-  r-spin                                   | The transverse spin-gradient approximation in noncollinear spin densit
